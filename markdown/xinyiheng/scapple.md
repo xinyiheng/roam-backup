@@ -1,0 +1,31 @@
+- #[[使用方法]]
+    - 连线的方法
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FOPE4bY1ddn.png?alt=media&token=41b77a57-8f43-4ff5-9031-9b11b868c962)
+        - 从一个note直接新建一个带箭头的note：选中旧的note按住alt，双击新建note即可。
+        - 按住两个note之间的连线可以同时移动它们
+        - 在两个note之间的连线上双击，可以在两个note之间新建一个note
+        - 点击note之间的连线就可以按back删除它
+        - 按住alt再拖动一个note到另一个note，就可以新建一个带箭头的连线
+        - 按住shift+alt拖动一个note到另一个note，可以新建一个双箭头的连线
+    - 美化note
+        - 更改画板的背景
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FdYNiOrKc6G.png?alt=media&token=811f51b8-d1a5-4507-a48f-8cd3a271d297)
+        - 打开编辑器
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F-iFX6ugmoC.png?alt=media&token=404c5c35-7f6e-48b6-a96f-3c9741cbeb4d)
+    - 使用说明书
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FyUxAT7Db4N.png?alt=media&token=720ef6ef-0cba-42a8-9bba-bb6a778b8ee7)
+        - 使用视频
+            - [官网的视频可以很快上手](https://www.literatureandlatte.com/scapple/overview)
+    - scapple从一定的意义上来看也是白板工具。
+    - 用来画概念图很不错。
+    - 好像是这样写就可以了。联合scapple和记录工具。
+    - 要想在[[scapple]]的某个项目之下添加标注，我只需要复制zoho问卷表格的链接就可以了。这样，每次点开都可以在一个新的表单中记录自己的想法，并且这些想法还可以汇总到一起。不过，缺点是无法实现注释那种一对一的对应关系。
+    - [[概念图]]软件。非常直观地反映出一些概念之间的逻辑关系。我觉得，甚至有些像是小规模的the brain。我也想过利用the brain来整理材料，但是又怕把自己已经添加了很多内容的这个the brain给弄乱了。@标签：进步
+        - 目前已经实现了打通scrivener、mindnode、the brian三款软件。the brian当中确实不应该添加太多字数很多的节点。这款软件主要用途是用来建立足够多的连接，没有必要把太多流动的信息过早添加进来。#[[软件联动]]
+- option+command+B显示和隐藏导航。原本不是这个。原来的和我设置的keyboard maestro设置的启动别的软件功能重合，就修改了。[[快捷方式]]
+    - 可以设置快捷note格式
+    - 可以快捷建立背景框，整合多个note
+- 概念图可以激发联想。
+- [[graph commons]]可能在很大程度上能够取代scapple的作用。
+- 类似软件
+    - [[cmap]]@评论:好像有ipad版，可以试试。

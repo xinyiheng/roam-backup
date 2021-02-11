@@ -1,0 +1,4 @@
+- 什么是AntV？AntV 是蚂蚁集团全新一代数据可视化解决方案。数据可视化呢，就是数据通过某种技术手段，直观展示在人们眼前。这种技术就是可视化技术，对于常规的统计数据，我们有AntV的G2/G2Plot，把它们转化为折柱饼图展示（图左）；对于地理位置信息，我们有AntV的L7，将它们展示在地图上（图中）；对于关系数据呢，我们有AntV的G6，将它们展示在画布上（图右）Via[🎉 AntV 图可视分析解决方案，来啦～ · 语雀](https://www.yuque.com/antv/g6-blog/yphqwy) [[20210115]] 下午11:55
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FT25n01SU4t.png?alt=media&token=42a08ed6-7dab-4312-8b59-eff0a5c15ea9)
+- 如何使用G6?
+    - 

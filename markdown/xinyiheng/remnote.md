@@ -1,0 +1,59 @@
+- 什么是rem？
+    - 我感觉就是闪卡
+    - Above, we see two types of Rem:: ____:::
+    - Content that further describe Concepts, such as the decade DNA was discovered. In RemNote, we call these Descriptors because they *describe* a Concept.分为概念和描述，相当于思维导图中的node and description
+    - Concepts that exist in the real world, such as DNA ,  | 5 Prime End and  | Transcription . These are real things - I could show you a piece of DNA or show you the process of  | Transcription . In RemNote, we call these  Concepts.
+- remnote已经支持[[graph图]]了，不仅如此，好像以后还会支持直接在graph图上修改。也支持pdf批注功能了。开发速度是在是快！在加上现在已经有的卡片记忆杀手锏，已经成为[[roam research]]的最大竞争对手。
+- remnote的graph图真的有些超出我的设想，可以非常容易地自定义显示的元素。直接在graph上修改的功能使得一遍写作文档，一边用概念图来整理思想第一次成为了可能。remnote 在graph图的开发上真是后来居上。相比而言，roam research在的graph图真的就是摆设。远不如obsidian和remnote。
+- remnote的graph图有什么特点？是在写作笔记的时候自动生成概念图，并且概念图也可以直接修改，并且反应在笔记上，这是[[Tinderbox]]和[[scapple]]也都无法达到的功能。
+- 如何创建rem(间隔记忆卡片或者说闪卡）？
+    - 四种不同的卡片
+        - Type :: **** **to create a  | Single Line  | Card.
+            - A single line card is the most common type RemNote flashcard.  To create this card, simply type ** : ****  twice **to separate the card's prompt from the response.  Flashcards show Rem that are ancestors of (hierarchically above) the Rem, but will not show any siblings of the Rem。长成下面这个样子：
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FZPOB2ovtpC.png?alt=media&token=aae1b11c-d5af-43f0-8791-ab306fbb8a44)
+        - Type ::: **** **to create a  | Multi-Line   | Card.
+            - 答案有多条，一次全部露出来
+        - Type ::1.**  to create a  | List  | Card.
+            - 答案有多条，每次只显示一个
+        - Type** **** {  **** twice** or highlight text and press ** { ****  **to create a  | Cloze (Fill in the Blank)  | Card.
+            - 好像直接在需要挖空的地方按两次大括号就可以
+    - 为了制作闪卡需要打出英文状态下的: 但是在中文状态下，这个按键打出来的是;我用自定义常用语把;换成了: 这种方法来实现了。
+    - remnote的闪卡有什么特点？
+        - 在复习的时候，可以键入答案，互动性更强。
+        - 复习的时候还可以编辑，甚至可以提醒以后再编辑。
+        - 可以很方便地查看侧边栏文档里的闪卡，也就是只看某个文档里生成的闪卡，可以更专注于一个主题学习。
+        - 
+- remnote和[[anki]]的区别是什么？
+    - remnote是结构化的，知识点之间是按照层级排列起来的。anki只是帮助记忆单个记忆点，记忆点之间的关系无法呈现出来。(我感觉学习骇客这个人做的从roam research转换为anki卡片的那个工具就有点像是在弥补anki的这个缺陷)。remnote的层级结构做的实在是太棒了，对于任何一个概念，它的从属关系表示得非常清晰，这一点，比[[roam research]]还要好很多，这真是我见过的体现层级结构最好的工具了。
+        - 具体看几个例子
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FfwL4lftMRA.png?alt=media&token=6784bfd0-530b-4228-9f07-0079a497c614)
+            - 对于一个嵌套在大文档中的小文档，浮窗显示很人性化，可以帮助不点开链接就知道小文档中的内容![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F72HeCwWaN2.png?alt=media&token=110332c8-eb01-493d-9530-93dc0d69abbe)
+            - 对于比较长的bullet，上方也可以很清楚地显示层级![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FUqVW7aymvp.png?alt=media&token=be28296c-8bb7-4c21-a571-2e650f2fb568)
+            - 在左侧的边栏里，所有的笔记还可以放在文件夹里，这让remnote看起来有些像是一个传统的层级文件体系。
+            - 没有obsidian和roam中的王牌graph图。插件中的图本质上是个[[平面思维导图]]，并不是[[立体思维导图]]
+            - 没有query功能，roam中通过query生成的内容导入remnote中也无法显示
+    - remnote的一个概念里提到的每一个关键词都可以作为一个独立的知识提取点。比如，当学习“苹果”这一个概念的时候，我们可能会这样介绍它：“这是一种水果，味道甜，颜色有红色、黄色和绿色的。“这里水果、味道、甜、颜色等，每一个词都可以做进一步学习，比如，水果都有哪些？味道有哪些种？红色的水果有哪些？等等
+    - 结合了普通笔记的功能和间隔记忆的功能(anki的主打功能)
+    - 可以给概念加上标签
+- remnote有一些类似[[Notion]]，就是文件可以**层层嵌套**，还有一点就是**色彩很丰富**，可以给每一行文字都换一种背景色。
+- 第三方插件
+    - 最推荐的就是可视化关系图 叫做plugin graph view。可以为插件设置快捷方式(shortcut、hotkey)。我设置的打开这个插件的#[[快捷方式]]是alt+r
+- 和[[roam research]]比较
+    - 有概念文档-概念标签-概念遗珠三种状态，分别对应着rem-reference-text reference
+    - 层级显示非常清晰
+- API
+    - 虽然我看不懂，但是我觉得可以从remnote的介绍中增进我对于API的理解
+    - https://www.remnote.io/api
+- remnote cliper
+    - 可以保存网页
+    - 可以把网页的标注直接都保存到保存的这个网页中，非常类似diigo
+- 怎样建立链接？
+    - reference
+    - tag
+    - portal 这是remnote的一个特色
+    - source
+- "类似软件"
+    - [[remnote]]
+    - [[learnobit]]
+    - [[polar]]
+    - [[supernote]]

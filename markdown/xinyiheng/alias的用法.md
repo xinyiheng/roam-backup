@@ -1,0 +1,3 @@
+- #[[参考资料]]
+    - [两种使用alias的方式](https://www.roamtips.com/home/create-aliases-roam-research)
+    - alias是干什么用的？目的是把两个意思相近但是roam research无法自动识别出来的概念关联起来

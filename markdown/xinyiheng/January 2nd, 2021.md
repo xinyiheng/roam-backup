@@ -1,0 +1,19 @@
+- {{iframe: https://www.youtube.com/watch?v=9_F5MC2pthk}}
+    - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
+    - 00:25:33 - 在roam research查看视频
+    - 00:12:16 - 长青笔记的目的是什么
+    - 00:10:43 - 什么是长青笔记
+- {{[[youtube]]: https://www.youtube.com/watch?v=40uq4I40bWE&feature=emb_logo}}
+    - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
+    - 00:09:59 - 怎样安装，我没有安装成功shortcut，不过目前也不影响使用。
+    - 00:02:40 - 使用效果
+- Import
+    - [[[[[[Google]] Sheets]] to [[Roam]] ([[S2R]]) SmartBlock v0.4]]
+        - From: [[[[Google]] Sheets]] to [[Roam]] ([[S2R]]) SmartBlock v0.4.json
+- [[实验]]
+- {{[[youtube]]: https://www.youtube.com/watch?v=xWNGPd3I63Q}}
+    - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
+    - 00:00:01 - 这个视频主要是讲怎样把epub图书导入到roam research当中阅读。
+        - 这个步骤比较繁琐，我也没有在roam research当中阅读的实际需求。不过，这个视频讲到的一些技术是我很感兴趣的。比如，怎样用[[python]]把epub图书转换成[[json]]。#[[计算机科学]]
+            - 具体实现方法这个人已经把经验放在了这个网页上https://www.zsolt.blog/2020/12/read-books-in-roam-detailed-how-to.html
+- 

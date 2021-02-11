@@ -1,0 +1,44 @@
+- #RoamCN2020W47 RoamCN WeeklyNewsletter roamcult @cn_roam
+    - 1/ 使用 markdown  作为CSS style 选择器，通过 a[style="xxx"] 来定位指定元素
+    - https://twitter.com/CatoMinor3/status/1255727586598105090
+    - 2/ ____Roam Research____ 的强大之处在于排除干扰，保持专注力，而这是你最应该培养的核心____习惯____。
+    - https://twitter.com/cortexfutura/status/1328345006860607488
+- 3/ 连接的不应该只是____笔记____，而应该是____知识____。
+- https://twitter.com/Steve_Yang331/status/1328292760768573441
+- 4/ 如何使用____Roam Research____ SRS ∆ 功能____记忆____一首诗
+- https://twitter.com/Conaw/status/1328568982002077697
+- 5/ 未来的教科书可能就像一个拼图游戏：由读者来主动寻找 Block 之间的连接，并将____知识结构____最终拼成一块完整的拼图。
+- https://twitter.com/azlenelza/status/1328594861575049220
+- 6/ RoamBookClub Roam 读书会所用的CSS样式清晰地显示了 Block 类型和读者名字。
+- https://twitter.com/beauhaan/status/1328259434267570177
+- 7/ ____Roam Research____ 桌面端的 Quick Capture 功能即将到来，加快捕获想法的速度，而不用缓慢加载整个____数据____库造成想法流逝。
+- https://twitter.com/Conaw/status/1328177988366520320
+- 8/ 作者在实践超过500条____笔记____8w字卡片盒____笔记____法后的经验反思
+- https://twitter.com/alexkehayias/status/1325868481925951488
+- 9/ 我们的____大脑____每天会产生多达70,000个想法，而大部分都并非基于____事实____。#贝叶斯脑
+- https://twitter.com/Kpaxs/status/1328409571052883969
+- 10/ ____随着____ macOS 新系统的发布，可以搭配一个 macOS Big Sur-style 的 Roam 新图标
+- https://twitter.com/logansavs/status/1280155201589194753?s=20
+- 11/ ____Roam Research____ 的 Mobile PWA 版本安装方式
+- https://twitter.com/rroudt/status/1279393365545672704?s=20
+- 12/ ____Roam Research____ 的 Desktop PWA 版本安装方式
+- https://twitter.com/rroudt/status/1280131882852679688?s=20
+- 14/ 通过全局 Filter 来快速开/关 roam/css 自定义主题
+- https://twitter.com/ViktorTabori/status/1328751112451657730?s=20
+- 15/ 如何使用 ____Roam Research____ 快速____写作____，万物皆可 Block，像乐高一样 Compose 搭积木。
+- https://twitter.com/shuomi3/status/1329055613259681792?s=20
+- 16/ 使用 @RoamResearch 最好的时机是 20 个月之前，____其次____是现在。
+- https://twitter.com/rickmanelius/status/1326540677811851267?s=20
+- 17/ 将Hill Charts 📈带入____Roam Research____
+- https://twitter.com/austinbirch/status/1329025821466570753
+- 18/  [http://roamjs.com](http://roamjs.com/)  新扩展，支持线形图和饼图
+- https://twitter.com/dvargas92495/status/1329196176625848321
+- 19/  http://roamjs.com  新扩展，支持自定义循环标签，就像使用 ____Roam Research____ 原生的 TODO/DONE 一样。
+- https://twitter.com/dvargas92495/status/1329922652669169666?s=20
+- 20/ ____Roam Research____ Control-( 快捷键现在支持“查找或创建”功能，可以引用其他 Page 中的Block，并且能够沿着特定路径缩进来查找，____如果____没找到还能快速新建Block。
+- https://twitter.com/Conaw/status/1330124156122374146?s=20
+- 21/ 自定义Twitter 标签的图标
+- https://twitter.com/beauhaan/status/1330248438622064645?s=20
+- 22/ 如何创作有____影响____力的在线课程
+- https://twitter.com/rroudt/status/132864146224283238
+- 

@@ -1,0 +1,6 @@
+- 在一篇预见了当今信息社会的许多方面的远见卓识的文章中，时任美国科学研究与发展办公室主任的Vannevar Bush博士设想了一种[[记忆机器]]，允许个人记录、连接和检索他们的知识。
+- 万尼瓦尔·布什想象了一种如图1-1所示的能够帮助人们管理信息的工具Memex，并对其进行了这样的描述：Memex是一种能够记录所有书籍、唱片、交流信息的工具，它能够快速、自动、灵活地帮助人们查找所需要的信息。Via[个人数据管理 - 得到APP](https://www.dedao.cn/reader?id=bODoM61kAj9Rql84gzG5nVNZopXKY3Do6nWJLrBmEDv2QPMOyx7a6e1dbPQj2Zdm) [[20210113]] 上午10:22
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F_posXfBsQ3.png?alt=media&token=b9e7b715-7814-4bb3-9245-5b8de7d68274)
+- "考虑一下未来的装置（...........），在这个装置中，一个人可以储存他所有的书籍、记录和通信，而且是机械化的，可以以极快的速度和灵活性来查阅。它是对他的记忆的一个扩大的亲密补充，"他在1945年写道，创造了*[[memex]]*这个术语。
+- [[第二大脑]]或者[[外接大脑]]
+- 所属领域：[[PIM]]

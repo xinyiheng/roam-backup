@@ -1,0 +1,28 @@
+- 卡片笔记法
+    - [how to take smart notes 作者 - Google 搜索](https://www.google.com/search?sxsrf=ALeKk03v-bqzr5cjnK413ZliDA3wkNTZRw%3A1603433124038&ei=pHKSX-zkAcn1-gSP-6CoCA&q=how+to+take+smart+notes+%E4%BD%9C%E8%80%85&oq=how+to+take+smart+notes+%E4%BD%9C%E8%80%85&gs_lcp=CgZwc3ktYWIQAzIFCCEQoAEyBQghEKABOgQIIxAnOgIIADoECAAQHlC1rwFYqM4BYPHPAWgGcAB4AIABoASIAacnkgEFNC05LjKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjsxp3uhcrsAhXJup4KHY89CIUQ4dUDCA0&uact=5)
+        - [How to take smart notes，方法及工具 - 少数派](https://sspai.com/post/60466)
+            - [How to take smart notes，方法及工具 - 少数派](https://sspai.com/post/60466)
+                - [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/)
+                - [Medium – Where good ideas find you.](https://medium.com/)
+        - [#《会记笔记就会写作》完全版](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NTA4Nzk5Mw==&action=getalbum&album_id=1464601583634939905&scene=173&from_msgid=2247483977&from_itemidx=1&count=3#wechat_redirect)
+    - [Sönke Ahrens - Google 搜索](https://www.google.com/search?q=S%C3%B6nke%20Ahrens）
+- anki
+    - 解决难题
+        - 重新学习[[anki]]的使用方法#[[anki记忆]]
+            - 更改卡片的样式
+                - anki应用的就是html和css，我学习了相关的课程以后虽然还不算太明白，但是这类内容已经不影响我使用了，我还可以按照自己的喜好进行简易的格式修改。
+            - 如何把roam research笔记转化成anki卡片？
+                - 明白了学习骇客Leo制作的roam research转成anki的自动生成器的逻辑了，一开始我还以为是导出来的卡片有问题，实际上它是自动把上一级的内容当做问题，紧邻着的下一级当做答案，所有看起来有些问题看起来才比较奇怪。比如，一级内容是书名，二级内容是作者和我的阅读时间，那么就会有个问题是：书名，答案是：作者和我的阅读时间。这样也无可厚非，可以帮助熟悉整个文档的结构，也挺好。反正这样的问题不会很多，是在不喜欢也可以手动删除，也并不费劲。
+            - 删除卡片
+                - 在浏览模式下选中卡片，然后按住command+del就可以删除卡片
+            - 更改记忆库的名称
+                - 修改和删除记忆库的名称都可以在记忆库这个项目下看到想要修改的记忆库名称，右边有个⚙标志，点开以后就可以修改名称或者删除了。
+            - 在不同的记忆库之间移动卡片
+                - 在浏览模式下选中要移动的卡片，右键选择移动记忆库，既可以把卡片移动到想要放置的地方了。
+            - Anki 彻底打破了传统 Flashcard 的思路。
+                - 往 Anki 中添加内容时，不再以单张卡片为基本单位，而是 「笔记」。一则笔记可以理解为一个互相关联的信息网络。这些相关的信息点被拆分为单个的「区域」，多个区域包含在一条笔记里，例如起点、终点、路线和价格等，都列为单独的区域。
+            - 怎样进入修改卡片样式的界面？
+                - 点击“添加”按钮就会弹出一个对话框，可选择添加的卡片的类型。对话框中还有一个“卡片”按钮，点开就可以用html和css修改样式了。
+            - 如何利用公众号编辑器来快速获取卡片样式？
+                - 我已经把方法保存到印象笔记当中了，现在看并不着急使用。
+

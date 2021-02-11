@@ -1,0 +1,3 @@
+- devonthink也可以识别epub格式的文件。
+- calibre转换格式后书名变成了汉语拼音，解决方法：
+    - http://wxhdp.xuexihaike.com/2020-12-03-011352.png

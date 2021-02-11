@@ -1,0 +1,3 @@
+- Choose a plan that's right for you. Pro plans start at $19/month.Via[KgBase - No-code knowledge graphs](https://www.kgbase.com/pages/pricing) [[20210116]] 下午10:59@评论:实在是太贵了
+- 可以不使用[[cypher language]]进行查询，好像背后也是借助[[neo4j]]的力量。
+- FocusmarkVia[(44) Focusmark - YouTube](https://www.youtube.com/channel/UCngmoG-_iUFZ0v4n6VlN5-w) [[20210116]] 下午11:00@评论:创始人在youtube上的分享

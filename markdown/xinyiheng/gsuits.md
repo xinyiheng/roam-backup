@@ -1,0 +1,6 @@
+- 包括
+- [[google keep]]
+- [[google sheet]]
+- [[google doc]]
+- gsuit有大量的插件可以配合使用
+- 配合插件[[gsweets]]获得类似[[Notion]]的“/”效果

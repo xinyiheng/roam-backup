@@ -1,0 +1,3 @@
+- bigquery
+    - {{[[video]]: https://youtu.be/d3MDxC_iuaw}}
+    - 

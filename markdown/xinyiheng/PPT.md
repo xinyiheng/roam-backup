@@ -1,0 +1,7 @@
+- [[PPT]]
+    - [极坐标](https://www.diigo.com/outliner/diigo_items/904019/12128769/540816987?key=34d57b46e1)
+    - [立体数字](https://www.diigo.com/outliner/diigo_items/904019/12128769/540817067?key=34d57b46e1)
+    - [时间轴](https://www.diigo.com/outliner/diigo_items/904019/12128769/540816871?key=34d57b46e1)
+    - [从发布会学ppt布局](https://www.diigo.com/outliner/diigo_items/904019/12128769/541579100?key=34d57b46e1)
+    - 别以为这种 PPT，一幅没充值买皮肤的样子就没人敢用，有个叫「高桥征义」的人早就做过了，后来这样的大字 PPT，就被称为「高桥流」风格。 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MjM5MDgxNjc0MA==&mid=2651023228&idx=1&sn=383459eb1ac1d3356a24b40740d5e204&chksm=bd48c7f78a3f4ee14934441a511b6b435a35a254fe9f0aa614ba24b12ac9aa6e61e345c3ad26)
+    - 原来excel条件格式也能作图 如何制作项目管理的华夫饼图？ [post.smzdm.com](https://post.smzdm.com/p/aqnl9m97/)

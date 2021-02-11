@@ -1,0 +1,2 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FxFjDEdFHT6.png?alt=media&token=7f579c4f-a840-46b0-8b8b-b4e55640492e)
+- 这个图实现了三维指标的功能，包括项目阶段、角色、职责，这种用二维矩阵实现三维功能的做法对我有启发。#[[软件启发]]

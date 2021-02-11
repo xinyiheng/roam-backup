@@ -1,0 +1,6 @@
+- {{[[youtube]]: https://www.youtube.com/watch?v=KtCUr83XgyE&feature=emb_logo}}
+    - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
+        - 很简单明快的入门介绍
+- Tiddly ResearchVia[TiddlyWiki — a non-linear personal web notebook](https://tiddlywiki.com/#GettingStarted)[[20210102]] 下午11:46
+- 相关插件
+    - [[TiddlyMap]]

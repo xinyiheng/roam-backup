@@ -1,0 +1,4 @@
+- 为自己每天划分做不同事情的时间，这样，可以尽量保证不同的事情之间不互相挤占时间。具体的划分可以调整，但是必须具备这样的规则意识。#[[我的使用说明书]]
+- 想到可以在所有设备上利用快贴，把所有复制的内容当做笔记，这样就可以实现很方便的在所有设备，所有类型的文档中管理标记的内容。#[[高效工具]]
+    - 实验通过paste来整理摘要的内容
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FgkIiNywJhM.png?alt=media&token=116aad54-ba4d-4f8b-b927-5e9bdc581d50)

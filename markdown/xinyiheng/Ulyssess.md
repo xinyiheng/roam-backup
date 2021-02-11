@@ -1,0 +1,2 @@
+- 相对轻量级的[[写作]]软件。支持markdown[[写作]]方式。
+- ulyssess可以和mindnode相互转换

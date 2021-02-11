@@ -1,0 +1,3 @@
+- 这款软件体现了软件联动的设计理念，让用户连通分散在不同管理工具中的数据。
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FlPQ9wQ1XD8.png?alt=media&token=29df3a27-84c7-4f49-80c7-34455104b57f)
+- 有些像是

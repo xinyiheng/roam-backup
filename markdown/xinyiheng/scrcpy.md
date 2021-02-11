@@ -1,0 +1,10 @@
+- #[[基本功能]]
+    - 手机投屏到电脑，并且在电脑上控制手机
+- #[[使用方法]]
+    - 安装方法参考这个视频：____ — via [scrcpy安装方法](https://mp.weixin.qq.com/s?__biz=MzU1NDgyNDQ1Ng==&mid=2247495397&idx=3&sn=4eedfeaad8afb0749ebe86f5b86c7609&chksm=fbdf0882cca8819408cb6774619bc9a2364474b5ce8423cf1111089c7614dc2ded0449353eea) [[+Roam]]
+- #[[个人评价]]
+    - 我所了解的最棒的投屏软件，画质高清，毫无卡顿，还完全免费。可以在windows和mac上使用。
+- 在电脑上操作手机
+    - 可以使用vysor，付费版一年10美元，目前还没有付费，因为没有确定是否是刚需。
+    - 目前找到的最佳方式是使用scrcpy，我目前很满意。具体实现方法保存在印象笔记当中了。[安装scrcpy的方法。](https://app.yinxiang.com/shard/s63/nl/13797828/2b04f36c-352a-475a-8366-e0abada15e96/)
+    - 其中难点是安装homebrew，我当初差点因为安装这个软件而放弃。[安装方法见链接。](https://app.yinxiang.com/shard/s63/nl/13797828/a6e548b3-5f83-4a2a-8598-90de6637b640/)

@@ -1,0 +1,13 @@
+- 有ipad版本的网页版本
+- 比较接近[[Milanote]]
+- 可以部分取代[[noteboard]]
+- 感觉比[[orgpad]]更好用，也可以实现orgpad的主要功能。
+- 有些像是网页版的[[curio]]
+- 我认为可以重点使用。
+- [miro.kdb](hook://file/tITw0rkIJ?p=Y29tfmFwcGxlfkNsb3VkRG9jcy9Lbm93bGVkZ2UgZGF0YWJhc2UgYnVpbGRlcg==&n=miro.kdb)
+- 好像有些相似的软件还有[[比幕鱼]]
+- 我严重低估了的工具。
+- 可以和很多工具协同，比如，可以添加google 网盘里的文件和trello和印象笔记、onenote等协同，但是，很多协同需要用zapier，实在是用不起啊。notion可以嵌入miro，还是不错的。
+- #[[参考资料]]
+    - https://academy.miro.com/
+    - 

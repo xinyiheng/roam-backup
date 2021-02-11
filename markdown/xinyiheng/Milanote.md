@@ -1,0 +1,13 @@
+- 可以在chrome浏览器中使用
+- 呈现比较清晰美观。
+- 没有付费，只能制作140张卡片
+- milanote中最让我感觉到满意的地方是无限层级，非常接近tinderbox的使用体验。这种体验全部是通过board可以在上一个层级只是显示为一个小的图标来实现的。这样，在board内部的文件也就无法和上一个层级的文件发生关联，这是缺点，而tinderbox好像可以通过parking 区域来解决这个问题。
+- [[scapple]]的backgroud其实也是可以看做milanote的board功能，只不过backgroud里面的文件也可以被完整看到。这样的优点是可以建立丰富的连接，缺点是感觉有些繁琐。在[[scapple]]当中，不太方便建立长文本。
+- 相似工具
+    - [[miro]]
+    - [[muse]]
+    - [[kosmik]]
+    - [[kinopio]]@评论:UI设计非常卡通
+    - [[orgpad]]
+    - [[makespace]]
+    - [[kb(Knowledge database)]]

@@ -1,0 +1,11 @@
+- 尝试了一款新的概念图工具
+- 界面很简单
+- #[[设计逻辑]]
+    - object：呈现出来就是一个note，可以理解为一个没有分类的实体
+    - category：category就是object分类
+    - group：category和object都可以归为一个group，group内部又可以重新建立关系，就像是向下的一个层级
+    - 特色是可以给object、category添加属性，甚至可以是一个列表的形式
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F_raY6ZWKpj.png?alt=media&token=a56e496c-8d22-4926-a3ce-c720c239d1e2)
+        - 
+- 相似软件
+    - [[graph commons]]

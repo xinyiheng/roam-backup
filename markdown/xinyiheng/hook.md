@@ -1,0 +1,8 @@
+- Hook App VideosVia[Hook App Videos – Hook](https://hookproductivity.com/help/general/videos/) [[20210110]] 下午6:51
+- hook真是最近发现的最超值的软件，它终于可以把我分散在各种软件里的文件都连接起来了！！
+- 它可以获取[[curio]][[scapple]][[scrivener]][[the brain]][[omnioutliner]]等很多软件的子文件链接地址，这样可以很轻松地复制到其他地方了。目前我主要复制到[[roam research]]来统一管理。
+- 可以关联很多个文件，这一点是没有想到过的。通过拖拽到hook的区域，多个文件可以相互关联，还可以选择一个文件，给它关联上多个文件。这里的“文件”不仅仅是多种app的文件，比如pdf、word甚至还可以是网址。具体可以参考这一个视频：
+    - Hooking items together with Hook’s menu bar iconVia[Hook App Videos – Hook](https://hookproductivity.com/help/general/videos/) [[20210110]] 下午9:58
+    - 我可以利用这个功能给roam research的某个页面关联多个别的软件的文件。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F-9UVLDWn4_.png?alt=media&token=68d5059a-1b71-4a54-9a75-399493ebff19)
+- 利用hook建立起来的关联如果进行可视化也会是非常壮观的网状

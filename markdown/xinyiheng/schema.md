@@ -1,0 +1,2 @@
+- 
+- Schema.org是一项协作性社区活动，其任务是为Internet上的结构化数据创建，维护和推广模式Via[关于页面-schema.org](https://schema.org/docs/about.html) [[20210118]] 下午7:56

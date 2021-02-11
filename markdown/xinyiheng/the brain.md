@@ -1,0 +1,28 @@
+- 我喜欢的the brian的一个功能就是可以在思维导图上直接建立关联。[[roam research]]在[[sibling]]概念关联的时候不是很方便。这一点上，the brain和[[kb(Knowledge database)]]很像。
+- the brain的思维导图可以画得特别大而总体不失控，就像一张复杂的网。我可以把the  brian当做一个建立关联的工具，当做 一个本地知识搜索引擎。就^^自由放任^^地用 吧。the brain是一张网，而[[kb(Knowledge database)]]用来建设局部思维地图。kb尽量保持秩序，但是一旦某一块知识地图失控也没事，我可以删除重建。非常方便。
+- 把思维导图转变成为the brain可以读取的形式 #[[软件联动]]#[[格式转换]]
+    - the brain还可以导出为json文件，具体怎么使用我还不清楚。但是[[python]]可以读取json文件，我不知道可以实现怎样的读取效果。
+    - 目前mm和mindmanager模式都可以读取，不过，现在感觉直接导入只会让the brian更加混乱，好像整理成txt格式更好，因为有些内容不希望变成节点，有些希望和已有节点关联。
+    - 从the Brian导出数据的例子表明，结构可能比节点还要重要。在the brian中非常炫酷的信息在导出成text之后就完全没有了章法
+    - 三款软件的格式转变#[[软件联动]]
+        - scrivener也可以导入mindnode文件，全部整理成为卡片的模式。导入效果最好的格式是opml，也就是说mindnode先转变成为opml，这样，每一个节点都变成一张卡片的题目，而节点的注释则会变成卡片的正文。
+        - mindnode文件也可转变成为freemind文件，拓展名为mm。freemind文件可以直接导入到the brain中，层级关系可以得到完整保留。每一个freemind的节点都可以变成一个the brain中的节点，而节点的注释也会变成the brian的note。
+        - 这样，我就完全打通了scrivener、mindnode、the brain三个软件。
+- [[TiddlyMap]]
+- the brain复杂的样式是怎样转换为简单的txt格式的？#[[文件格式]]#[[洞见]]#[[软件启发]]#[[软件联动]] #[[标记语言]] #[[格式转换]]
+    - [可以参考这个视频](https://www.thebrain.com/support/tutorials#importing-and-exporting)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FXY1n4pKjaz.png?alt=media&token=776809d0-5ded-4b68-a638-5b4e4082851a)
+    - 从整体上看，这个txt文档是一个层级结构，每一个层级都是the brain当中的一个节点。利用缩进来表示这些节点之间的层级关系。这一步是很常规的做法
+    - 独特之处在于其特殊的几个标识符，有着非常巧妙的用途
+        - 图中steve jobs这个节点为例，|代表着标签
+        - +代表着网址链接
+        - -代表着note
+        - #代表着关联的节点
+    - 仅仅通过以上标记，the brian就可以形成非常完美的网状结构，真是精妙！
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWx4bNJVlQo.png?alt=media&token=00ef94ad-30db-418e-bf32-2bc75d45d6e7)
+    - 我如果用the brian导入外部文本的方式来标记自己想要整理的内容，然后导入the brian当中显示编辑后的样式的话，这就和使用markdown来做笔记，然后用markdown笔记提供渲染后的样式道理就是一样的。我相当与也在使用一种小众的[[标记语言]]。
+- 以后the brian中只保留关键词，尽量少做笔记，相当于是一个自主建立的概念网。#[[洞见]]
+- 官方网站使用说明
+    - Categories
+via[TheBrain Blog](https://www.thebrain.com/blog?page=3)
+[[20201226]] 下午5:00

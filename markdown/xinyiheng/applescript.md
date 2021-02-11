@@ -1,0 +1,14 @@
+- [[脚本语言]]有很多种，你可能听说过的 Shell Script、[[python]] 和 JavaScript，都是其中的代表。而 AppleScript 则是 macOS 下提供的系统级别的脚本语言。和前面几个相比，它出奇的简单，因为它：
+    - 语法简单，并接近自然语言：几乎没有标点符号，语法不像其他语言那样严格
+注释内容
+    - 语法查询十分方便：系统原生提供 AppleScript 语法查询词典，支持关键词查询。
+    - 很多自动化软件不过是封装了写好的applescipt脚本而已
+- #[[参考资料]]
+    - [[applescript]]Language GuideVia[Introduction to AppleScript Language Guide](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html#//apple_ref/doc/uid/TP40000983-CH208-SW1)[[20210108]] 上午11:44
+    - The Basics of AppleScript by Capital Mac ServiceVia[(18) The Basics of AppleScript by Capital Mac Service - YouTube](https://www.youtube.com/watch?v=ipWoETCuOXo)[[20210108]] 上午11:46
+    - [手把手教你用 AppleScript 模拟鼠标键盘操作，实现 macOS 系统的自动化操作 - 少数派](https://sspai.com/post/43758)#[[applescript]]
+    -  [AppleScript 入门：探索 macOS 自动化 - 少数派](https://sspai.com/post/46912) 
+    -  Via[利用AppleScript将Evernote笔记快速导入到OmniFocus中 - 知乎](https://zhuanlan.zhihu.com/p/111700412)[[20210108]] 上午11:27
+    - 用 AppleScript 创建工作流Via[用 AppleScript 创建工作流 - 肉山·察](https://roshanca.com/2012/applescript-workflow/) 上午11:57
+- 关联语言
+    - [[python]]

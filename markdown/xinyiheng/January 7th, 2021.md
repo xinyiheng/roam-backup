@@ -1,0 +1,8 @@
+- 今天实现了把剪藏到roam research里的文本中的空行去掉的功能
+- 重新整理chrome浏览器里的插件快捷方式，都同一成ctrl+字母的形式
+- 重新使用walling
+- 参加知识付费部门的例会，感觉收获不大，内部讨论也并不热烈
+- 设置了用google搜索的快捷方式 ggg
+- 重新利用起tab outliner来
+- 中午看了youtube视频，一个程序员讲如何学java
+- twitter上看roam research和学习编程相关的内容

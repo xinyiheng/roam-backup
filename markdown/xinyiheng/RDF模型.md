@@ -1,0 +1,9 @@
+- 传统[[数据库]]以表为存储单位，采用基于行的数据存储技术，其优点是便于基于行的查询与更新操作。这种数据组织方式对于数据空间并不适用，一方面会由于表内容的稀疏造成存储空间的浪费，由此产生数据读取开销的增大；另一方面当新的数据项不能匹配已有数据模式的时候，需要对数据模式进行调整。Via[个人数据管理 - 得到APP](https://www.dedao.cn/reader?id=bODoM61kAj9Rql84gzG5nVNZopXKY3Do6nWJLrBmEDv2QPMOyx7a6e1dbPQj2Zdm) [[20210113]] 下午4:58
+- 好像rdf模型也是应用在[[xml]]中
+- 资源描述框架（Resource Description Framework，RDF）基于三元组，是用于描述网络资源的W3C标准，是一个用于表达关于万维网（World Wide Web）上资源信息的语言。其基本概念如下：😀😀
+    - 资源😀😀（Resource）：所有在Web上被命名、具有URI（Unified Resource Identifier，统一资源描述符）的事物，如网页、XML文档中的元素等。😀😀
+    - 描述😀😀（Description）：对资源属性（Property）的一个陈述（Statement），以表明资源的特性或者资源之间的联系。😀😀
+    - 框架😀😀（Framework）：与被描述资源无关的通用模型，以包容和管理资源的多样性、不一致性和重复性。😀😀
+    - 综合起来，RDF就是定义了一种通用的框架，即资源属性值的三元组，以不变应万变来描述Web上的各种资源，比如Web页面的标题、作者和修改时间，以及Web文档的版权和许可信息、某个共享资源的可用计划表等。然而，将“Web资源”这一概念一般化后，RDF可被用于表达关于任何可在Web上被标识的事物的信息，比如关于一个在线购物机构的某项产品的信息（例如关于规格、价格和可用性信息）。Via[个人数据管理 - 得到APP](https://www.dedao.cn/reader?id=bODoM61kAj9Rql84gzG5nVNZopXKY3Do6nWJLrBmEDv2QPMOyx7a6e1dbPQj2Zdm) [[20210113]] 下午4:59
+- 一个RDF文件包含多个资源描述，而一个资源描述由多条语句构成，一条语句是由资源、属性类型、属性值构成的三元组，表示资源具有的一个属性。资源描述中的语句可以对应于^^自然语言的语句^^，资源对应于自然语言中的主语，属性类型对应于谓语，属性值对应于宾语，^^在RDF术语中称其分别为主语、谓词、宾语^^。Via[个人数据管理 - 得到APP](https://www.dedao.cn/reader?id=bODoM61kAj9Rql84gzG5nVNZopXKY3Do6nWJLrBmEDv2QPMOyx7a6e1dbPQj2Zdm) [[20210113]] 下午5:01
+- 

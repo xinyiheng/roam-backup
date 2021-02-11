@@ -1,0 +1,4 @@
+- KnovigatorVia[(44) Knovitator | Create Sub Quest - YouTube](https://www.youtube.com/watch?v=DKivXaFBwCc&feature=emb_logo) [[20210116]] 下午11:23@评论:youtube上的介绍说明
+- 其实也是一种隐形的[[思维导图]]，只不过导图中的每个节点都被以对话框的形式呈现。
+- 每一款软件都是在[[专注]]与[[上帝视角]]之间做平衡的尝试。#[[交互体验]]
+- [Knovigator](https://knovigator.com/) [[20210116]] 下午11:26@评论:我在这个网站上的注册账号

@@ -1,0 +1,22 @@
+- trello中快速归档卡片的快捷键是直接按C，这样非常方便
+- [iRightMouse：一款免费 Mac 鼠标右键增强神器 - 少数派](https://sspai.com/post/58772) #[[Roam-Highlights]]
+    - 「拷贝路径到剪贴板」Mac是直接支持的，右键后按住Option就会有拷贝路径的选项，但不管怎么说确实少了一步。
+- 了解什么是子弹笔记法
+- 在chrome里为常用的插件也设置快捷键盘按键#[[快捷方式]]
+    - 印象笔记剪藏 ctrl+Y
+    - eagle:ctrl+e
+    - 管理插件：command+e
+    - diigo：ctrl+d
+    - 大纲：ctrl+h
+    - notion clipper：ctrl+n
+    - rescue time：ctrl+r
+    - roam highlighter： alt+x
+    - 搜索本网站：ctrl+shift+s
+    - tab outliner：alt+t
+    - 一个定时提醒插件remi：ctrl+shift+r
+    - [[toggle]]记录时间：ctrl+j#[[时间管理]]
+        - 给它设置成了一个app，打开方式是command+alt+t
+        - toggle居然可以自动和trello、notion、谷歌日历、[[Gingko]]、ticktick(可惜不能和滴答清单整合)整合，在这几个软件里非常轻松地开始记录时间，特别棒！！！#[[软件联动]]
+        - 虽然不支持roam research计时，但是在网页里也很方便记录正在看什么文档。
+    - 插件快捷方式即使是在app形式打开的网站也适用
+    - [google keep中的快捷方式](http://wxhdp.xuexihaike.com/2020-10-25-153616.png)

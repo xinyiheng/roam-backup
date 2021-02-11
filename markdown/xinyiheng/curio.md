@@ -1,0 +1,10 @@
+- curio这款软件实在是太牛了，既然可以把一些其他app的图表拖拽过来直接启动。这简直就是最强的本地工作流程管理工具，非常方便。拖拽的方式是，在finder中找到所有app的列表，直接把想要选择的app拖拽到cuiro的文档面板就可以。
+- cuiro可以当做很好的本地资源管理工具。特别是某个项目常用的几个文档，几个软件，都可以直接拖拽到curio里面的一个文档里，形成一个看板。非常美观方便，curio看来要融入我日常的工作流中了。
+- 比较清晰地呈现信息的白板工具。
+- 版面可以做到无限大，也可以有一定限制。
+- 我用curio制作了一个curio使用方法的介绍。可以在cuiro文件夹里找到。
+- 严格来说不是思维导图。我的利用方式是当作一个大型的展板
+- [工作资料看板整理.curio](hook://file/tVYpkeCM6?p=Y29tfmFwcGxlfkNsb3VkRG9jcy9DdXJpbw==&n=%E5%B7%A5%E4%BD%9C%E8%B5%84%E6%96%99%E7%9C%8B%E6%9D%BF%E6%95%B4%E7%90%86.curio)
+- [陈春花说向上管理](x-scrivener-item:///Users/wangxiaohui/Library/Mobile%20Documents/com~apple~CloudDocs/Scrivener/%E6%95%B4%E7%90%86%E5%86%99%E4%BD%9C%E6%96%87%E7%A8%BF.scriv?id=D5D4D9C5-4475-4BB5-B7DD-8ECD8ECAACC6)
+- com.ulyssesapp.mac
+- defaults write com.ulyssesapp.mac AppleLanguages '(en)'

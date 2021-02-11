@@ -1,0 +1,2 @@
+- 有些类似[[noteboard]]和[[curio]]
+- 

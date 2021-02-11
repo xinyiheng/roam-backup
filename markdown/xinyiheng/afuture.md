@@ -1,0 +1,1 @@
+- AFuture 的世界Via[AFuture 的世界](https://www.notion.so/AFuture-d4c327c3511546aa89c42dd6ee7301d4) [[20210111]] 上午9:31@评论:这个人用[[Notion]]来分享自己的一些学习心得，好像在关注数学和计算机领域的一些知识。我觉得自己可以做得比他好。

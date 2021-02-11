@@ -1,0 +1,5 @@
+- https://orgpad.com/o/BIxdrcz39IcK_zQZmj6p0o
+- {{[[video]]: https://youtu.be/Iv5am2q6m4A}}
+- 像是卡片视图的概念图。每一个节点表现为一张卡片，还是比较美观的。
+- 卡片版本的[[graph commons]]
+- 中文输入支持不好

@@ -1,0 +1,2 @@
+- Netlify发布网站公共wiki是重新整理后的知识资料集合，其中非文本的资源如图片、PDF、Office格式文件、Keynote等存放至Amazon S3/Aliyun OSS等云服务，网页等内容的快照可使用Wayback Machine备份，然后将这些链接存放至wiki系统。wiki资料通过[[github]][[公共仓库托管]]，通过netlify生成[[静态网站]]。我的wiki网站就是通过netlify自动发布，每次更新wiki后，push到GitHub，netlify自动发布，这个过程只需要不到十几秒。😀😀😀😀作者：ThoughtWorks中国😀😀链接：https://zhuanlan.zhihu.com/p/335998673😀😀来源：知乎😀😀著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。Via[(8 封私信 / 5 条消息) 首页 - 知乎](https://www.zhihu.com/) 下午12:08
+- 

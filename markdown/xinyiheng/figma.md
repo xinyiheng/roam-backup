@@ -1,0 +1,4 @@
+- [[少数派]]上有关figma的文章  https://sspai.com/search/post/figma
+- [[sketch]]
+- Make design accessible to everyone。Via[Figma 社区游玩指南 - 少数派](https://sspai.com/post/64214)[[20210104]] 下午10:54
+- 我的figma社区账号  https://www.figma.com/community

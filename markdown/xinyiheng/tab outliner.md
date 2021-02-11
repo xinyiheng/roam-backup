@@ -1,0 +1,39 @@
+- #[[基本功能]]
+    - 一个整理网页的巨大惊喜，可以搜索出来的众多网页用大纲的形式加以整理，非常整齐
+    - [[onetab]]的增强版
+    - 在网页之外还可以添加自己的note，像在大纲软件上整理网址一样
+    - 整理好的[[网址结构]]一直保存在tab outliner插件中，方便以后继续整理拓展
+    - 支持把整理好的网址结构拖拽到印象笔记中，这样生成的笔记保留了网址之间的逻辑结构，并且可以一键访问原地址。缺点是，对于需要访问权限的网址，后续访问可能会被拒绝。比如，我通过浙江图书馆进入报纸数据库看的文章链接后续就无法访问。每次只能从浙江图书馆入口重新进入。这也是没有办法的事情。
+- tab outliner的#[[使用方法]]
+    - #[[快捷方式]]
+        - 快捷键 tto
+    - command+向左的箭头关闭并保存本windows
+    - enter可以在tab tree里面加入note
+    - 在note里面输入---可以自动转化为seperater
+    - wangxiaohui's note: 缺点是如果关闭了网页，在tab outliner中也就消失了。缺点在购买付费版之后就不存在了。可以在去chrome 插件设置中，为tab outliner设置[[快捷方式]]，我设置了command+右箭头关闭tab并保存，这样，暂时不用，但是关闭之后希望以后还会使用的tab就保留在tab outliner当中了。tab+左键头关闭整个windows并保存。
+- tab outliner与其他[[软件联动]]
+    - tab outliner整理好的文件可以复制到[[roam research]]或者其他[[大纲工具]]当中，非常方便
+    - 购买了tab outliner付费版，果然没有让我失望，在其中整理的网页可以完美拷贝到diigo
+    - tab outliner整理的内容复制思维导图中也可以完美保留原来的格式，我发现，直接复制到mindnode只是保留了原来的 层级结构，但是链接是直接显示出来的，并不美观，改善方法是先复制到[[Notion]]，然后导出为md文档，用mindnode打开就是完美的思维导图模式@标签：tab outliner 和[[mindnode]]联动
+    - tab outliner更像是在仔细阅读文章之前梳理要阅读哪些，这些文献之间有什么关系，而diigo则像是先读完一篇文章，然后在梳理和其他文章有什么关系 @标签：taboutliner和[[diigo]]联动
+    - tab outliner的链接格式可以复制到[[kb(Knowledge database)]]中，继续阅读和展示，效果非常好
+    - [site:sspai.com 立青 - Google 搜索](https://www.google.com/search?sxsrf=ALeKk01CkVc0rNU2f6fmSW88tm4oLccR8g%3A1609853418892&ei=6mn0X8D6NaTL0PEPgoCsoAM&q=site%3Asspai.com++%E7%AB%8B%E9%9D%92&oq=site%3Asspai.com++%E7%AB%8B%E9%9D%92&gs_lcp=CgZwc3ktYWIQA1C4J1iuSWDaS2gBcAB4AYABzwKIAf0dkgEGMi0xMS4zmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjAl7Gp84TuAhWkJTQIHQIACzQQ4dUDCA0&uact=5)
+        - [使用 IFTTT Marker 和 GitHub 打造个人阅读追踪系统 - 少数派](https://sspai.com/post/40000)
+            - [吕立青_JimmyLv 的动态 - 少数派](https://sspai.com/u/jimmylv/updates)
+                - [对于工具狂热的反思 - 少数派](https://sspai.com/post/61029)
+                    - [文献管理与信息分析_中国科学技术大学_中国大学MOOC(慕课)](https://www.icourse163.org/course/USTC-9002?utm_source=weixin&utm_medium=iphoneShare&utm_campaign=share)
+                        - [罗昭锋的微博_微博](https://weibo.com/science20?profile_ftype=1&is_all=1#_0)
+                            - [哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/)
+                - [全能启动器 - Steward - Chrome 网上应用店](https://chrome.google.com/webstore/detail/steward/jglmompgeddkbcdamdknmebaimldkkbl?hl=zh-CN)
+                - [iHelpers](https://ihelpers.app/#/)
+                    - [iHelpers - Chrome 网上应用店](https://chrome.google.com/webstore/detail/ihelpers/hcnekoladldejmeindnhpjkfhjadcick)
+                - [将散落的标注收集在一处，Readwise 这样改善了我的信息输入 - 少数派](https://sspai.com/post/63879)
+                - [「ARM， AMD，英特尔」硬件科普及我见的未来 - 少数派](https://sspai.com/post/60921)
+                - [用 Airtable 打造自己专属的个人数据库 - 少数派](https://sspai.com/post/63452)
+                - [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/#/app/help/page/LJOc7nRiO)
+                - [襟河 的文章 - 少数派](https://sspai.com/u/8jxzxx46/posts)
+                - [主页 / Twitter](https://twitter.com/home)
+                - [使用 Zettelkasten 笔记助力学习 - 少数派](https://sspai.com/post/64259)
+            - [基于GitHub的敏捷学习方法之道与术 - ThoughtWorks洞见](https://insights.thoughtworks.cn/agile-learning-method-base-on-github/)
+        - [《搞定》最佳实践：如何利用滴答清单（TickTick）实践 GTD 理念？ - 少数派](https://sspai.com/post/39960)
+            - [Name your site | Atlassian](https://www.atlassian.com/signup/rename/site?cloudId=9207dcc5-bd76-461a-bcf6-05904db1f03a&requestId=31828932&redirecturl=https%253A%252F%252Fwww.atlassian.com%252Fondemand%252Fsignup%252Fconfirmation%253Fondemandurl%253Dteam-1609858795016%2526products%253Djira-software.ondemand%25252Cconfluence.ondemand%2526cloudId%253D9207dcc5-bd76-461a-bcf6-05904db1f03a%2526requestId%253D31828932&isPermitted=false)

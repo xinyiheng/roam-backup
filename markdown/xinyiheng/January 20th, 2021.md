@@ -1,0 +1,1 @@
+- alias pip=/Library/Frameworks/Python.framework/Versions/3.9/bin/pip3

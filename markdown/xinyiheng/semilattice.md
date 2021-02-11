@@ -1,0 +1,15 @@
+- SemilatticeVia[Semilattice](https://www.semilattice.xyz/) [[20210116]] 下午9:36
+- #[[交互体验]]
+    - Fluid Content StructureVia[Semilattice](https://www.semilattice.xyz/) [[20210116]] 下午9:37
+    - 让笔记变得像是游戏
+        -  block是最基本单元
+        - block形成列表
+        - 卡片包含列表和一些手写内容
+        - 卡片可以有多个父级和子级关联
+        - 卡片组成的空间可以轻松访问![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FV_VilfpX6S.png?alt=media&token=5f7a72ac-d8a2-4d14-901d-763faeaf14d8)
+        - web is local，Expand knowledge from well-sourced, web-based research.
+        - 可以说，这一点[[Codex]]的理念非常棒@评论:或许我目前可以通过[[curio]]实现类似的效果。
+            - {{[[video]]: https://youtu.be/n4Q4a0Ezg6A}}
+            - {{[[video]]: https://youtu.be/bH4iRu5oNh4}}
+- @评论:在这个网页的感谢部分提到了很多灵感来源，都是比较有趣的人，可以关注。#[[效率博主]]Special thanks toVia[Semilattice](https://www.semilattice.xyz/) [[20210116]] 下午9:54
+- 

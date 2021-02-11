@@ -1,0 +1,1 @@
+- 这个概念很好，只不过这款软件还没有做起来。已经停止运行了。![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FVUP4cb4gPP.png?alt=media&token=8559db07-cf0b-4cfb-aeba-c88efb7ae66b)

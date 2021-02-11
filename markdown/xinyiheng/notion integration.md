@@ -1,0 +1,7 @@
+- #[[软件联动]]
+- 直接embed noting的页面由于网站安全设置的原因很难实现，还是通过我的剪藏功能来把notion的相关主题链接放到roam research当中
+- 通过这个页面，快速找到所有的notion链接，这样，notion就相当于roam research的一个外接显示窗口，就像我对obsidian做的一样。
+- {{[[embed]]: ((3miIvFLaf))}}# [[blck:green]]
+- {{[[embed]]: ((8YkwvSUZj))}}# [[blck:red]]
+- {{[[diagram]]}}
+- 

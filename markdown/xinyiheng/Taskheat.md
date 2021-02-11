@@ -1,0 +1,4 @@
+- 好像在ipad用更好
+- 可以说是一种升级版的[[甘特图]]
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FAVXMAyDuEb.png?alt=media&token=9bdc4f39-c055-47de-9250-15dd9ca85e01)
+- 特色是可以把任务之间的关系用流程图清晰地表达出来{{[[video]]: https://youtu.be/palOCR7rKgo}}

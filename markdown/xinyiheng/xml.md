@@ -1,0 +1,9 @@
+- Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
+- 又成为可扩展标记语言。
+- 与[[数据库]]的关系@评论:xml仅仅用于存储数据，不像数据库那样强大和综合，但是其简洁性让它成为数据交换的媒介。
+    - 可扩展标记语言与Access，Oracle和SQL Server等数据库不同，数据库提供了更强有力的[[数据存储]]和分析能力，例如：^^数据索引、排序、查找、相关一致性^^等，^^可扩展标记语言仅仅是存储数据^^。事实上它与其他数据表现形式最大的不同是：可扩展标记语言极其简单，这是一个看上去有点琐细的优点，但正是这点使它与众不同。 
+    -  XML的简单易于在任何应用程序中读/写数据，这使XML很快成为[[数据交换]]的唯一公共语言，虽然不同的应用软件也支持其他的数据交换格式，但不久之后它们都将支持XML，那就意味着程序可以更容易的与Windows、Mac OS、Linux以及其他平台下产生的信息结合，然后可以很容易加载XML数据到程序中并分析它，并以XML格式输出结果。Via[可扩展标记语言_百度百科](https://baike.baidu.com/item/%E5%8F%AF%E6%89%A9%E5%B1%95%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/2885849?fromtitle=xml%E6%96%87%E4%BB%B6&fromid=1994443) [[20210113]] 上午11:58
+- XML为何诞生？
+    - XML有两个先驱：SGML和HTML，这两个语言都是非常成功的标记语言，但是都有一些与生俱来的缺陷。XML正是为了解决它们的不足而诞生的。Via[可扩展标记语言_百度百科](https://baike.baidu.com/item/%E5%8F%AF%E6%89%A9%E5%B1%95%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/2885849?fromtitle=xml%E6%96%87%E4%BB%B6&fromid=1994443) [[20210113]] 下午12:00
+- XML可以充分利用数据。XML是与软件、硬件和应用程序无关的，数据可以被更多的用户、设备所利用，而不仅仅限于基于HTML标准的浏览器。其他客户端和应用程序可以把XML文档作为数据源来处理，就像操作数据库一样，XML的数据可以被各种各样的“阅读器”处理。Via[可扩展标记语言_百度百科](https://baike.baidu.com/item/%E5%8F%AF%E6%89%A9%E5%B1%95%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/2885849?fromtitle=xml%E6%96%87%E4%BB%B6&fromid=1994443) [[20210113]] 下午12:02
+- 

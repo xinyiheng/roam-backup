@@ -1,0 +1,3 @@
+- 可以支持深度链接，这是它自带的功能，它很重视把自己嵌入到现有的文档处理流程中，这一点很聪明。
+    - [craft文档](craftdocs://open?blockId=958BDD3A-4A7E-48C3-B28F-35E585008A17&spaceId=232703e1-7e5d-7fa2-5d58-cc17a246cadb)
+    - ipad上的craft很容易可以把网页拖拽进来当做embed的文章，还是很美观的。

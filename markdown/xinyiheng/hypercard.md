@@ -1,0 +1,9 @@
+- hypercard
+    - [Molly Mielke 在 Twitter: "A 3D interface paradigm using HyperCard, the "erector set for building applications." Fun stuff. https://t.co/kUOUNIpqim" / Twitter](https://twitter.com/mollyfmielke/status/1354451025311088643)
+        - [(79) The Computer Chronicles - Hypercard (1987) - YouTube](https://www.youtube.com/watch?v=FquNpWdf9vg)
+        - [Studio Olafur Eliasson](https://olafureliasson.net/uncertain/connections/TEL3265)@评论:这个[[交互体验]]实在是太惊艳了#[[可视化]] 所有的笔记以卡片的形式在眼前悬浮。
+    - [HyperCard | The software erector set.](https://hypercard.org/)
+    - [HyperCard On The Archive (Celebrating 30 Years of HyperCard) - Internet Archive Blogs](http://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/)
+    - [HyperCard (@HyperCard) / Twitter](https://twitter.com/hypercard)
+        - [HyperCard - Wikipedia](https://en.wikipedia.org/wiki/HyperCard#World_Wide_Web)
+    - [What is the best way to stop internet trolls? - BBC Future](https://www.bbc.com/future/article/20160318-what-is-the-best-way-to-stop-internet-trolls)

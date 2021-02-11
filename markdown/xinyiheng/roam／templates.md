@@ -1,0 +1,53 @@
+- 读书笔记
+    - [[书名]]
+        - #[[meta data]]
+            - #[[作者]]
+                - 
+            - #[[国籍]]
+                - 
+            - #[[主题]]
+                - 
+        - 构成要素
+            - [[文章结构]]
+                - 
+            - [[核心观点]]
+                - 
+            - [[故事]]
+                - 
+            - [[概念]]
+                - 
+            - [[理论]]
+                - 
+            - [[方法]]
+                - 
+            - [[关联]]
+                - 
+            - [[金句]]
+                - 
+        - [[信息与我的关系]]
+- S2R的模板
+    - Copy the following sample data to the top of the test page you created:
+        - Test GoogleSheets Spreadsheet:
+            - 
+        - Highlighting the Spreadsheet ID and the Sheet GID so that you know where to look for them:
+            - 
+        - S2R Spreadsheet ID:: 
+        - S2R Sheet GID:: 17193194
+        - Some test/demo data:
+            -  
+            - A3#S2R
+                - 
+            - B5 #S2R
+                - 
+            - B7 #S2R
+                - 
+            - E10 #S2R
+                - 
+- 看板
+    - {{[[kanban]]}}
+        - 待办
+            - 
+        - 进行中
+            - 
+        - 已完成
+            - 

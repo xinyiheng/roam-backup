@@ -1,0 +1,5 @@
+- 利益相关者模型#[[管理学知识]]
+    - ____ — via [权力、利益、态度三维分类法](https://skat.ihmc.us/rid=1JGD4CJZ4-F9CF0Y-1KM6/SEMINAL%20stakeholder%20mapping%20in%203d.pdf) 
+    - 门德尔洛（Mendelow）的权力—利益矩阵
+    - 社会网络图
+- 学习任何一个领域的知识的时候，应该以终为始，思考自己在这个领域是否可以获得发言权。#[[我的使用说明书]]

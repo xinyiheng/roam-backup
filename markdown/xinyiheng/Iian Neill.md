@@ -1,0 +1,2 @@
+- [[youtube]]频道地址如下：
+    - Auto-loading the word cloud in text searchVia[(2) Auto-loading the word cloud in text search - YouTube](https://www.youtube.com/watch?v=ipx37szlAaY)[[20210103]] 下午2:54

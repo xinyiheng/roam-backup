@@ -1,0 +1,5 @@
+- {{[[video]]: https://youtu.be/tedTuOvS8Dw}}
+- 还有表单功能
+- 也有可以在多个视图之间切换，比如看板模式，也有类似[[Notion]]的relation功能
+- 提供了很多模板
+- [我的账户](https://tables.area120.google.com/u/0/home)

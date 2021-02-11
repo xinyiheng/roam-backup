@@ -1,0 +1,3 @@
+- 我设置了快捷方式
+- 很适合短期搜集写作材料使用
+- Universal Link 是什么Via[Note Board](chrome-extension://goficmpcgcnombioohjcgdhbaloknabb/popup.html)[[20210104]] 下午9:08

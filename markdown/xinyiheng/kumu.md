@@ -1,0 +1,12 @@
+- HelpVia[knowledge graph • Untitled map / Untitled view • Kumu](https://kumu.io/xinyiheng/knowledge-graph) [[20210116]] 下午10:3
+- #[[设计逻辑]]
+    - {{[[video]]: https://youtu.be/VzNdrLLlJIU}}
+- #[[使用方法]]
+    - {{iframe: https://docs.kumu.io/#five-minute-quickstart}}
+- 可以从excle直接导入数据。既然这样，[[notion]]当中的一些结构化的内容可能也可以通过kumu来展示。
+    - 如何导入表格信息
+        - {{iframe: https://docs.kumu.io/guides/import.html}}
+- 还可以支持根据一些标准进行[[聚类分析]]
+- 支持多人协作
+- 支持根据一些条件筛选显示的节点
+- 可以在左边的文稿中插入链接，点击的时候只突出显示链接部分的图谱。这样就可以不被复杂性制约。

@@ -1,0 +1,8 @@
+- word使用过程中的版本同步是个问题，应该高度重视。
+- 选题《the power of  trust》
+    - [信任速度：改变一切的一件事：Stephen M.R. Covey，Stephen R.Covey，Rebecca R.Merrill：8601405449078：Amazon.com：书籍](https://www.amazon.com/SPEED-TRUST-Thing-Changes-Everything/dp/1416549005/ref=pd_sbs_14_1/136-1180861-1208529?_encoding=UTF8&pd_rd_i=1416549005&pd_rd_r=8df8d17a-0bd6-4db0-ac55-c222a55808be&pd_rd_w=QXts9&pd_rd_wg=dpByb&pf_rd_p=3ec6a47e-bf65-49f8-80f7-0d7c7c7ce2ca&pf_rd_r=4G26MEC2X2CJZ9KKS2KS&psc=1&refRID=4G26MEC2X2CJZ9KKS2KS)
+    - [信任的速度 (豆瓣)](https://book.douban.com/subject/3175541/)
+        - [信任的速度：一个可以改变一切的力量用户评论-shiyong8845长评-当当网](http://comment.dangdang.com/comment/detail/1/23930042/336624517)
+            - [《信任的速度：一个可以改变一切的力量》(（美）史蒂芬·M·R·柯维)【简介_书评_在线阅读】 - 当当图书](http://product.dangdang.com/23930042.html)
+    - 史蒂芬 科维有一本同样主题的书，并且主要内容和目标选题基本一致，新书没有多少新鲜的观点。
+    - 

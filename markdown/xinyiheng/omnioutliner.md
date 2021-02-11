@@ -1,0 +1,4 @@
+- OmniOutliner 就是这样，它的特点就是「比 Word 更强调结构，比 Excel 更适合阅读 [[sspai.com]](https://sspai.com/post/31628)
+- 支持从外部拖拽加入文本
+- 记忆出现错误，以为[[diigo]]可以导出到omnioutliner，折腾了一个多小时没有实现。
+- 可以以列表的形式呈现大纲视图真是非常强大

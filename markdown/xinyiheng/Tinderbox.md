@@ -1,0 +1,65 @@
+- 非常像是scapple和卡片写作结合的产物。
+- 图表不好看，可以用其他途径修改图标。
+- 目前还没有使用它写作。觉得有些重。
+- 网上关于它的教程并不多，只能依靠help文档
+- [[设计逻辑]]
+    - document
+        - 文档可大可小，我倾向于所有的笔记都保存在同一个document之中。
+    - container
+        - 也是一个note，但是包含其他note，用起来感觉像是一个board，可以打开继续显示为一个board，可以继续编辑，这也是我说tinderbox是无限层级的原因。
+        - 可以理解为一个文件夹
+    - agent
+        - Agents are notes that search your Tinderbox document continuously for notes that meet the agent’s criteria. If an agent finds a note that satisfies its criteria, it automatically places an alias of that note inside the agent. The agent can also apply an action to notes it finds. For example, one agent might find notes that represent overdue library books and automatically set their color to red.
+        - 就是query功能，不过强大之处在于，还可以跟进action。比如，通过revist这个action，可以设置定期回顾一个笔记。[[SRS]]![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F4umSRvQx0s.png?alt=media&token=653cd787-4e22-4480-883c-6919a9a7949a)
+        - 也需要[[正则表达式]]，可以参考这部分内容：Regular Expressions Via[Mark Bernstein - The Tinderbox Way-Eastgate Systems (2017)](marginnote3app://note/58FD43A8-FB70-4A48-85DC-0483C233837C)[[20210123]] 下午10:31
+        - action
+            -  ActionsVia[Mark Bernstein - The Tinderbox Way-Eastgate Systems (2017)](marginnote3app://note/F0B54C6E-AAB5-4401-9103-C14BFBB78F4C)[[20210123]] 下午10:39
+    - note
+        - attribute
+    - adornment
+        - Adornments appear in the background layer of maps, and are hidden in other views. They help organize and annotate the space of the map, emphasizing and clarifying some spatial relationships. Via[Mark Bernstein - The Tinderbox Way-Eastgate Systems (2017)](marginnote3app://note/AB166AD7-767D-4119-8FF9-55106DFED720)[[20210124]] 下午10:07
+        - 也有快捷方式，可以很快地把一条笔记拆分成多条笔记
+        - 一种特殊的note，比如可以设置为map的背景。adornment只能在map视图中显示，在其他视图中不显示。也就是adornment只是用来辅助整理笔记而已。
+        - 可以直接把图片拖拽到map中形成一个note
+    - aliases
+        - 可以理解为一个note的多个分身，可以让一个note出现在多个不同地方
+    - composites
+        - 如何建立composites？只需要把希望组合到一起的多个note拖拽到一起挨着就可以了。
+        - 如何修改composites中的某个笔记？用command+click就可以选中笔记进行修改。
+        - composites也是一种可以把多条笔记组合起来的形式。在tinderbox当中，有很多种组合笔记的方式，比如，container、agent和composites，adornment是强调最明显的一种。![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FJN-P9X67vg.png?alt=media&token=fa0d000d-0932-4fca-8828-a96e98a0bd46)
+- #[[软件联动]]
+    - 还可以支持applescript和python等，直接通过命令行来执行程序。我目前还没有理解好，但是应该可以大有作为。
+    - runCommand: Working With Outside ProgramsVia[Mark Bernstein - The Tinderbox Way-Eastgate Systems (2017)](marginnote3app://note/8EBC8930-C6E0-4238-A7BB-DE56801C86FF)[[20210123]] 下午10:49
+- tinderbox有好几个优点非常突出：
+    - 第一，可以用概念图的方式来整理写作思路。用思维导图的方式来整理写作思路是很多人都会的技巧，从最简单易行的列线性大纲，再到稍微复杂一点的平面思维导图。但是思维导图来整理思路的缺陷是不太方便在节点之间建立很复杂的联系，而这正是概念图的强项。
+    - 第二，无限层级。软件可以为概念图的任何一个节点建立一个新的下一个层级的展板，在这个展板里又可以毫无干扰的创建新的概念图。低层级的节点好像还可以通过box与上一层级的节点建立联系。这实际上就是一种轻松切换概念图全局和局部的表现形式。
+    - 第三，丰富的文章结构呈现方式。这款软件可以非常轻松的为文章的结构生成map、outline、tree map、关系、表格等几种形式，可以用不同的形式来激发灵感。尤其是关系呈现方式，感觉非常舒适。每种视图都可以显示为一个tab，^^tab居然可以popup^^，成为一个独立拖动的文档，是在是太帅了！缺点是不太稳定，经常崩溃，可能因为我用的是盗版。比如视频中在map视图下，原来有的连接箭头先是不见了，后来突然就又重新出现了。我退出录制之后，这个软件还崩溃退出了。我感觉有些功能只依靠文字很难介绍清楚，就第一次以录制视频的形式展示这款软件的特点。这是第一次录制的实验版，没有开启声音，时间也比较长。我想以后就用录制桌面视频的方式来记录自己的一些收获。随着5G时代的到来，能够用视频来讲解清楚一些问题会是一项非常重要的技能。它还有一个姊妹软件叫做[[storyspace]]，基本上是tindernbox的精简版。
+    - 
+- 现在也支持[[双向链接]]了，严格来说，其实是单项链接，但是已经很方便了，也是使用方括号。
+- #[[软件启发]]
+    - 有不少对我有启发的设计
+    - prototype好像是标准模板，也是重复性工作的公约数
+    - agent我感觉像是智能文件夹，就像是query+后续的动作
+    - crosstabs好像也是一个筛选的工具
+    - outline支持筛选，只集中关注想要关注的地方
+        - 为了是outline更清晰，还可以加入separator
+    - emergent of structure指的就是随着对于一个知识领域了解的加深，自然涌现出来的结构。
+    - 不仅是一个笔记工具，还是一个database，因此管理属性和筛选属性是非常重要的。
+- 可以和[[scrivener]]联动
+- 搜索出来的结果可以直接以卡片的形式popup，这样可以同时打开多条笔记，这个设计确实超出我的想象。
+- 大纲视图也很好，有些像是正常的bullet视图，但是它强大的地方在于，它的每一个条目都其实可以当做标题，再添加笔记。可以indent和undent，结合magic pad可以自由拖动调整位置。
+- 这款软件的map视图就是概念图。我觉得它可以取代[[scapple]]的位置了。
+- [概念图](hook://tbx/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB?view=outline+select=1611239814;?filepath=/Users/wangxiaohui/Library/Mobile%20Documents/com~apple~CloudDocs/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.tbx)@评论:tinderbox也可以使用[[hook]]来把某条笔记的链接地址放到[[roam research]]当中来。太棒了！
+- ^^hyperbolic^^，这个视图有些可以赏玩概念图的意思，很不错，是一个设计亮点。
+- [[参考资料]] https://pan.baidu.com/s/1bvLe7r4TN-Uwzzb0ZnNzRQ
+    - [Mark Bernstein - The Tinderbox Way-Eastgate Systems (2017)](x-devonthink-item://3BA31925-5D82-4E9B-8065-CFB09695D19D)@评论:这款软件的设计者写的书，包括了他的一些设计初衷。介绍自己写的软件的书居然还收费，真是奇葩。
+    - 这个人好像是个重度用户，可以从他那里获得启发
+    - {{[[video]]: https://youtu.be/bSYy6uK94Lw}}
+- 修改字体和背景颜色如图所示![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F06HJ0Li2qI.png?alt=media&token=cd789c27-9be0-40eb-84a4-825791dff52c)
+- 以下是我希望实现的一些展现形式
+    - 为什么手动的排列也很重要？![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FU9kz5rXolH.png?alt=media&token=09d912e8-c64f-46aa-a908-ec67b1e1dd55)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FfxgvxoLmVd.png?alt=media&token=889e6bb2-42f4-42f7-a142-3b3e76c99066)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FiY1t5q444s.png?alt=media&token=37858a49-51d9-4164-abd4-8e7523b22dae)
+- 相似软件
+    - [[qinaps]]
+    - 

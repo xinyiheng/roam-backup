@@ -1,0 +1,2 @@
+- [[Writemapper]]好像作为思维导图工具更直观，或许可以作为一种[[笔记]]工具
+- 朋友推荐 OmniOutliner，用它来写完大纲。但是由于 OmniOutliner 的书写环境并不是太好，还是需要将大纲导出到 Ulysses 之类的写作工具中来继续写作。这就意味着我们必须将整个写作分成两步来完成，始终还是会有一些不方便。所以当我看到 WriteMapper 这款脑图 + MarkDown 的结合体时，确实有点被打动到。 [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/29526816)

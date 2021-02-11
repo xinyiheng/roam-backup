@@ -1,0 +1,2 @@
+- 扎克伯格：Facebook介于报纸和电信公司之间 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI4Mzc0ODQxOQ==&mid=2247491991&idx=1&sn=e2db5dbd2aa2c6d33d208732d7ee5563&chksm=eb8750bbdcf0d9adfd459460c13defd1ec9b5622c03bf100838528b5893e153e648a1e53beb1)
+    - 我认为人们对现有行业有两种框架——一种是报纸和现有媒体，另一种是电信公司类型的模式，即‘数据只是流经你’，但如果有人在电话中说了一些有害的话，你不会让电信公司承担责任。我认为，Facebook实际上介于这两者之间。” [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzI4Mzc0ODQxOQ==&mid=2247491991&idx=1&sn=e2db5dbd2aa2c6d33d208732d7ee5563&chksm=eb8750bbdcf0d9adfd459460c13defd1ec9b5622c03bf100838528b5893e153e648a1e53beb1)

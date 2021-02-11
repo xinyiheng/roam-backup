@@ -1,0 +1,10 @@
+- Neo4j Browser User Interface GuideVia[Neo4j Browser User Interface Guide - Developer Guides](https://neo4j.com/developer/neo4j-browser/)[[20210102]] 下午6:02
+- 还有[[obsidian]]插件
+    - Installation of Neo4j Graph View PluginVia[Installation of Neo4j Graph View Plugin - Semantic Obsidian - Obsidian Publish](https://publish.obsidian.md/semantic-obsidian/Installation+of+Neo4j+Graph+View+Plugin)[[20210102]] 下午10:05
+- 呈现方式是[[语义网]]
+- [[cypher language]]用来[[query]]
+- neo4j lab 推出了一款画关系图的网页软件，[[arrows]]
+- Neo4j DocumentationVia[Neo4j Documentation](https://neo4j.com/docs/) [[20210119]] 下午1:59  
+- #[[参考资料]]
+    - Graph DatabasesVia[Eduonix | New Dashboard](https://www.eduonix.com/new_dashboard/learn-to-build-apps-using-neo4j) [[20210122]] 下午10:30  @评论:关于如何使用neo4j的教程
+    - 
