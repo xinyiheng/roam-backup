@@ -1,3 +1,6 @@
 - 如何学习css？
     - chrome插件 xpath css exploror,用它可以很方便地查看网页上的各种设置是通过哪些代码实现的。{{[[video]]: https://youtu.be/0jg-gOCpA_4}}
     - 
+- chrome自带的一个可以检查网页css概览的工具
+    - Chrome的这项实验性CSS概述功能很棒Via[Chrome的这项实验性CSS概述功能很棒– Amit Merchant –有关PHP，JavaScript等的博客](https://www.amitmerchant.com/experimental-css-overview-feature-chrome-awesome/) [[20210211]] 下午7:48
+    - 

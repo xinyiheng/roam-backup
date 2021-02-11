@@ -1,6 +1,15 @@
-- # 💾 更改背景颜色
+- ## Colored blocks - **new version**
     - Color scheme: [Alerts · Bootstrap (getbootstrap.com)](https://getbootstrap.com/docs/4.0/components/alerts/)
-    - Grey block #blck:grey
+    - Hide all block tags
+        - ```css
+
+/* this code hides all block tags */
+[data-tag^="chld:"],
+[data-tag^="blck-chld:"],
+[data-tag^="blck:"] {
+display:none;
+}```
+    - Grey block #blck:grey 
         - Examples
             - Main block #blck:grey
             - Block with children #blck-chld:grey
@@ -10,9 +19,9 @@
                 - Child 2
         - Code
             - ```css
-[data-page-links*="blck:grey"] > .rm-block-main,
-[data-page-links*="blck-chld:grey"],
-[data-page-links*="chld:grey"] > .rm-block-children
+[data-tags~="blck:grey"],
+[data-tags-up~="blck-chld:grey"],
+[data-tags-up~="chld:grey"] > div:nth-child(2)
 {
     /* color: #383d41; */
     background-color: #e2e3e5;
@@ -29,15 +38,59 @@
                 - Child 2
         - Code
             - ```css
-[data-page-links*="blck:pink"] > .rm-block-main,
-[data-page-links*="blck-chld:pink"],
-[data-page-links*="chld:pink"] > .rm-block-children
+[data-tags~="blck:blue"],
+[data-tags-up~="blck-chld:blue"],
+[data-tags-up~="chld:blue"] > div:nth-child(2)
 {
+ 
+  
  /*	 color: #004085;*/
-    background-color: #124275;
+    background-color: #cce5ff;
     /*border-color: #b8daff;*/
   border: solid 1px #b8daff;
   /*border-color: #80BDFF;*/
+    margin-bottom: 5px;
+}```
+    - Green block  #blck:green
+        - Examples
+            - Main block #blck:green
+            - Block with children #blck-chld:green
+                - Children
+            - Only children #chld:green
+                - Child 1
+                - Child 2
+        - Code:
+            - ```css
+[data-tags~="blck:green"],
+[data-tags-up~="blck-chld:green"],
+[data-tags-up~="chld:green"] > div:nth-child(2)
+{
+ 
+  /*   color: #155724; */
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;
+  
+    margin-bottom: 5px;
+}```
+    - Red block #blck:red
+        - Examples
+            - Main block #blck:red
+            - Block with children #blck-chld:red
+                - Children
+            - Only children #chld:red
+                - Child 1
+                - Child 2
+        - Code
+            - ```css
+[data-tags~="blck:red"],
+[data-tags-up~="blck-chld:red"],
+[data-tags-up~="chld:red"] > div:nth-child(2)
+{
+ 
+  /*   color: #721c24;*/
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;
+  
     margin-bottom: 5px;
 }```
     - Yellow block #blck:yellow
@@ -50,17 +103,27 @@
                 - Child 2
         - Code
             - ```css
-[data-page-links*="blck:yellow"]  .rm-block-main,
-[data-page-links*="blck-chld:yellow"],
-[data-page-links*="chld:yellow"] > .rm-block-children
+[data-tags~="blck:yellow"],
+[data-tags-up~="blck-chld:yellow"],
+[data-tags-up~="chld:yellow"] > div:nth-child(2)
 {
  
  /*  color: #856404; */
     background-color: #fff3cd;
-  
+    
     border: 1px solid #ffeeba;
  
     margin-bottom: 5px;
+}```
+- ## Sticky blocks
+    - Code:
+        - ```css
+
+[data-tags-up~="sticky"] {
+  position: -webkit-sticky; /* Safari */
+  position: sticky !important;
+  top: 0;
+  z-index: 10;
 }```
 - Using Roam/CSS to display a list as grid or in rows
 via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/share/06b03473bcda4728b5bef40929e5012f)
@@ -369,9 +432,6 @@ div.roam-app>div.roam-sidebar-container {
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     background-color: #E9FAEA;
 }
-.roam-block-container.rm-block.rm-block--mine.rm-block--open.block-highlight-blue.rm-not-focused.block-bullet-view {
-    border:3px solid rgb(170,7,7);
-}
 #right-sidebar, div.roam-app>div.flex-h-box {
     background-color: var(--right-sidebar-bg);
 }
@@ -673,26 +733,17 @@ Search...
 
 /* Hide graph button in top bar menu area */
 
-
-}
-.bp3-button.bp3-minimal.bp3-icon-graph.bp3-small {
-    display:none
-}
 .bp3-button.bp3-minimal.bp3-icon-menu.pointer.bp3-small.rm-open-left-sidebar-btn {
   	display: none;
 }
-/* Hide Roam Logo */
 
-#roam-sidebar-logo {.bp3-button.bp3-minimal.bp3-icon-menu.pointer.bp3-small.rm-open-left-sidebar-btn
-    display: none;
-}
 
 /* ***** SEARCH BAR RESULTS FORMATTING ***** */
 
 /* page results from search bar */
 
 .rm-search-title {
-    color: black !important;
+    color: rgb(40,13,204) !important;
 }
 
 /* Search results text */
@@ -738,7 +789,7 @@ span[style*="background-color: yellow"] {
     padding: unset;
     margin: unset;
     display: unset;
-    border-bottom: unset;
+    border-bottom: blue;
     cursor: alias;
 }
 
@@ -807,9 +858,9 @@ code {
 
 :root {
     /* My colors */
-    --box-shadow-values: none;
+    --box-shadow-values:15px 0px 20px -30px;
     /* Set to "none" to remove shadow... or 25px 0px 20px -30px; */
-    --indent1: springgreen;
+    --indent1: #07BC1C;
     --indent2: #FF0900;
     --indent3: #5BC9D7;
     --indent4: violet;
