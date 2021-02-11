@@ -57,7 +57,7 @@
  
  /*  color: #856404; */
     background-color: #fff3cd;
-    
+  
     border: 1px solid #ffeeba;
  
     margin-bottom: 5px;
@@ -359,15 +359,15 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
     --masonry-startHeight: 234px;
     /* DEFAULT: 243px; Change this to "unset" if you DON'T want the sidebar pages to be reset in grid like format each time */
     --masonry-minHeight: 200px;
-    --masonry-border: 3px solid rgb(222,134,134);
+    --masonry-border: 2px double #ED5A2A;
     --closed-bullet-color: 4px solid #CED9E0;
     --code-color: crimson;
 }
 div.roam-app>div.roam-sidebar-container {
-    display:
+    display:none
 }
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
-    background-color: #ECF9D9;
+    background-color: #E9FAEA;
 }
 .roam-block-container.rm-block.rm-block--mine.rm-block--open.block-highlight-blue.rm-not-focused.block-bullet-view {
     border:3px solid rgb(170,7,7);
