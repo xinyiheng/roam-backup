@@ -24,7 +24,7 @@ display:none;
   }```
     - ## Colored blocks - **new version**
         - Color scheme: [Alerts · Bootstrap (getbootstrap.com)](https://getbootstrap.com/docs/4.0/components/alerts/)
-        - Hide all block tags
+        - Hide all block tags#[[blck:green]]
             - ```css
 
 /* this code hides all block tags */
@@ -33,22 +33,22 @@ display:none;
 [data-tag^="blck:"] {
 display:none;
 }```
-        - Grey block #blck:grey 
+        - Grey block #blck:purple
             - Examples
-                - Main block #blck:grey
-                - Block with children #blck-chld:grey
+                - Main block #blck:purple
+                - Block with children #blck-chld:purple
                     - Children
-                - Only children #chld:grey
+                - Only children #chld:purple
                     - Child 1
                     - Child 2
             - Code
                 - ```css
-[data-tags~="blck:grey"],
-[data-tags-up~="blck-chld:grey"],
-[data-tags-up~="chld:grey"] > div:nth-child(2)
+[data-page-links*="blck:purple"],
+[data-page-links*="blck-chld:purple"],
+[data-page-links*="chld:purple"] > div:nth-child(2)
 {
     /* color: #383d41; */
-    background-color: #e2e3e5;
+    background-color: #E48BF4;
     border: 1px solid #d6d8db; 
     margin-bottom: 5px;
 }```
@@ -62,10 +62,10 @@ display:none;
                     - Child 2
             - Code
                 - ```css
-[data-tags~="blck：blue"],
-[data-tags-up~="blck-chld:blue"],
-[data-tags-up~="chld:blue"] > div:nth-child(2) {
-    background-color: #cce5ff;
+[data-page-links*="blck:blue"],
+[data-page-links*="blck-chld:blue"],
+[data-page-links*="chld:blue"] > div:nth-child(2) {
+    background-color: #D7E5F2;
     /*border-color: #b8daff;*/
   	border: solid 1px #b8daff;
   /*border-color: #80BDFF;*/
@@ -81,9 +81,9 @@ display:none;
                     - Child 2
             - Code:
                 - ```css
-[data-tags~="blck:green"],
-[data-tags-up~="blck-chld:green"],
-[data-tags-up~="chld:green"] > div:nth-child(2)
+[data-page-links*="blck:green"],
+[data-page-links*="blck-chld:green"],
+[data-page-links*="chld:green"] > div:nth-child(2)
 {
  
   /*   color: #155724; */
@@ -102,11 +102,11 @@ display:none;
                     - Child 2
             - Code
                 - ```css
-[data-tags~="blck:red"],
-[data-tags-up~="blck-chld:red"],
-[data-tags-up~="chld:red"] > div:nth-child(2)
+[data-page-links*="blck:red"],
+[data-page-links*="blck-chld:red"],
+[data-page-links*="chld:red"] > div:nth-child(2)
 {  
-    background-color: #EB2638;
+    background-color: #F6D5D8;
     border: 1px solid #f5c6cb;
     margin-bottom: 5px;
 }```
@@ -120,9 +120,9 @@ display:none;
                     - Child 2
             - Code
                 - ```css
-[data-tags~="blck:yellow"],
-[data-tags-up~="blck-chld:yellow"],
-[data-tags-up~="chld:yellow"] > div:nth-child(2)
+[data-page-links*="blck:yellow"],
+[data-page-links*="blck-chld:yellow"],
+[data-page-links*="chld:yellow"] > div:nth-child(2)
 {
  
  /*  color: #856404; */
@@ -875,7 +875,7 @@ code {
 
 :root {
     /* My colors */
-    --box-shadow-values:15px 0px 20px -30px;
+    --box-shadow-values:25px 0px 20px -30px;
     /* Set to "none" to remove shadow... or 25px 0px 20px -30px; */
     --indent1: #07BC1C;
     --indent2: #FF0900;
