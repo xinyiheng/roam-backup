@@ -1,15 +1,48 @@
-- ## Colored blocks - **new version**
-    - Color scheme: [Alerts · Bootstrap (getbootstrap.com)](https://getbootstrap.com/docs/4.0/components/alerts/)
-    - Grey block #blck:grey 
-        - Examples
-            - Main block #blck:grey
-            - Block with children #blck-chld:grey
-                - Children
-            - Only children #chld:grey
-                - Child 1
-                - Child 2
+- # :hiccup[:div {:class "alert alert-warning"} "💾 Code"]
+    - ## Code of the ROAMEXT extension: [[ROAMEXT 1.0 (stable)]]
+    - ## Blockquotes
+        - Example:
+            - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit elit in erat congue, quis efficitur massa ultrices. Aliquam volutpat lobortis dapibus. Cras lacus ligula, maximus luctus porta rutrum, viverra rhoncus elit. Fusce sit amet nulla tincidunt sapien vulputate mattis in ac felis. Vestibulum dictum eu velit id pulvinar. Integer lacus nulla, ornare vitae mauris id, vulputate aliquam diam. Aliquam ullamcorper tempor arcu a malesuada. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in condimentum sapien, ac feugiat mi. Nulla facilisi. Integer ut velit metus. Donec lacinia mattis imperdiet. Pellentesque vulputate augue sit amet egestas hendrerit. Duis ultricies auctor libero id ornare. #bq
+        - 
+        - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit elit in erat congue, quis efficitur massa ultrices. Aliquam volutpat lobortis dapibus. Cras lacus ligula, maximus luctus porta rutrum, viverra rhoncus elit. Fusce sit amet nulla tincidunt sapien vulputate mattis in ac felis. Vestibulum dictum eu velit id pulvinar. Integer lacus nulla, ornare vitae mauris id, vulputate aliquam diam. Aliquam ullamcorper tempor arcu a malesuada. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in condimentum sapien, ac feugiat mi. Nulla facilisi. Integer ut velit metus. Donec lacinia mattis imperdiet. Pellentesque vulputate augue sit amet egestas hendrerit. Duis ultricies auctor libero id ornare. #bq"
         - Code
+            - Definition of the blockquote:
+                - ```css
+
+[data-tags~="bq"] {
+  background-color: rgb(244,242,242);
+  border-left: 5px solid rgb(255,204,111);
+  padding-left: 10px;
+  
+}
+```
+            - Hiding the tag
+                - ```css
+
+[data-tag="bq"] {
+display:none;
+  }```
+    - ## Colored blocks - **new version**
+        - Color scheme: [Alerts · Bootstrap (getbootstrap.com)](https://getbootstrap.com/docs/4.0/components/alerts/)
+        - Hide all block tags
             - ```css
+
+/* this code hides all block tags */
+[data-tag^="chld:"],
+[data-tag^="blck-chld:"],
+[data-tag^="blck:"] {
+display:none;
+}```
+        - Grey block #blck:grey 
+            - Examples
+                - Main block #blck:grey
+                - Block with children #blck-chld:grey
+                    - Children
+                - Only children #chld:grey
+                    - Child 1
+                    - Child 2
+            - Code
+                - ```css
 [data-tags~="blck:grey"],
 [data-tags-up~="blck-chld:grey"],
 [data-tags-up~="chld:grey"] > div:nth-child(2)
@@ -19,39 +52,35 @@
     border: 1px solid #d6d8db; 
     margin-bottom: 5px;
 }```
-    - Blue block #blck:blue
-        - Examples
-            - Main block #blck:blue
-            - Block with children #blck-chld:blue
-                - Children
-            - Only children #chld:blue
-                - Child 1
-                - Child 2
-        - Code
-            - ```css
-[data-tags~="blck:blue"],
+        - Blue block #blck:blue
+            - Examples
+                - Main block #blck:blue
+                - Block with children #blck-chld:blue
+                    - Children
+                - Only children #chld:blue
+                    - Child 1
+                    - Child 2
+            - Code
+                - ```css
+[data-tags~="blck：blue"],
 [data-tags-up~="blck-chld:blue"],
-[data-tags-up~="chld:blue"] > div:nth-child(2)
-{
- 
-  
- /*	 color: #004085;*/
+[data-tags-up~="chld:blue"] > div:nth-child(2) {
     background-color: #cce5ff;
     /*border-color: #b8daff;*/
-  border: solid 1px #b8daff;
+  	border: solid 1px #b8daff;
   /*border-color: #80BDFF;*/
     margin-bottom: 5px;
 }```
-    - Green block  #blck:green
-        - Examples
-            - Main block #blck:green
-            - Block with children #blck-chld:green
-                - Children
-            - Only children #chld:green
-                - Child 1
-                - Child 2
-        - Code:
-            - ```css
+        - Green block  #blck:green
+            - Examples
+                - Main block #blck:green
+                - Block with children #blck-chld:green
+                    - Children
+                - Only children #chld:green
+                    - Child 1
+                    - Child 2
+            - Code:
+                - ```css
 [data-tags~="blck:green"],
 [data-tags-up~="blck-chld:green"],
 [data-tags-up~="chld:green"] > div:nth-child(2)
@@ -63,37 +92,34 @@
   
     margin-bottom: 5px;
 }```
-    - Red block #blck:red
-        - Examples
-            - Main block #blck:red
-            - Block with children #blck-chld:red
-                - Children
-            - Only children #chld:red
-                - Child 1
-                - Child 2
-        - Code
-            - ```css
+        - Red block #blck:red
+            - Examples
+                - Main block #blck:red
+                - Block with children #blck-chld:red
+                    - Children
+                - Only children #chld:red
+                    - Child 1
+                    - Child 2
+            - Code
+                - ```css
 [data-tags~="blck:red"],
 [data-tags-up~="blck-chld:red"],
 [data-tags-up~="chld:red"] > div:nth-child(2)
-{
- 
-  /*   color: #721c24;*/
-    background-color: #f8d7da;
+{  
+    background-color: #EB2638;
     border: 1px solid #f5c6cb;
-  
     margin-bottom: 5px;
 }```
-    - Yellow block #blck:yellow
-        - Examples
-            - Main block #blck:yellow
-            - Block with children #blck-chld:yellow
-                - Children
-            - Only children #chld:yellow
-                - Child 1
-                - Child 2
-        - Code
-            - ```css
+        - Yellow block #blck:yellow
+            - Examples
+                - Main block #blck:yellow
+                - Block with children #blck-chld:yellow
+                    - Children
+                - Only children #chld:yellow
+                    - Child 1
+                    - Child 2
+            - Code
+                - ```css
 [data-tags~="blck:yellow"],
 [data-tags-up~="blck-chld:yellow"],
 [data-tags-up~="chld:yellow"] > div:nth-child(2)
@@ -106,9 +132,9 @@
  
     margin-bottom: 5px;
 }```
-- ## Sticky blocks
-    - Code:
-        - ```css
+    - ## Sticky blocks
+        - Code:
+            - ```css
 
 [data-tags-up~="sticky"] {
   position: -webkit-sticky; /* Safari */
@@ -1018,3 +1044,34 @@ code {
 }
 Search...
 ```
+- kanban
+    - ```css
+
+.kanban-board {
+  background-color: #FFDB3A;
+  max-height: 600px; 
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+.kanban-column {
+  background-color: rgba(248,227,187,0.98);
+}
+
+.kanban-card {
+  box-shadow: 0 1px 4px 0 rgba(21, 27, 38, 0.08);
+  border-radius: 4px;
+  box-shadow: 0 1px 4px 0 rgba(21, 27, 38, 0.08);
+}
+
+.kanban-card:hover {
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.1);
+  transform: translateY(-1px);
+}
+
+.kanban-title {
+  text-align: left;
+  margin: 0px 8px;
+  font-weight: 700px;
+  border-bottom: none;
+}```
