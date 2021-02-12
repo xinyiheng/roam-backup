@@ -1,14 +1,5 @@
 - ## Colored blocks - **new version**
     - Color scheme: [Alerts · Bootstrap (getbootstrap.com)](https://getbootstrap.com/docs/4.0/components/alerts/)
-    - Hide all block tags
-        - ```css
-
-/* this code hides all block tags */
-[data-tag^="chld:"],
-[data-tag^="blck-chld:"],
-[data-tag^="blck:"] {
-display:none;
-}```
     - Grey block #blck:grey 
         - Examples
             - Main block #blck:grey
@@ -427,7 +418,7 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
     --code-color: crimson;
 }
 div.roam-app>div.roam-sidebar-container {
-    display:none
+    display:none;
 }
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     background-color: #E9FAEA;
