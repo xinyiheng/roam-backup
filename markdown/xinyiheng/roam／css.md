@@ -126,20 +126,27 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
     --masonry-resizer-color: lightgrey;
     --masonry-startWidth: 400px;
     /* DEFAULT: 550px; Change this to "unset" if you DON'T want the sidebar pages to be reset in grid like format each time */
-    --masonry-minWidth: 440px;
-    --masonry-maxWidth: 1200px;
+    --masonry-minWidth: unset;
+    --masonry-maxWidth: unset;
     --masonry-startHeight: 234px;
     /* DEFAULT: 243px; Change this to "unset" if you DON'T want the sidebar pages to be reset in grid like format each time */
-    --masonry-minHeight: 200px;
+    --masonry-minHeight: unset;
     --masonry-border: 2px double #ED5A2A;
     --closed-bullet-color: 4px solid #CED9E0;
     --code-color: crimson;
 }
+/* 隐藏显示左边栏的按钮 */
+
+.bp3-button.bp3-minimal.bp3-icon-menu.pointer.bp3-small.rm-open-left-sidebar-btn {
+  	visibility:hidden;
+}
+/* 隐藏左侧边栏 */
 div.roam-app>div.roam-sidebar-container {
     display:none;
 }
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     background-color: #E9FAEA;
+    display:flex;
 }
 #right-sidebar, div.roam-app>div.flex-h-box {
     background-color: var(--right-sidebar-bg);
@@ -149,7 +156,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     overflow: auto !important;
 }
 .sidebar-content {
-    display: flex;
+    display:flex;
     flex-direction: column;
     flex-wrap: wrap;
     height: 99%;
@@ -440,11 +447,7 @@ Search...
 - 新的css附加2
     - ```css
 
-/* Hide graph button in top bar menu area */
 
-.bp3-button.bp3-minimal.bp3-icon-menu.pointer.bp3-small.rm-open-left-sidebar-btn {
-  	display: none;
-}
 
 
 /* ***** SEARCH BAR RESULTS FORMATTING ***** */
@@ -452,7 +455,7 @@ Search...
 /* page results from search bar */
 
 .rm-search-title {
-    color: rgb(40,13,204) !important;
+    color: #314650 !important;
 }
 
 /* Search results text */
@@ -767,3 +770,18 @@ roam-block-container rm-block rm-block--mine rm-block--open rm-not-focused block
   font-weight: 700px;
   border-bottom: none;
 }```
+- portal
+    - ```css
+.ras-input-container {
+    display:none;
+}
+.ras-date-formatted {
+    display:none;
+}
+.ras-in-page-name {
+    display:none;
+}
+.ras-date-text-box.ras-text-box-to {
+  	display:none;
+}
+```
