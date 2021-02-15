@@ -14,3 +14,5 @@ via[用 Coda 打造你的个人仪表盘 (3)--让量化自我不再繁琐 - 少�
 [[20201224]] 下午10:34
     - 
 - What Are APIs? - Simply ExplainedVia[(6) Are APIs? - Simply Explained - YouTube](https://www.youtube.com/watch?v=OVvTv9Hy91Q&feature=emb_rel_end)[[20210104]] 下午8:57
+- 用网页访问本地文件
+    - The File System Access API: simplifying access to local filesVia[The File System Access API: simplifying access to local files](https://web.dev/file-system-access/) [[20210215]] 下午11:25
