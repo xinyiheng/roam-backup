@@ -126,7 +126,7 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
     --masonry-resizer-color: lightgrey;
     --masonry-startWidth: 400px;
     /* DEFAULT: 550px; Change this to "unset" if you DON'T want the sidebar pages to be reset in grid like format each time */
-    --masonry-minWidth: unset;
+    --masonry-minWidth: 550px;
     --masonry-maxWidth: unset;
     --masonry-startHeight: 234px;
     /* DEFAULT: 243px; Change this to "unset" if you DON'T want the sidebar pages to be reset in grid like format each time */
