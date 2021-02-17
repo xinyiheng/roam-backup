@@ -142,7 +142,7 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
 }
 /* 隐藏左侧边栏 */
 div.roam-app>div.roam-sidebar-container {
-    display:none;
+    display:none
 }
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     background-color: #E9FAEA;
