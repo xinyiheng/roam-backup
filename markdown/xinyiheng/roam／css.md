@@ -114,46 +114,41 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
   color: #FFFFFF;
 }```
 - 新的css    --right-sidebar-drag-bg: #337ac6;分享一个Andy Mode的CSS和几个js插件https://github.com/GitMurf/masonry-vanilla#masonry-vanilla
-
     - ```css
 
 :root {
-    --main-left-bg: #CCCFD1;
-    --main-left-border: 3px solid rgb(30,4,4);
+    --main-left-bg: #F2E9E9;
+    --right-sidebar-bg: rgb(247 248 249);
+    --right-sidebar-drag-bg: #337ac6;
+    --masonry-bg: rgb(247,245,227);
     --masonry-scrollbar-bg: lightgrey;
     --masonry-resizer-color: lightgrey;
-    --masonry-startWidth: 400px;
-    /* DEFAULT: 550px; Change this to "unset" if you DON'T want the sidebar pages to be reset in grid like format each time */
-    --masonry-minWidth:300px;
-    --masonry-startHeight: 234px;
-    /* DEFAULT: 243px; Change this to "unset" if you DON'T want the sidebar pages to be reset in grid like format each time */
-    --masonry-minHeight: 243px;
-    --masonry-border: 2px double #ED5A2A;
-    --closed-bullet-color: 4px solid #68C4FF;
+    --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
+    --masonry-minWidth: 440px;
+    --masonry-maxWidth: 1200px;
+    --masonry-startHeight: 234px; /* DEFAULT: 243px; Use "unset" to prevent loading in grid like format */
+    --masonry-minHeight: 200px;
+    --masonry-border: 1px solid rgb(212,190,5);
+    --closed-bullet-color: 4px solid #CED9E0;
     --code-color: crimson;
+    --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
 }
-/* 隐藏显示左边栏的按钮 */
 
-.bp3-button.bp3-minimal.bp3-icon-menu.pointer.bp3-small.rm-open-left-sidebar-btn {
-  	visibility:hidden;
-}
-/* 隐藏左侧边栏 */
-div.roam-app>div.roam-sidebar-container {
-    display:none
-}
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
-    background-color: #E9FAEA;
-    display:flex;
+    background-color: var(--main-left-bg);
 }
+
 #right-sidebar, div.roam-app>div.flex-h-box {
     background-color: var(--right-sidebar-bg);
 }
 
 #roam-right-sidebar-content {
-    overflow: auto; !important;
+    overflow: auto !important;
 }
+
 .sidebar-content {
-    display:flex;
+    overflow: unset;
+    display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     height: 99%;
@@ -173,7 +168,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 
 .sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator) {
-    border-bottom: unset; !important;
+    border-bottom: unset !important;
     height: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -191,7 +186,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 
 /*NOTE: .rm-sidebar-outline and .rm-reference-main are at same level and so need to be addressed with div > div... as opposed to direct .classnames */
 
-.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(2) {
+.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(1) {
     resize: both;
     overflow-y: auto;
     width: var(--masonry-startWidth);
@@ -203,7 +198,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     margin-right: 8px;
 }
 
-.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(2)>div:nth-child(2) {
+.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(1)>div:nth-child(2) {
     padding-bottom: 40px;
     margin-left: -8px !important;
 }
@@ -216,28 +211,28 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 
 /* SCROLLBAR */
 
-.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(2)::-webkit-scrollbar {
+.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(1)::-webkit-scrollbar {
     width: unset;
 }
 
-.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(2)::-webkit-scrollbar:hover {
+.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(1)::-webkit-scrollbar:hover {
     background-color: var(--masonry-bg);
 }
 
-.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(2)::-webkit-resizer {
+.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(1)::-webkit-resizer {
     border-style: solid;
     border-color: transparent var(--masonry-resizer-color) var(--masonry-resizer-color) transparent;
     background-color: var(--masonry-bg);
     border-width: 3px;
 }
 
-.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(2)::-webkit-scrollbar-button, .sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(2)::-webkit-scrollbar-thumb, .sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(2)::-webkit-scrollbar-track, .sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(2)::-webkit-scrollbar-track-piece, .sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(2)::-webkit-scrollbar-corner {
+.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(1)::-webkit-scrollbar-button, .sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(1)::-webkit-scrollbar-thumb, .sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(1)::-webkit-scrollbar-track, .sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(1)::-webkit-scrollbar-track-piece, .sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(1)::-webkit-scrollbar-corner {
     display: none;
 }
 
 /*Make the scrollbar smaller but keep the resize button the same*/
 
-.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(2):hover::-webkit-scrollbar-thumb {
+.sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator)>div:nth-child(2)>div:nth-child(1):hover::-webkit-scrollbar-thumb {
     display: block;
     border-radius: 12px;
     background-color: var(--masonry-scrollbar-bg);
@@ -245,7 +240,15 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     border-width: 6px;
     border-color: var(--masonry-bg);
 }
+/* 隐藏显示左边栏的按钮 */
 
+.bp3-button.bp3-minimal.bp3-icon-menu.pointer.bp3-small.rm-open-left-sidebar-btn {
+  	visibility:hidden;
+}
+/* 隐藏左侧边栏 */
+div.roam-app>div.roam-sidebar-container {
+    display:none
+}
 /* Focus/zoom breadcrumb trail */
 
 .roam-body-main .roam-article .zoom-path-view {
@@ -300,20 +303,43 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 .rm-multibar {
     z-index: 4;
 }
+
+/* Fix where block ref counter overflows and adds unnecessary horizontal scroll in masonry side pages */
+
+div.rm-block-main {width: 99%;}
+
+/* Kanban */
+
+div[data-page-links*="kanban"] .dont-focus-block.rm-full-width {
+    margin-right: unset;
+}
+div.roam-main .kanban-board .kanban-column {
+    flex: 1 0 150px;
+}
+div#right-sidebar .kanban-board .kanban-column {
+    flex: 1 0 75px;
+}
 Search...
 ```
+        - 
 - 新的css附加1
     - ```css
 
 /* Extend the main page wider to allow for blocks to be wider  */
 
 div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 800px) / 2);"], div[style*="padding-right: calc((100% - 568px) / 2); padding-left: calc((100% - 1032px) / 2);"] {
-    /* FULL WIDTH
+    /*
+    Roam Default 800px
+    padding-right: calc((100% - 800px) / 2) !important;
+    padding-left: calc((100% - 800px) / 2) !important;
+
+    FULL WIDTH
     padding-right: calc((100% - 3400px) / 2) !important;
     padding-left: calc((100% - 3400px) / 2) !important;
-  */
-    padding-right: calc((100% - 1500px) / 2) !important;
-    padding-left: calc((100% - 1500px) / 2) !important;
+    */
+
+    padding-right: calc((100% - var(--block-widths)) / 2) !important;
+    padding-left: calc((100% - var(--block-widths)) / 2) !important;
 }
 
 /* Block text widths to extend block text wider for when you make the page wider with the CSS above  */
@@ -359,7 +385,7 @@ div[style*="height: 720px;"] {
 /* MOVING MENU AND SEARCH BOX TO THE UPPER RIGHT WHEN SIDEBAR IS OPEN (instead of default middle of page) */
 
 .roam-body-main {
-    margin-top: 4px;
+    margin-top: 45px;
 }
 
 .rm-topbar {
