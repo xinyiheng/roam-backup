@@ -120,19 +120,16 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
 :root {
     --main-left-bg: #CCCFD1;
     --main-left-border: 3px solid rgb(30,4,4);
-    --right-sidebar-bg: #773535(247 248 249);
-    --masonry-bg: #FBFBF7;
     --masonry-scrollbar-bg: lightgrey;
     --masonry-resizer-color: lightgrey;
     --masonry-startWidth: 400px;
     /* DEFAULT: 550px; Change this to "unset" if you DON'T want the sidebar pages to be reset in grid like format each time */
-    --masonry-minWidth: 550px;
-    --masonry-maxWidth: unset;
+    --masonry-minWidth:300px;
     --masonry-startHeight: 234px;
     /* DEFAULT: 243px; Change this to "unset" if you DON'T want the sidebar pages to be reset in grid like format each time */
-    --masonry-minHeight: unset;
+    --masonry-minHeight: 243px;
     --masonry-border: 2px double #ED5A2A;
-    --closed-bullet-color: 4px solid #CED9E0;
+    --closed-bullet-color: 4px solid #68C4FF;
     --code-color: crimson;
 }
 /* 隐藏显示左边栏的按钮 */
@@ -153,7 +150,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 
 #roam-right-sidebar-content {
-    overflow: auto !important;
+    overflow: auto; !important;
 }
 .sidebar-content {
     display:flex;
@@ -176,7 +173,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 
 .sidebar-content>div:not(.rm-dnd-separator)>div:not(.rm-dnd-separator) {
-    border-bottom: unset !important;
+    border-bottom: unset; !important;
     height: 100%;
     padding-top: 10px;
     padding-bottom: 10px;

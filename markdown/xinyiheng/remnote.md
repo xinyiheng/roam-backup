@@ -5,7 +5,11 @@
     - Concepts that exist in the real world, such as DNA ,  | 5 Prime End and  | Transcription . These are real things - I could show you a piece of DNA or show you the process of  | Transcription . In RemNote, we call these  Concepts.
 - remnote已经支持[[graph图]]了，不仅如此，好像以后还会支持直接在graph图上修改。也支持pdf批注功能了。开发速度是在是快！在加上现在已经有的卡片记忆杀手锏，已经成为[[roam research]]的最大竞争对手。
 - remnote的graph图真的有些超出我的设想，可以非常容易地自定义显示的元素。直接在graph上修改的功能使得一遍写作文档，一边用概念图来整理思想第一次成为了可能。remnote 在graph图的开发上真是后来居上。相比而言，roam research在的graph图真的就是摆设。远不如obsidian和remnote。
-- 
+- 在surface上使用remnote比在mac上还要好。
+- 关于使用graph图的一些使用技巧
+    - {{[[video]]: https://www.youtube.com/watch?app=desktop&v=KyfXoTvpngA&t=194s}}
+    - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
+- mac 上的graph图中新建节点的时候如果输入中文经常会崩溃，先输入一个空格就可以了
 - remnote的graph图有什么特点？是在写作笔记的时候自动生成概念图，并且概念图也可以直接修改，并且反应在笔记上，这是[[Tinderbox]]和[[scapple]]也都无法达到的功能。
 - 如何创建rem(间隔记忆卡片或者说闪卡）？
     - 四种不同的卡片
