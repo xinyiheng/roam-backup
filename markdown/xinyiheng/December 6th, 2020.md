@@ -13,7 +13,7 @@
 -via[11月畅销榜 | 感恩有你 一路相伴](https://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=2651138638&idx=1&sn=d86533acc8fa4e70b7824be3f60e5f77&chksm=bd04a6c88a732fde3e32070a57bed574552b6870b944489992ad5adf5d8fcadd8ebece955b83)
 - Two Effective Focusing Methods to Improve Concentration
 -via[](https://www.youtube.com/watch?v=hECoe2S9Nro)#[[注意力]]
-    - 无聊是分散注意力的首要因素，因此，适应无聊是提升专注力的好方法。而这种适应无聊的锻炼就是冥想。
+    - 无聊是分散[[注意力]]的首要因素，因此，适应无聊是提升专注力的好方法。而这种适应无聊的锻炼就是冥想。
 - Simple Feynman Technique for Studying#[[费曼技巧]]
 -via[Simple Feynman Technique for Studying - YouTube](https://www.youtube.com/watch?v=GL6Z1DTJ-LQ)
     - 我也可以用写的方式来练习费曼技巧，把自己阅读到的东西做成闪卡。可能remnote是一个可用的工具。当然，roam research和Anki也各有优点。
