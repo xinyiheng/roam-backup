@@ -1,0 +1,21 @@
+- #[[软件联动]]
+    - 如何把[[diigo]]搜集的摘要复制到[[roam research]]等整理类笔记
+        - [Jim Collins’s Secret Formula for Highly Productive Creative Work | by August Birch | The Book Mechanic | Medium](https://medium.com/the-book-mechanic/jim-collins-secret-formula-for-high-productivity-in-creative-work-f09349b07cd1)
+        - https://medium.com/the-book-mechanic/jim-collins-secret-formula-for-high-productivity-in-creative-work-f09349b07cd1
+            - Jim Collins, former Stanford professor, rock climber, and the author of the business classic, __Good to Great — __is also a polymath and data nerd. For years he’s tracked his daily productivity, sleep, and mood. I recently heard a fantastic interview of Collins on Tim Ferriss’s podcast, and I though it important to share what I learned.
+            - So, how much creative time is enough? Collins says this equates to 1,000 hours every 365 day interval, no matter where you slice it. Approximately three hours a day — every day.
+        - [当心“绿色泡沫” - FT中文网](http://www.ftchinese.com/premium/001091492?topnav=markets&archive)
+        - http://www.ftchinese.com/premium/001091492?topnav=markets&archive
+            - 气候友好型__投资__的热情达到白热化程度，有人__认为__，__投资__者将大把__资金____投入__任何看起来“绿色”的东西，已将__估值__推至极高水平。
+            - __随着__对气候友好型__投资__的热情达到白热化程度，__分析__人士警告称，__投资__者正将大把__资金____投入__任何看起来“绿色”的东西，这将环保型公司的__估值__推至极高水平，引发了对泡沫的担忧。
+            - 拉里•芬克(Larry Fink)上月__表示__，__市场__正经历一场“__结构__性转变”，可持续发展__投资__成为一个__趋势__。晨星(Morningstar)的__数据__显示，__去年__全球与__环境__、社会和治理(ESG)__理念__相关的__基金__吸收了
+            - 全球最大资产__管理__公司贝莱德(BlackRock)首席执行
+        - [股票投资者应该为利率上涨担心吗？ - FT中文网](http://www.ftchinese.com/premium/001091496?topnav=markets&exclusive)
+        - http://www.ftchinese.com/premium/001091496?topnav=markets&exclusive
+            - 债券
+            - 空头的叫喊声已越来越响，这为__股票____投资__者带来了一个严肃的问题。他们应该何时真正开始为10年期__利率__上涨而担心？
+            - 全球经济__增长__和企业盈利的预__估值__正在回升，证实了__投资__者乐观的预期，这些预期推动__股票__和__大宗商品__价格在最近数月大幅上涨。全球10年期__利率__也在上涨。美国、日本、中国、澳大利亚、欧洲和英国的10年期__利率__目前都处于近一年来的最高水平。
+        - https://mp.weixin.qq.com/s/sBK-bP6dkmz2ZM7u56g7KA
+        - https://mp.weixin.qq.com/s/sBK-bP6dkmz2ZM7u56g7KA
+            - ____故事____的结局是，有学生把这事儿发上了微博，____第二____天的集体领酒取消了。但校方在接受采访时否认，“不是学校组织的。”
+            - 全民抢茅台的热潮里，茅台的原产地贵州省也把握住了机会。从2019年10月起，贵州出台了新政策：外地游客从一些指定的城市飞到贵阳机场，入住一些指定的酒店，到指定的景区游览，在贵州的高铁站和高速公路上____消费____，就能拥有购买1499元飞天茅台的机会（但不保证一定能抢到）。关于茅台真假难辨的____故事____开始流传——有人自称一周坐了17趟飞机就挣到了1万5，还有人声称，自己飞了一个星期挣了25万。
