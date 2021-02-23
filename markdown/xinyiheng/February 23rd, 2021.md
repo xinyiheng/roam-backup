@@ -23,4 +23,15 @@
             - •	[今天前几位都讨论了一本书，叫《理念的力量》，其实今天说桌子上摆了两本书，需要卖两本书的，但是他们两个人都没读这个书，这本书的名字叫《市场与政府》，所以你们看了书以后一定不想当公务员，因为政府在我们现在的阶段里面做的确实差了点。](https://opinion.china.com.cn/opinion_96_116496.html)
             - •	如果你作为政府官员或者你想当经济学家，你只能在旁边看。而如果你要想当企业家，你会亲身在一个潮流的改革当中不断撞墙。有人说政府和市场应该是统一的，确实，你如果建立的是一套市场经济的政府，那么这两者之间是会有一定程度上的统一性的。但是我们政府恰恰相反，他前30年是在计划经济强大基础上建立的政权，突然要改掉他自己的权力，取消计划经济的垄断性，让他顺应于市场，是很难的。今天我们之所以还没有解决，恰恰是有很多利益再分配，权力的再分配过程，而这个过程确实很难。
             - • <html><ul><li>Tinderbox</li><ul><li>卡片形式呈现信息</li><li>自由而专注</li><li>确实很美观</li></ul><li>包括</li><li>标签集合</li><ul><li>识别准确率不如直接写高</li><li>很方硬的思考板</li><ul><li>新</li><li>有约来的自由</li><li>无限的看板</li></ul></ul></ul></ul></html>
-            - •
+            - • rmarginnote3app://note/54977F1B-632C-407F-8E19-51D3343CCC12
+            - [为什么仅仅靠标签无法有效管理文件？](marginnote3app://note/D4613024-5273-4865-8700-6E569F9557AB)
+            - [为什么仅仅靠标签无法有效管理文件？](marginnote3app://note/D4613024-5273-4865-8700-6E569F9557AB)
+            - ![hnote_28001e461dc3470be6b7709618794ddb.png](blob:https://roamresearch.com/d8928728-a1dc-4c94-8fd3-26cfc16b8c84)
+            - 对策是卡片笔记
+            - ![hnote_28001e461dc3470be6b7709618794ddb.png](blob:https://roamresearch.com/1de8ba52-ba81-4e2b-8e5c-12d8b4c2c025)
+            - 对策是卡片笔记
+            - [可以多开几个窗口](marginnote3app://note/7FACB37E-C2C2-40D9-B12B-F44BC7641BDD)
+            - ![hnote_046bccfa61ed00c8ff67d1121583e0b6.png](https://roamresearch.com/f667c4e3-603a-49fb-b810-24e42841e7ef)
+            - ![hnote_540a670de27282991ae10b88f0bbb60a.png](blob:https://roamresearch.com/5da720f2-024e-4c66-8aa4-e54e5c58c30e)
+                - Loading...
+            - ![hnote_540a670de27282991ae10b88f0bbb60a.png](blob:https://roamresearch.com/a190cc2a-29cf-407c-8707-d7f9146005e7)
