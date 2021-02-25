@@ -24,3 +24,4 @@ via[从 Evernote 到 DEVONthink - 少数派](https://sspai.com/post/44648)
         - 还可以生产smart group，来方便提取和汇集文章。
 - 对导入devonthink中的文档添加很多信息，便于进一步加工。比如tag、lable，评分、作者等等信息。这也是smart group来分类的依据。
 - 注意使用index files and folders来关联不愿意或者不能够加入到的devonthink中来的文件。这种文件再加上已经导入到devonthink中的文件，devonthink就可以全面接管本地文件。devonthink文件里删除的内容好像无法同步到finder的真实内容，但是文件夹之间的移动可以映射到真实的文件位置变动中。反过来，在真实文件夹的变动可以完全映射到devonthink当中。不过还要继续观察，我感觉过了一段时间以后，有些内容还是不一样了，不过我还没有确定。我猜测可能是devonthink数据库莫名其妙丢失之后，再重新打开就可能会发生这种情况。
+- 目前我用devonthink主要是用到來管理
