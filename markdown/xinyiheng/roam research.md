@@ -115,6 +115,7 @@ Future task2               :         des4, after des3, 5d
         - 另一种是要在当前block当中引用别的block，为了方便找到，可以通过以下方式实现
             - 将您的光标放在一个块中，然后按Ctrl-Shift-9弹出搜索框
 - #[[快捷方式]]
+    - 在windows 系统中，查看上一个或下一个page的按键是alt+左右箭头
     - 快速跳转到daily note ctrl+shift+d
     - 在[[roam research]]中打开开发者模式，ctrl+shift+=
 - [[smart block]]是最近推出的杀手级的新功能，这让roam research有了更大的自定义的可能性。很多实现方式借助[[JavaScript]]
