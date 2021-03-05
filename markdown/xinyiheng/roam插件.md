@@ -18,7 +18,18 @@
         - 图像编辑 
         - [@huhuhang](https://sspai.com/u/huhuhang)：一直以来，Pixelmator Pro 都紧跟系统新特性发布重要更新，Pixelmator Pro 2.0.2 已经支持了 iOS 14.3 推出的 Apple ProRAW 格式。
 - [[RoamPortal-Search]]可以展示概念之间的立体图，非常棒，我设置了#[[快捷方式]]ctrl+p
-- 
+- {{[[roam/js]]}}
+    - ```javascript
+var existing = document.getElementById("timeline");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/timeline.js";
+  extension.id = "timeline";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}
+```
 - [[roam toolkit]]很早就安装了，但是很少使用，最近知道了它可以把卡片以思维导图的方式展示出来，感觉很惊艳，可以使用。我设置了调出这个插件的#[[快捷方式]]ctrl+i
     - ```javascript
 ```
