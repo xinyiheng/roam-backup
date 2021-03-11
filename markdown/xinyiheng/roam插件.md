@@ -17,6 +17,19 @@
         - 应用售价元，作为单一功能的小组件应用，实在不算便宜。而且喜欢运动的人，应该有其他穿戴设备支持数据展示，又或是通过
         - 图像编辑 
         - [@huhuhang](https://sspai.com/u/huhuhang)：一直以来，Pixelmator Pro 都紧跟系统新特性发布重要更新，Pixelmator Pro 2.0.2 已经支持了 iOS 14.3 推出的 Apple ProRAW 格式。
+- 导入文章
+    - {{[[roam/js]]}}
+        - ```javascript
+var existing = document.getElementById("roamjs-article");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/article.js";
+  extension.id = "roamjs-article";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}
+```
 - [[RoamPortal-Search]]可以展示概念之间的立体图，非常棒，我设置了#[[快捷方式]]ctrl+p
 - {{[[roam/js]]}}
     - ```javascript
