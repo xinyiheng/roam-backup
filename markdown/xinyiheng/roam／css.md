@@ -107,7 +107,7 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
 }
  
 .blockmap div {
- border: none;
+ border:none;
 
 } 
 
@@ -279,7 +279,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 /* 隐藏左侧边栏 */
 div.roam-app>div.roam-sidebar-container {
-    display:none
+    display:none;
 }
 /* Focus/zoom breadcrumb trail */
 
