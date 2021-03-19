@@ -1,6 +1,5 @@
 - roam research 有可能用在哪些意想不到的方面？
     - [[出版]]行业  https://roamlibrary.com/library 好像运转的并不是很成功
-    - 
     - [[知识服务]]https://twitter.com/Jimmy_JingLv/status/1338106648586379264?ref_src=twsrc%5Etfw
     - roam用于[[团队合作]]Roam for Teamwork
 via[Roam for teamwork](https://roamforteamwork.com/)
@@ -150,6 +149,7 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
 - [[roam插件]]
     - [[roam portal]]
     - [[roam toolkit]]
+    - [Roam-Excalidraw Plugin MVP Release](https://www.zsolt.blog/2021/03/roam-excalidraw-plugin-mvp-release.html) [[20210319]] 下午8:42 @评论:这是一款可以绘制类似whiteboard的插件
 - roam research有哪些功能吸引了我？
     - 大网图、小网图（大纲/缩略式脑图）、大小粒度块引用、双向链接，是笔者认为的必备的四个双向链软件经典特征，其它就是附加插件功能，读者也可以从这四个经典元素对各种软件进行考察得出自己心中的排行，其实也就是Roam Research的核心功能。-20201027
 

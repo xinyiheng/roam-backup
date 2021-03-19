@@ -17,6 +17,16 @@
         - 应用售价元，作为单一功能的小组件应用，实在不算便宜。而且喜欢运动的人，应该有其他穿戴设备支持数据展示，又或是通过
         - 图像编辑 
         - [@huhuhang](https://sspai.com/u/huhuhang)：一直以来，Pixelmator Pro 都紧跟系统新特性发布重要更新，Pixelmator Pro 2.0.2 已经支持了 iOS 14.3 推出的 Apple ProRAW 格式。
+- 绘图
+    - {{[[roam/js]]}}
+        - ```javascript
+{
+  let s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.src = 'https://roam-excalidraw.com/dist/loader.js';
+  s.async = false;
+  document.getElementsByTagName('head')[0].appendChild(s);  
+}```
 - 导入文章
     - {{[[roam/js]]}}
         - ```javascript
