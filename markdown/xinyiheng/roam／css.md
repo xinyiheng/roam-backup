@@ -279,7 +279,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 /* 隐藏左侧边栏 */
 div.roam-app>div.roam-sidebar-container {
-    display:none;
+    display:none；
 }
 /* Focus/zoom breadcrumb trail */
 
