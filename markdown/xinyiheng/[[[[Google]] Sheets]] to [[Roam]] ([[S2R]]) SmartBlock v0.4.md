@@ -19,7 +19,7 @@
             - #screenshot
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsamdynamics%2FPd5ZYM_O-F.png?alt=media&token=99b36c33-6e9e-4d8a-a7ce-5bb75314e0ec)
         - Enable the #[[[[Google]] Sheets]] #API
-            - Screenshots for this entire process are below --> "#screenshot for this entire section."
+            - Screenshots for this entire process are below --> #screenshot for this entire section.
             - Select the `ENABLE APIS AND SERVICES` up top
             - Search for __sheets__ and then select **Google Sheets API**
             - Select `ENABLE` and it should take you to an `Overview` page for the #API
@@ -55,7 +55,7 @@
             - A pop-up will appear showing you your **Client ID** and **Client Secret** - Copy both of these into your Roam Graph somewhere to be used later (can use the following blocks if you'd like)
                 - Your Client ID: 1015985963461-a9m8h3htgiqq6k6glieoqq56hqake5qi.apps.googleusercontent.com
                 - Your Client Secret: dUATkYFteFmqIqwkhNWK29bU
-            - Now you can move to the next section --> "Get your Google [[API]] Auth Code"
+            - Now you can move to the next section --> Get your Google [[API]] Auth Code
             - #screenshot for this entire section.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsamdynamics%2FFnXY6RejMJ.png?alt=media&token=84dcb4e4-0110-4bf9-9ffe-591e37479431)
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsamdynamics%2Fyl1s0XqAYf.png?alt=media&token=50aa2598-d520-404d-8e6e-b57d7a43e834)
@@ -106,32 +106,32 @@
                 - EXAMPLE:
                     - http://localhost:8080/?code=^^4/xyz-abc-jlajsldfjasldjfjkXXXXXXXXXXXXXXXXXXXXXXXX^^&scope=https://www.googleapis.com/auth/spreadsheets
                     - Example Auth Code: 4/xyz-abc-jlajsldfjasldjfjkXXXXXXXXXXXXXXXXXXXXXXXX
-        - If for whatever reason you lost your code or closed the window without writing it down, you need to start the process over starting by clicking the link from this step --> "Now click the link above (after adding your **Client ID** to it).. it should start the #Google authentication / approval process."
+        - If for whatever reason you lost your code or closed the window without writing it down, you need to start the process over starting by clicking the link from this step --> Now click the link above (after adding your **Client ID** to it).. it should start the #Google authentication / approval process.
     - ## Authenticate to API for the first time
         - Now you are ready to start using the Google Sheets SmartBlocks
-        - First you must setup the "#42SmartBlock S2R - Refresh Token" SmartBlock ^^by updating the following^^:
-            - Replace the following in the block embed `ENTER_YOUR_CLIENT_ID` with your **Client ID** from earlier in the process --> "Your Client ID: 1015985963461-a9m8h3htgiqq6k6glieoqq56hqake5qi.apps.googleusercontent.com"
-                - {{[[embed]]: ((RRp2v4z2y))}}
-            - Replace the following in the block embed `ENTER_YOUR_CLIENT_SECRET` with your **Client Secret** from earlier in the process --> "Your Client Secret: dUATkYFteFmqIqwkhNWK29bU"
-                - {{[[embed]]: ((NHf4P5VzT))}}
-            - Replace the following in the block embed `ENTER_YOUR_AUTH_CODE` with your **Auth Code** from earlier in the process --> "^^Your Auth Code^^: 4/0AY0e-g5zztrjLOioLUz-OTP3LLQqTqnOgD0UrQrponlktgtOZ0A7IBW6WuZJaV9kKN5dJg"
-                - {{[[embed]]: ((ZEyzWPBoM))}}
-        - Now run the "#42SmartBlock S2R - Refresh Token" SmartBlock.
+        - First you must setup the #42SmartBlock S2R - Refresh Token SmartBlock ^^by updating the following^^:
+            - Replace the following in the block embed `ENTER_YOUR_CLIENT_ID` with your **Client ID** from earlier in the process --> Your Client ID: 1015985963461-a9m8h3htgiqq6k6glieoqq56hqake5qi.apps.googleusercontent.com
+                - <%SET:gshClientId,1015985963461-a9m8h3htgiqq6k6glieoqq56hqake5qi.apps.googleusercontent.com%><%NOBLOCKOUTPUT%>
+            - Replace the following in the block embed `ENTER_YOUR_CLIENT_SECRET` with your **Client Secret** from earlier in the process --> Your Client Secret: dUATkYFteFmqIqwkhNWK29bU
+                - <%SET:gshClientSecret,dUATkYFteFmqIqwkhNWK29bU%><%NOBLOCKOUTPUT%>
+            - Replace the following in the block embed `ENTER_YOUR_AUTH_CODE` with your **Auth Code** from earlier in the process --> ^^Your Auth Code^^: 4/0AY0e-g5zztrjLOioLUz-OTP3LLQqTqnOgD0UrQrponlktgtOZ0A7IBW6WuZJaV9kKN5dJg
+                - <%SET:gshAuthCode,4/0AY0e-g5zztrjLOioLUz-OTP3LLQqTqnOgD0UrQrponlktgtOZ0A7IBW6WuZJaV9kKN5dJg%><%NOBLOCKOUTPUT%>
+        - Now run the #42SmartBlock S2R - Refresh Token SmartBlock.
             - Run it here    1//06Ku1V_w5bKG1CgYIARAAGAYSNwF-L9IrP_avBgQNPPnTmyvCVKDsBIOdz9jM51EGo1kPYJdA0MkAfL4HSawRyjMRmMIKqzT6D_Y
             - The result of this SmartBlock will return your **Refresh Token** to be used to authenticate with SmartBlocks going forward.
             - Replace the following in the block embed `ENTER_YOUR_REFRESH_TOKEN` with your **Refresh Token** generated by the SmartBlock you just ran.
-                - {{[[embed]]: ((Jme7NODk0))}}
+                - <%SET:gshRefToken,1//06Ku1V_w5bKG1CgYIARAAGAYSNwF-L9IrP_avBgQNPPnTmyvCVKDsBIOdz9jM51EGo1kPYJdA0MkAfL4HSawRyjMRmMIKqzT6D_Y%><%NOBLOCKOUTPUT%>
             - If all goes well, you will NOT have to run this SmartBlock ever again. The Refresh Token will be used to Authenticate each time and never expires unless you revoke it or change your password in #Google.
             - Now you ^^ALSO need to add^^ your **Client ID** and **Client Secret** one more time:
-                - Replace the following in the block embed `ENTER_YOUR_CLIENT_ID` with your **Client ID** from earlier in the process --> "Your Client ID: 1015985963461-a9m8h3htgiqq6k6glieoqq56hqake5qi.apps.googleusercontent.com"
-                    - {{[[embed]]: ((OibqUEere))}}
-                - Replace the following in the block embed `ENTER_YOUR_CLIENT_SECRET` with your **Client Secret** from earlier in the process --> "Your Client Secret: dUATkYFteFmqIqwkhNWK29bU"
-                    - {{[[embed]]: ((m59FDqFt8))}}
+                - Replace the following in the block embed `ENTER_YOUR_CLIENT_ID` with your **Client ID** from earlier in the process --> Your Client ID: 1015985963461-a9m8h3htgiqq6k6glieoqq56hqake5qi.apps.googleusercontent.com
+                    - <%SET:gshClientId,1015985963461-a9m8h3htgiqq6k6glieoqq56hqake5qi.apps.googleusercontent.com%><%NOBLOCKOUTPUT%>
+                - Replace the following in the block embed `ENTER_YOUR_CLIENT_SECRET` with your **Client Secret** from earlier in the process --> Your Client Secret: dUATkYFteFmqIqwkhNWK29bU
+                    - <%SET:gshClientSecret,dUATkYFteFmqIqwkhNWK29bU%><%NOBLOCKOUTPUT%>
         - Now you are ready to Authenticate for the first time and start using the #S2R Integration!
-        - Run the SmartBlock "#42SmartBlock S2R - Authenticate"
+        - Run the SmartBlock #42SmartBlock S2R - Authenticate
             - When you run it, if successful, it should return **Authentication successful!**  Authentication successful!
-            - You are now ready to start using #S2R by starting here --> "Using #S2R SmartBlocks to interact with #[[[[Google]] Sheets]] for the first time"
-            - ^^Note:^^ you need to re-authenticate by simply running this "#42SmartBlock S2R - Authenticate" SmartBlock whenever the google OAuth session expires (usually after one hour of usage)... or when/if you receive an authentication error.
+            - You are now ready to start using #S2R by starting here --> Using #S2R SmartBlocks to interact with #[[[[Google]] Sheets]] for the first time
+            - ^^Note:^^ you need to re-authenticate by simply running this #42SmartBlock S2R - Authenticate SmartBlock whenever the google OAuth session expires (usually after one hour of usage)... or when/if you receive an authentication error.
                 - It does NOT require you to sign-in or do anything further.
                 - Just simply re-run the SmartBlock each time you need to re-authenticate.
                 - All the steps above with the creation of the API and getting the Auth Code and Refresh Token etc. do NOT have to be done again unless you revoke the API and/or change your Google password.
@@ -165,8 +165,8 @@
                         - 
                     - E2 #S2R
                         - 
-            - you are ready to pull values from Sheets into Roam by running the SmartBlock --> "#42SmartBlock S2R - Pull Data from Sheets"
-        - When you want to change a value in Roam and update/push the change to Sheets, simply change the value in the child block underneath a cell reference block and run the SmartBlock --> "#42SmartBlock S2R - Push Data to Sheets"
+            - you are ready to pull values from Sheets into Roam by running the SmartBlock --> #42SmartBlock S2R - Pull Data from Sheets
+        - When you want to change a value in Roam and update/push the change to Sheets, simply change the value in the child block underneath a cell reference block and run the SmartBlock --> #42SmartBlock S2R - Push Data to Sheets
         - Both the Pull and Push SmartBlocks will run for all visible blocks on the page you are currently on (that have a #S2R tag) at the time you run the SmartBlock.
         - If a cell in #[[[[Google]] Sheets]] is a formula cell, the #S2R `Push` SmartBlock will NOT overwrite / update it regardless of what you change the block to in Roam.
         - ^^WARNING:^^ I have not tested on pages open in the sidebar. For now, just use the #S2R SmartBlocks on the left side "main page".
@@ -185,12 +185,12 @@
             - Blocks will only run/push/pull if they are:
                 - 1) Visible on page
                 - 2) have a #S2R tag
-            - "#MP4 #Demo"
-                - "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsamdynamics%2F3uuIgocs0B.mp4?alt=media&token=143768c7-ae98-40dc-bca3-986697f60443"
+            - #MP4 #Demo
+                - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsamdynamics%2F3uuIgocs0B.mp4?alt=media&token=143768c7-ae98-40dc-bca3-986697f60443
         - You can use Block References in Roam as the source to `Push` to Sheets. It will resolve the value of the Block Reference and use that to `Push` / Update the cell in Sheets.
             - EXAMPLE:
                 - B20 #S2R - INPUT
-                    - "The value for this block ref will be resolved and then PUSHED to Sheets."
+                    - The value for this block ref will be resolved and then PUSHED to Sheets.
                 - Non S2R block that won't be used when SmartBlock runs.
                     - Here is a block from my graph I can reference as the value for S2R above in cell B20:
                         - The value for this block ref will be resolved and then PUSHED to Sheets.

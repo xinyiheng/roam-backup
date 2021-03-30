@@ -53,10 +53,10 @@ return fetch("https://www.poemist.com/api/v1/randompoems")
 - #42SmartBlock Unsplash
     - <%NOBLOCKOUTPUT%><%CLEARVARS%>
     - <%NOBLOCKOUTPUT%>
-<%SET:accessKey,<%RESOLVEBLOCKREF:"n0yCij1SOF7C82IFHAZx3e29htwwnCL1Wc03a_23A60"%>%>
-<%SET:mode,<%RESOLVEBLOCKREF:"QUERY"%>%><%SET:defaultQuery,<%RESOLVEBLOCKREF:"relaxed"%>%>
-<%SET:width,<%RESOLVEBLOCKREF:"600"%>%>
-<%SET:display,<%RESOLVEBLOCKREF:"LANDSCAPE"%>%>
+<%SET:accessKey,<%RESOLVEBLOCKREF:n0yCij1SOF7C82IFHAZx3e29htwwnCL1Wc03a_23A60%>%>
+<%SET:mode,<%RESOLVEBLOCKREF:QUERY%>%><%SET:defaultQuery,<%RESOLVEBLOCKREF:relaxed%>%>
+<%SET:width,<%RESOLVEBLOCKREF:600%>%>
+<%SET:display,<%RESOLVEBLOCKREF:LANDSCAPE%>%>
     - <%NOBLOCKOUTPUT%><%JAVASCRIPTASYNC: ```javascript
 var url = "https://api.unsplash.com/photos/random?client_id="+roam42.smartBlocks.activeWorkflow.vars["accessKey"]+"";
 document.unsplashURL = "";

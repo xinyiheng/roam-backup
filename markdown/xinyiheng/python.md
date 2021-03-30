@@ -45,11 +45,11 @@ via[记账神器 Beancount 教程 - 少数派](https://sspai.com/post/59777)
 via[(14 封私信 / 12 条消息) 首页 - 知乎](https://www.zhihu.com/)
 [[20201223]] 下午11:12
 - 把epub图书导入[[roam research]]
-    - "{{[[youtube]]: https://www.youtube.com/watch?v=xWNGPd3I63Q}}"
-        - "{{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}"
-        - "00:00:01 - 这个视频主要是讲怎样把epub图书导入到roam research当中阅读。"
-            - "这个步骤比较繁琐，我也没有在roam research当中阅读的实际需求。不过，这个视频讲到的一些技术是我很感兴趣的。比如，怎样用[[python]]把epub图书转换成[[json]]。#[[计算机科学]]"
-                - "具体实现方法这个人已经把经验放在了这个网页上https://www.zsolt.blog/2020/12/read-books-in-roam-detailed-how-to.html"
+    - {{[[youtube]]: https://www.youtube.com/watch?v=xWNGPd3I63Q}}
+        - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
+        - 00:00:01 - 这个视频主要是讲怎样把epub图书导入到roam research当中阅读。
+            - 这个步骤比较繁琐，我也没有在roam research当中阅读的实际需求。不过，这个视频讲到的一些技术是我很感兴趣的。比如，怎样用[[python]]把epub图书转换成[[json]]。#[[计算机科学]]
+                - 具体实现方法这个人已经把经验放在了这个网页上https://www.zsolt.blog/2020/12/read-books-in-roam-detailed-how-to.html
     - 
 - #[[参考资料]]
     - Python[[数据可视化]]之美：专业图表绘制指南（全彩）

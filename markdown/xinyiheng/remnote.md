@@ -57,7 +57,7 @@
     - tag
     - portal 这是remnote的一个特色
     - source
-- "类似软件"
+- 类似软件
     - [[remnote]]
     - [[learnobit]]
     - [[polar]]
