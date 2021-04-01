@@ -1,6 +1,6 @@
 - Main Component
     - ```clojure
-(ns excalidraw.app.mvp.v03
+(ns excalidraw.app.mvp.v04
   (:require 
    [clojure.set :as s]
    [reagent.core :as r]
@@ -188,11 +188,13 @@
         (if (str/starts-with? (:id y) "ROAM_")
           (do ;;block with text should already exist, update text, but double check that the block is there...
             ;;(debug ["(save-component) nested block should exist text:" (:text y) "block-id" (get-block-uid-from-text-element y)])
-            (let [text-block-uid (get-block-uid-from-text-element y)]
-              (if-not (= 0 (count (filter (comp #{text-block-uid} :block/uid) nested-text-blocks)))
+            (let [text-block-uid (get-block-uid-from-text-element y)
+                  nested-block (filter (comp #{text-block-uid} :block/uid) nested-text-blocks)]
+              (if-not (= 0 (count nested-block))
                 (do ;;block exists
                   ;;(debug ["(save-component) block exists, updateing"])
-                  (block/update {:block {:uid text-block-uid :string (:text y)}})
+                  (if-not (= (:block/string (first nested-block)) (:text y))
+                    (block/update {:block {:uid text-block-uid :string (:text y)}}))
                   (reset! text-elements (conj @text-elements y))
                 )
                 (do ;block no-longer exists, create new one
@@ -735,9 +737,16 @@
 ```
 - Settings
     - {
-:mode "light"
-:img "SVG"
 :full-screen-margin 0.015
-:max-embed-width 600
+:img "SVG"
 :max-embed-height 400
+:max-embed-width 600
+:mode "light"
+:nested-text-col-width 400
+:nested-text-font-family 1
+:nested-text-font-size 20
+:nested-text-row-height 40
+:nested-text-rows 20
+:nested-text-start-left 320
+:nested-text-start-top 40
 }
