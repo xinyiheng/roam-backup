@@ -62,3 +62,5 @@
     - [[learnobit]]
     - [[polar]]
     - [[supernote]]
+- #[[参考资料]]
+    - 这是一个qq群里的人整理的remnote使用说明，[很详细](https://docs.qq.com/doc/DRk9xak5HcVNsZUti?_t=1617345628009)。
