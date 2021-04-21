@@ -34,7 +34,7 @@ via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa6
 [[20201224]] 下午1:37
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FXMmVtOTo4b.png?alt=media&token=42f7d521-a1da-4ae5-9205-494a83568b06)
     - 
-- 国民收入(和产量基本上是一个意思)
+- 国民收入(和产量、国民生产总值基本上是一个意思)
 - 投资
 - 消费
 - 财政支出
