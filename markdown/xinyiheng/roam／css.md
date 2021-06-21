@@ -1,4 +1,3 @@
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit elit in erat congue, quis efficitur massa ultrices. Aliquam volutpat lobortis dapibus. Cras lacus ligula, maximus luctus porta rutrum, viverra rhoncus elit. Fusce sit amet nulla tincidunt sapien vulputate mattis in ac felis. Vestibulum dictum eu velit id pulvinar. Integer lacus nulla, ornare vitae mauris id, vulputate aliquam diam. Aliquam ullamcorper tempor arcu a malesuada. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in condimentum sapien, ac feugiat mi. Nulla facilisi. Integer ut velit metus. Donec lacinia mattis imperdiet. Pellentesque vulputate augue sit amet egestas hendrerit. Duis ultricies auctor libero id ornare. #bq
 - Code
     - Definition of the blockquote:#[[bq]]
         - css
@@ -149,7 +148,7 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
     - ```css
 
 :root {
-    --main-left-bg: #F2E9E9;
+    --main-left-bg: #CE4343;
     --right-sidebar-bg: rgb(247 248 249);
     --right-sidebar-drag-bg: #337ac6;
     --masonry-bg: rgb(247,245,227);

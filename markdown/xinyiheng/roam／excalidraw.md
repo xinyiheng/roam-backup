@@ -1,6 +1,6 @@
 - Main Component
     - ```clojure
-(ns excalidraw.app.mvp.v04
+(ns excalidraw.app.mvp.v06
   (:require 
    [clojure.set :as s]
    [reagent.core :as r]
@@ -33,7 +33,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; util functions
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(def silent (r/atom true))
+(def silent (r/atom false))
 (defn debug [x]
   (if-not @silent (apply (.-log js/console) "<<< Roam-Excalidraw Main cljs >>>" x)))
 
@@ -44,6 +44,9 @@
 
 (defn create-block [parent-uid order block-string]
   (.createBlock js/window.ExcalidrawWrapper parent-uid order block-string))
+
+(defn block-update [x]
+  (.updateBlock js/window.ExcalidrawWrapper x))
 
 (defn pretty-settings [x]
   (let [y (into (sorted-map) (sort-by first (seq x)))]
@@ -95,7 +98,7 @@
           (create-block @settings-host 0 (pretty-settings @app-settings)))
         (do 
           ;;(debug ["(save-settings) settings-block exists, updating"])
-          (block/update {:block {:uid @settings-block 
+          (block-update {:block {:uid @settings-block 
                                  :string (pretty-settings @app-settings)}}))))))
 
 (defn js-to-clj-str [& x]
@@ -105,7 +108,6 @@
               (str/replace #"\(#js"  "")
               (str/replace #"#js" "")
               (str/replace #"\}\}\)" "}}"))]
-    ;;(debug ["(js-to-clj-str) result: " res])
     res))
 
 (defn fix-double-bracket [x]
@@ -118,7 +120,7 @@
                   [?e :block/children ?c]
                   [?c :block/order 0]
                   [?c :block/string ?s]
-                  [(clojure.string/starts-with? ?s "{{roam/render: ((ExcalDATA)) ")]
+                  [(clojure.string/includes? ?s "((ExcalDATA))")]
                   [?c :block/uid ?drawing-uid]]
         x))
 
@@ -194,7 +196,7 @@
                 (do ;;block exists
                   ;;(debug ["(save-component) block exists, updateing"])
                   (if-not (= (:block/string (first nested-block)) (:text y))
-                    (block/update {:block {:uid text-block-uid :string (:text y)}}))
+                    (block-update {:block {:uid text-block-uid :string (:text y)}}))
                   (reset! text-elements (conj @text-elements y))
                 )
                 (do ;block no-longer exists, create new one
@@ -214,7 +216,7 @@
     (let [elements (update-elements-with-parts {:raw-elements (:elements edn-map) :text-elements @text-elements})  
           out-string (fix-double-bracket (str {:elements elements :appState app-state :roamExcalidraw {:version plugin-version}}))
           render-string (str/join ["{{roam/render: ((ExcalDATA)) " out-string " }}"])]
-      (block/update
+      (block-update
         {:block {:uid data-block-uid
                 :string render-string}}) 
       (swap! app-settings assoc-in [:mode] (get-in app-state [:theme]))
@@ -275,10 +277,10 @@
                           :nestedtext-parent {:block-uid (create-block (:block-uid x) 1 "**Text nested here will appear on your drawing:**")}})
                                                               
     (if (nil? (:empty-block-uid x)) 
-      (block/update {:block {:uid (:block-uid x) :open false}})) ;;fold up the drawing block to hide children
+      (block-update {:block {:uid (:block-uid x) :open false}}) ;;fold up the drawing block to hide children
       (block/move {:location {:parent-uid (get-in @(:drawing x) [:nestedtext-parent :block-uid]) ;;move new block under nested text
-                              :order 0}
-                   :block {:uid (:empty-block-uid x)}})
+                            :order 0}
+                 :block {:uid (:empty-block-uid x)}}))
 ))
 
 
@@ -302,7 +304,7 @@
           ;;(debug ["(load-drawing) create title only"])
           (reset! (:drawing x) {:drawing (:data x)
                                 :nestedtext-parent {:block-uid (create-block (:block-uid x) 1 "**Text nested here will appear on your drawing:**")}})
-          (block/update {:block {:uid (:block-uid x) :open false}})
+          (block-update {:block {:uid (:block-uid x) :open false}})
         )
         (do
           ;;(debug ["(load-drawing) ExcalDATA & title already exist"])
