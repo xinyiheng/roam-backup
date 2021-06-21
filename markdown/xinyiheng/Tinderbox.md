@@ -62,4 +62,3 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FiY1t5q444s.png?alt=media&token=37858a49-51d9-4164-abd4-8e7523b22dae)
 - 相似软件
     - [[qinaps]]
-    - 
