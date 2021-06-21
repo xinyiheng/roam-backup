@@ -561,3 +561,24 @@ document.getElementsByTagName("head")[0].appendChild(cbw);```
     - [[June 16th, 2021]]
         - {{[[roam/js]]}}
             - 
+- 秘密花园模式
+    - {{[[roam/js]]}}
+    - ```javascript
+:root {
+    --main-left-bg: rgb(215,28,28);
+    --right-sidebar-bg: rgb(247 248 249);
+    --right-sidebar-drag-bg: #337ac6;
+    --masonry-bg: white;
+    --masonry-scrollbar-bg: lightgrey;
+    --masonry-resizer-color: lightgrey;
+    --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
+    --masonry-minWidth: 440px;
+    --masonry-maxWidth: 1200px;
+    --masonry-startHeight: 234px; /* DEFAULT: 243px; Use "unset" to prevent loading in grid like format */
+    --masonry-minHeight: 200px;
+    --masonry-border: 1px solid lightgrey;
+    --closed-bullet-color: 4px solid #CED9E0;
+    --code-color: crimson;
+    --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
+}
+```
