@@ -148,7 +148,7 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
     - ```css
 
 :root {
-    --main-left-bg: #CE4343;
+    --main-left-bg: #E5712B;
     --right-sidebar-bg: rgb(247 248 249);
     --right-sidebar-drag-bg: #337ac6;
     --masonry-bg: rgb(247,245,227);
@@ -350,7 +350,6 @@ div.roam-main .kanban-board .kanban-column {
 div#right-sidebar .kanban-board .kanban-column {
     flex: 1 0 75px;
 }
-Search...
 ```
         - 
 - 新的css附加1
