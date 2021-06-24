@@ -147,6 +147,8 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
     - [[roam edit]]
     - [[scrapbox]]
     - [[thinktool]]
+    - [[innos note]]
+    - 
 - [[roam插件]]
     - [[roam portal]]
     - [[roam toolkit]]

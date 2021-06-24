@@ -1,0 +1,10 @@
+- https://hypernotes.zenkit.com/i/hSWkQg5D4S/nWC3mXtXeR/?v=5dvmVNoIv_
+- 每一个项目都展示为一本书的样子
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaDSvll1i_g.png?alt=media&token=0fe6073b-67c8-440e-9c69-f768b5882345)
+- 打开一本书，有三种视图
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FeZp_EgsbzN.png?alt=media&token=8a4556f6-e819-48d4-8df4-f0261662f21d)
+    - 看着卡片很美观，但是不能随意拖动和组合
+    - table模式就是把这些卡片展示为列表，也不能拖动
+    - graph格式就是普通的图谱样式
+    - 亮点可能就是参考的笔记可以在右侧边栏呈现为卡片形式，但这一点我也可以做到
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9F4VPVj9eX.png?alt=media&token=e3d8b959-3ad3-4a37-a2d1-ff133427cbb0)
