@@ -1,0 +1,3 @@
+- https://sligrid.com/xinyiheng/grid/02083a90-5b88-11eb-bba4-4f69df9ad15c#{%22x%22:-398,%22y%22:161}
+- 有些类似[[noteboard]]
+- 卡片之间可以连起来

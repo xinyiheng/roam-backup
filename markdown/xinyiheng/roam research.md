@@ -138,6 +138,7 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
     - [[remnote]]
     - [[swrite]]
     - [[hypernote]]
+    - [[hypernotes]]和[[hypernote]]居然不是一个东西
     - [[hulunote]]
     - [[thinktool]]
     - [[tiddlywiki]]
