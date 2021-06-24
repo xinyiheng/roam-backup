@@ -1,3 +1,4 @@
 - 我设置了快捷方式
 - 很适合短期搜集写作材料使用
+- 可以把它作为curio的一个草稿板。所有的工具都有主力和辅助的区分，这样才能充分利用起来，辅助并非能力小，而是要把它作为一个更自由的展示空间。这里可以释放自己的思想，不用拘泥于整理，就像是一个空白笔记本的感觉。
 - Universal Link 是什么Via[Note Board](chrome-extension://goficmpcgcnombioohjcgdhbaloknabb/popup.html)[[20210104]] 下午9:08
