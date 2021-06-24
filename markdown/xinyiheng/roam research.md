@@ -136,6 +136,7 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
 -  类似的软件
     - 可以参考别人列出的条目{{iframe: https://nano.page/page/roam}}
     - [[remnote]]
+    - [[kanopi]]
     - [[swrite]]
     - [[hypernote]]
     - [[hypernotes]]和[[hypernote]]居然不是一个东西
