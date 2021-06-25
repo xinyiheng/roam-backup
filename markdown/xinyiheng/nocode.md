@@ -6,6 +6,8 @@ via[Talk is cheap, show me nocode - 少数派](https://sspai.com/post/58814)
 via[Talk is cheap, show me nocode - 少数派](https://sspai.com/post/58814)
 [[20201216]] 下午9:03
 - [[nodes]]这款软件好像也可以做出很漂亮的图形
+- [[fibery]]
+- [[airtable]]
 - #[[参考资料]]
     - Show me nocode 给我来点「无码」瞧瞧
 via[Show me nocode 给我来点「无码」瞧瞧](https://showmenocode.com/)

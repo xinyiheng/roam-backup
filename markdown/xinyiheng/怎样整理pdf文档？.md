@@ -1,0 +1,33 @@
+- 我阅读信息主要是使用电脑。阅读文档的类型主要是网页和pdf文档。使用pdf文档的原因是有些电子书在网页端看不方便或者只有pdf版本。还有一种情况是，网页端文字比较有含金量或者再次访问需要权限，这样我就会把网页文字转换成为pdf。
+- 转换pdf的方法。
+    - 如果是电子书，很多网络下载的格式是epub格式，可以用calibre这款软件转换。很多人也用这款软件管理电子书，我只是把它当做一个转换格式的工具。之前使用sony阅读器，只能读取pdf格式的书籍，当时经常用这款软件。这款软件还可以调整电子书的字体和间距。我之前没少折腾这种界面体验，最近很少使用。
+    - 在chrome浏览器中，我比较喜欢用[[print friendly]]这款插件。它可以自动提取页面中的正文，还可以轻松删除不需要的部分。生成的pdf中还添加了网页的网址，必要时可以找到原文。我之前不满意的地方是不能修改字体，但是，我现在利用[[advanced fonts]]插件把网页的文字全都修改成宋体之后，使用print friendly打印出来的pdf文字也是宋体，非常美观。
+- 阅读pdf @标签：联动
+    - 如果需要系统阅读pdf，marginnote是不二选择。这款软件可以边阅读边整理成思维导图。就是我在网页端希望实现的功能。甚至思维导图中的每一个节点的来源还可以得到追溯，这种安心感无与伦比。它和anki的联动也堪称完美，可以帮助记忆知识点。
+    - 如果只是希望泛泛阅读，那么pdf expert够用了，它还可以生成标注清单，这样回看的时候只看标注就可以了。
+    - 我在ipad端阅读pdf除了使用marginnote ipad版本以外，还会使用liquid text这款软件。这一款软件非常有趣。也可以做思维导图，功能不像marginnote那么多，使用起来感觉更加轻便。
+    - 现在看来，如果是仅仅想要标注一下的话，用goodread阅读pdf的效果最好
+- 统一汇总
+    - 汇总的方式还是直接使用mindnode这类思维导图作为最终汇总工具并不是很方便。因为不方便在把一个内容关联到许多其他内容当中去。
+    - marginnote可以做思维导图，如果关于某个主题想要和mindnode大的思维导图中的内容整合的话，可以导出为mindmanager文件，也可以直接用mindnode打开。这样就可以合并到大的文档中了。
+    - 合并的时机最好是等不再大幅调整marginnote思维导图之后。因为一旦生成新的思维导图，合并工作还需要重新再做一遍
+    - 无论是直接使用使用marginnote这类思维导图软件创建还是网页的大纲文件，最后都可以汇总到思维导图当中。
+    - 目前并没有通过阅读电子书积累大量的素材。
+    - 以前尝试过把pdf电子书放到[[印象笔记]]中，这样可以通过全文搜索监测到书中的内容。当时我对这一发现感到非常高兴。我当时看中了在印象笔记中也可以使用wps打开pdf文档，很方便的做批注、查看目录、删除一些书籍内容等。但是实际在阅读过程中，并没有这么去做。
+    - 用marginnote阅读pdf的一个缺点是，这些笔记就保留在了里面的思维导图中，难以和[[roam research]]里面的内容产生关联。
+        - 我有一个想法就是把marginnote里的标注导出为[[anki]]卡片，这样来记忆。
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FF36TyP_Qe3.png?alt=media&token=80be7580-2359-42bd-a998-3d87c0e7c35c)
+        - 还有一种办法就是直接把pdf放到roam researh中来标注，但这样一来会占用大量空间，二来使用的体验也并不好。
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FJ02zpumpJI.png?alt=media&token=43c3ab59-a284-4adb-ba51-ae2ef659541d)
+        - 还有一种思路就是[[威廉]]提供的。【大招】在**RemNote**利用**Everything**达成**Windows all in one**的目的，使万物皆为**RemNote**的数据库！**EVE**大法和时间戳大法！** - RemNote - **知乎专栏[[【大招】在**RemNote**利用**Everything**达成**Windows all in one**的目的，使万物皆为**RemNote**的数据库！**EVE**大法和时间戳大法！** - **知乎](https://zhuanlan.zhihu.com/p/356095278?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=891803952331505664)]**(**[https://zhuanlan.zhihu.com/p/356095278?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=891803952331505664](ticktick://ttMarkdownLink)**)**
+            - 虽然这篇是关于renmnote的，但之前他也写过obsidian的，核心思路就是把别的软件中的内容通过一个链接放到核心笔记里来，只要能够快速跳转到自己想看的内容，那这个内容保存在什么位置其实不重要。
+- 建立一个统一管理自己看过的书，电影和音乐的平台。豆瓣上的书影音日志这种呈现方式非常好
+- 可以为自己想读的书都列一个基本的简要清单
+- 我收藏了一些找书的网站，还加了一个找书的微信群（原来是看外文期刊的），我实际上看的电子书数量并不多。
+- 我认为[[行业研究报告]]是信息结构更完善的知识载体，还添加了一个找报告的群。
+- 百度网盘（目前百度网盘就像是一个仓库，所有的文件都保存在其中，提取起来有难 度）
+- 为了管理越来越多的pdf和epub版本的电子书，我买了实体的硬盘，空间为5T。我管理电子书的工具是[[Devonthink]]，它可以实现真正的全文搜索。
+- 我有时会使用文石电纸书阅读器来阅读，需要将各种格式的电纸书转为pdf格式，使用的是calibra。
+- 对于有阅读难度的文章，我选择使用marginote来阅读。marginnote有mac电脑版和ipad版本
+- 为了追求手写的感受，我有时还会使用liquid text这一个ipad应用来阅读。
+- 除了我下载的电子书以外，pdf文件还有一个来源，那就是我浏览的网页。我可以在ipad上的[[safari浏览器]]里很方便地把文章转换为pdf版本，这样既可以在[[ipad]]里面用pdf阅读器写写画画，比如，用[[marginnote]]和[[liquid text]]来阅读。
