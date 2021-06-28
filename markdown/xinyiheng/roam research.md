@@ -204,3 +204,6 @@ via[如何交互可视化 Roam Research 局部笔记网络？ - 少数派](https
     - 怎么修改roam research导出的文件的格式？
         - https://roam-tools.ryanguill.com/?这个网站可以实现一些修改。
 - [Getting Started – Hook](https://hookproductivity.com/help/general/getting-started/#launch)
+- [[间隔记忆]]
+    - 目前roam research的插件也可以使用了，具体可以参考以下网页
+        - https://roamstack.com/kb/extensions/roam-sr/#installing-roam-sr

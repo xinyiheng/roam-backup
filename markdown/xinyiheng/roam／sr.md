@@ -175,7 +175,7 @@ document.getElementsByTagName('head')[0].appendChild(s);```
 
 /* HIDING THE #sr TAG */
 /* span.rm-page-ref[data-tag="sr"] {
-  display: none;
+  display: ;
 } */
 
 /* DISABLING ROAM TOOLKIT */

@@ -3,7 +3,7 @@
     - {{[[video]]: https://youtu.be/VzNdrLLlJIU}}
 - #[[使用方法]]
     - {{iframe: https://docs.kumu.io/#five-minute-quickstart}}
-- 可以从excle直接导入数据。既然这样，[[notion]]当中的一些结构化的内容可能也可以通过kumu来展示。
+- 可以从excle直接导入数据。既然这样，[[Notion]]当中的一些结构化的内容可能也可以通过kumu来展示。
     - 如何导入表格信息
         - {{iframe: https://docs.kumu.io/guides/import.html}}
 - 还可以支持根据一些标准进行[[聚类分析]]

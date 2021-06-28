@@ -54,11 +54,11 @@ via[Super — From Notion to Website in minutes](https://super.so/)
     - [一个关于notion插件的网站](https://radreads.co/notion-integrations/)
 - Charts for Notion databasesVia[Chart Nerd](https://chart-nerd.now.sh/) 上午12:02
 - 可以在notion中插入各种展板的工具[notion metrics](https://notionmetrics.com/)
+- 如何给Notion加上[[间隔记忆]]功能？
+    - 可以参考这个视频。估计我不会用到，但是作为备忘暂时记录在这里。
+    - https://www.youtube.com/watch?v=wWQiyaSKbVc
 - 类似软件
     - [[airtable]]
     - [[coda]]
     - [[tables]]也是谷歌出品的
     - [[google sheet]]
-    - 表明Via[Primary Board](chrome://newtab/) [[20210126]] 下午12:13
-    - 仍在Via[100+ Management Models的副本](implicit)[[20210126]] 下午2:57
-
