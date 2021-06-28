@@ -1,0 +1,5 @@
+- wps还保存了不同设备登录wps查看文件的记录，我3年前在中粮用电脑和手机查看的一些文件还有，还真是有些怀念。
+- wps还有一些应用，我很少使用
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FHUMmzvCAN2.png?alt=media&token=48dcc64c-d74a-4199-a2d3-098e48bec8e5)
+    - 我以前觉得wps云同步比较乱，但是云服务还是很应该开启的
+    - {{iframe:https://www.wps.cn/learning/course/detail/id/1169.html?chan=pc_mac_setup}}
