@@ -16,8 +16,7 @@ via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少
     - 当 Coda 和 Zapier 结合在一起时，就变成了只有你想不到，没有做不到的事情。再加上 Coda 本身提供了开发者 API 接口，而 Zapier 同时也支持 Webhook 传递数据，Coda 就实现了最大程度的「数据自由」。
 via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少数派](https://sspai.com/post/56508)
 [[20201216]] 下午10:12
-    - Coda 还有一个 Automations 的选项，意为自动化。该选项实际上是结合文档内的其他模块使用的。例如从第三方导入表格中的数据需要刷新，就可以设定一个以小时自动刷新的自动化规则。
-via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少数派](https://sspai.com/post/56508)
+    - Coda 还有一个 Automations 的选项，意为自动化。该选项实际上是结合文档内的其他模块使用的。例如从第三方导入表格中的数据需要刷新，就可以设定一个以小时自动刷新的自动化规则。via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少数派](https://sspai.com/post/56508)
 [[20201216]] 下午10:13
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FTwvaiZYWls.png?alt=media&token=a63ee50d-766e-494e-9d32-aec894c116ae)
 - 关联概念
@@ -35,4 +34,4 @@ via[OriDance 的文章 - 少数派](https://sspai.com/u/origamidance/posts)
     - Welcome to The Coda Community
 via[The Coda Community](https://community.coda.io/)
 [[20201216]] 下午9:47
-- 
+- [Coda ](brain://api.thebrain.com/g7PXu0IyM0ucARb24SvxiA/7BvR0g-CCEG6EDEqgji8qw/Coda)
