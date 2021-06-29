@@ -30,4 +30,4 @@
 - 我有时会使用文石电纸书阅读器来阅读，需要将各种格式的电纸书转为pdf格式，使用的是calibra。
 - 对于有阅读难度的文章，我选择使用marginote来阅读。marginnote有mac电脑版和ipad版本
 - 为了追求手写的感受，我有时还会使用liquid text这一个ipad应用来阅读。
-- 除了我下载的电子书以外，pdf文件还有一个来源，那就是我浏览的网页。我可以在ipad上的[[safari浏览器]]里很方便地把文章转换为pdf版本，这样既可以在[[ipad]]里面用pdf阅读器写写画画，比如，用[[marginnote]]和[[liquid text]]来阅读。
+- 除了我下载的电子书以外，pdf文件还有一个来源，那就是我浏览的网页。我可以在ipad上的[[safari浏览器]]里很方便地把文章转换为pdf版本，这样既可以在[[ipad]]里面用pdf阅读器写写画画，比如，用[[Marginnote]]和[[liquid text]]来阅读。

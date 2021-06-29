@@ -11,7 +11,7 @@
         - surface上还有一款软件叫做noteboox，类似marginote，虽然还比较初级，但已经是windows系统下最接近marginote的软件了。这款软件不支持手写，但是作为windows端阅读器还不错。
     - drawboard
         - surface上还有一款软件，drawboard，算是标注pdf比较优秀的软件。不过我觉得还不是很满意。
-- [[marginnote]]
+- [[Marginnote]]
     - marginnote3 的界面逻辑
         - marginnote3有mac和ipad两个版本。
         - 分成了文档-学习-复习三个大步骤
@@ -32,5 +32,6 @@
     - 最好的pdf阅读器要算是marginnote了。
     - 也支持epub格式的文件，但是不支持mobi、azw3这些亚马逊为kindle开发的格式，但是通过calibre可以很快地转换成为epub格式，所以，电子书的格式不会成为阅读障碍
     - 阅读场景比较重，我正在想办法克服这个问题。已经取得了一些进展。
+    - 最大的缺点就是每打开一个pdf都会在marginnote的文件夹里生成一个新的副本，这样很容易文件版本混乱。
 - pdf expert
     - 这一款软件在mac口碑也非常好。如果阅读一些不太重要的内容可以使用这一款软件。启动成本比较低。

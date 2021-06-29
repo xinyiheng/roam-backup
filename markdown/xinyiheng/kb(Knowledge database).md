@@ -3,7 +3,7 @@
 - 可以作为一个草稿工具多加使用，有助于锻炼我的三维思考能力
 - table模式也很有意思，展现的方式是从一个中心节点开始，细分，再细分#[[软件启发]]
 - 节点可以展示表格，这一点很特殊
-- 之前没有使用过它最强大的功能，就是搜索网页，然后将标注自动添加到思维导图当中，从这个角度看，它可以算是一种特殊形式的网页版[[marginnote]]。#[[软件启发]]
+- 之前没有使用过它最强大的功能，就是搜索网页，然后将标注自动添加到思维导图当中，从这个角度看，它可以算是一种特殊形式的网页版[[Marginnote]]。#[[软件启发]]
 - 这个软件居然只是一个网页应用，难怪版本这么齐全，从windows到mac再到ipad都有。好像从浏览器里使用最好，能在一定程度上满足我缩放和移动的视觉体验。
 - 终于知道了这款软件新建概念之后模仿点击确定的快捷键是ctrl+enter，之前想要实现这功能好久了。原来新建节点只要按下enter就可以了，实在是太棒了。这款工具可以越用越顺手了。我用[[keyboard maestro]]设置了一个快捷wj来打开kb文件所在的文件夹。@评论:上述快捷键有时不好用，最靠谱的方式还是查看help assistant里面的keyboard shortcuts。
 - [kb-knowledge database.kdb](hook://file/tIJt9AsQc?p=Y29tfmFwcGxlfkNsb3VkRG9jcy9Lbm93bGVkZ2UgZGF0YWJhc2UgYnVpbGRlcg==&n=kb-knowledge%20database.kdb)

@@ -1,2 +1,2 @@
-- 我在电脑上很少使用safari浏览器，但是在[[ipad]]上发现safari浏览器的标注功能非常好，可以很方便地把网页编程pdf，然后用[[liquid text]]或是[[marginnote]]标注，这是我实现[[强力阅读]]的一种非常好的方式。
+- 我在电脑上很少使用safari浏览器，但是在[[ipad]]上发现safari浏览器的标注功能非常好，可以很方便地把网页变成pdf，然后用[[liquid text]]或是[[Marginnote]]标注，这是我实现[[强力阅读]]的一种非常好的方式。
 - safari浏览器在ipad上结合mindnode来做[[阅读批注]]感觉也很好。
