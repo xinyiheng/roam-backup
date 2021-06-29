@@ -6,7 +6,7 @@
     - 从the Brian导出数据的例子表明，结构可能比节点还要重要。在the brian中非常炫酷的信息在导出成text之后就完全没有了章法
     - 三款软件的格式转变#[[软件联动]]
         - scrivener也可以导入mindnode文件，全部整理成为卡片的模式。导入效果最好的格式是opml，也就是说mindnode先转变成为opml，这样，每一个节点都变成一张卡片的题目，而节点的注释则会变成卡片的正文。
-        - mindnode文件也可转变成为freemind文件，拓展名为mm。freemind文件可以直接导入到the brain中，层级关系可以得到完整保留。每一个freemind的节点都可以变成一个the brain中的节点，25px 0px 20px -30px;25px 0px 20px -30px;而节点的注释也会变成the brian的note。
+        - mindnode文件也可转变成为freemind文件，拓展名为mm。freemind文件可以直接导入到the brain中，层级关系可以得到完整保留。每一个freemind的节点都可以变成一个the brain中的节点;而节点的注释也会变成the brian的note。
         - 这样，我就完全打通了scrivener、mindnode、the brain三个软件。
 - [[TiddlyMap]]
 - the brain复杂的样式是怎样转换为简单的txt格式的？#[[文件格式]]#[[洞见]]#[[软件启发]]#[[软件联动]] #[[标记语言]] #[[格式转换]]
@@ -22,6 +22,8 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWx4bNJVlQo.png?alt=media&token=00ef94ad-30db-418e-bf32-2bc75d45d6e7)
     - 我如果用the brian导入外部文本的方式来标记自己想要整理的内容，然后导入the brian当中显示编辑后的样式的话，这就和使用markdown来做笔记，然后用markdown笔记提供渲染后的样式道理就是一样的。我相当与也在使用一种小众的[[标记语言]]。
 - 以后the brian中只保留关键词，尽量少做笔记，相当于是一个自主建立的概念网。#[[洞见]]
+- the brian确实不好修改笔记内容的颗粒度，文本编辑器也不好用，但是就是对它这种呈现方式很着迷。
+- [[obsidian]]有一款插件，大体实现了the brain的效果，叫做[[juggl]]
 - 官方网站使用说明
     - Categories
 via[TheBrain Blog](https://www.thebrain.com/blog?page=3)
