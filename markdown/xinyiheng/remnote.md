@@ -7,7 +7,7 @@
 - remnote的graph图真的有些超出我的设想，可以非常容易地自定义显示的元素。直接在graph上修改的功能使得一遍写作文档，一边用概念图来整理思想第一次成为了可能。remnote 在graph图的开发上真是后来居上。相比而言，roam research在的graph图真的就是摆设。远不如obsidian和remnote。
 - 在surface上使用remnote比在mac上还要好。
 - 关于使用graph图的一些使用技巧
-    - {{[[video]]: https://www.youtube.com/watch?app=desktop&v=KyfXoTvpngA&t=194s}}
+    - {{iframe: https://www.youtube.com/watch?app=desktop&v=KyfXoTvpngA&t=194s}}
     - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
 - mac 上的graph图中新建节点的时候如果输入中文经常会崩溃，先输入一个空格就可以了
 - remnote的graph图有什么特点？是在写作笔记的时候自动生成概念图，并且概念图也可以直接修改，并且反应在笔记上，这是[[Tinderbox]]和[[scapple]]也都无法达到的功能。
@@ -63,4 +63,6 @@
     - [[polar]]
     - [[supernote]]
 - #[[参考资料]]
+    - 知乎上专门介绍[remnote的专栏](https://www.zhihu.com/column/c_1344076498005999616)
     - 这是一个qq群里的人整理的remnote使用说明，[很详细](https://docs.qq.com/doc/DRk9xak5HcVNsZUti?_t=1617345628009)。
+    - remnote的[官方教程视频](https://www.youtube.com/playlist?list=PLBwTyifkXByjkj_H8OFTCPAtoc58Txzt0)，很全面。
