@@ -1,0 +1,4 @@
+- 09:37
+    - 上午来到之后看了一会庆祝建党100周年大会，还是有一点小激动。在这样一个时代，我也应该开启自己的光辉征程。
+    - No Clipboard AvailableVia[战乱中，是他们将经典引入中国](https://mp.weixin.qq.com/s?__biz=MjM5OTM4MDY4MQ==&mid=2650122405&idx=2&sn=aec9c2555767038934d09541306675d9&chksm=bf3d5b03884ad215f22cd2d565073f2a14942724777f4b6ceb907bc0b1b068d818e43acc7608) [[20210701]] 上午9:50
+    - 
