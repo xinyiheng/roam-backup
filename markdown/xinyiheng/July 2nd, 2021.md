@@ -4,4 +4,8 @@
     - 看innoreader里面的文章，其实有价值的内容不多，没有阅读重点的话容易迷失方向
     - 中午尝试更新windows11，虽然目前只是体验版，还不稳定，但是我想尝试一下新的内容
     - 用简悦把网页保存为markdown模式动图效果可以保留，还是非常不错的。问题也是应该如何在这种格式上做笔记#[[简悦]]
-    - 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FTiK0mpNCka.png?alt=media&token=23a1ac62-9c5c-4262-bc83-4a2c47e77f8d)
+    -  美区苹果id
+        - 您好！订单1917724500627143325
+        - 卡号：rict13e@icloud.com密码：Ag112211密保 1990-01-01 朋友 a111 工作 b222 父母 c333
+        - 禁止在设置登录iC10ud，只能在APP Store商店登录下载↓↓↓
