@@ -536,3 +536,5 @@ arising either from misleading data, hidden biases, or outright deception.]()[ >
             - The point here is that when bad ideas are endorsed by influential people and institutions, they can be contagious. And once a critical mass has climbed aboard that bandwagon, confirmation bias makes it much harder to convince people to change their now entrenched 33 beliefs. This is why it took many years, and many misspent millions, for D.A.R.E, to abandon its flawed approach.[ >>](marginnote3app://note/CA540E04-8597-477B-8E40-314A70F68FF6)
             - So the best way to protect yourself from dupers is by keeping incentives top of mind[ >>](marginnote3app://note/42BA864F-09DC-4E56-8F00-12B9E1B36178)
         - 比无知更致命的是错误的知识。
+- 21:52
+    - 今日阅读(其实是最近几天读的)
