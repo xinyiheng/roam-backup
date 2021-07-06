@@ -1,0 +1,68 @@
+- Many people believe that the discipline of economics is all about money, or how capital flows through society. But my work as an economist doesn’t involve things like analyzing fiscal data or predicting stock market trends. My specialty is conducting fieldwork in behavioral economics, going out into the real world to study the hidden, often surprising motivations behind big and small decisions we make every day.Via[THE VOLTAGE EFFECT ](marginnote3app://note/CFEA2879-0DAF-429F-BCE6-7B800A564909)[[20210706]] 上午10:38
+- Eager to get involved in a project that sought to reverse these trends, I teamed up with economists Steven Levitt (of Freakonomics fame) and Sally Sadoff (my PhD student at the time) in early 2008. Via[THE VOLTAGE EFFECT ](marginnote3app://note/470ACCDD-2A23-4CEC-BBBA-FBD749628B5E)[[20210706]] 上午10:38
+- ▾	THE VOLTAGE EFFECT
+- [	](marginnote3app://note/A4B9FC3B-1165-441E-A7EB-64F95D2E72AB)do with how people
+- [	](marginnote3app://note/405CA2F0-D666-470C-9C08-250179660FA7)if tipping helped do
+- [	](marginnote3app://note/3A142AF3-5956-4011-95F4-BCFC40F62470)gratitude soon gave way
+- [	](marginnote3app://note/2A26C064-5FDD-43A0-98D2-54FADC935AD2)every context. I’m not
+- [	](marginnote3app://note/E494F5F0-4022-4A08-AB1F-F59845E44F5E)only some of the time,
+- [	](marginnote3app://note/7640E02E-2994-418A-9B6E-1FB3749B0E7C)asymmetry in our
+- [	](marginnote3app://note/D9545842-2560-4AD8-A724-715F4CCFA919)Social Norms The
+- [	](marginnote3app://note/ED090C8D-64C3-46B7-B4D7-9EA98BE06373)by more than $100
+- [	](marginnote3app://note/09738522-9257-4688-824C-CE4FB73BC73A)informing/reminding
+- [	](marginnote3app://note/845C0267-3CB6-45D2-9324-FD5E91E9890C)meant a risk of being
+- [	](marginnote3app://note/FDE6E9C8-EF96-4EC6-8560-C70B570A89B6)personal characteristics
+- [	](marginnote3app://note/8416E935-9DA3-42E2-8E1E-2E6E6B6AE1FF)emissions through
+- [	](marginnote3app://note/89090C03-4934-4AE1-9646-9379715B42D8)fuel efficiency lay
+- [	](marginnote3app://note/835557F9-F687-4BC5-849A-4744107F0287)possibility of social
+- [	](marginnote3app://note/721ACF08-1723-4B16-9592-504609CC98B1)you have the
+- [	](marginnote3app://note/201BFC51-4A8A-4E96-92C5-3FD1D8096F3F)shown this type of
+- [	](marginnote3app://note/7FBD96B6-4578-46FD-ABF4-32EEF61DD680)behavior (even when
+- [	](marginnote3app://note/CFEA2879-0DAF-429F-BCE6-7B800A564909)economics is all about
+- [	](marginnote3app://note/470ACCDD-2A23-4CEC-BBBA-FBD749628B5E)reverse these trends, I
+- [	](marginnote3app://note/947DE492-CF2E-41DA-BE50-F414253A8D6F)education have to do
+- [	](marginnote3app://note/36351A48-1E5D-41B8-B026-DA7D12155996)more I realized that my
+- [	](marginnote3app://note/B0B9A5F9-77DA-42D5-BD31-0EE205539733)you’re probably aware
+- [	](marginnote3app://note/1281A79A-1247-42F6-926C-E70705C1A3C5)progress, since the
+- [	](marginnote3app://note/E377AB93-C571-4E59-A60D-68EF069EADC9)improving kids’
+- [	](marginnote3app://note/0AB746D5-ABF0-4897-90DD-5691A08ACBFB)and for an economist
+- [	](marginnote3app://note/BAEAC1C5-2DB9-4627-BA78-C83B2A9B7BEA)scaling: why some ideas
+- [	](marginnote3app://note/7B402C4A-AD82-4B58-AEBA-464B46FBC1EA)Economist at Uber
+- [	](marginnote3app://note/A65C53EC-2F94-422C-8DD9-2872C1DE709C)consumer product,
+- [	](marginnote3app://note/7F54DBAC-6119-4381-8352-463068FAF68D)academic vein, but my
+- [	](marginnote3app://note/70A752B2-7775-490F-9C78-D85562B8789C)conducted in an
+- [	](marginnote3app://note/1302C1B7-E5C5-46CA-81E5-C4785E49F509)promising new sleep
+- [	](marginnote3app://note/54235CC3-58DC-46B0-B827-BE05CFCD8FF0)drop: when an
+- [	](marginnote3app://note/541C49B9-9B07-4183-A99E-5D92F469342B)that great electric
+- [	](marginnote3app://note/0739A2C9-16CE-4D6F-90DF-159FC916E9F0)some “silver bullet”
+- [	](marginnote3app://note/C7E4CAA4-D65C-4A1C-9F98-A495AB969467)scalable ideas must
+- [	](marginnote3app://note/A5A49946-D633-4682-B0FB-9465ACDC81BB)voltage and how to
+- [	](marginnote3app://note/E4AD7DAA-780D-428D-8B71-0C0E184E3D96)half will teach you that
+- [	](marginnote3app://note/D9E2B90C-4207-48F0-8FE3-DA2F457BC712)produce voltage gains
+- [	](marginnote3app://note/0EDDB72A-EDD2-4AC1-B3A7-B1D965E58FC4)stories that illustrate
+- [	](marginnote3app://note/E7ADCC0D-2C2A-4327-A74C-85156DD2A50B)nudges I designed to
+- [	](marginnote3app://note/50245707-1D6E-430C-B7BE-9F7B73E0C58E)built on a theory from
+- [	](marginnote3app://note/AA7FC836-E7B5-45CA-99D5-7A74E09D1AAD)from over 40 countries
+- [	](marginnote3app://note/C6D8C3D5-1BE4-4630-9391-419BBF1B865D)information about
+- [	](marginnote3app://note/BA15036E-DC3D-4075-BBA7-B041A5E4EFAE)across contexts;
+- [	](marginnote3app://note/A983FDE5-D9A2-4910-B05C-433248F33DC3)prevents us from seeing
+- [	](marginnote3app://note/4D1D70D1-B04D-4A8D-9F79-30916A9FBE57)of Justice’s 1985
+- [	](marginnote3app://note/5386C0B5-AC4F-47E8-9239-AC92D265D50A)health initiative had no
+- [	](marginnote3app://note/4F522911-F056-4529-8B7D-72D5806C53C9)who participated in the
+- [	](marginnote3app://note/61ADF1B9-0716-4979-ABDF-E004E848EDCD)positives—can occur
+- [	](marginnote3app://note/BAC596A6-07BF-43D5-99C8-F5E682832394)collaboration has since
+- [	](marginnote3app://note/E4DC36C7-ECD2-46A7-9ECA-0BADC0F79B8C)战略却仍难以复制
+- [	](marginnote3app://note/8E751AAB-5A49-4D04-A098-139D7C554D4E)Wason’s classic Rule
+- [	](marginnote3app://note/6D4E0D56-8159-417D-ADCD-24DF052594DC)knack for producing
+- [	](marginnote3app://note/CA540E04-8597-477B-8E40-314A70F68FF6)endorsed by influential
+- [	](marginnote3app://note/20B188F7-A0CC-4B54-BA0B-0B20CB947244)that often sabotage
+- [	](marginnote3app://note/E75D2FE5-29D5-465B-ABD4-FF4A1B620225)The Revolution of
+- 女士品茶这本书的来历
+- [	](marginnote3app://note/06454333-AD68-409C-BE11-A2BA103DC648)conduct the same
+- [	](marginnote3app://note/A8F53AFA-9232-4115-A839-60C4C6F3394E)Mark Zuckerberg and
+- [	](marginnote3app://note/E8474A85-501E-4E2C-A4CD-161613ACB7D0)become a hot-button
+- [	](marginnote3app://note/373754F5-E90E-4852-8E8E-8A7411BC3DFC)considering what we
+- [	](marginnote3app://note/42BA864F-09DC-4E56-8F00-12B9E1B36178)dupers is by keeping
+- [	](marginnote3app://note/C0E08E14-7C51-45AD-ACAA-4E5E70F42FAF)her to win over
+- [	](marginnote3app://note/10FECA0F-6D6F-4D88-8D06-2135036CA648)misrepresents
+- [	](marginnote3app://note/03838FC8-C3E0-41C6-BDEB-128DD164E11F)hazardous obstacle to
