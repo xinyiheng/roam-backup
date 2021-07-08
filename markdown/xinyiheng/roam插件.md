@@ -1,22 +1,4 @@
 - [[roam highlighter]]
-    - [派评 | 近期值得关注的 App - 少数派](https://sspai.com/post/64268)
-        - 小时前
-        - 大家好，本期《派评》的主要内容有：
-        - 大版本。 
-        - 你可以在桌面端通过网页右侧的目录进行快速跳转，阅读你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。
-        - - 值得关注的 
-        - 我们每天都会接触不少实用、有趣的新 App，也会关注到不少应用的更新动态。「派评」为你筛选这些 App 之后，将最值得关注的应用动态呈现给你。
-        - 是一款可以帮助我们拆解目标、制定计划的小应用。
-        - 在 Iter 当中，每一个项目都被具化为一段旅程，点击添加后，我们便可以开始分解目标、制定计划，Iter 目前默认支持将内容拆分为两个层级。Iter 提供了极为详细的示例项目来帮助用户学习应用的使用，同时，这个示例也是一次如何进行任务分解的生动教育。
-        - ![](https://cdn.sspai.com/2020/12/28/article/663038236012632e5f0de0ac53eb6ec9?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
-        - 除了进行最基础的任务分解，按时执行任务也是必不可少的。针对每一个具体步骤，我们都可以为其设置详细的提醒时间，对于需要定期重复的步骤，我们还能为步骤自定义重复周期，每当我们完成一个小目标时，便能勾选相应的目标来及时更新目标状态。
-        - - Fitness Totals：健身小部件，你今天走一万步了吗？ 
-        - 平台： 
-        - 年均值，或是上一周期的总体完成情况等，看看你在新的一年里是否有所懈怠。点击底部的分享按钮，还可以自动生成运动数据图，方便与他人分享。
-        - ![](https://cdn.sspai.com/2020/12/28/article/c143d25b3f5129dac729343880062a09?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
-        - 应用售价元，作为单一功能的小组件应用，实在不算便宜。而且喜欢运动的人，应该有其他穿戴设备支持数据展示，又或是通过
-        - 图像编辑 
-        - [@huhuhang](https://sspai.com/u/huhuhang)：一直以来，Pixelmator Pro 都紧跟系统新特性发布重要更新，Pixelmator Pro 2.0.2 已经支持了 iOS 14.3 推出的 Apple ProRAW 格式。
 - 插件市场
 - 绘图
     - {{[[roam/js]]}}
@@ -28,6 +10,48 @@
   s.async = false;
   document.getElementsByTagName('head')[0].appendChild(s);  
 }```
+- {{roam/js}}
+    - ```javascript
+window.pdfParams = {
+	//Highlight 
+	///Placement
+	outputHighlighAt: 'cousin', //cousin, child
+	highlightHeading: '**Highlights**', //for cousin mode only 
+	appendHighlight: true, //append: true, prepend: false
+	///Rest of Highlight Options
+	breadCrumbAttribute: 'Title', //Title, Author, Citekey, etc. 
+	addColoredHighlight: true,//bring the color of highlights into your graph
+	//Rerference to Highlight 
+	///Block References Related
+	copyBlockRef: true,//false: copy captured text
+	sortBtnText: 'sort them all!',//{ { sort them all! } } btn will sort highlight refs.
+	///Block Reference Buttons  
+	aliasChar: '✳', //use '' to disable
+	textChar: 'T', //use '' to disable	
+	//PDF Viewer
+	pdfStaticHeight: 900,
+	pdfStaticWidth: 1200,
+	pdfMinWidth: 450,
+	pdfMinHeight: 900,
+	//Citation 
+	///Format   
+	////use Citekey and page in any formating string 
+	////page can be offset by `Page Offset` attribute. 
+	////common usecase: 
+	/////Zotero imports with 'roam page title' = @Citekey and Citekey attribute
+	////examples:
+	/////"[${Citekey}]([[@${Citekey}]])" 
+	/////"[(${Citekey}, ${page})]([[@${Citekey}]])" 
+	/////use '' to disable  
+	citationFormat: '',
+	///BlockQuote 
+	blockQPerfix: ''//use '' to disable. Alternatives are: > or [[>]].
+};
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.src = "https://c3founder.github.io/Roam-Enhancement/enhancedPDF.js";
+document.getElementsByTagName("head")[0].appendChild(s);
+```
 - 导入文章
 - [[RoamPortal-Search]]可以展示概念之间的立体图，非常棒，我设置了#[[快捷方式]]ctrl+p
 - [[roam toolkit]]很早就安装了，但是很少使用，最近知道了它可以把卡片以思维导图的方式展示出来，感觉很惊艳，可以使用。我设置了调出这个插件的#[[快捷方式]]ctrl+i
@@ -364,14 +388,6 @@ const extractVideoID = (url) => {
 };
   
 setInterval(activateYtVideos, 1000);```
-- page协同-好像是把所有的相同含义的词都统一替换成一个，我还没用过# [[blck:green]]
-- 把文字转换为类似ppt的演示文本# [[blck:green]] triger:presentation
-- 方便建立query# [[blck:green]] triger:query
-- 插入emoji# [[blck:green]]  
-- 把数字转化为图表# [[blck:green]]  triger:chart/line/bar
-- 提醒功能# [[blck:green]] triger：alert
-- ocr识别文字，不支持中文# [[blck:green]] triger:
-- map# [[blck:green]] triger:maps
 - 发现未连接的page# [[blck:green]]
 - {{[[roam/js]]}}
     - ```javascript
@@ -404,7 +420,6 @@ document.body.appendChild(s);```
   text-decoration: none !important;
 }
 - 以方括号触发的js插件来源：[roamjs docs](https://roamjs.com/docs/extensions/charts）# [[blck:red]]
-- 思维导图# # [[blck:green]]
 - 秘密花园
 - {{[[roam/js]]}}
     - ```javascript
