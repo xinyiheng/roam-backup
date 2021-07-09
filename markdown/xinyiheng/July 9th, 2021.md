@@ -1,0 +1,12 @@
+- 信息从输入到输出的状态#[[渐进式积累]]#[[sr]]
+    - 海洋
+    - 河流
+    - 池塘  关于
+    - 一盆水
+    - 高亮
+    - 笔记
+    - 概念
+    - 知识图谱
+    - 思考
+    - 输出
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FlO1r9BLDbv.png?alt=media&token=c5c9b3c2-e09a-4b94-b5be-157c876311a5)
