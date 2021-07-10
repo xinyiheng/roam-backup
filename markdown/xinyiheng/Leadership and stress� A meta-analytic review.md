@@ -1,0 +1,9 @@
+- ## Metadata::
+    - Author(s):: [[P. D. Harms]], [[Marcus Credé]], [[Michael Tynan]], [[Matthew Leon]], [[Wonho Jeung]]
+    - Type:: [[Article]]
+    - Publication:: [[The leadership quarterly]]
+    - Topics:: 
+    - Date:: 2017
+    - Date added:: [[March 22nd, 2021]]
+    - Zotero links:: [Local library](zotero://select/library/items/WK3ELJP5), [Web library](https://www.zotero.org/users/7147715/items/WK3ELJP5), 
+    - Tags:: #[[ZoteroImport]]

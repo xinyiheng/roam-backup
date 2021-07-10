@@ -1,0 +1,9 @@
+- ## Metadata::
+    - Editor(s):: [[Matias Vernengo]], [[Esteban Perez Caldentey]], [[Barkley J. Rosser Jr]]
+    - Type:: [[Book]]
+    - Topics:: 
+    - Date:: 2020
+    - Date added:: [[December 13th, 2020]]
+    - Zotero links:: [Local library](zotero://select/library/items/AFL8XHF4), [Web library](https://www.zotero.org/users/7147715/items/AFL8XHF4), [全文](zotero://open-pdf/library/items/DK4Z8REX)
+    - URL:: [http://link.springer.com/10.1057/978-1-349-95121-5](http://link.springer.com/10.1057/978-1-349-95121-5)
+    - Tags:: #[[ZoteroImport]]

@@ -1,0 +1,9 @@
+- ## Metadata::
+    - Author(s):: [[Cort W. Rudolph]], [[Rachel S. Rauvola]], [[Hannes Zacher]]
+    - Type:: [[Article]]
+    - Publication:: [[The Leadership Quarterly]]
+    - Topics:: 
+    - Date:: 2018
+    - Date added:: [[March 22nd, 2021]]
+    - Zotero links:: [Local library](zotero://select/library/items/CMTHH6FA), [Web library](https://www.zotero.org/users/7147715/items/CMTHH6FA), 
+    - Tags:: #[[ZoteroImport]]

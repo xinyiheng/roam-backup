@@ -1,0 +1,12 @@
+- ## Metadata::
+    - Author(s):: [[Muhammad Asrar-ul-Haq]], [[Sadia Anwar]]
+    - Type:: [[Article]]
+    - Publication:: [[Future Business Journal]]
+    - Abstract::
+        - Leadership is one of the most studied topics in organizational settings and has been studied in relation to several employee performance outcomes. Based on literature review, it is observed that the concept of congruence between leaders and followers is relatively new. As organizations spend a huge amount of their budget on different leadership development programs, congruence between the perception of leaders and followers is necessary to achieve better results. In developing countries, very little literature is available on the concept of congruence between leaders and followers. The present study is an effort to review and synthesize major leadership theories and its relationship with different outcomes. Further, based on a comprehensive review of literature, a future research agenda about leadership studies in a developing country is proposed.
+    - Topics:: 
+    - Date:: 2018
+    - Date added:: [[March 27th, 2021]]
+    - Zotero links:: [Local library](zotero://select/library/items/I8VEZBA6), [Web library](https://www.zotero.org/users/7147715/items/I8VEZBA6), [ScienceDirect Full Text PDF](zotero://open-pdf/library/items/U2ZSI867)
+    - URL:: [https://www.sciencedirect.com/science/article/pii/S2314721017300798](https://www.sciencedirect.com/science/article/pii/S2314721017300798)
+    - Tags:: #[[Leadership]], #[[Congruence]], #[[Literature review]], #[[Pakistan]], #[[Performance]], #[[ZoteroImport]]

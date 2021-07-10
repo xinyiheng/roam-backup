@@ -1,0 +1,9 @@
+- ## Metadata::
+    - Author(s):: [[Jinlong Zhu]], [[Zhenyu Liao]], [[Kai Chi Yam]], [[Russell E. Johnson]]
+    - Type:: [[Article]]
+    - Publication:: [[Journal of Organizational Behavior]]
+    - Topics:: 
+    - Date:: 2018
+    - Date added:: [[March 22nd, 2021]]
+    - Zotero links:: [Local library](zotero://select/library/items/DU45FZ6J), [Web library](https://www.zotero.org/users/7147715/items/DU45FZ6J), [Full Text](zotero://open-pdf/library/items/C6KEJ63R)
+    - Tags:: #[[ZoteroImport]]

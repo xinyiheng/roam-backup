@@ -1,0 +1,12 @@
+- ## Metadata::
+    - Author(s):: [[Minyoung Cheong]], [[Francis J. Yammarino]], [[Shelley D. Dionne]], [[Seth M. Spain]], [[Chou-Yu Tsai]]
+    - Type:: [[Article]]
+    - Publication:: [[The Leadership Quarterly]]
+    - Abstract::
+        - Based on a review of empirical literature on empowering leadership, given incongruent and mixed results, the current work suggests reconsidering the effectiveness of empowering leadership. We propose a framework for examining the effectiveness of empowering leadership that considers: 1) feasibility of non-linear main effects of empowering leadership on work-related outcomes, 2) possibility of reverse causation between empowering leadership and work-related outcomes, 3) potential contradictory mediating mechanisms through which empowering leadership influences work-related outcomes, 4) consideration of boundary conditions which could alter the relationships between empowering leadership and work-related outcomes, and 5) consideration of levels-of-analysis and multilevel issues in empowering leadership. Our framework considers the multifaceted nature of empowering leadership and offers a guiding tool for advancing future research in this area.
+    - Topics:: 
+    - Date:: 2019
+    - Date added:: [[March 27th, 2021]]
+    - Zotero links:: [Local library](zotero://select/library/items/5N9SFTXW), [Web library](https://www.zotero.org/users/7147715/items/5N9SFTXW), [ScienceDirect Full Text PDF](zotero://open-pdf/library/items/PD8SBAT5)
+    - URL:: [https://www.sciencedirect.com/science/article/pii/S1048984317300607](https://www.sciencedirect.com/science/article/pii/S1048984317300607)
+    - Tags:: #[[Empowering leadership]], #[[Levels-of-analysis and multilevel issues]], #[[Mediating mechanisms and boundary conditions]], #[[Non-linear effects]], #[[Reverse causation]], #[[ZoteroImport]]

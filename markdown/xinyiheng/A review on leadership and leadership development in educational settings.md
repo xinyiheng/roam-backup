@@ -1,0 +1,9 @@
+- ## Metadata::
+    - Author(s):: [[Ellen Daniëls]], [[Annie Hondeghem]], [[Filip Dochy]]
+    - Type:: [[Article]]
+    - Publication:: [[Educational research review]]
+    - Topics:: 
+    - Date:: 2019
+    - Date added:: [[March 22nd, 2021]]
+    - Zotero links:: [Local library](zotero://select/library/items/STLX7628), [Web library](https://www.zotero.org/users/7147715/items/STLX7628), 
+    - Tags:: #[[ZoteroImport]]

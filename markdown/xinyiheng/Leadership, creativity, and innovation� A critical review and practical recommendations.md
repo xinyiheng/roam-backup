@@ -1,0 +1,12 @@
+- ## Metadata::
+    - Author(s):: [[David J. Hughes]], [[Allan Lee]], [[Amy Wei Tian]], [[Alex Newman]], [[Alison Legood]]
+    - Type:: [[Article]]
+    - Publication:: [[The Leadership Quarterly]]
+    - Abstract::
+        - Leadership is a key predictor of employee, team, and organizational creativity and innovation. Research in this area holds great promise for the development of intriguing theory and impactful policy implications, but only if empirical studies are conducted rigorously. In the current paper, we report a comprehensive review of a large number of empirical studies (N = 195) exploring leadership and workplace creativity and innovation. Using this article cache, we conducted a number of systematic analyses and built narrative arguments documenting observed trends in five areas. First, we review and offer improved definitions of creativity and innovation. Second, we conduct a systematic review of the main effects of leadership upon creativity and innovation and the variables assumed to moderate these effects. Third, we conduct a systematic review of mediating variables. Fourth, we examine whether the study designs commonly employed are suitable to estimate the causal models central to the field. Fifth, we conduct a critical review of the creativity and innovation measures used, noting that most are sub-optimal. Within these sections, we present a number of taxonomies that organize extant research, highlight understudied areas, and serve as a guide for future variable selection. We conclude by highlighting key suggestions for future research that we hope will reorient the field and improve the rigour of future research such that we can build more reliable and useful theories and policy recommendations.
+    - Topics:: 
+    - Date:: 2018
+    - Date added:: [[March 27th, 2021]]
+    - Zotero links:: [Local library](zotero://select/library/items/JE4C2LQT), [Web library](https://www.zotero.org/users/7147715/items/JE4C2LQT), [ScienceDirect Full Text PDF](zotero://open-pdf/library/items/6JTCRKIW)
+    - URL:: [https://www.sciencedirect.com/science/article/pii/S1048984316302582](https://www.sciencedirect.com/science/article/pii/S1048984316302582)
+    - Tags:: #[[Leadership]], #[[Creativity]], #[[Endogeneity]], #[[Innovation]], #[[Measurement]], #[[Mediation]], #[[ZoteroImport]]

@@ -1,0 +1,9 @@
+- ## Metadata::
+    - Author(s):: [[Thomas Fischer]], [[Joerg Dietz]], [[John Antonakis]]
+    - Type:: [[Article]]
+    - Publication:: [[Journal of Management]]
+    - Topics:: 
+    - Date:: 2017
+    - Date added:: [[March 22nd, 2021]]
+    - Zotero links:: [Local library](zotero://select/library/items/6FCQT6M5), [Web library](https://www.zotero.org/users/7147715/items/6FCQT6M5)
+    - Tags:: #[[ZoteroImport]]

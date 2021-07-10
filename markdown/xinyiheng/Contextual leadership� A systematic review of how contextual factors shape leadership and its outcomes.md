@@ -1,0 +1,21 @@
+- ## Metadata::
+    - Author(s):: [[Burak Oc]]
+    - Type:: [[Article]]
+    - Publication:: [[The Leadership Quarterly]]
+    - Topics:: 
+    - Date:: 2018
+    - Date added:: [[March 22nd, 2021]]
+    - Zotero links:: [Local library](zotero://select/library/items/PPJNI4IT), [Web library](https://www.zotero.org/users/7147715/items/PPJNI4IT), 
+    - Tags:: #[[ZoteroImport]]
+- ## Metadata::
+    - Author(s):: [[Burak Oc]]
+    - Type:: [[Article]]
+    - Publication:: [[The Leadership Quarterly]]
+    - Abstract::
+        - With roots dating back to Fiedler’s (1978) contingency model, contextual leadership has been one of the most trending topics in leadership research over the last decade. However, although roughly 500 studies have examined the impact of context on leadership and its outcomes, there is neither a systematic approach to nor agreement regarding what constitutes the context for leadership. This is surprising, considering the central role that context plays in leadership: Leadership does not occur in a vacuum, but rather exists in a context where leaders function. This review article uses Johns’s (2006) categorical framework to fully portray the leadership context and systematically reviews the existing theoretical frameworks and empirical findings for the impact of context. When called for, this review also integrates related streams of research (e.g., institutional theory). Finally, the article summarizes the general trends in the study of contextual leadership and suggests future directions, offering ideas to help meaningfully structure the voluminous and diverse body of research on the leadership context.
+    - Topics:: 
+    - Date:: 2018
+    - Date added:: [[March 27th, 2021]]
+    - Zotero links:: [Local library](zotero://select/library/items/XRUVKPBN), [Web library](https://www.zotero.org/users/7147715/items/XRUVKPBN), [ScienceDirect Full Text PDF](zotero://open-pdf/library/items/YHM8JA6X)
+    - URL:: [https://www.sciencedirect.com/science/article/pii/S1048984317300413](https://www.sciencedirect.com/science/article/pii/S1048984317300413)
+    - Tags:: #[[ZoteroImport]]

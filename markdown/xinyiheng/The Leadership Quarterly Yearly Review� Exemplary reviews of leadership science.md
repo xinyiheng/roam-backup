@@ -1,0 +1,10 @@
+- ## Metadata::
+    - Author(s):: [[David V. Day]]
+    - Type:: [[Article]]
+    - Publication:: [[The Leadership Quarterly]]
+    - Topics:: 
+    - Date:: 2021
+    - Date added:: [[March 27th, 2021]]
+    - Zotero links:: [Local library](zotero://select/library/items/XQCLSTU4), [Web library](https://www.zotero.org/users/7147715/items/XQCLSTU4), [ScienceDirect Full Text PDF](zotero://open-pdf/library/items/8AT8L4E2)
+    - URL:: [https://www.sciencedirect.com/science/article/pii/S1048984321000072](https://www.sciencedirect.com/science/article/pii/S1048984321000072)
+    - Tags:: #[[ZoteroImport]]
