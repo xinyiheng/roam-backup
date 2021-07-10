@@ -1,0 +1,2 @@
+- 如何使用sci-hub下载论文？
+    - 可以参考[这篇文章](https://app.yinxiang.com/shard/s63/nl/13797828/34ff38ce-44f1-4911-8e18-00a6ebe1f7a7)
