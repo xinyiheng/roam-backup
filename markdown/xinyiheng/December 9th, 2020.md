@@ -17,7 +17,7 @@ via[如何用 Python 和正则表达式抽取文本结构化信息](https://mp.w
     - 快速制作anki卡片
     - 照例，阿信从本月出版的上百种新书中，精挑细选出4本最值得读的好书！
 via[12月最值得读的书 | 4本新书，年底冲冲冲！](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652637265&idx=1&sn=0443c0c1a7e977bb9990ee722d2411a7&chksm=bd30d8f28a4751e43d9c54f3a9210b866bd1b87e1c02ebff176f628b49753a5d6601d0307df2)
-[[20201209]] 下午11:40
+[[20201209]] 下午11:40v#[[文案]]
     - 《醉汉的脚步》
 via[12月最值得读的书 | 4本新书，年底冲冲冲！](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652637265&idx=1&sn=0443c0c1a7e977bb9990ee722d2411a7&chksm=bd30d8f28a4751e43d9c54f3a9210b866bd1b87e1c02ebff176f628b49753a5d6601d0307df2)
-[[20201209]] 下午11:41
+[[20201209]] 下午11:41#[[文案]]

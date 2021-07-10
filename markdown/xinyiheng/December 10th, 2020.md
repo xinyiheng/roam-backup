@@ -1,7 +1,7 @@
 - 今日安排
     - {{[[TODO]]}} 修改《经济学的思考方式》
     - {{[[DONE]]}} 使用鸠摩罗什翻译一部分《从滩高中到东大》
-    - {{[[DONE]]}} 优化从marginnote向anki和roam导出内容的操作
+    - {{[[DONE]]}} 优化从marginnote向[[anki]]和roam导出内容的操作
         - marginnote内部的文本可以分为几种不同的情况，导出的效果并不相同。
             - pdf文档
                 - 快捷方式是option+0

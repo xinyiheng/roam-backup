@@ -13,6 +13,7 @@
 - 我知道的最好的介绍anki的人——公众号[学习骇客](https://mp.weixin.qq.com/mp/publictag?action=get&tag_id=7929779980957908993#wechat_redirect)的主理人，LEO
 - 在手机端使用anki来查看记忆资料
     - 不要更新app版本，使用9.2的版本就可以，进入10以后的版本就不再支持http开头的图床链接地址了。
+    - https://ankiweb.net/shared/info/1293255374 看看能否解决anki添加图片的问题@评论:目前我没有研究这个方法，现在直接复制图片进去，还没有体验到同步速度太慢
 - [Ankify Anything - Anki Is Not Just For Raw Facts - YouTube](https://www.diigo.com/outliner/diigo_items/904019/12128769/558931919?key=34d57b46e1)
 - #[[参考资料]]
     - [个人使用anki经验合集](https://roamresearch.com/#/app/hjp_study/page/ej9GS-bFZ) 下午2:26@评论:这是一个人用roam research写的，看来对anki很有研究
