@@ -2,7 +2,7 @@
 -via[不可不看 · 每周新书丨2020年第49周](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635865&idx=2&sn=b514ec083b713d3d24aee3aa5046e9b3&chksm=bd30d27a8a475b6c1b2ff71b257377a81d3f583a704ee2ac493dcf0c09f44745cc86d32b0c50)
 - 算法能为我们解决所有的问题吗？是否数据越多，我们制定出的战略就越好？本书作者提出，人们的想法、喜好和选择很大程度上受环境与文化的影响。企业家真正需要花时间去做的，是去了解目标客户群体的行为和其所处的世界。
 -via[不可不看 · 每周新书丨2020年第49周](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635865&idx=2&sn=b514ec083b713d3d24aee3aa5046e9b3&chksm=bd30d27a8a475b6c1b2ff71b257377a81d3f583a704ee2ac493dcf0c09f44745cc86d32b0c50)
-- 读懂后资管新规时代危与机；掌握银证保信基发展逻辑；洞悉未来十年监管改革方向，明确机构发展战略，抓住财富新机遇。
+- 读懂后[[资管新规]]时代危与机；掌握银证保信基发展逻辑；洞悉未来十年监管改革方向，明确机构发展战略，抓住财富新机遇。
 -via[不可不看 · 每周新书丨2020年第49周](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635865&idx=2&sn=b514ec083b713d3d24aee3aa5046e9b3&chksm=bd30d27a8a475b6c1b2ff71b257377a81d3f583a704ee2ac493dcf0c09f44745cc86d32b0c50)
 - 《我在中国当医生》的作者朱知梅教授，是一位行医30多年的资深医生。在中英两国的医院工作多年后，他站在跨文化的视角，从医院管理体系、医疗效率、人才培养等多个维度阐述了自己对中西方医疗理念的认识。
 -via[中国人的求医态度，你怎么看？](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635814&idx=2&sn=cb06a4459fde82fb0ee012310ad98276&chksm=bd30d2058a475b13412909f77f7025dfd84aea6439af35f13533d9eee9793397d5d3afa1126c)
