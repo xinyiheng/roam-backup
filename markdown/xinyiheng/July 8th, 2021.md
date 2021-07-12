@@ -1,4 +1,4 @@
-- 阅读
+- #[[阅读]]
     - 2021年07月08日
         - 马斯克的智能驾驶解决方案和其他厂商有很大区别，由于其采用ICA模式，即完全不依赖于预制地图数据来实现简单的自适应巡航模式，因此预测这样一个系统的技术成熟度曲线是十分困难的。 [wallstreetcn.com](https://wallstreetcn.com/articles/3634811)
         - 文案
@@ -115,8 +115,8 @@
             - 在2030年的时候，我们的一年期名义国债__利率__将大概率地逐步__下降__到2%（也许再多一些）这个平台。这对于权益__市场__，对于私人__资本__开支，对于提高整体经济运行__效率__，毫无疑问都会产生非常积极的__影响__。
         - 以上回答皆来自于卡内蒂的笔记《人的疆域》。 这本800多页的《人的疆域》，无论你何时翻开，它就像是一本“答案之书”，翻到哪页，总有一个答案等着你。[mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MjM5MjI5NjI4MQ==&mid=2650251514&idx=1&sn=8889dec5f14e6f95392632cf2e326356&chksm=beab7ccc89dcf5da3354c859ed6f2ce30c4dabc26004c5277a1f984b2f27eb359be9a2a88606)
         - 他会毒舌犀利地说：“穷人的希望，是富人的财富。” [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MjM5MjI5NjI4MQ==&mid=2650251514&idx=1&sn=8889dec5f14e6f95392632cf2e326356&chksm=beab7ccc89dcf5da3354c859ed6f2ce30c4dabc26004c5277a1f984b2f27eb359be9a2a88606)
-        - 今年3月，工信部前部长苗圩在政协会议上指出：在全球制造业四级梯队格局中，中国处于第三梯队，实现制造强国目标至少还需30年。  [[mp.weixin.qq.com]](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652720116&idx=1&sn=cb5f700a32426e9fd03782db4a6ec55f&chksm=845dc6d1b32a4fc78cb6a545124079a89bb3ffba21784229dd60ff3a751c1bccda02caab4019)
-        - Humanetics只有750名左右的员工，按照中国工信部的标准，属于中型工业企业。但就是这样一家企业，掌控着一个全球细分市场，人均产值高达15万美元。（人均产值不等于人均GDP，GDP计算的是增加值） [[mp.weixin.qq.com]](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652720116&idx=1&sn=cb5f700a32426e9fd03782db4a6ec55f&chksm=845dc6d1b32a4fc78cb6a545124079a89bb3ffba21784229dd60ff3a751c1bccda02caab4019)
+        - 今年3月，工信部前部长苗圩在政协会议上指出：在全球制造业四级梯队格局中，中国处于第三梯队，实现制造强国目标至少还需30年。  [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652720116&idx=1&sn=cb5f700a32426e9fd03782db4a6ec55f&chksm=845dc6d1b32a4fc78cb6a545124079a89bb3ffba21784229dd60ff3a751c1bccda02caab4019)
+        - Humanetics只有750名左右的员工，按照中国工信部的标准，属于中型工业企业。但就是这样一家企业，掌控着一个全球细分市场，人均产值高达15万美元。（人均产值不等于人均GDP，GDP计算的是增加值） [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652720116&idx=1&sn=cb5f700a32426e9fd03782db4a6ec55f&chksm=845dc6d1b32a4fc78cb6a545124079a89bb3ffba21784229dd60ff3a751c1bccda02caab4019)
             - [制造业强国梯队](https://www.diigo.com/outliner/diigo_items/904019/12128769/597920875?key=34d57b46e1)
         - 依据中国目前的货币政策传导机制，人民银行通过中期借贷便利操作(MLF)引导贷款市场报价利率(LPR)，从而影响实际贷款利率。但目前LPR已连续14个月不变。 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzA5MDEzNjQwMA==&mid=2655411658&idx=1&sn=074aea067ce6b0f3e25c5d3d15a143cc&chksm=8ba2b7f5bcd53ee37392b89a1acbaf8742502678c957f733bb90f5d3680e262b4e5321c71d19)
         - 长期以来，中国更加重视实体经济的贷款利率，而货币市场主要利率DR007、R007往往波动较大，利率传导不畅。 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=MzA5MDEzNjQwMA==&mid=2655411658&idx=1&sn=074aea067ce6b0f3e25c5d3d15a143cc&chksm=8ba2b7f5bcd53ee37392b89a1acbaf8742502678c957f733bb90f5d3680e262b4e5321c71d19)

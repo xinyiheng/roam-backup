@@ -39,7 +39,7 @@ via[蒙特卡罗方法入门 - 阮一峰的网络日志](http://www.ruanyifeng.c
         - 例子
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FqpoPk3qNxS.png?alt=media&token=425dd4de-4e84-4f85-8ba2-cb509d7c4433)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F8c566noQRg.png?alt=media&token=31def221-91cc-4aec-a5dc-affe325d246f)
-- [什么是兰切斯特方程]#[[算法]](https://index.pmthinking.com/598fb62d9c3b44cab39f075d5d110fe3)
+- [什么是兰切斯特方程]#[[算法[[[[]](]]]]https://index.pmthinking.com/598fb62d9c3b44cab39f075d5d110fe3)
 via[产品沉思录（精选） ProductThinking](https://index.pmthinking.com/ProductThinking-a601a12335044f349a22caf57f274c27?p=598fb62d9c3b44cab39f075d5d110fe3)
 [[20201211]] 下午8:02
     - 为什么总是说创新需要10倍以上体验的改变，比如你现在得到了一个价值为1元的东西，然后基于禀赋效应在你心理其实它已经是3元了，而基于损失厌恶，当你用一个新东西替代它时，其实感觉自己丢掉的是9元的价值…所以一款产品的新价值要替换用户心里的老产品，大概需要10倍的不同…

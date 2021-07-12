@@ -9,7 +9,7 @@
 - 现在可以设置一些简单的宏来合并几个重复的动作。
 - [[Automator]]
 - #[[参考资料]]
-    - Official Keyboard Maestro WikiVia[Home Page [Keyboard Maestro Wiki]](https://wiki.keyboardmaestro.com/Home_Page)[[20210106]] 下午5:15 
+    - Official Keyboard Maestro WikiVia[Home Page [Keyboard Maestro Wiki[[[[]](]]]]https://wiki.keyboardmaestro.com/Home_Page)[[20210106]] 下午5:15 
     - [Keyboard Maestro 入门指南 - 少数派](https://sspai.com/post/36442) 
     - [Keyboard Maestro 和它的 Macro 们 | 2016与我的数字生活 - 少数派](https://sspai.com/post/36707) 
     - [用 Keyboard Maestro 实现窗口排列管理 - 少数派](https://sspai.com/post/55908)
@@ -41,7 +41,7 @@ via[在Keyboard Maestro中替换空行 - 简书](https://www.jianshu.com/p/b25bd
 [[20201211]] 上午9:03
     - keybaord maestro自带的[[正则表达式]]说明
         - Regular Expressions (RegEx)
-via[Regular Expressions [Keyboard Maestro Wiki]](https://wiki.keyboardmaestro.com/Regular_Expressions?s[]=regular)
+via[Regular Expressions [Keyboard Maestro Wiki[[[[]](]]]]https://wiki.keyboardmaestro.com/Regular_Expressions?s[]=regular)
 [[20201211]] 上午9:06
     - 用 Keyboard Maestro 托拽整理文件
 -via[用 Keyboard Maestro 托拽整理文件 - 少数派](https://sspai.com/post/44429)
