@@ -113,6 +113,11 @@ Future task2               :         des4, after des3, 5d
         - 首先就是要找到blcok在哪里。可能有两种情况，一种是将当前的block引用到别的地方。这种情况下，先copy block reference，然后再在搜索框中找到要放到的地方，粘贴就可以。
         - 另一种是要在当前block当中引用别的block，为了方便找到，可以通过以下方式实现
             - 将您的光标放在一个块中，然后按Ctrl-Shift-9弹出搜索框
+    - 如何搜索和替换概念？
+        - 并没有这个功能，echnique begins [2:13](https://www.youtube.com/watch?v=78p6z2104AU&t=133s)1. create Page with name equal to existing text you want to change2. Unlinked References > Link All3. rename Page to whatever you want   -------   4. delete Page Find and Replace Technique [[Roam Research]] - YouTube](https://www.youtube.com/watch?v=78p6z2104AU) [[20210712]] 上午9:01
+        - 
+    - 修改tag的样式
+        - https://www.redgregory.com/roam-content/2021/1/8/customize-tags-inside-roam-research-with-this-simple-css
 - #[[快捷方式]]
     - 在windows 系统中，查看上一个或下一个page的按键是alt+左右箭头
     - 快速跳转到daily note ctrl+shift+d
