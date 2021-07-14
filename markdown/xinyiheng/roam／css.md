@@ -486,7 +486,7 @@ span.rm-page-ref[data-tag] {
   background-color: #FFEB3B;    
   color: black;    
   padding: 3px 7px;    
-  line-height: 3em;    
+  line-height: 1em;    
   border-right: solid 1px;    
   border-bottom: solid 1px;    
   border-radius: 10px;    

@@ -15,7 +15,6 @@
     - #[[软件联动]]
         - notion也有可以支持[[JavaScript]]和[[python]]的插件！！！
             - Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面Via[Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av90931560/?spm_id_from=trigger_reload) 下午10:53
-            - 
         - notion居然可以直接导入思维导图文件的内容，并且保留原始的结构，amazing
         - 我觉得可以作为非常好的写作软件
             - scrivener/mindnode/幕布/notion/ulyssess这几个软件居然可以非常方便的相互转换，真是太棒了！！！！#[[软件联动]]
@@ -50,7 +49,7 @@ via[Super — From Notion to Website in minutes](https://super.so/)
     - Via[Linmi - 探索未知，迭代新知，沉淀认知。](https://linmi.cc/) 下午1:28
     - 5 款 Notion 模板推荐 & Notion 团队专访 [sspai.com](https://sspai.com/post/57092)
     - Notion 模板里有一篇「Blog Post」的模板， [[sspai.com[[[[]](]]]]https://sspai.com/post/57110)
-    - Notion 小技巧 | Notion 如何快速记录？主作者 Power+ 用户 了解详情 > OSEN 联合作者 [[sspai.com[[[[]](]]]]https://sspai.com/post/57340)
+    - Notion 小技巧 | Notion 如何快速记录？主作者 Power+ 用户 了解详情 > OSEN 联合作者 [[sspai.com]](https://sspai.com/post/57340)
     - [一个关于notion插件的网站](https://radreads.co/notion-integrations/)
 - Charts for Notion databasesVia[Chart Nerd](https://chart-nerd.now.sh/) 上午12:02
 - 可以在notion中插入各种展板的工具[notion metrics](https://notionmetrics.com/)
