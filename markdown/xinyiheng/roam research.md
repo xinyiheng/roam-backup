@@ -113,8 +113,9 @@ Future task2               :         des4, after des3, 5d
         - 首先就是要找到blcok在哪里。可能有两种情况，一种是将当前的block引用到别的地方。这种情况下，先copy block reference，然后再在搜索框中找到要放到的地方，粘贴就可以。
         - 另一种是要在当前block当中引用别的block，为了方便找到，可以通过以下方式实现
             - 将您的光标放在一个块中，然后按Ctrl-Shift-9弹出搜索框
+    - the brain和roam research的关系
     - 如何搜索和替换概念？
-        - 并没有这个功能，echnique begins [2:13](https://www.youtube.com/watch?v=78p6z2104AU&t=133s)1. create Page with name equal to existing text you want to change2. Unlinked References > Link All3. rename Page to whatever you want   -------   4. delete Page Find and Replace Technique [[Roam Research]] - YouTube](https://www.youtube.com/watch?v=78p6z2104AU) [[20210712]] 上午9:01
+        - 并没有这个功能，echnique begins [2:13](https://www.youtube.com/watch?v=78p6z2104AU&t=133s)1. create Page with name equal to existing text you want to change2. Unlinked References > Link All3. rename Page to whatever you want   -------   4. delete Page Find and Replace Technique [[roam research]] - YouTube](https://www.youtube.com/watch?v=78p6z2104AU) [[20210712]] 上午9:01
         - 
     - 修改tag的样式
         - https://www.redgregory.com/roam-content/2021/1/8/customize-tags-inside-roam-research-with-this-simple-css
@@ -161,21 +162,20 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
 - roam research有哪些功能吸引了我？
     - 大网图、小网图（大纲/缩略式脑图）、大小粒度块引用、双向链接，是笔者认为的必备的四个双向链软件经典特征，其它就是附加插件功能，读者也可以从这四个经典元素对各种软件进行考察得出自己心中的排行，其实也就是Roam Research的核心功能。-20201027
 
-作者：<em>[[威廉]]</em>
+作者：[[威廉]]
 链接：https://zhuanlan.zhihu.com/p/267451435
 via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
 [[20201230]] 下午11:38
     - 因为笔者的时间认知有限有很多笔记只简单使用过如：[[Infranodus]]、[[xanadu]] space、wuli wiki、[[gource]]、notion、Athens Research、葫芦笔记、印象笔记、dynalist、thebrain、tiddlywiki、[[workflowy]]、雅典、Craft、marginnote、[[MyBase]]、[[swrite]]、trilium、gingko、WikiLinks、[[connected papers]]、tagspaces等。D3.js、neo4j、PowerBI、Charticulator、R语言、Phyone、Nvivo这些专业的大工具更是只有肤浅的了解，都还未进行深度使用所以不好进行排行和对比解读，也就没进行测评排行，更多的双向链笔记软件可能连名字都不知道，所以就未出现在此文。-
 
-作者：<em>[[威廉]]</em>
+作者：[[威廉]]
 链接：https://zhuanlan.zhihu.com/p/267451435
 来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
 [[20201230]] 下午11:38
 - #[[软件联动]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMGOqbSgeQz.png?alt=media&token=8f895f65-b871-4b36-98e1-6fdf44df2dfd)
-    - roam research如何与[[obsidian]]同步？#[[软件联动]]
+    - roam research如何与[[obsidian]]同步？#[[软件联动]]#[[自创]]
         - 我自己也已经通过快捷方式可以让二者同步，也并不复杂，有空的时候再看看别人介绍的这个方法，好像[[github]]确实可以帮助完成很多事情。
         - @宽治：目前我就是 Roam Research（Web） 与 Obsidian （本地）两款软件并行的状况，这样做主要是想兼顾易用性和通用性：Roam Research 的交互方式用起来更加舒适，而以 markdown 文件为基础的 Obsidian 的通用性会更好。
 目前，我在这两款工具的使用上，主要是做了一个内容方面的区分：偏研究性的内容会放在 Roam Research 上，偏写作类的内容会放在 Obsidian 上，而作为素材的笔记是用 Github 从 Roam Research 自动备份 再同步给 Obsidian 的。
@@ -203,11 +203,13 @@ via[Matrix 圆桌 | 网状结构笔记工具是一阵风吗？ - 少数派](http
 
 如果你熟悉前端，并且对这个功能比较感兴趣，欢迎进一步做个二次开发，让更多用户可以拿来即用。之前有不少小伙伴儿这么做了。例如最近，吕立青就把我之前做的 Roam Research 图片增量备份工具，集成到了 Roam to git 脚本里面，使得你可以完全用 Github 自动备份文字和图片内容，大伙儿用起来更加方便了。
 via[如何交互可视化 Roam Research 局部笔记网络？ - 少数派](https://sspai.com/post/61864)
-[[20201213]] 上午8:05
-    - roam research的内容转换成为[[anki]]
+[[20201213]] 上午8:05@评论:王树义老师这个我一直没有使用，这个python的版本还是比较粗糙。
     - 怎么修改roam research导出的文件的格式？
         - https://roam-tools.ryanguill.com/?这个网站可以实现一些修改。
-- [Getting Started – Hook](https://hookproductivity.com/help/general/getting-started/#launch)
+- [Getting Started – Hook](https://hookproductivity.com/help/general/getting-started/#launch) 用这个软件可以把一些mac电脑中的其他文件以链接的形式添加到roam research中，这样可以完善它作为一元化笔记系统的核心处理器功能。
+- roam research的内容转换成为[[anki]]？
+    - 学习骇客制作了一个工具，可以把按照一定格式组织起来的roam research内容批量生成卡片。我使用过，但是它制作的是问题-答案这种形式的卡片。我最近喜欢制作close形式的卡片，觉得更适合我。
 - [[间隔记忆]]
     - 目前roam research的插件也可以使用了，具体可以参考以下网页
         - https://roamstack.com/kb/extensions/roam-sr/#installing-roam-sr
+- 

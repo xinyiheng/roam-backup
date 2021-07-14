@@ -1,5 +1,8 @@
-- 我喜欢的the brian的一个功能就是可以在思维导图上直接建立关联。[[roam research]]在[[sibling]]概念关联的时候不是很方便。这一点上，the brain和[[kb(Knowledge database)]]很像。
+- the brain和roam research的关系
+    - 我喜欢的the brian的一个功能就是可以在思维导图上直接建立关联。[[roam research]]在[[sibling]]概念关联的时候不是很方便。这一点上，the brain和[[kb(Knowledge database)]]很像。
+    - roam research更倾向于围绕一个核心概念写笔记。roam research中的一个page其实就像是用很多辅助理解的话语把一些node给粘到了一起，变成了一张饼。打个比喻，roam research的page就像是一大块撒了很多葡萄干的饼干，用’[[]]“括起来的内容就是葡萄干，散落在饼干表面。而the brain则就像是一串葡萄，主要在三维的空间(尽管展现形式只是平面的)巡视这串葡萄的结构。
 - the brain的思维导图可以画得特别大而总体不失控，就像一张复杂的网。我可以把the  brian当做一个建立关联的工具，当做 一个本地知识搜索引擎。就^^自由放任^^地用 吧。the brain是一张网，而[[kb(Knowledge database)]]用来建设局部思维地图。kb尽量保持秩序，但是一旦某一块知识地图失控也没事，我可以删除重建。非常方便。
+- [[obsidian]]有一款插件，大体实现了the brain的效果，叫做[[juggl]]
 - 把思维导图转变成为the brain可以读取的形式 #[[软件联动]]#[[格式转换]]
     - the brain还可以导出为json文件，具体怎么使用我还不清楚。但是[[python]]可以读取json文件，我不知道可以实现怎样的读取效果。
     - 目前mm和mindmanager模式都可以读取，不过，现在感觉直接导入只会让the brian更加混乱，好像整理成txt格式更好，因为有些内容不希望变成节点，有些希望和已有节点关联。
@@ -23,7 +26,6 @@
     - 我如果用the brian导入外部文本的方式来标记自己想要整理的内容，然后导入the brian当中显示编辑后的样式的话，这就和使用markdown来做笔记，然后用markdown笔记提供渲染后的样式道理就是一样的。我相当与也在使用一种小众的[[标记语言]]。
 - 以后the brian中只保留关键词，尽量少做笔记，相当于是一个自主建立的概念网。#[[洞见]]
 - the brian确实不好修改笔记内容的颗粒度，文本编辑器也不好用，但是就是对它这种呈现方式很着迷。
-- [[obsidian]]有一款插件，大体实现了the brain的效果，叫做[[juggl]]
 - 官方网站使用说明
     - Categories
 via[TheBrain Blog](https://www.thebrain.com/blog?page=3)
