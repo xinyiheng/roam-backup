@@ -175,8 +175,8 @@ document.arrive('textarea.rm-block-input', function(el) {
     style.textContent = baseStyle + bulletStyle;
 })```
 - 卡片写作，我最喜欢的主题# [[blck:green]]
-- {{[[roam/js]]}}
-    - ```javascript
+    - {{[[roam/js]]}}
+        - ```javascript
 const CARD_MODE_VERSION = "gh-pages";
 window.URLScriptServer = `https://raw.githack.com/JimmyLv/styled-roam/${CARD_MODE_VERSION}/`;
 
@@ -388,15 +388,15 @@ const extractVideoID = (url) => {
   
 setInterval(activateYtVideos, 1000);```
 - 发现未连接的page# [[blck:green]]
-- {{[[roam/js]]}}
-    - ```javascript
+    - {{[[roam/js]]}}
+        - ```javascript
 var s = document.createElement('script');
 	s.type = "text/javascript";
   	s.src =  "https://tylerwince.github.io/roam-plugins/unlink-finder/unlink-finder.js";
   	s.async = true;
 document.body.appendChild(s);```
-    - ## Example CSS
-        - 
+        - ## Example CSS
+            - 
 .exact-word-match.unlink-finder,
 .unlink-finder-legend.exact-word-match.unlink-finder {
   background-color: darkgreen;

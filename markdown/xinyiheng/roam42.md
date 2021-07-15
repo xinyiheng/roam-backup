@@ -1,4 +1,5 @@
-- 稳定版的[[roam42]# [[blck:green]]
+- 就是[[42SmartBlock]]
+- 稳定版的[[roam42]
 - {{{[[roam/js]]}}}
     - ```javascript
 
@@ -11,18 +12,17 @@ document.body.appendChild(s);
 - 测试版的[[roam42]]# [[blck:green]]
 - {{{[[roam/js]]}}}
     - ```javascript
-
-var s = document.createElement('script');
-	s.type = "text/javascript";
-  	s.src =  "https://roam42-test.glitch.me/main.js";
-  	s.async = true;
-document.body.appendChild(s);
-```
-    - 
+var existing = document.getElementById("roamjs-roam42-main");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/roam42/main.js";
+  extension.id = "roamjs-roam42-main";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}```
 - roam42这个网站是[[roamhacker]]这个组织？个人？运作的，可以把他们理解为同一个人。
 - [[smart block]] Builders Guide
 via[SmartBlocks Builders Guide](https://roamresearch.com/#/app/roamhacker/page/GH0401tnt)
 [[20201229]] 上午9:37
 - 用roam42创造的[[smart block]]就叫做42SmartBlock
-- 从哪里可以下载42SmartBlock？
-    - SmartBlocksVia[Issues · roamhacker/SmartBlocks](https://github.com/roamhacker/SmartBlocks/labels/SmartBlock)[[20210101]] 下午8:29

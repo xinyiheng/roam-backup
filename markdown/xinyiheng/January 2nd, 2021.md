@@ -8,8 +8,8 @@
     - 00:09:59 - 怎样安装，我没有安装成功shortcut，不过目前也不影响使用。
     - 00:02:40 - 使用效果
 - Import
-    - [[[[[[Google]] Sheets]] to [[Roam]] ([[S2R]]) SmartBlock v0.4]]
-        - From: [[[[Google]] Sheets]] to [[Roam]] ([[S2R]]) SmartBlock v0.4.json
+    - [[[[[[Google]] Sheets]] to [[Untitled_4]] ([[S2R]]) SmartBlock v0.4]]
+        - From: [[[[Google]] Sheets]] to [[Untitled_4]] ([[S2R]]) SmartBlock v0.4.json
 - [[实验]]
 - {{[[youtube]]: https://www.youtube.com/watch?v=xWNGPd3I63Q}}
     - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
