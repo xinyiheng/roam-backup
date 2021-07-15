@@ -175,14 +175,14 @@ via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https
 [[20201230]] 下午11:38
 - #[[软件联动]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMGOqbSgeQz.png?alt=media&token=8f895f65-b871-4b36-98e1-6fdf44df2dfd)
-    - roam research如何与[[obsidian]]同步？#[[软件联动]]#[[自创]]
+    - roam research如何与[[Obsidian]]同步？#[[软件联动]]#[[自创]]
         - 我自己也已经通过快捷方式可以让二者同步，也并不复杂，有空的时候再看看别人介绍的这个方法，好像[[github]]确实可以帮助完成很多事情。
         - @宽治：目前我就是 Roam Research（Web） 与 Obsidian （本地）两款软件并行的状况，这样做主要是想兼顾易用性和通用性：Roam Research 的交互方式用起来更加舒适，而以 markdown 文件为基础的 Obsidian 的通用性会更好。
 目前，我在这两款工具的使用上，主要是做了一个内容方面的区分：偏研究性的内容会放在 Roam Research 上，偏写作类的内容会放在 Obsidian 上，而作为素材的笔记是用 Github 从 Roam Research 自动备份 再同步给 Obsidian 的。
 via[Matrix 圆桌 | 网状结构笔记工具是一阵风吗？ - 少数派](https://sspai.com/post/61886)
 [[20201213]] 上午7:52
     - 如何用roam research看中观图景？
-        - 其实我用obsidian就可以实现查看中观图景，因为obsidian的graph图呈现方式比roam research要好得多。好像王树义老师的方法也就是通过obsidian来优化的。最后好像也是通过[[github]]来同步。我目前的方法只能实现从roam research到obsidian的单项同步，如果能够实现双向同步就完美了。以下方法也只能实现单项同步，目前来看，我自己想到的把roam research和[[obsidian]]联动起来的方法最好。[[软件联动]]
+        - 其实我用obsidian就可以实现查看中观图景，因为obsidian的graph图呈现方式比roam research要好得多。好像王树义老师的方法也就是通过obsidian来优化的。最后好像也是通过[[github]]来同步。我目前的方法只能实现从roam research到obsidian的单项同步，如果能够实现双向同步就完美了。以下方法也只能实现单项同步，目前来看，我自己想到的把roam research和[[Obsidian]]联动起来的方法最好。[[软件联动]]
             - 在生活中，你用过导航吧？你如果想到一个 10 公里左右的目的地，导航会给你展示什么样的信息呢？世界地图？还是周围 5 米的区域？
 都不是，应该先是一个从当前位置到目的地的概况图，之后给你展示清楚道路、红绿灯之类的动态视域。这就是合适的中观图。
 你卡片足够多时， Roam Research 却偏偏还只给你展示全局链接图，这便本文开头我遇到的困境。
@@ -212,4 +212,3 @@ via[如何交互可视化 Roam Research 局部笔记网络？ - 少数派](https
 - [[间隔记忆]]
     - 目前roam research的插件也可以使用了，具体可以参考以下网页
         - https://roamstack.com/kb/extensions/roam-sr/#installing-roam-sr
-- 

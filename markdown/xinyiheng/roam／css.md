@@ -10,7 +10,6 @@
 }
     - Hiding the tag
         - css
-
 [data-tag="bq"] {
 display:none;
   }

@@ -171,3 +171,4 @@ if (!existing) {
 }
 ```
 - install
+    - auto enable

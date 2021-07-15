@@ -1,5 +1,4 @@
 - [[roam highlighter]]
-- 插件市场
 - 绘图
     - {{[[roam/js]]}}
         - ```javascript
@@ -421,20 +420,20 @@ document.body.appendChild(s);```
 }
 - 以方括号触发的js插件来源：[roamjs docs](https://roamjs.com/docs/extensions/charts）# [[blck:red]]
 - 秘密花园
-- {{[[roam/js]]}}
-    - ```javascript
+    - {{[[roam/js]]}}
+        - ```javascript
 var tfps = document.createElement("script");
 tfps.type = "text/javascript";
 tfps.src = "https://gitmurf.github.io/masonry-vanilla/JS/toggleFullPageScroll.js";
 document.getElementsByTagName("head")[0].appendChild(tfps);```
-- {{[[roam/js]]}}
-    - ```javascript
+    - {{[[roam/js]]}}
+        - ```javascript
 var mms = document.createElement("script");
 mms.type = "text/javascript";
 mms.src = "https://gitmurf.github.io/masonry-vanilla/JS/matuschakModeSizer.js";
 document.getElementsByTagName("head")[0].appendChild(mms);```
-- {{[[roam/js]]}}
-    - ```javascript
+    - {{[[roam/js]]}}
+        - ```javascript
 var cbw = document.createElement("script");
 cbw.type = "text/javascript";
 cbw.src = "https://gitmurf.github.io/masonry-vanilla/JS/cycleBlockWidth.js";

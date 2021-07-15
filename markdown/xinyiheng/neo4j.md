@@ -1,5 +1,5 @@
 - Neo4j Browser User Interface GuideVia[Neo4j Browser User Interface Guide - Developer Guides](https://neo4j.com/developer/neo4j-browser/)[[20210102]] 下午6:02
-- 还有[[obsidian]]插件
+- 还有[[Obsidian]]插件
     - Installation of Neo4j Graph View PluginVia[Installation of Neo4j Graph View Plugin - Semantic Obsidian - Obsidian Publish](https://publish.obsidian.md/semantic-obsidian/Installation+of+Neo4j+Graph+View+Plugin)[[20210102]] 下午10:05
 - 呈现方式是[[语义网]]
 - [[cypher language]]用来[[query]]
