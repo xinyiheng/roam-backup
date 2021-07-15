@@ -1,63 +1,13 @@
-- [[roam highlighter]]
+- chrome插件商店中的插件
+    - [[RoamPortal-Search]]可以展示概念之间的立体图，非常棒，我设置了#[[快捷方式]]ctrl+p
+    - [[roam highlighter]]
+    - [[roam toolkit]]很早就安装了，但是很少使用，最近知道了它可以把卡片以思维导图的方式展示出来，感觉很惊艳，可以使用。我设置了调出这个插件的#[[快捷方式]]ctrl+i
+        - ```javascript
+```
+- 
 - 绘图
     - {{[[roam/js]]}}
         - ```javascript
-{
-  let s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.src = 'https://roam-excalidraw.com/dist/loader.js';
-  s.async = false;
-  document.getElementsByTagName('head')[0].appendChild(s);  
-}```
-- {{roam/js}}
-    - ```javascript
-window.pdfParams = {
-	//Highlight 
-	///Placement
-	outputHighlighAt: 'cousin', //cousin, child
-	highlightHeading: '**Highlights**', //for cousin mode only 
-	appendHighlight: true, //append: true, prepend: false
-	///Rest of Highlight Options
-	breadCrumbAttribute: 'Title', //Title, Author, Citekey, etc. 
-	addColoredHighlight: true,//bring the color of highlights into your graph
-	//Rerference to Highlight 
-	///Block References Related
-	copyBlockRef: true,//false: copy captured text
-	sortBtnText: 'sort them all!',//{ { sort them all! } } btn will sort highlight refs.
-	///Block Reference Buttons  
-	aliasChar: '✳', //use '' to disable
-	textChar: 'T', //use '' to disable	
-	//PDF Viewer
-	pdfStaticHeight: 900,
-	pdfStaticWidth: 1200,
-	pdfMinWidth: 450,
-	pdfMinHeight: 900,
-	//Citation 
-	///Format   
-	////use Citekey and page in any formating string 
-	////page can be offset by `Page Offset` attribute. 
-	////common usecase: 
-	/////Zotero imports with 'roam page title' = @Citekey and Citekey attribute
-	////examples:
-	/////"[${Citekey}]([[@${Citekey}]])" 
-	/////"[(${Citekey}, ${page})]([[@${Citekey}]])" 
-	/////use '' to disable  
-	citationFormat: '',
-	///BlockQuote 
-	blockQPerfix: ''//use '' to disable. Alternatives are: > or [[>]].
-};
-var s = document.createElement("script");
-s.type = "text/javascript";
-s.src = "https://c3founder.github.io/Roam-Enhancement/enhancedPDF.js";
-document.getElementsByTagName("head")[0].appendChild(s);
-```
-- 导入文章
-- [[RoamPortal-Search]]可以展示概念之间的立体图，非常棒，我设置了#[[快捷方式]]ctrl+p
-- [[roam toolkit]]很早就安装了，但是很少使用，最近知道了它可以把卡片以思维导图的方式展示出来，感觉很惊艳，可以使用。我设置了调出这个插件的#[[快捷方式]]ctrl+i
-    - ```javascript
-```
-- {{[[roam/js]]}}
-    - ```javascript
 /*
  * credit to Dhrumil Shah (@wandcrafting) and Robert Haisfield (@RobertHaisfield)
  * for the original concept which was part of their RoamGames submission
@@ -174,6 +124,58 @@ document.arrive('textarea.rm-block-input', function(el) {
     // set content of style tag to include both the base styles from before and the bullet styles we just generated
     style.textContent = baseStyle + bulletStyle;
 })```
+    - {{roam/js}}
+        - ```javascript
+window.pdfParams = {
+	//Highlight 
+	///Placement
+	outputHighlighAt: 'cousin', //cousin, child
+	highlightHeading: '**Highlights**', //for cousin mode only 
+	appendHighlight: true, //append: true, prepend: false
+	///Rest of Highlight Options
+	breadCrumbAttribute: 'Title', //Title, Author, Citekey, etc. 
+	addColoredHighlight: true,//bring the color of highlights into your graph
+	//Rerference to Highlight 
+	///Block References Related
+	copyBlockRef: true,//false: copy captured text
+	sortBtnText: 'sort them all!',//{ { sort them all! } } btn will sort highlight refs.
+	///Block Reference Buttons  
+	aliasChar: '✳', //use '' to disable
+	textChar: 'T', //use '' to disable	
+	//PDF Viewer
+	pdfStaticHeight: 900,
+	pdfStaticWidth: 1200,
+	pdfMinWidth: 450,
+	pdfMinHeight: 900,
+	//Citation 
+	///Format   
+	////use Citekey and page in any formating string 
+	////page can be offset by `Page Offset` attribute. 
+	////common usecase: 
+	/////Zotero imports with 'roam page title' = @Citekey and Citekey attribute
+	////examples:
+	/////"[${Citekey}]([[@${Citekey}]])" 
+	/////"[(${Citekey}, ${page})]([[@${Citekey}]])" 
+	/////use '' to disable  
+	citationFormat: '',
+	///BlockQuote 
+	blockQPerfix: ''//use '' to disable. Alternatives are: > or [[>]].
+};
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.src = "https://c3founder.github.io/Roam-Enhancement/enhancedPDF.js";
+document.getElementsByTagName("head")[0].appendChild(s);
+```
+    - {{[[roam/js]]}}
+        - ```javascript
+{
+  let s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.src = 'https://roam-excalidraw.com/dist/loader.js';
+  s.async = false;
+  document.getElementsByTagName('head')[0].appendChild(s);  
+}```
+- 导入文章
 - 卡片写作，我最喜欢的主题# [[blck:green]]
     - {{[[roam/js]]}}
         - ```javascript

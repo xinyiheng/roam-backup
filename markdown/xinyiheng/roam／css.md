@@ -192,7 +192,7 @@ roam-block-container rm-block rm-block--mine rm-block--open rm-not-focused block
     --masonry-border: 1px solid lightgrey;
     --closed-bullet-color: 4px solid #CED9E0;
     --code-color: crimson;
-    --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
+    --block-widths: 1000px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
 }
 
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
@@ -209,7 +209,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 
 .sidebar-content {
     overflow: unset;
-    display: flex;
+    display:hidden;
     flex-direction: column;
     flex-wrap: wrap;
     height: 99%;
@@ -218,7 +218,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 
 .sidebar-content>div:not(.rm-dnd-separator) {
     margin-bottom: 10px !important;
-    display: flex;
+    display:hidden;
     background-color: var(--masonry-bg);
     max-height: 100%;
     margin-left: 15px;
