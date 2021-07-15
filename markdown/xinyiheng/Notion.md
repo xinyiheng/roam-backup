@@ -16,10 +16,10 @@
         - notion也有可以支持[[JavaScript]]和[[python]]的插件！！！
             - Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面Via[Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av90931560/?spm_id_from=trigger_reload) 下午10:53
         - notion居然可以直接导入思维导图文件的内容，并且保留原始的结构，amazing
-        - 我觉得可以作为非常好的写作软件
+        - notion与[[scrivener]]
             - scrivener/mindnode/幕布/notion/ulyssess这几个软件居然可以非常方便的相互转换，真是太棒了！！！！#[[软件联动]]
             - 我用scrivener写作的文章先是导出为opml，然后导入到了notion中编辑
-        - notion是非常强大的文件类型转换工具，利用notion，我实现了把diigo大纲完美转换为[[mindnode]]思维导图的方式
+        - notion与[[mindnode]]是非常强大的文件类型转换工具，利用notion，我实现了把diigo大纲完美转换为mindnode思维导图的方式
             - 方法如下
                 - 点击[[diigo]]大纲中的export，复制出内容，粘贴在随便新建的一个notion文档中
                 - 在notion中点击export，存储为markdown格式，下载之后就可以用mindnode打开了
