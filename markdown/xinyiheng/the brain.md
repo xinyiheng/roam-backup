@@ -62,8 +62,3 @@ Via[(14 条消息) thebrain如何用 - 搜索结果 - 知乎](https://www.zhihu.
     - 编辑于 2020-05-13"
         - https://diigo.com/0l6li7
     - 用大纲工具写完之后再导入到the brain
-        - roam research
-        - workflowy
-            - -这款工具也很方便
-            - +https://www.dedao.cn/pwa/#/reader?id=6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3GppDw7olBEmjgakz1DPvYObQ4qpQdZqme9
-            - #软件
