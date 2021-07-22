@@ -25,12 +25,21 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWx4bNJVlQo.png?alt=media&token=00ef94ad-30db-418e-bf32-2bc75d45d6e7)
     - 我如果用the brian导入外部文本的方式来标记自己想要整理的内容，然后导入the brian当中显示编辑后的样式的话，这就和使用markdown来做笔记，然后用markdown笔记提供渲染后的样式道理就是一样的。我相当与也在使用一种小众的[[标记语言]]。
 - 以后the brian中只保留关键词，尽量少做笔记，相当于是一个自主建立的概念网。#[[洞见]]
-- the brian确实不好修改笔记内容的颗粒度，文本编辑器也不好用，但是就是对它这种呈现方式很着迷。
 - 官方网站使用说明
     - Categories
 via[TheBrain Blog](https://www.thebrain.com/blog?page=3)
 [[20201226]] 下午5:00
+-  the brain
+    - the brian可以作为一个非常好的本地文件管理工具，可以整理自己待阅读的内容
+    - 社群：如果你在使用全新Thebrain过程中，遇到任何有趣或困扰都可以加入“Thebrain交流群”（273298874），大家共同探讨思维导图的乐趣！
+Via[(14 条消息) thebrain如何用 - 搜索结果 - 知乎](https://www.zhihu.com/search?q=thebrain%E5%A6%82%E4%BD%95%E7%94%A8&utm_content=search_relatedsearch&type=content) [[20210721]] 下午2:48
+        - TheBrainVia[TheBrain - 知乎](https://www.zhihu.com/topic/19583518/hot) [[20210721]] 下午3:25
+    - the brian的使用方法以及the brian12的一些新功能
+    - the brain的一些用例展示
+        - https://www.thebrain.com/apps
+        - https://www.thebrain.com/events/visualizing-innovation
 - the brain有什么独特好处？
+    - the brian确实不好修改笔记内容的颗粒度，文本编辑器也不好用，但是就是对它这种呈现方式很着迷。
     - "The Brain + Airlist，兼顾“千头万绪”和“专心协作”两种环境
     - The Brain是一个把庸俗的“思维导图”打至渣的信息组织软件。其基本单元是“Thought”，基本结构则是Tought —— Thought 这样的连线。通过三种简单连线类型（Parent，Child, Jump），即可描述出日常观察和思考推进的多种状态。
     - 在我自己拟定的凡例当中，Parent-Child关系通常适用于这些情况：
@@ -52,3 +61,9 @@ via[TheBrain Blog](https://www.thebrain.com/blog?page=3)
     - 设想我们在TheBrain里面真的建了一个“聪明扎啤机”的想法，那么就可以顺手在Airlist当中按一下回车直接新建一个“聪明扎啤机”条目。
     - 编辑于 2020-05-13"
         - https://diigo.com/0l6li7
+    - 用大纲工具写完之后再导入到the brain
+        - roam research
+        - workflowy
+            - -这款工具也很方便
+            - +https://www.dedao.cn/pwa/#/reader?id=6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3GppDw7olBEmjgakz1DPvYObQ4qpQdZqme9
+            - #软件
