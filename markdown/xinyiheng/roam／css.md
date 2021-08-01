@@ -16,7 +16,7 @@ display:none;
 - Using Roam/CSS to display a list as grid or in rows
 via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/share/06b03473bcda4728b5bef40929e5012f)
 [[20201230]] 上午10:14官方推出的一些css样式，用视频的形式展示出来的，比较直观
-- ## Element Class Detail 发现没有关联的概念
+- Element Class Detail 发现没有关联的概念
     - Class: `exact-word-match`
         - Criteria
             - Case-Sensitive Match
