@@ -1,0 +1,17 @@
+- 重装mac的过程
+    - 今天重装系统花了一天的时间。简单记录一下过程。
+    - 起因是电脑系统升级到monterey之后感觉比较卡顿，在使用chrome的时候电扇的噪声很大。我想要回到monterey早期的版本或者上一个大版本即big sur。
+    - 最后成功重装并保留了全部数据的方式：
+        - 我要求的两个目标：一，退回之前的操作系统，二，原来安装的软件和文件不丢失。
+        - 首先，我之前用外接的移动硬盘通过mac自带的《时间机器》自动备份了以前系统的数据，从7月初到7月底的数据都有。这是恢复数据的关键。有了这个备份，即使把mac的硬盘格式化也就不怕了。
+        - 第一步，重新安装系统。具体做法可以参考下面这个官网。
+            - 如何重新安装 macOSVia[如何重新安装 macOS - Apple 支持 (中国)](https://support.apple.com/zh-cn/HT204904) [[20210809]] 下午10:50
+            - 我最大的误区是以为在下面的这个界面选择从时间机器恢复，结果不行。
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMgWKOfW_7x.png?alt=media&token=df64e34a-14b3-4093-9d72-538348dc690f)
+            - 要先选择磁盘工具，把硬盘全部格式化，具体的格式化方式就是点开磁盘工具，然后选择抹掉
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FGFZRVtMdI7.png?alt=media&token=6a4f8e0e-d155-475a-b532-3618112cb44d)
+            - 之后就可以选择重新安装mac os
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FeWjzhm1xys.png?alt=media&token=7b71dc12-c887-430a-9691-787407b71375)
+            - 至于要重新安装的mac os版本，官网中的这段介绍很详细。在基于 Intel 的 Mac 上：如果您在启动过程中使用 Shift-Option-Command-R，您会获得 Mac 自带的 macOS 或最接近且仍在提供的版本。如果您在启动过程中使用 Option-Command-R，则在大多数情况下，您会获得与您的 Mac 兼容的最新版 macOS。否则，您会获得 Mac 自带的 macOS 或最接近且仍在提供的版本。Via[如何重新安装 macOS - Apple 支持 (中国)](https://support.apple.com/zh-cn/HT204904) [[20210809]] 下午10:51
+            - 安装完毕新的系统之后，就相当于有了一台新的电脑，那怎样才能把原来的数据恢复呢？这时候可以使用系统自带的《迁移助手》，位置就在 应用程序-使用工具-迁移助手。选择从装有备份数据的引动硬盘来恢复数据就可以了。全程要联网。我150G左右的数据用了几十分钟恢复完成吧，传输速度在50M/s左右。
+        - 总结，真正恢复数据使用的是《迁移助手》，可以这样理解，时间机器只是把原来的内容备份了，而迁移助手则是把原来备份的内容迁移到新安装的系统中。
