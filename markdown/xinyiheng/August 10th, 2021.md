@@ -7,3 +7,12 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FttKlIqyNbc.png?alt=media&token=3f134b05-de8f-40f4-ba86-4acfe7123948)
         - 在chrome里点开这个任务管理器就可以查看是哪个插件或者网页占用了大量cpu资源。我刚刚知道这个功能，发现highlight this用了很多资源，就先关闭了。
         - 
+- 如何在ipad和mac之间同步scrivener文件？
+    - 官方给出的方法是使用dropbox，但我在mac上下载安装dropbox根本无法使用。
+    - 我的解决方案如下：
+        - 每次在ipad上打开scrivener都是先进入icloud云盘，找到名为scrivener的文件夹，从里面点击要编辑的文件，这样ipad版本的scrivener就打开文件了，正常写作和修改可以了。只要用ipad版本的scrivener打开文档，它就自动创建了一个新的副本，保存在ipad本地名为scrivener的文件夹中了。这里的关键是要区分两个scrivener文件夹，一个是保存在icloud云盘，这个mac上的软件和ipad都可以访问，一个是保存在iPad本地，这个只有ipad上能访问()。
+        - (切记不能直接点击ipad上的scrivener图标进入。因为我要求自己在ipad上编辑文档之后就要把ipad上本地的文档删除掉。每次打开ipad上的scrivener文件夹的时候里面都是没有文档的。如果有，就是上次退出的时候忘记删除了。
+        - 在ipad上修改完成文件之后，找到ipad上的本地文件，选择移动到icloud云盘上的scrivener文件夹，因为里面已经有个同名文件，选择替换文件，这样，在mac电脑中就可以查看修改过的文件了。
+        - 以下是官方给出的在没有办法使用自动同步的情况下的替代方案。
+            - Alternative Method of Keeping Projects SyncedVia[Alternative Method of Keeping Projects Synced / Cloud Syncing / Knowledge Base - Literature and Latte Support](https://scrivener.tenderapp.com/help/kb/cloud-syncing/alternative-method-of-keeping-projects-synced) [[20210810]] 下午4:58
+        - 
