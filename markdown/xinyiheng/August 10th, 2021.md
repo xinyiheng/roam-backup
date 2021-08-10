@@ -15,4 +15,7 @@
         - 在ipad上修改完成文件之后，找到ipad上的本地文件，选择移动到icloud云盘上的scrivener文件夹，因为里面已经有个同名文件，选择替换文件，这样，在mac电脑中就可以查看修改过的文件了。
         - 以下是官方给出的在没有办法使用自动同步的情况下的替代方案。
             - Alternative Method of Keeping Projects SyncedVia[Alternative Method of Keeping Projects Synced / Cloud Syncing / Knowledge Base - Literature and Latte Support](https://scrivener.tenderapp.com/help/kb/cloud-syncing/alternative-method-of-keeping-projects-synced) [[20210810]] 下午4:58
+    - 如何在ipad上进行文件管理？
+        - iPadOS 14 教程：如何管理 iPad 中的文件？Via[iPadOS 14 教程：如何管理 iPad 中的文件？ 搞机友网](https://www.gjy5.com/article/2260.html) [[20210810]] 下午5:23#[[文件管理]]
+        - 在 iPad 和电脑之间传输文件Via[在 iPad 和电脑之间传输文件 - Apple 支持](https://support.apple.com/zh-cn/guide/ipad/ipad32dd03cd/ipados) [[20210810]] 下午5:27
         - 
