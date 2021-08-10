@@ -1,0 +1,2 @@
+- mac中kernel_task占用大量内存如何解决？Via[(1 封私信 / 52 条消息) mac中kernel_task占用大量内存如何解决？ - 知乎](https://www.zhihu.com/question/56689986) [[20210810]] 上午10:17
+- 
