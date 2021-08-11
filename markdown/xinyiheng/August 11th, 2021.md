@@ -1,4 +1,4 @@
 - scrivener的官方使用指南
     - Search the Knowledge Base😀😀Via[Knowledge Base - Literature and Latte Support](https://scrivener.tenderapp.com/help/kb) [[20210811]] 上午8:56
     - Cross-Platform CompatibilityVia[Cross-Platform Compatibility / Features and Usage / Knowledge Base - Literature and Latte Support](https://scrivener.tenderapp.com/help/kb/features-and-usage/cross-platform-compatibility) [[20210811]] 上午8:48
-    - 
+- 在折腾了两天scrivener的跨平台同步之后，我好像又开始喜欢上了用gingko写作的感觉。因为我可以比较熟练地使用gingko的一些快捷方式了，以前这些快捷方式有些和我的其他软件快捷方式冲突，导致我以为不能用。其实冲突的地方并不多，稍微修改就可以正常使用了。我还意识到，在gingko上写作，确定好的部分就可以合并成 一个大的卡片，还在修改完善的部分可以设置为一张小卡片，随着改好的内容越来越多，小卡片们逐渐整合成为了大卡片，就像是大鱼吃小鱼的游戏，稿件距离完成也就越来越近了#[[写作]]
