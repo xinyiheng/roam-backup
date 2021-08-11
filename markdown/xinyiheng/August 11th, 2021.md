@@ -1,0 +1,5 @@
+- scrivener的官方使用指南
+    - Search the Knowledge Base😀😀Via[Knowledge Base - Literature and Latte Support](https://scrivener.tenderapp.com/help/kb) [[20210811]] 上午8:56
+    - Cross-Platform CompatibilityVia[Cross-Platform Compatibility / Features and Usage / Knowledge Base - Literature and Latte Support](https://scrivener.tenderapp.com/help/kb/features-and-usage/cross-platform-compatibility) [[20210811]] 上午8:48
+- /System/Volumes/Data/Applications/印象笔记.appVia[起始页](favorites://) [[20210811]] 上午9:40
+- 
