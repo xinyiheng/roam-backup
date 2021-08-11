@@ -18,4 +18,5 @@
     - 如何在ipad上进行文件管理？
         - iPadOS 14 教程：如何管理 iPad 中的文件？Via[iPadOS 14 教程：如何管理 iPad 中的文件？ 搞机友网](https://www.gjy5.com/article/2260.html) [[20210810]] 下午5:23#[[文件管理]]
         - 在 iPad 和电脑之间传输文件Via[在 iPad 和电脑之间传输文件 - Apple 支持](https://support.apple.com/zh-cn/guide/ipad/ipad32dd03cd/ipados) [[20210810]] 下午5:27
+        - No Clipboard AvailableVia[(1 封私信 / 56 条消息) 18款mac pro 外接显示器发热严重怎么办？ - 知乎](https://www.zhihu.com/question/290208585/answer/703713852) [[20210811]] 上午11:38Via[(1 封私信 / 56 条消息) 18款mac pro 外接显示器发热严重怎么办？ - 知乎](https://www.zhihu.com/question/290208585/answer/703713852) [[20210811]] 上午11:43
         - 
