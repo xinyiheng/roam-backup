@@ -482,7 +482,7 @@ div#right-sidebar .kanban-board .kanban-column {
 - tag
     - ```css
 span.rm-page-ref[data-tag] {    
-  background-color: #FFEB3B;    
+  background-color: #D2F89C;    
   color: black;    
   padding: 3px 7px;    
   line-height: 1em;    
