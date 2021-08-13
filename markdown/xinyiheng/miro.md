@@ -4,6 +4,7 @@
 - 感觉比[[orgpad]]更好用，也可以实现orgpad的主要功能。
 - 有些像是网页版的[[curio]]
 - 比较接近的还有[[clover]]
+- 好像还有一款类似的叫做[[kosmik]]
 - 我认为可以重点使用。
 - [miro.kdb](hook://file/tITw0rkIJ?p=Y29tfmFwcGxlfkNsb3VkRG9jcy9Lbm93bGVkZ2UgZGF0YWJhc2UgYnVpbGRlcg==&n=miro.kdb)
 - 好像有些相似的软件还有[[比幕鱼]]
