@@ -1,17 +1,15 @@
-- mac电脑卡顿是怎么回事？
+- mac电脑卡顿是怎么回事？#[[电脑小技巧]]
     - 我直接搜mac电脑卡顿，但是得到的电脑无法帮我解决问题，因为我没有找到mac卡顿的真正原因。我之前一直以为是mac os的问题，重装系统之后也没有解决。其实原因是外接显示器，导致一个叫做kernel_task的程序对cpu的占用居然达到700%以上，也不知道这个数字是怎么来的。好像自从我使用[[Switchresx]]这款软件强制打开外接显示器的hidpi功能以后，就开始出现这个问题。以前mac pro连接3台外接显示器也不会卡顿。目前，我只能使用ipad随航功能来当一个外接显示器了。
-    - 现在发现，其实关键也不是外接显示器的问题，根本原因是笔记本散热性能不好。我的解决方案现在看起来比较完美了。
-    - 第一步，清理
+    - 现在发现，其实关键也不是外接显示器的问题，根本原因是笔记本散热性能不好。我的解决方案现在看起来比较完美了。现在可以正常使用switchresx了，这款软件对于使用低分辨率的外接显示器还是非常重要的。
+    - 第一步，拆机清灰
     - 第二步，禁用turbo boost
     - 第三步，使用 macs fan contro
-    - 
-    - 禁用了switchresx之后不知道再以低分辨率外接多个显示器是否有问题。我怀疑我的mac电池功能蜕化也可能是卡顿发生的原因。
+    - 第四步，买一个半导体散热支架。或者用冻过的饮料瓶放在macbook最热的底下，注意铺上纸，不要让冷凝水直接接触笔记本。
     - mac中kernel_task占用大量内存如何解决？Via[(1 封私信 / 52 条消息) mac中kernel_task占用大量内存如何解决？ - 知乎](https://www.zhihu.com/question/56689986) [[20210810]] 上午10:17
     - 卡顿的其他原因：
-    - Google chrome 的..Helper进程占用内存特别大怎么解决Via[(1 封私信 / 52 条消息) Google chrome 的..Helper进程占用内存特别大怎么解决(－－mac os)? - 知乎](https://www.zhihu.com/question/58464794) [[20210810]] 上午11:25
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FttKlIqyNbc.png?alt=media&token=3f134b05-de8f-40f4-ba86-4acfe7123948)
-        - 在chrome里点开这个任务管理器就可以查看是哪个插件或者网页占用了大量cpu资源。我刚刚知道这个功能，发现highlight this用了很多资源，就先关闭了。
-        - 
+        - Google chrome 的..Helper进程占用内存特别大怎么解决Via[(1 封私信 / 52 条消息) Google chrome 的..Helper进程占用内存特别大怎么解决(－－mac os)? - 知乎](https://www.zhihu.com/question/58464794) [[20210810]] 上午11:25
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FttKlIqyNbc.png?alt=media&token=3f134b05-de8f-40f4-ba86-4acfe7123948)
+            - 在chrome里点开这个任务管理器就可以查看是哪个插件或者网页占用了大量cpu资源。我刚刚知道这个功能，发现highlight this用了很多资源，就先关闭了。
 - 如何在ipad和mac之间同步scrivener文件？
     - 官方给出的方法是使用dropbox，但我在mac上下载安装dropbox根本无法使用。
     - 我的解决方案如下：
