@@ -1,5 +1,4 @@
 - 当卡片的数量过多时，就接近在roam research中的情况，卡片的形式已经无法刺激写作的欲望了。这样的界面也就没有了效果。😀😀目前这种情况是很好的，可以把一个写作项目限制在我自己可以控制的规模，这样写作的心理负担比较小。#[[gingko]]#[[写作]]
 - 给obsidian的节点设置不同的颜色Via[Tour | 如何用Obsidian图谱构建你的知识网络_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1kh411Y7hg/) [[20210812]] 下午3:48  #[[Obsidian]]
-- 您在工作时使用 Mac Book 连接大屏幕，在家使用连接到它的大液晶电视？或者您经常在工作中和与客户一起使用额外的投影仪进行演示？为每种情况创建一个显示集，一次更改多个设置。😀😀用户定义的显示集有意义的原因有很多。在这个区域你可以设置它们，并自定义它们的所有设置！此外，您可以将它们链接到一个热键以当场激活它们。Via[SwitchResX - 显示集](https://www.madrau.com/srx_howtouseit/srx_howtouseit/srx_display_sets.html) [[20210812]] 下午10:36
-- 匹配分辨率和应用😀😀😀😀不同的应用程序通常对分辨率有不同的需求。虽然大多数投影机与提供 1024x768 像素的 XGA 一起使用，但您的 DVD 在 1920 x 1200 像素的 WUXGA 宽屏尺寸下显示效果最佳？您的 NTSC 电视更喜欢 2368 x 1480 像素，而您的 PAL 电视仅在 1024 x 576 像素时表现最佳？虽然 Word 在 1280 x 960 像素的图形设计和摄影中可能显示最佳，但需要您的 Retina 显示最大 2880 x 1800 像素的细粒度。这有点乱？😀😀完全没有，因为 SwitchResX 可以控制一切。您可以在一个易于使用的窗口中定义您喜欢的任何应用程序的详细信息，包括分别调整每个应用程序的扬声器设置。Via[SwitchResX - 应用程序](https://www.madrau.com/srx_howtouseit/srx_howtouseit/srx_applications.html) [[20210812]] 下午10:37
+- [[Switchresx]]
 - 
