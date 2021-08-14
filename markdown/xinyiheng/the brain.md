@@ -28,9 +28,16 @@
     - 目前mm和mindmanager模式都可以读取，不过，现在感觉直接导入只会让the brian更加混乱，好像整理成txt格式更好，因为有些内容不希望变成节点，有些希望和已有节点关联。
     - 从the Brian导出数据的例子表明，结构可能比节点还要重要。在the brian中非常炫酷的信息在导出成text之后就完全没有了章法
     - 三款软件的格式转变#[[软件联动]]
-        - scrivener也可以导入mindnode文件，全部整理成为卡片的模式。导入效果最好的格式是opml，也就是说mindnode先转变成为opml，这样，每一个节点都变成一张卡片的题目，而节点的注释则会变成卡片的正文。
+        - scrivener也可以导入mindnode文件，全部整理成为卡片的模式。导入效果最好的格式是opml，也就是说mindnode先转变成为opml，这样，每一个节点都变成一张卡片的题目，而节点的注释则会变成卡片的正文。@评论:这一点很重要，以前忽视了，可以取代[[Writemapper]]#[[洞见]]
         - mindnode文件也可转变成为freemind文件，拓展名为mm。freemind文件可以直接导入到the brain中，层级关系可以得到完整保留。每一个freemind的节点都可以变成一个the brain中的节点;而节点的注释也会变成the brian的note。
         - 这样，我就完全打通了scrivener、mindnode、the brain三个软件。
+    - 如何把有结构的内容导入到the brain，并且保留链接功能？
+        - 这个问题一直难为着我，今天花了一天在各种尝试。
+        - 目前的解决方案。可以把tab outliner里的网页复制到roam中，在roam里整理好结构。注意，每个节点内容不能太长。(后文会说明)然后直接复制到the brian中的一个thought的编辑器里。
+        - 在编辑器里选中所有文本，选择-copy as text
+        - 在the brian中的展示区域选择 past text outline as thoughts，这样，整理好的结构就完整保存进来了。但是没有链接。
+        - 但是点开每个 thought的编辑器就可以发现一个 unlinked mentions，里面的内容是有链接的。这样就可以很方便地打开链接。名字不能太长，是因为这个unlinked mentions是靠the brian软件自动匹配的，如果名字太长，很容易匹配不上。不过，这个名字下一级的能thought够识别出来，也可以在那里看到它的mention。
+        - 直接把思维导图导入 the brian对于启发思考效果并不好。
 - 相关软件
     - [[Obsidian]]有一款插件，大体实现了the brain的效果，叫做[[juggl]]
     - [[TiddlyMap]]

@@ -1,4 +1,22 @@
 - MacOS Catalina 10.15第三方软件文件提示已损坏解决办法Via[MacOS Catalina 10.15第三方软件文件提示已损坏解决办法 - Mac天空](https://www.mac69.com/news/1099.html) [[20210814]] 下午3:23
-- 
-- https://www.notion.so/26257d5938e44bc59aef38add466ef89?v=f27fe2c7848c48cd9b09c9e191046fcbVia[近一个月经济学畅销书](https://www.notion.so/26257d5938e44bc59aef38add466ef89?v=f27fe2c7848c48cd9b09c9e191046fcb) [[20210814]] 下午3:52
-
+- 领导力
+    - 学者
+        - 刘澜
+            - [领导力的第二本书 _刘澜](https://www.hdpdf.com/archives/54577)
+        - 库姆斯
+            - 情境危机沟通理论
+            - [品牌危机情境下微博网络口碑的探索性研究](https://www.1xuezhe.exuezhe.com/Qk/art/508486?dbcode=1&flag=2)
+        - 约翰·科特
+            - [约翰·科特_百度百科](https://baike.baidu.com/item/%E7%BA%A6%E7%BF%B0%C2%B7%E7%A7%91%E7%89%B9/9922299)
+            - [约翰 科特 buy-in - Google 搜索](https://www.google.com/search?q=%E7%BA%A6%E7%BF%B0+%E7%A7%91%E7%89%B9+buy-in&oq=%E7%BA%A6%E7%BF%B0+%E7%A7%91%E7%89%B9++buy-in&aqs=chrome..69i57.9697j0j1&sourceid=chrome&ie=UTF-8)
+            - [组织变革工具——约翰·科特变革管理八步法-商业新知](https://www.shangyexinzhi.com/article/2065616.html)
+            - 认同
+            - [科特](https://www.google.com/search?q=%E7%A7%91%E7%89%B9+the+heart+of+change&oq=%E7%A7%91%E7%89%B9++the+heart+of+change&aqs=chrome..69i57.16028j0j1&sourceid=chrome&ie=UTF-8)《[变革之心](https://www.google.com/search?q=%E7%A7%91%E7%89%B9+the+heart+of+change&oq=%E7%A7%91%E7%89%B9++the+heart+of+change&aqs=chrome..69i57.16028j0j1&sourceid=chrome&ie=UTF-8)》[ ](https://www.google.com/search?q=%E7%A7%91%E7%89%B9+the+heart+of+change&oq=%E7%A7%91%E7%89%B9++the+heart+of+change&aqs=chrome..69i57.16028j0j1&sourceid=chrome&ie=UTF-8)
+            - [科特 accelerate](https://www.google.com/search?q=%E7%A7%91%E7%89%B9+accelerate&oq=%E7%A7%91%E7%89%B9+++accelerate&aqs=chrome..69i57.28371j0j4&sourceid=chrome&ie=UTF-8)
+            - 变革领导力
+    - 格林里夫
+        - 仆人式领导[理論](https://wiki.mbalib.com/zh-tw/%E6%A0%BC%E6%9E%97%E9%87%8C%E5%A4%AB%E7%9A%84%E4%BB%86%E4%BA%BA%E5%BC%8F%E9%A2%86%E5%AF%BC%E7%90%86%E8%AE%BA)
+    - 拉撒路
+        - [交易压力](https://www.google.com/search?sxsrf=ALeKk01ZgcnLno-38z8NIrkDmFT1AuueWg%3A1615345685549&ei=FThIYI7_IMHF0PEPy86doA0&q=%E6%8B%89%E6%92%92%E8%B7%AF+%E4%BA%A4%E6%98%93%E5%8E%8B%E5%8A%9B&oq=%E6%8B%89%E6%92%92%E8%B7%AF+%E4%BA%A4%E6%98%93%E5%8E%8B%E5%8A%9B&gs_lcp=Cgdnd3Mtd2l6EANQl9UBWM_jAWDg5wFoAXAAeACAAcQCiAGSEpIBBTItMi42mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=gws-wiz&ved=0ahUKEwjO3ZrO36TvAhXBIjQIHUtnB9QQ4dUDCA0&uact=5)
+    - 安德鲁·杜布林
+        - [领导力（第7版）](https://xiazai-pdf-shuji.info/pdf_free_books_zuo_zhe-ling_dao_li_di_7ban_ren_li_zi_yuan_guan_li_yi_cong_2786.html)
