@@ -1,9 +1,10 @@
 - 原理反思
     - [[卡片式写作界面]]，分散写作卡片，把卡片整合起来就可以形成一篇文章，这是降低写作难度，选择最小阻力之路来完成一项大型任务的做法。
-    - 卡片在scrivnener里面可以自由拆分和合并，这是我非常看中的功能。
+    - 卡片在scrivnener里面可以自由拆分和合并，这是我非常看中的功能。我知道[[Gingko]]目前也支持这种方式。
     - 同样的内容用不同的形式展现会刺激大脑产生不同的想法和愉悦感
     - View Mode中有3种视图模式：层叠、卡片、大纲，View Mode的3种模式掌握好了，[[scrivener]]的便捷性就能很快体现出来，层叠模式可以查看选中的所有内容，既可以是一个文件夹下的内容，也可以是单选 的多个章或小节内容。卡片模式有助于我们调整内容的组织结构，方便在卡片上拟定写作重点。大纲模式中则可以进行进度管理和调度安排。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)@评论:我当初看中[[scrivener]]也是被多种视图吸引。现在还知道了好多款可以切换视图的软件，比如[[Notion]]、clickup、taskade、wavemaker、airtable
 - 使用技巧
+    - 有windows、mac和ipad版本，三个版本同步是个问题。我使用icloud在mac和ipad之间同步问题不大，使用坚果云在windows和mac之间同步也倒是能够互相查看文档，但是不方便。官方推荐的dropbox在国内不好用。
     - Collections 的目的是为了更有效的归纳已有的文件，有点类似于Outlook中的智能文件夹，例如：可以先建一个 新增章节 Collection，然后到Binder中选中新增的章节右键（Add to Collection）到 新增章节 中。换个方式来理解也像是给内容加标签，通过标签来区分和快速定位到内容。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
     - Draft目录下的内容默认都是输出合并文档的组成部分，Research目录下的内容一般用来放置各种写作会用到的资源文档，例如：网页、图片、素材文字等等，Research中的内容不会输出。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
     - Search Results是一个搜索痕迹保存的地方，只要搜索过的内容都会集中体现在这个默认分类当中。[literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
