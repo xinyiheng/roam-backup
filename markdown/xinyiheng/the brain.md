@@ -5,6 +5,8 @@
     - [[本地文件管理]]
     - [[概念图]]
         - the brain的思维导图可以画得特别大而总体不失控，就像一张复杂的网。我可以把the  brian当做一个^^建立关联^^的工具，当做 一个本地知识搜索引擎。就^^自由放任^^地用 吧。the brain是一张网，而[[kb(Knowledge database)]]用来建设局部思维地图。kb尽量保持秩序，但是一旦某一块知识地图失控也没事，我可以删除重建。非常方便。
+    - [[百科全书]]
+        - 我希望以[[知识图谱]]的形式来浏览自己关注的内容。
     - the brain复杂的样式是怎样转换为简单的txt格式的？#[[文件格式]]#[[洞见]]#[[软件启发]]#[[软件联动]] #[[标记语言]] #[[格式转换]]
         - [可以参考这个视频](https://www.thebrain.com/support/tutorials#importing-and-exporting)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FXY1n4pKjaz.png?alt=media&token=776809d0-5ded-4b68-a638-5b4e4082851a)
