@@ -1,24 +1,36 @@
-- Collections 的目的是为了更有效的归纳已有的文件，有点类似于Outlook中的智能文件夹，例如：可以先建一个 新增章节 Collection，然后到Binder中选中新增的章节右键（Add to Collection）到 新增章节 中。换个方式来理解也像是给内容加标签，通过标签来区分和快速定位到内容。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
-- View Mode中有3种视图模式：层叠、卡片、大纲，View Mode的3种模式掌握好了，[[scrivener]]的便捷性就能很快体现出来，层叠模式可以查看选中的所有内容，既可以是一个文件夹下的内容，也可以是单选 的多个章或小节内容。卡片模式有助于我们调整内容的组织结构，方便在卡片上拟定写作重点。大纲模式中则可以进行进度管理和调度安排。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
-- 我当初看中[[scrivener]]也是被多种视图吸引。现在还知道了好多款可以切换视图的软件，比如[[Notion]]、clickup、taskade、wavemaker、airtable
-- Draft目录下的内容默认都是输出合并文档的组成部分，Research目录下的内容一般用来放置各种写作会用到的资源文档，例如：网页、图片、素材文字等等，Research中的内容不会输出。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
-- Search Results是一个搜索痕迹保存的地方，只要搜索过的内容都会集中体现在这个默认分类当中。[literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
-- 打开多个文本参考。在双栏模式下，按住option键，拖动要参考的文章到栏目header处，双栏就会变成三栏，这时候要参考的文章会出现一个向上倾斜到箭头，单击这个箭头，要参考的文章就可以弹出来，随意拖动到副屏幕上查看。用这种方式可以打开好多个参考文本。
-    - scrivener双栏显示有个bug，就是其中一个栏目里字只能排成一个长长的竖排，根本没办法阅读。用这种pop up 方式可以一定程度上弥补这个bug。我不知道是不是我设置的问题。
-    - 双栏显示的bug只是在长文本试图出现，outliner和corkboard模式都正常。
-    - 弹出pop up不必要非的在双栏模式下，有很多种方式可以实现。
-    - bug已经找到原因，在不能正常显示的栏目里点击显示-显示页面视图即可。
-- 印象笔记里面的笔记直接拖动到scriviener会自动生成文件名和超链接。这实在是太棒了
-- 我曾经梦寐以求的写作软件。现在大部分想要写书的文章也都保存在这里面。
-- 这款软件没有什么好挑剔的，是超大型[[写作]]项目的不二选择。
-- ~~只不过，我现在好像在打开它的时候感觉到心理压力比较大。~~
-- 结合popclip软件，可以轻松地把一些网站上看到的段落发送到scrivener当中作为参考，但是我一直比较担心这一功能和网页阅读流程weava标注部分重叠，一直没有使用。
-- 最满意的交互界面。
-- 写长篇文章非常有优势。
-- 缺点是排版不支持markdown模式。我觉得scrivener适合在写得差不多的时候再精修使用。
-- 文章结构不应该太复杂，否则难以驾驭。规划文章结构有很多非常棒的工具可以使用。比如：白板（scapple这样可以结合自己觉得有用的图来构思）或者随意在白板上手写（概念画板），或者思维导图或者幕布，利用印象笔记中的搜索然后建立相关文档的目录也是寻找灵感的好方式。
-- 之前想过scrivenr集合思维导图工具mindnode使用，现在看来，还是把它作为纯粹的写作工具，因为对接mindnode实在是太复杂了
-- 在binder中显示文件夹中文件数量的设置
-    - http://wxhdp.xuexihaike.com/2020-02-23-145405.png
+- 原理反思
+    - [[卡片式写作界面]]，分散写作卡片，把卡片整合起来就可以形成一篇文章，这是降低写作难度，选择最小阻力之路来完成一项大型任务的做法。
+    - 卡片在scrivnener里面可以自由拆分和合并，这是我非常看中的功能。
+    - 同样的内容用不同的形式展现会刺激大脑产生不同的想法和愉悦感
+    - View Mode中有3种视图模式：层叠、卡片、大纲，View Mode的3种模式掌握好了，[[scrivener]]的便捷性就能很快体现出来，层叠模式可以查看选中的所有内容，既可以是一个文件夹下的内容，也可以是单选 的多个章或小节内容。卡片模式有助于我们调整内容的组织结构，方便在卡片上拟定写作重点。大纲模式中则可以进行进度管理和调度安排。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)@评论:我当初看中[[scrivener]]也是被多种视图吸引。现在还知道了好多款可以切换视图的软件，比如[[Notion]]、clickup、taskade、wavemaker、airtable
+- 使用技巧
+    - Collections 的目的是为了更有效的归纳已有的文件，有点类似于Outlook中的智能文件夹，例如：可以先建一个 新增章节 Collection，然后到Binder中选中新增的章节右键（Add to Collection）到 新增章节 中。换个方式来理解也像是给内容加标签，通过标签来区分和快速定位到内容。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
+    - Draft目录下的内容默认都是输出合并文档的组成部分，Research目录下的内容一般用来放置各种写作会用到的资源文档，例如：网页、图片、素材文字等等，Research中的内容不会输出。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
+    - Search Results是一个搜索痕迹保存的地方，只要搜索过的内容都会集中体现在这个默认分类当中。[literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
+    - 打开多个文本参考。在双栏模式下，按住option键，拖动要参考的文章到栏目header处，双栏就会变成三栏，这时候要参考的文章会出现一个向上倾斜到箭头，单击这个箭头，要参考的文章就可以弹出来，随意拖动到副屏幕上查看。用这种方式可以打开好多个参考文本。
+        - scrivener双栏显示有个bug，就是其中一个栏目里字只能排成一个长长的竖排，根本没办法阅读。用这种pop up 方式可以一定程度上弥补这个bug。我不知道是不是我设置的问题。
+        - 双栏显示的bug只是在长文本试图出现，outliner和corkboard模式都正常。
+        - 弹出pop up不必要非的在双栏模式下，有很多种方式可以实现。
+        - bug已经找到原因，在不能正常显示的栏目里点击显示-显示页面视图即可。
+    - 文章结构不应该太复杂，否则难以驾驭。规划文章结构有很多非常棒的工具可以使用。比如：白板（scapple这样可以结合自己觉得有用的图来构思）或者随意在白板上手写（概念画板），或者思维导图或者幕布，利用印象笔记中的搜索然后建立相关文档的目录也是寻找灵感的好方式。
+    - 在binder中显示文件夹中文件数量的设置
+        - http://wxhdp.xuexihaike.com/2020-02-23-145405.png
+    - 缺点是排版不支持markdown模式。我觉得scrivener适合在写得差不多的时候再精修使用。
+- 个人评价
+    - 这款软件没有什么好挑剔的，是超大型[[写作]]项目的不二选择。
+    - 最满意的交互界面。写长篇文章非常有优势。
+    - 我曾经梦寐以求的写作软件。现在大部分想要写书的文章也都保存在这里面。
+    - ~~只不过，我现在好像在打开它的时候感觉到心理压力比较大。~~
+- 软件联动
+    - 之前想过scrivenr集合思维导图工具mindnode使用，现在看来，还是把它作为纯粹的写作工具，因为对接mindnode实在是太复杂了
+    - 结合popclip软件，可以轻松地把一些网站上看到的段落发送到scrivener当中作为参考，但是我一直比较担心这一功能和网页阅读流程weava标注部分重叠，一直没有使用。
+    - 印象笔记里面的笔记直接拖动到scriviener会自动生成文件名和超链接。这实在是太棒了
+    - [[scrivener]]和[[思维导图]]以及[[大纲工具]]的协同 
+        - 导出之后的文件只有不到2M，人通过文字创造信息的能力相比计算机的处理能力真是微不足道。
+        - 导出为思维导图和outliner格式，思维导图调整顺序更为方便，但是阅读起来感觉有些内容太多了。outliner看起来很舒服，但是不太方便调整格式。
+        - 三款软件的格式转变
+            - scrivener也可以导入[[mindnode]]文件，全部整理成为卡片的模式。导入效果最好的格式是[[opml]]，也就是说mindnode先转变成为opml，这样，每一个节点都变成一张卡片的题目，而节点的注释则会变成卡片的正文。
+            - mindnode文件也可转变成为[[freemind]]文件，拓展名为mm。freemind文件可以直接导入到[[the brain]]中，层级关系可以得到完整保留。每一个freemind的节点都可以变成一个the brain中的节点，而节点的注释也会变成the brian的note。
+            - 这样，我就完全打通了scrivener、mindnode、the brain三个软件。
 - #[[参考资料]]
     - 😀😀[[吉豆]]Via[吉豆](https://sinkinact.lofter.com/?page=2&t=1397201293988) [[20210110]] 下午5:31@评论:这个人对scrivener这款软件研究比较深入

@@ -1,4 +1,4 @@
-- [ App+1 | 用思维导图的形式来组织笔记：Coppice - 少数派 ](https://sspai.com/post/65410)
+- [ App+1 | 用[[思维导图]]的形式来组织笔记：Coppice - 少数派 ](https://sspai.com/post/65410)
     - Coppice 采用了我们再熟悉不过的文件夹体系，来帮我们辅助整理笔记，而画布把笔记之间的相互关系呈现出来，一目了然，而最传统的目录结构也有提供。
     - 当然 Coppice 还有还多问题，笔记编辑功能不够强大、图片编辑功能的缺失是两项最大的短板。
-    - 我现在是 Obsidian + MindNode 结合使用，每个索引和大纲类的笔记用 URL Schema 的方式关联到思维导图去。
+    - 我现在是 Obsidian + MindNode 结合使用，每个索引和大纲类的笔记用 URL Schema 的方式关联到[[思维导图]]去。

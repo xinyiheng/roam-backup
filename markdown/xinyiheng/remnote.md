@@ -35,7 +35,7 @@
             - 对于一个嵌套在大文档中的小文档，浮窗显示很人性化，可以帮助不点开链接就知道小文档中的内容![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F72HeCwWaN2.png?alt=media&token=110332c8-eb01-493d-9530-93dc0d69abbe)
             - 对于比较长的bullet，上方也可以很清楚地显示层级![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FUqVW7aymvp.png?alt=media&token=be28296c-8bb7-4c21-a571-2e650f2fb568)
             - 在左侧的边栏里，所有的笔记还可以放在文件夹里，这让remnote看起来有些像是一个传统的层级文件体系。
-            - 没有obsidian和roam中的王牌graph图。插件中的图本质上是个[[平面思维导图]]，并不是[[立体思维导图]]
+            - 没有obsidian和roam中的王牌graph图。插件中的图本质上是个[[平面思维导图]]，并不是[[立体思维导图]]@评论:目前已经更新了，也具有这个功能了。
             - 没有query功能，roam中通过query生成的内容导入remnote中也无法显示
     - remnote的一个概念里提到的每一个关键词都可以作为一个独立的知识提取点。比如，当学习“苹果”这一个概念的时候，我们可能会这样介绍它：“这是一种水果，味道甜，颜色有红色、黄色和绿色的。“这里水果、味道、甜、颜色等，每一个词都可以做进一步学习，比如，水果都有哪些？味道有哪些种？红色的水果有哪些？等等
     - 结合了普通笔记的功能和间隔记忆的功能(anki的主打功能)

@@ -4,4 +4,3 @@
 - @评论:我感觉好像就是一个树状图而已，用简单的思维导图工具就可以绘制出这种图形。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FRZJb1CzB0a.png?alt=media&token=9f92c427-bae3-46bf-8133-3bcfa74f9d53)
     - 资源视图的结构图是数据的逻辑表示，其不需要立刻实现，而是随着数据空间的演化缓慢建立。数据也不必从模型中导入导出，而是在模型中可以自然地表示这些数据及其关系。这与XML方法不同，XML需要在查询结果计算出来之前将整个数据物理地表示为[[xml]]文档。Via[个人数据管理 - 得到APP](https://www.dedao.cn/reader?id=bODoM61kAj9Rql84gzG5nVNZopXKY3Do6nWJLrBmEDv2QPMOyx7a6e1dbPQj2Zdm) [[20210113]] 上午11:48@评论:意思就是你作为文献的拥有者知道有文档是以这种结构存在的就可以了，不用真的用某种方法把文件整理成这种样子的。
-    - 
