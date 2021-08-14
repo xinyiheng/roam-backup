@@ -1,8 +1,26 @@
-- the brain和roam research的关系
-    - 我喜欢的the brian的一个功能就是可以在思维导图上直接建立关联。[[roam research]]在[[sibling]]概念关联的时候不是很方便。这一点上，the brain和[[kb(Knowledge database)]]很像。
-    - roam research更倾向于围绕一个核心概念写笔记。roam research中的一个page其实就像是用很多辅助理解的话语把一些node给粘到了一起，变成了一张饼。打个比喻，roam research的page就像是一大块撒了很多葡萄干的饼干，用’[[]]“括起来的内容就是葡萄干，散落在饼干表面。而the brain则就像是一串葡萄，主要在三维的空间(尽管展现形式只是平面的)巡视这串葡萄的结构。
-- the brain的思维导图可以画得特别大而总体不失控，就像一张复杂的网。我可以把the  brian当做一个建立关联的工具，当做 一个本地知识搜索引擎。就^^自由放任^^地用 吧。the brain是一张网，而[[kb(Knowledge database)]]用来建设局部思维地图。kb尽量保持秩序，但是一旦某一块知识地图失控也没事，我可以删除重建。非常方便。
-- [[Obsidian]]有一款插件，大体实现了the brain的效果，叫做[[juggl]]
+- 原理反思
+    - the brain和roam research的关系
+        - 我喜欢的the brian的一个功能就是可以在思维导图上直接建立关联。[[roam research]]在[[sibling]]概念关联的时候不是很方便。这一点上，the brain和[[kb(Knowledge database)]]很像。
+        - roam research更倾向于围绕一个核心概念写笔记。roam research中的一个page其实就像是用很多辅助理解的话语把一些node给粘到了一起，变成了一张饼。打个比喻，roam research的page就像是一大块撒了很多葡萄干的饼干，用’[[]]“括起来的内容就是葡萄干，散落在饼干表面。而the brain则就像是一串葡萄，主要在三维的空间(尽管展现形式只是平面的)巡视这串葡萄的结构。
+    - [[本地文件管理]]
+    - [[概念图]]
+        - the brain的思维导图可以画得特别大而总体不失控，就像一张复杂的网。我可以把the  brian当做一个^^建立关联^^的工具，当做 一个本地知识搜索引擎。就^^自由放任^^地用 吧。the brain是一张网，而[[kb(Knowledge database)]]用来建设局部思维地图。kb尽量保持秩序，但是一旦某一块知识地图失控也没事，我可以删除重建。非常方便。
+    - the brain复杂的样式是怎样转换为简单的txt格式的？#[[文件格式]]#[[洞见]]#[[软件启发]]#[[软件联动]] #[[标记语言]] #[[格式转换]]
+        - [可以参考这个视频](https://www.thebrain.com/support/tutorials#importing-and-exporting)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FXY1n4pKjaz.png?alt=media&token=776809d0-5ded-4b68-a638-5b4e4082851a)
+        - 从整体上看，这个txt文档是一个层级结构，每一个层级都是the brain当中的一个节点。利用缩进来表示这些节点之间的层级关系。这一步是很常规的做法
+        - 独特之处在于其特殊的几个标识符，有着非常巧妙的用途
+            - 图中steve jobs这个节点为例，|代表着标签
+            - +代表着网址链接
+            - -代表着note
+            - #代表着关联的节点
+        - 仅仅通过以上标记，the brian就可以形成非常完美的网状结构，真是精妙！
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWx4bNJVlQo.png?alt=media&token=00ef94ad-30db-418e-bf32-2bc75d45d6e7)
+        - 我如果用the brian导入外部文本的方式来标记自己想要整理的内容，然后导入the brian当中显示编辑后的样式的话，这就和使用markdown来做笔记，然后用markdown笔记提供渲染后的样式道理就是一样的。我相当与也在使用一种小众的[[标记语言]]。
+    - 以后the brian中只保留关键词，尽量少做笔记，相当于是一个自主建立的概念网。#[[洞见]]
+        - the brain非常适合为自己的长期探索的项目建立一个引导。发散式的网状结构非常有漫游的感觉，就像是在阅读一本^^百科全书^^。而 roam research则是很多笔记组成的干货。
+        - 它很方便建立关联，我可以利用这个优势把一些搜集到的要阅读的内容（主要是链接）放到the brian中，然后把一些关键的概念作为node写进去。 the Brian中的内容主要是所谓实体，也就是真实存在的实物，以及概念实体，虽然是看不到摸不着的，但是却真实影响人的思维，比如，物理学这个词，不是具体东西，但是对人有各种影响。
+        - 这是一个我关心的，待解决的问题的数据库。我争取在这个工具里只用我自己的话来输入内容
 - 把思维导图转变成为the brain可以读取的形式 #[[软件联动]]#[[格式转换]]
     - the brain还可以导出为json文件，具体怎么使用我还不清楚。但是[[python]]可以读取json文件，我不知道可以实现怎样的读取效果。
     - 目前mm和mindmanager模式都可以读取，不过，现在感觉直接导入只会让the brian更加混乱，好像整理成txt格式更好，因为有些内容不希望变成节点，有些希望和已有节点关联。
@@ -11,32 +29,19 @@
         - scrivener也可以导入mindnode文件，全部整理成为卡片的模式。导入效果最好的格式是opml，也就是说mindnode先转变成为opml，这样，每一个节点都变成一张卡片的题目，而节点的注释则会变成卡片的正文。
         - mindnode文件也可转变成为freemind文件，拓展名为mm。freemind文件可以直接导入到the brain中，层级关系可以得到完整保留。每一个freemind的节点都可以变成一个the brain中的节点;而节点的注释也会变成the brian的note。
         - 这样，我就完全打通了scrivener、mindnode、the brain三个软件。
-- [[TiddlyMap]]
-- the brain复杂的样式是怎样转换为简单的txt格式的？#[[文件格式]]#[[洞见]]#[[软件启发]]#[[软件联动]] #[[标记语言]] #[[格式转换]]
-    - [可以参考这个视频](https://www.thebrain.com/support/tutorials#importing-and-exporting)
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FXY1n4pKjaz.png?alt=media&token=776809d0-5ded-4b68-a638-5b4e4082851a)
-    - 从整体上看，这个txt文档是一个层级结构，每一个层级都是the brain当中的一个节点。利用缩进来表示这些节点之间的层级关系。这一步是很常规的做法
-    - 独特之处在于其特殊的几个标识符，有着非常巧妙的用途
-        - 图中steve jobs这个节点为例，|代表着标签
-        - +代表着网址链接
-        - -代表着note
-        - #代表着关联的节点
-    - 仅仅通过以上标记，the brian就可以形成非常完美的网状结构，真是精妙！
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWx4bNJVlQo.png?alt=media&token=00ef94ad-30db-418e-bf32-2bc75d45d6e7)
-    - 我如果用the brian导入外部文本的方式来标记自己想要整理的内容，然后导入the brian当中显示编辑后的样式的话，这就和使用markdown来做笔记，然后用markdown笔记提供渲染后的样式道理就是一样的。我相当与也在使用一种小众的[[标记语言]]。
-- 以后the brian中只保留关键词，尽量少做笔记，相当于是一个自主建立的概念网。#[[洞见]]
-    - the brain非常适合为自己的长期探索的项目建立一个引导。发散式的网状结构非常有漫游的感觉，就像是在阅读一本百科全书。而 roam research则是很多笔记组成的干货。
-    - 它很方便建立关联，我可以利用这个优势把一些搜集到的要阅读的内容（主要是链接）放到the brian中，然后把一些关键的概念作为node写进去。 the Brian中的内容主要是所谓实体，也就是真实存在的实物，以及概念实体，虽然是看不到摸不着的，但是却真实影响人的思维，比如，物理学这个词，不是具体东西，但是对人有各种影响。
-    - 这是一个我关心的，待解决的问题的数据库。我争取在这个工具里只用我自己的话来输入内容。
-- 官方网站使用说明
-    - Categories
+- 相关软件
+    - [[Obsidian]]有一款插件，大体实现了the brain的效果，叫做[[juggl]]
+    - [[TiddlyMap]]
+- #[[参考资料]]
+    - 官方网站使用说明
+        - Categories
 via[TheBrain Blog](https://www.thebrain.com/blog?page=3)
 [[20201226]] 下午5:00
--  the brain
-    - the brian可以作为一个非常好的本地文件管理工具，可以整理自己待阅读的内容
-    - 社群：如果你在使用全新Thebrain过程中，遇到任何有趣或困扰都可以加入“Thebrain交流群”（273298874），大家共同探讨思维导图的乐趣！
+    - 社群：如果你在使用全新Thebrain过程中，遇到任何有趣或困扰都可以加入“Thebrain交流群”（273298874），大家共同探讨思维导图的乐趣！@评论:好像大家发言并不踊跃
 Via[(14 条消息) thebrain如何用 - 搜索结果 - 知乎](https://www.zhihu.com/search?q=thebrain%E5%A6%82%E4%BD%95%E7%94%A8&utm_content=search_relatedsearch&type=content) [[20210721]] 下午2:48
-        - TheBrainVia[TheBrain - 知乎](https://www.zhihu.com/topic/19583518/hot) [[20210721]] 下午3:25
+    - TheBrainVia[TheBrain - 知乎](https://www.zhihu.com/topic/19583518/hot) [[20210721]] 下午3:25
+- 使用技巧
+    - the brian可以作为一个非常好的^^本地文件管理工具^^，可以整理自己待阅读的内容
     - the brian的使用方法以及the brian12的一些新功能
     - the brain的一些用例展示
         - https://www.thebrain.com/apps
@@ -46,22 +51,21 @@ Via[(14 条消息) thebrain如何用 - 搜索结果 - 知乎](https://www.zhihu.
     - "The Brain + Airlist，兼顾“千头万绪”和“专心协作”两种环境
     - The Brain是一个把庸俗的“思维导图”打至渣的信息组织软件。其基本单元是“Thought”，基本结构则是Tought —— Thought 这样的连线。通过三种简单连线类型（Parent，Child, Jump），即可描述出日常观察和思考推进的多种状态。
     - 在我自己拟定的凡例当中，Parent-Child关系通常适用于这些情况：
-    - 前者统属后者；
-    - 前者是后者的原因；
-    - 后者是前者的演化；
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FzxYbtDyStL.png?alt=media&token=cc446efe-5add-419b-869e-80407b7bf152)
+        - 前者统属后者；
+        - 前者是后者的原因；
+        - 后者是前者的演化；
     - 注意！这就是和庸俗的“思维导图”的分界线！普通思维导图使用者但凡是觉得一样东西能够“分成几块”，就随意地画出一个分支结构，脑子却保留了一塌糊涂的状态。
-    - 读书看到一个想法（比如说——啤酒气越多越好喝）令你冥冥之中觉得此事非常重要，则直接在The Brain内新建一个想法，标题为“啤酒气越多越好喝”，同时可以把原页面的url复制后粘贴为这个想法的附件，以供随时复查。
-    - 若干天后，读书又看到一个想法（比如说——淘宝上有卖给啤酒加二氧化碳的器具），则为这个“扎啤机“新建一个想法，并把它连接到“啤酒气越多越好喝”之下。
-    - 这里的连线是什么意思呢？即是说——排在上一层的想法“啤酒气越多越好喝”，与排在下一层的想法“扎啤机“之间，为因果关系。前者是因，后者为果。
-    - 若干天后，读书又看到一个想法（比如说——半导体制冷片是如何工作的），则可以新建一个想法，把它连接到“扎啤机“的上方。庸俗的思维导图软件此时就会傻眼——你怎么可以让一个想法同时有两个“上一层”的想法？
-    - 为什么不行呢？半导体制冷片的存在，与插电即用的扎啤机，同样是因果关系。
-    - 假如你是个设计或工程爱好者，脑子里想象到了能够远程控制或是自动按照你的行动习惯来工作的聪明扎啤机，则此“聪明扎啤机”又可以是“扎啤机”的子想法。
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fq56vG-jlJw.png?alt=media&token=353ae896-46f2-496f-b0a5-a95be53243ff)
-    - Airlist是一个极其轻便的Web列表/文本工具，它从头到尾只给你一大张纸，不过你能在纸上写无限多层的列表。
-    - 每一个层级都可以快速展开、收缩。
-    - 最重要的是，Airlist的每一个项目都有独立的url，因此它可以直接贴到The Brain的想法当中去。
-    - 设想我们在TheBrain里面真的建了一个“聪明扎啤机”的想法，那么就可以顺手在Airlist当中按一下回车直接新建一个“聪明扎啤机”条目。
-    - 编辑于 2020-05-13"
-        - https://diigo.com/0l6li7
-    - 用大纲工具写完之后再导入到the brain
+    - 例子
+        - 读书看到一个想法（比如说——啤酒气越多越好喝）令你冥冥之中觉得此事非常重要，则直接在The Brain内新建一个想法，标题为“啤酒气越多越好喝”，同时可以把原页面的url复制后粘贴为这个想法的附件，以供随时复查。
+        - 若干天后，读书又看到一个想法（比如说——淘宝上有卖给啤酒加二氧化碳的器具），则为这个“扎啤机“新建一个想法，并把它连接到“啤酒气越多越好喝”之下。
+        - 这里的连线是什么意思呢？即是说——排在上一层的想法“啤酒气越多越好喝”，与排在下一层的想法“扎啤机“之间，为因果关系。前者是因，后者为果。
+        - 若干天后，读书又看到一个想法（比如说——半导体制冷片是如何工作的），则可以新建一个想法，把它连接到“扎啤机“的上方。庸俗的思维导图软件此时就会傻眼——你怎么可以让一个想法同时有两个“上一层”的想法？
+        - 为什么不行呢？半导体制冷片的存在，与插电即用的扎啤机，同样是因果关系。
+        - 假如你是个设计或工程爱好者，脑子里想象到了能够远程控制或是自动按照你的行动习惯来工作的聪明扎啤机，则此“聪明扎啤机”又可以是“扎啤机”的子想法。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fq56vG-jlJw.png?alt=media&token=353ae896-46f2-496f-b0a5-a95be53243ff)
+    - Airlist@评论:这其实是把它当做了the brian的笔记编辑器，因为这个编辑器实在是太难用了。我有时候用typra作为编辑器。其实顺着这个思路，任意一个可以访问的链接都可以当做编辑器使用。比如，我想到过用大纲工具写完之后再导入到the brain，这和作者的想法如出一辙
+        - Airlist是一个极其轻便的Web列表/文本工具，它从头到尾只给你一大张纸，不过你能在纸上写无限多层的列表。
+        - 每一个层级都可以快速展开、收缩。
+        - 最重要的是，Airlist的每一个项目都有独立的url，因此它可以直接贴到The Brain的想法当中去。
+        - 设想我们在TheBrain里面真的建了一个“聪明扎啤机”的想法，那么就可以顺手在Airlist当中按一下回车直接新建一个“聪明扎啤机”条目。
+- [the brain.kdb](hook://file/22gu7eY4r?p=Y29tfmFwcGxlfkNsb3VkRG9jcy9Lbm93bGVkZ2UgZGF0YWJhc2UgYnVpbGRlcg==&n=the%20brain.kdb)
