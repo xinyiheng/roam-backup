@@ -7,7 +7,7 @@ via[Result List: harvard business review articles: EBSCOhost](http://web.b.ebsco
 
     - 
 - #[[笔记]]
-    - 接下来我会用一段隐喻来描述我的 🏞 Roam 使用体验，其实可以动态对应到 DIKIWI 模型（Data-to-Information-to-Knowledge-to-Wisdom）。#[[信息管理]]
+    - 接下来我会用一段隐喻来描述我的 🏞 Roam 使用体验，其实可以动态对应到 DIKIWI 模型（Data-to-Information-to-Knowledge-to-Wisdom）。#[[信息处理]]
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMXrwIoPGHE.png?alt=media&token=9f9e0d0e-37d0-4fc7-9004-070a468b2fa2)
 你每天都在河边 [[Daily Note]] 玩耍，看着河里的水 [[Information]] 哗啦啦地流
 你拿出相机拍拍照 [[Block]]，每天会有新发现 [[📝 Zettel]]，然后带回自己的花园 [[Digital Garden]]
