@@ -1,4 +1,5 @@
 - #[[基本功能]]
+    - 我可以在tab outliner中写出自己想要主动了解的内容，然后再向其中添加网页 #[[洞见]]
     - 一个整理网页的巨大惊喜，可以搜索出来的众多网页用大纲的形式加以整理，非常整齐
     - [[onetab]]的增强版
     - 在网页之外还可以添加自己的note，像在大纲软件上整理网址一样
@@ -7,14 +8,18 @@
 - tab outliner的#[[使用方法]]
     - #[[快捷方式]]
         - 快捷键 ctrl+o
-        - 快速编辑笔记原来的按键是F2,我用keyboard maestro重新设置为df
+        - 快速编辑当前所选笔记原来的按键是F2,我用keyboard maestro重新设置为df
         - command+向左的箭头关闭并保存本windows
-        - enter可以在tab tree里面加入note
+        - enter可以在所选tab下方加入note，shift+enter在所选tab上方加入note
+        - alt+enter在最末未添加note
+        - +展开，-收起
+        - shift+双击，在新的window中打开网页(操作不会影响原来的结构)，cmd+双击，或者直接双击，在原来的window中打开网页，也就说如果没保存这个网页就删除了
         - 在note里面输入---可以自动转化为seperater
     - wangxiaohui's note: 缺点是如果关闭了网页，在tab outliner中也就消失了。缺点在购买付费版之后就不存在了。可以在去chrome 插件设置中，为tab outliner设置[[快捷方式]]，我设置了command+右箭头关闭tab并保存，这样，暂时不用，但是关闭之后希望以后还会使用的tab就保留在tab outliner当中了。tab+左键头关闭整个windows并保存。
 - tab outliner的  #[[软件联动]]
     - tab outliner整理好的文件可以复制到[[roam research]]或者其他[[大纲工具]]当中，非常方便
     - 购买了tab outliner付费版，果然没有让我失望，在其中整理的网页可以完美拷贝到diigo
-    - tab outliner整理的内容复制思维导图中也可以完美保留原来的格式，我发现，直接复制到mindnode只是保留了原来的层级结构，但是链接是直接显示出来的，并不美观，改善方法是先复制到[[Notion]]，然后导出为md文档，用mindnode打开就是完美的思维导图模式@标签：tab outliner 和[[mindnode]]联动
+    - tab outliner整理的内容复制思维导图中也可以完美保留原来的格式，我发现，直接复制到mindnode只是保留了原来的层级结构，但是链接是直接显示出来的，并不美观，改善方法是先复制到[[Notion]]，然后导出为md文档，用mindnode打开就是完美的思维导图模式@标签：tab outliner 和[[mindnode]]联动，真的要保存为mindnode的话也不用这么麻烦，方法同下
+        - diigo大纲文件转换为mindnode思维导图的方法#[[软件联动]]
     - tab outliner更像是在仔细阅读文章之前梳理要阅读哪些，这些文献之间有什么关系，而diigo则像是先读完一篇文章，然后在梳理和其他文章有什么关系 @标签：taboutliner和[[diigo]]联动
     - tab outliner的链接格式可以复制到[[kb(Knowledge database)]]中，继续阅读和展示，效果非常好
