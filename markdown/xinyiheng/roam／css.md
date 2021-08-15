@@ -489,5 +489,5 @@ span.rm-page-ref[data-tag] {
   border-right: solid 1px;    
   border-bottom: solid 1px;    
   border-radius: 10px;    
-  font-weight: 600;
+  font-weight:500;
 }```
