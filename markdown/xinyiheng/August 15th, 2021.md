@@ -8,11 +8,10 @@
                     - [检索-中国知网](https://kns.cnki.net/kns8/defaultresult/index)
                         - [查尔斯·汉迪：80%的员工没有参与管理 - 中国知网](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=XSGL202001002&v=GanzNw1wegGleMauiDEktt%25mmd2FLyIPehHqwRbns0L2kK4Bq44PJxB4YMtIqE%25mmd2B%25mmd2BLeJsD)
                             - [检索-中国知网](https://kns.cnki.net/kns8/defaultresult/index)
-        - [迪尔 企业文化 - Google 学术搜索](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=迪尔+企业文化&btnG=)
         - [管理的众神 - 得到APP](https://www.dedao.cn/reader?id=DAOVMEb6LKoq7rM4DAYENOVl8XBgJ3QyPV31v5kjeam9ZxzbQGn2PpyRdYQ2L8mX)
         - [基于迪尔综合激励模型与DISC评价的军事人才激励模型及应用研究--《国防科学技术大学》2009年硕士论文](http://cdmd.cnki.com.cn/Article/CDMD-90002-2010164903.htm)
-            - [DISC性格测试/测评 - 马斯顿原书版](http://apesk.com/disc/)
-                - [人格结构五因素模型 - MBA智库百科](https://wiki.mbalib.com/wiki/%E4%BA%BA%E6%A0%BC%E7%BB%93%E6%9E%84%E4%BA%94%E5%9B%A0%E7%B4%A0%E6%A8%A1%E5%9E%8B)
+        - [DISC性格测试/测评 - 马斯顿原书版](http://apesk.com/disc/)
+            - [人格结构五因素模型 - MBA智库百科](https://wiki.mbalib.com/wiki/%E4%BA%BA%E6%A0%BC%E7%BB%93%E6%9E%84%E4%BA%94%E5%9B%A0%E7%B4%A0%E6%A8%A1%E5%9E%8B)
         - 多元文化 (closed Thu Feb 04 2021)
             - [奎因 四种文化 - Google 学术搜索](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=奎因+四种文化&btnG=)
             - [得到APP - 知识就是力量，知识就在得到](https://www.dedao.cn/?search=result)
@@ -20,6 +19,7 @@
                 - [国家哲学社会科学文献中心](http://www.ncpssd.org/Literature/articleinfo.aspx?id=NjY5ODY3NzU1&type=am91cm5hbEFydGljbGU=&datatype=am91cm5hbEFydGljbGU=&typename=5Lit5paH5pyf5YiK5paH56ug&nav=0&barcodenum=)
                     - [奎因竞争性文化价值模型.pdf](file:///Users/wangxiaohui/Downloads/%E5%A5%8E%E5%9B%A0%E7%AB%9E%E4%BA%89%E6%80%A7%E6%96%87%E5%8C%96%E4%BB%B7%E5%80%BC%E6%A8%A1%E5%9E%8B.pdf)
                         - [跨文化敏感性 - MBA智库百科](https://wiki.mbalib.com/wiki/%E8%B7%A8%E6%96%87%E5%8C%96%E6%95%8F%E6%84%9F%E6%80%A7)
+    - [迪尔 企业文化 - Google 学术搜索](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=迪尔+企业文化&btnG=)
     - 战略
         - [大卫·艾克品牌资产五星模型 - MBA智库百科](https://wiki.mbalib.com/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E8%89%BE%E5%85%8B%E5%93%81%E7%89%8C%E8%B5%84%E4%BA%A7%E4%BA%94%E6%98%9F%E6%A8%A1%E5%9E%8B)
         - Window
