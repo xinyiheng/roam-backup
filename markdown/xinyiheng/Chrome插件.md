@@ -21,6 +21,7 @@
     - [[onetab]]
     - [[the brain]]可以把网页的链接保存到brain box里，我很少使用
     - [[workona]]
+    - [[qlearly]]
 - 浏览记录管理
     - [[graphitabs]]
     - [[web historian]]

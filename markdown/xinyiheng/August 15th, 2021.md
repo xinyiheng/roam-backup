@@ -90,9 +90,6 @@
             - [企业流程再造之父——迈克尔·哈默|中欧商业评论](http://www.ceibsreview.com/show/index/classid/107/id/378)
                 - [平衡计分卡_百度百科](https://baike.baidu.com/item/%E5%B9%B3%E8%A1%A1%E8%AE%A1%E5%88%86%E5%8D%A1)
     - Window
-        - [危机传播视野下的企业声誉管理--《清华大学》2012年硕士论文](https://cdmd.cnki.com.cn/Article/CDMD-10003-1013017105.htm)
-            - [《从优秀到卓越》 - MBA智库百科](https://wiki.mbalib.com/wiki/%E3%80%8A%E4%BB%8E%E4%BC%98%E7%A7%80%E5%88%B0%E5%8D%93%E8%B6%8A%E3%80%8B)
-            - [从优秀到卓越，领导者必须知道的七个理念 - 知乎](https://zhuanlan.zhihu.com/p/162782550)
         - [Upgraded - Wappalyzer](https://www.wappalyzer.com/upgraded/?utm_source=upgraded&utm_medium=extension&utm_campaign=wappalyzer)
         - [玛丽 韦尔奇 - Google 搜索](https://www.google.com/search?q=%E7%8E%9B%E4%B8%BD+%E9%9F%A6%E5%B0%94%E5%A5%87&oq=%E7%8E%9B%E4%B8%BD+%E9%9F%A6%E5%B0%94%E5%A5%87&aqs=chrome..69i57.4141j0j1&sourceid=chrome&ie=UTF-8)
         - https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=玛丽+韦尔奇&oq=玛丽+韦尔奇
