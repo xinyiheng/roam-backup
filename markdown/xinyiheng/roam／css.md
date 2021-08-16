@@ -159,14 +159,133 @@ roam-block-container rm-block rm-block--mine rm-block--open rm-not-focused block
   font-weight: 700px;
   border-bottom: none;
 }```
+- pdf优化
+    - ```css
+:root{
+  --col1: rgba(255, 243, 174, .8);
+  --col2: rgba(255, 132, 132, .8);
+  --col3: rgba(155, 253, 130, .8);
+  --col4: rgba(130, 169, 255, .8);
+  --col5: rgba(220, 131, 255, .7);
+  --col6: rgba(172,172,172, .7);
+}
+
+[data-tag^="h:"] {
+  display:none !important;  
+}
+
+[data-tag^="h:"] + .rm-highlight, 
+[data-tag^="h:"] + span > .rm-page-ref--link {
+  color: rgb(0,0,0) !important;
+  /*border-radius: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-weight: bold;*/
+}
+
+[data-tag^="h:yellow"] + .rm-highlight,
+[data-tag^="h:yellow"] + span > .rm-page-ref--link {
+	background-color: var(--col1) !important;
+}
+[data-tag^="h:yellow"] + .rm-italics, 
+[data-tag^="h:yellow"] + .rm-bold 
+{color: var(--col1);}
+
+[data-tag^="h:red"] + .rm-highlight,
+[data-tag^="h:red"] + span > .rm-page-ref--link {
+	background-color: var(--col2) !important;
+}
+[data-tag^="h:red"] + .rm-italics, 
+[data-tag^="h:red"] + .rm-bold 
+{color: var(--col2); }
+
+
+[data-tag^="h:green"] + .rm-highlight,
+[data-tag^="h:green"] + span > .rm-page-ref--link {
+	background-color: var(--col3) !important;
+}
+[data-tag^="h:green"] + .rm-italics, 
+[data-tag^="h:green"] + .rm-bold 
+{color: var(--col3); }
+
+[data-tag^="h:blue"] + .rm-highlight,
+[data-tag^="h:blue"] + span > .rm-page-ref--link {
+	background-color: var(--col4) !important;
+}
+[data-tag^="h:blue"] + .rm-italics, 
+[data-tag^="h:blue"] + .rm-bold 
+{color: var(--col4); }
+
+[data-tag^="h:purple"] + .rm-highlight,
+[data-tag^="h:purple"] + span > .rm-page-ref--link {
+	background-color: var(--col5) !important;
+}
+[data-tag^="h:purple"] + .rm-italics, 
+[data-tag^="h:purple"] + .rm-bold 
+{color: var(--col5); }
+
+[data-tag^="h:grey"] + .rm-highlight,
+[data-tag^="h:grey"] + span > .rm-page-ref--link {
+	background-color: var(--col6) !important;
+}
+[data-tag^="h:grey"] + .rm-italics, 
+[data-tag^="h:grey"] + .rm-bold 
+{color: var(--col6); }
+
+/*All btns*/
+.btn{padding: 0px !important;  border: 3px !important;}
+
+/*All main highlight btns*/
+.btn-pdf-activated{
+  border-radius: 14px !important;
+  font-size: 12px !important;
+  font-weight: bold;
+  min-width: 18px !important;
+  min-height: 18px !important;
+  margin-top: 3px !important;
+}
+
+.btn-main-annotation{
+  background-color : rgb(221,220,220) !important;
+  color: rgb(0,0,0); 
+  margin-top: 0px !important;
+}
+
+/*All reference to highlight buttons*/
+.btn-rep-text{
+}
+.btn-rep-alias{
+}
+.btn-ref-annotation{
+  background-image: linear-gradient(rgb(249,249,49), rgb(246,246,170), rgb(210,210,9));
+  color: rgb(6,6,6);
+}
+
+/* Hide PDF Breadcrumb */
+.parent-path-wrapper > div > span > div > div {
+  display: none;
+}
+```
+- tag
+    - ```css
+span.rm-page-ref[data-tag] {    
+  background-color: #D2F89C;    
+  color: black;    
+  padding: 3px 7px;    
+  line-height: 1em;    
+  border-right: solid 1px;    
+  border-bottom: solid 1px;    
+  border-radius: 10px;    
+  font-weight:500;
+}```
 - 秘密花园
     - ```css
 
 :root {
-    --main-left-bg: #F8FAD8;
-    --right-sidebar-bg: rgb(247 248 249);
+    --main-left-bg: #1C635E;
+    --right-sidebar-bg: #9FD8D3(247 248 249);
     --right-sidebar-drag-bg: #337ac6;
-    --masonry-bg: white;
+    --masonry-bg: #F1F7FA;
     --masonry-scrollbar-bg: lightgrey;
     --masonry-resizer-color: lightgrey;
     --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
@@ -177,8 +296,9 @@ roam-block-container rm-block rm-block--mine rm-block--open rm-not-focused block
     --masonry-border: 1px solid lightgrey;
     --closed-bullet-color: 4px solid #CED9E0;
     --code-color: crimson;
-    --block-widths: 1000px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
+    --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
 }
+
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     background-color: var(--main-left-bg);
 }
@@ -193,7 +313,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 
 .sidebar-content {
     overflow: unset;
-    display:none;
+    display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     height: 99%;
@@ -202,7 +322,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 
 .sidebar-content>div:not(.rm-dnd-separator) {
     margin-bottom: 10px !important;
-    display:none;
+    display: flex;
     background-color: var(--masonry-bg);
     max-height: 100%;
     margin-left: 15px;
@@ -325,6 +445,8 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     background-color: var(--right-sidebar-drag-bg);
 }
 
+
+
 .sidebar-content .rm-dnd-separator {
     width: unset;
 }
@@ -355,123 +477,254 @@ div.roam-main .kanban-board .kanban-column {
 }
 div#right-sidebar .kanban-board .kanban-column {
     flex: 1 0 75px;
-}```
-- pdf优化
-    - ```css
-:root{
-  --col1: rgba(255, 243, 174, .8);
-  --col2: rgba(255, 132, 132, .8);
-  --col3: rgba(155, 253, 130, .8);
-  --col4: rgba(130, 169, 255, .8);
-  --col5: rgba(220, 131, 255, .7);
-  --col6: rgba(172,172,172, .7);
-}
-
-[data-tag^="h:"] {
-  display:none !important;  
-}
-
-[data-tag^="h:"] + .rm-highlight, 
-[data-tag^="h:"] + span > .rm-page-ref--link {
-  color: rgb(0,0,0) !important;
-  /*border-radius: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  font-weight: bold;*/
-}
-
-[data-tag^="h:yellow"] + .rm-highlight,
-[data-tag^="h:yellow"] + span > .rm-page-ref--link {
-	background-color: var(--col1) !important;
-}
-[data-tag^="h:yellow"] + .rm-italics, 
-[data-tag^="h:yellow"] + .rm-bold 
-{color: var(--col1);}
-
-[data-tag^="h:red"] + .rm-highlight,
-[data-tag^="h:red"] + span > .rm-page-ref--link {
-	background-color: var(--col2) !important;
-}
-[data-tag^="h:red"] + .rm-italics, 
-[data-tag^="h:red"] + .rm-bold 
-{color: var(--col2); }
-
-
-[data-tag^="h:green"] + .rm-highlight,
-[data-tag^="h:green"] + span > .rm-page-ref--link {
-	background-color: var(--col3) !important;
-}
-[data-tag^="h:green"] + .rm-italics, 
-[data-tag^="h:green"] + .rm-bold 
-{color: var(--col3); }
-
-[data-tag^="h:blue"] + .rm-highlight,
-[data-tag^="h:blue"] + span > .rm-page-ref--link {
-	background-color: var(--col4) !important;
-}
-[data-tag^="h:blue"] + .rm-italics, 
-[data-tag^="h:blue"] + .rm-bold 
-{color: var(--col4); }
-
-[data-tag^="h:purple"] + .rm-highlight,
-[data-tag^="h:purple"] + span > .rm-page-ref--link {
-	background-color: var(--col5) !important;
-}
-[data-tag^="h:purple"] + .rm-italics, 
-[data-tag^="h:purple"] + .rm-bold 
-{color: var(--col5); }
-
-[data-tag^="h:grey"] + .rm-highlight,
-[data-tag^="h:grey"] + span > .rm-page-ref--link {
-	background-color: var(--col6) !important;
-}
-[data-tag^="h:grey"] + .rm-italics, 
-[data-tag^="h:grey"] + .rm-bold 
-{color: var(--col6); }
-
-/*All btns*/
-.btn{padding: 0px !important;  border: 3px !important;}
-
-/*All main highlight btns*/
-.btn-pdf-activated{
-  border-radius: 14px !important;
-  font-size: 12px !important;
-  font-weight: bold;
-  min-width: 18px !important;
-  min-height: 18px !important;
-  margin-top: 3px !important;
-}
-
-.btn-main-annotation{
-  background-color : rgb(221,220,220) !important;
-  color: rgb(0,0,0); 
-  margin-top: 0px !important;
-}
-
-/*All reference to highlight buttons*/
-.btn-rep-text{
-}
-.btn-rep-alias{
-}
-.btn-ref-annotation{
-  background-image: linear-gradient(rgb(249,249,49), rgb(246,246,170), rgb(210,210,9));
-  color: rgb(6,6,6);
-}
-
-/* Hide PDF Breadcrumb */
-.parent-path-wrapper > div > span > div > div {
-  display: none;
 }
 ```
-- tag
     - ```css
-span.rm-page-ref[data-tag] {    
-  background-color: #D2F89C;    
-  color: black;    
-  padding: 3px 7px;    
-  line-height: 1em;    
-  border-right: solid 1px;    
-  border-bottom: solid 1px;    
-  border-radius: 10px;    
-  font-weight:500;
-}```
+
+/* Extend the main page wider to allow for blocks to be wider  */
+
+div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 800px) / 2);"], div[style*="padding-right: calc((100% - 568px) / 2); padding-left: calc((100% - 1032px) / 2);"] {
+    /*
+    Roam Default 800px
+    padding-right: calc((100% - 800px) / 2) !important;
+    padding-left: calc((100% - 800px) / 2) !important;
+
+    FULL WIDTH
+    padding-right: calc((100% - 3400px) / 2) !important;
+    padding-left: calc((100% - 3400px) / 2) !important;
+    */
+
+    padding-right: calc((100% - var(--block-widths)) / 2) !important;
+    padding-left: calc((100% - var(--block-widths)) / 2) !important;
+}
+
+/* Block text widths to extend block text wider for when you make the page wider with the CSS above  */
+
+.roam-block-container {
+    max-width: unset;
+}
+
+#right-sidebar .rm-block-children.rm-block__children.rm-level-0>div.roam-block-container, #right-sidebar div.zoom-path-view+div>div.roam-block-container {
+    width: 98%;
+}
+
+.rm-block-text {
+    max-width: unset;
+}
+
+#right-sidebar div.rm-zoom.zoom-path-view {
+    width: 98%;
+}
+
+/* Allow images to resive full width */
+
+.hoverparent[style^="width: 580px;"], .hoverparent[style^="width: 720px;"] {
+    width: 100% !important;
+    max-width: 1100px !important;
+}
+
+.rm-inline-img, .react-resizable[style^='width: 580px;'], .react-resizable[style^='width: 720px;'] {
+    width: 100% !important;
+}
+
+/* Override image, iframe, pdf resize form abhay 1-30-21 */
+
+div[style*="width: 580px;"], div[style*="width: 720px;"] {
+    width: 100% !important;
+    max-width: 1100px !important;
+}
+
+div[style*="height: 720px;"] {
+    height: 85vh !important;
+}
+
+/* Search bar wide when typing in it */
+
+/* These account for left sidebar being open and making sure search bar stays on top of it */
+.roam-sidebar-container.noselect:hover {
+    z-index: 1001;
+}
+.rm-topbar {
+    z-index: 1000;
+}
+
+.rm-find-or-create-wrapper:focus-within {
+    flex: 0 1 77% !important;
+}
+
+.bp3-overlay-open ul.bp3-menu .rm-menu-item li>span {
+    max-height: 42px !important;
+    word-break: break-word !important;
+    overflow: hidden !important;
+    display: inline-block !important;
+}
+
+.bp3-overlay-open ul.bp3-menu .rm-menu-item li {
+    list-style-type: none !important;
+    margin-left: -35px;
+}
+
+/* Buttons / Icons in menu area by search bar */
+
+/* Filter button was kind of high and to the left */
+
+.rm-topbar .bp3-button .bp3-icon.bp3-icon-filter {
+    margin-top: 4px;
+    margin-right: -18px;
+}
+
+/* Fixing the sidebar close button to show on very right of menu bar */
+
+#right-sidebar .bp3-icon-menu-open {
+    z-index: 1001;
+    padding-top: 4px !important;
+}
+.rm-topbar {
+    padding-right: 30px;
+}
+
+/* Add dashed line on hover of sidebar resizer line in middle of page */
+
+.rm-resize-handle:hover {
+    opacity: 0.4 !important;
+    border-right: 2px dashed #1b1a23 !important;
+    padding-left: 5px;
+}
+
+/* The "all collapse/expand" invisible line to very left of blocks */
+
+.rm-level-0>.rm-multibar {
+    opacity: 0.25;
+}
+
+/* Hide "Outline of: " in the sidebar except for block references because otherwise nowhere to grab for drag n drop. */
+
+div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-child:not([style^="margin-right: 6px"]) {
+    display: none;
+}
+
+```
+    - ```css
+
+/* Extend the main page wider to allow for blocks to be wider  */
+
+div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 800px) / 2);"], div[style*="padding-right: calc((100% - 568px) / 2); padding-left: calc((100% - 1032px) / 2);"] {
+    /*
+    Roam Default 800px
+    padding-right: calc((100% - 800px) / 2) !important;
+    padding-left: calc((100% - 800px) / 2) !important;
+
+    FULL WIDTH
+    padding-right: calc((100% - 3400px) / 2) !important;
+    padding-left: calc((100% - 3400px) / 2) !important;
+    */
+
+    padding-right: calc((100% - var(--block-widths)) / 2) !important;
+    padding-left: calc((100% - var(--block-widths)) / 2) !important;
+}
+
+/* Block text widths to extend block text wider for when you make the page wider with the CSS above  */
+
+.roam-block-container {
+    max-width: unset;
+}
+
+#right-sidebar .rm-block-children.rm-block__children.rm-level-0>div.roam-block-container, #right-sidebar div.zoom-path-view+div>div.roam-block-container {
+    width: 98%;
+}
+
+.rm-block-text {
+    max-width: unset;
+}
+
+#right-sidebar div.rm-zoom.zoom-path-view {
+    width: 98%;
+}
+
+/* Allow images to resive full width */
+
+.hoverparent[style^="width: 580px;"], .hoverparent[style^="width: 720px;"] {
+    width: 100% !important;
+    max-width: 1100px !important;
+}
+
+.rm-inline-img, .react-resizable[style^='width: 580px;'], .react-resizable[style^='width: 720px;'] {
+    width: 100% !important;
+}
+
+/* Override image, iframe, pdf resize form abhay 1-30-21 */
+
+div[style*="width: 580px;"], div[style*="width: 720px;"] {
+    width: 100% !important;
+    max-width: 1100px !important;
+}
+
+div[style*="height: 720px;"] {
+    height: 85vh !important;
+}
+
+/* Search bar wide when typing in it */
+
+/* These account for left sidebar being open and making sure search bar stays on top of it */
+.roam-sidebar-container.noselect:hover {
+    z-index: 1001;
+}
+.rm-topbar {
+    z-index: 1000;
+}
+
+.rm-find-or-create-wrapper:focus-within {
+    flex: 0 1 77% !important;
+}
+
+.bp3-overlay-open ul.bp3-menu .rm-menu-item li>span {
+    max-height: 42px !important;
+    word-break: break-word !important;
+    overflow: hidden !important;
+    display: inline-block !important;
+}
+
+.bp3-overlay-open ul.bp3-menu .rm-menu-item li {
+    list-style-type: none !important;
+    margin-left: -35px;
+}
+
+/* Buttons / Icons in menu area by search bar */
+
+/* Filter button was kind of high and to the left */
+
+.rm-topbar .bp3-button .bp3-icon.bp3-icon-filter {
+    margin-top: 4px;
+    margin-right: -18px;
+}
+
+/* Fixing the sidebar close button to show on very right of menu bar */
+
+#right-sidebar .bp3-icon-menu-open {
+    z-index: 1001;
+    padding-top: 4px !important;
+}
+.rm-topbar {
+    padding-right: 30px;
+}
+
+/* Add dashed line on hover of sidebar resizer line in middle of page */
+
+.rm-resize-handle:hover {
+    opacity: 0.4 !important;
+    border-right: 2px dashed #1b1a23 !important;
+    padding-left: 5px;
+}
+
+/* The "all collapse/expand" invisible line to very left of blocks */
+
+.rm-level-0>.rm-multibar {
+    opacity: 0.25;
+}
+
+/* Hide "Outline of: " in the sidebar except for block references because otherwise nowhere to grab for drag n drop. */
+
+div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-child:not([style^="margin-right: 6px"]) {
+    display: none;
+}
+```

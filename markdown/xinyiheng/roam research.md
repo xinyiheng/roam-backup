@@ -15,6 +15,9 @@ via[Roam for teamwork](https://roamforteamwork.com/)
     - note
     - diagram
 - #[[使用方法]]
+    - 设置css。如何在css block后面添加内容？ 例如，下面的第二个block怎么添加的？
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FpikCAarCOc.png?alt=media&token=6645b919-123d-4fa1-b34c-a0412a386ec5)
+        - 点击css block区域，按住esc就可以显示原始代码，把光标放在最后处，按换行键就可以了。
     - [[视图]]丰富
         - diagram的使用方法@评论:这个功能还是挺好用的
             - How to build diagrams in Roam Research
@@ -116,7 +119,6 @@ Future task2               :         des4, after des3, 5d
     - the brain和roam research的关系@评论:当the roam组织很好的时候，把二者关联起来，the brain就像是个非常好的概念图展示板，而展示的内容很多来自roam
     - 如何搜索和替换概念？
         - 并没有这个功能，echnique begins [2:13](https://www.youtube.com/watch?v=78p6z2104AU&t=133s)1. create Page with name equal to existing text you want to change2. Unlinked References > Link All3. rename Page to whatever you want   -------   4. delete Page Find and Replace Technique [[roam research]] - YouTube](https://www.youtube.com/watch?v=78p6z2104AU) [[20210712]] 上午9:01
-        - 
     - 修改tag的样式
         - https://www.redgregory.com/roam-content/2021/1/8/customize-tags-inside-roam-research-with-this-simple-css
 - #[[快捷方式]]

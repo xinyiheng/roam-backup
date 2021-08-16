@@ -3,4 +3,5 @@
     - 
 - chrome自带的一个可以检查网页css概览的工具
     - Chrome的这项实验性CSS概述功能很棒Via[Chrome的这项实验性CSS概述功能很棒– Amit Merchant –有关PHP，JavaScript等的博客](https://www.amitmerchant.com/experimental-css-overview-feature-chrome-awesome/) [[20210211]] 下午7:48
-    - 
+- Rapidly build modern websites without ever leaving your HTML.@评论:这款界面实在是很漂亮。Via[Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/)[[20210104]] 下午8:35
+- Windy-Transform every HTML element on any website to Tailwind CSSVia[Windy - Transform every HTML element on any website to Tailwind CSS | Product Hunt](https://www.producthunt.com/posts/windy-e2b6b3e7-08a8-4fb1-b14b-6b94e52f946d)[[20210104]] 下午8:36
