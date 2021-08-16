@@ -9,7 +9,7 @@
     - 把目录中的文件用鼠标拖到mindnode当中就可以了。
 - 新建主题的[[快捷方式]]：单指深按触摸板
 - mindnode如何与tab outliner联动？
-    - https://checkvist.com/cvt/50418695
+- https://checkvist.com/cvt/50418695
 - 三款软件的格式转变
     - scrivener也可以导入mindnode文件，全部整理成为卡片的模式。导入效果最好的格式是opml，也就是说mindnode先转变成为opml，这样，每一个节点都变成一张卡片的题目，而节点的注释则会变成卡片的正文。
     - mindnode文件也可转变成为freemind文件，拓展名为mm。freemind文件可以直接导入到the brain中，层级关系可以得到完整保留。每一个freemind的节点都可以变成一个the brain中的节点，而节点的注释也会变成the brian的note。
