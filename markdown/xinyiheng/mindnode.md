@@ -8,6 +8,8 @@
     - 目录默认是用数字排序的，可以在目录笔记中把数字改成圆点或者取消序号标记。
     - 把目录中的文件用鼠标拖到mindnode当中就可以了。
 - 新建主题的[[快捷方式]]：单指深按触摸板
+- mindnode如何与tab outliner联动？
+    - https://checkvist.com/cvt/50418695
 - 三款软件的格式转变
     - scrivener也可以导入mindnode文件，全部整理成为卡片的模式。导入效果最好的格式是opml，也就是说mindnode先转变成为opml，这样，每一个节点都变成一张卡片的题目，而节点的注释则会变成卡片的正文。
     - mindnode文件也可转变成为freemind文件，拓展名为mm。freemind文件可以直接导入到the brain中，层级关系可以得到完整保留。每一个freemind的节点都可以变成一个the brain中的节点，而节点的注释也会变成the brian的note。
@@ -25,3 +27,5 @@
     - 目前汇总的mindnode文件里面信息过多，搜索某个词汇会产生overwhelming的感觉，不利于处理信息。
     - 在统一汇总的mindnode中，搜索某一个信息会呈现爆发式展现
     - 我觉得解决方案也可以采取笔记-标签-提及的信息相关原则分别进行标注
+- 快捷方式
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaZN0YFavGt.png?alt=media&token=2fa7d255-4646-45c9-8d16-d1559c5d4455)
