@@ -1,0 +1,6 @@
+- 实验
+    - 其实更重要的价值不是产生另一个技术构件创新，而是先于其他人产生架构，并将这些东西有效的组合在一起来解决实际的问题。 [[innovationmanagement.se]](https://innovationmanagement.se/2012/10/05/open-innovation-past-and-present-an-exclusive-interview-with-henry-chesbrough-cn/)
+    - @标签:实验
+    - [开放式创新的缘起：为何最顶尖的实验室却错失改变世界的机会？_详细解读_最新资讯_热点事件_36氪](https://36kr.com/p/1723305181185)
+    - PARC的全称是Palo Alto Research Center，是施乐公司（Xerox）于1970年在帕罗奥图（Palo Alto）建立的面向未来的研究中心。那时候施乐公司还是一家生产复印机的企业，但是公司CEO Peter McColough决心在研发体系中设立一个全新的实验室，帮助公司从一家复印机的领军企业转型升级成为办公信息产品的提供商。在公司领导层的全力支持下，PARC发展迅速，蒸蒸日上，曾经美国最顶尖的100位计算机科学家中，70余位在PARC研究或者工作。天时地利人和之下，PARC也[成为信息](https://36kr.com/projectDetails/55228)革命进程中的永恒丰碑，个人电脑、以太网、图形用户界面、激光打印机等等跨时代的技术都诞生于此。 [[36kr.com]](https://36kr.com/p/1723305181185)
+    - 高端电视依然可以做到 1ms 延迟，4:4:4 色度抽样等等。 [[zhuanlan.zhihu.com]](https://zhuanlan.zhihu.com/p/299377868)
