@@ -1,10 +1,15 @@
 - 原理反思
-    - the brain和roam research的关系
+    - the brain不能乱，因为这是我自己主动发起建立的知识图谱，它也指导我完善知识体系，如果它很乱，说明自己的头脑很乱。#[[洞见]]
+    - 这款工具是^^给我自己看的^^，所以没有必要建立一些毫无必要的关联，如果要说明，可以放在编辑器区域。#[[洞见]]
+    - 在the brain中践行[[概念文档]]、[[概念遗珠]]和[[概念标签]]的分类体系。#[[洞见]]
+    - 感觉the brain很适合当做概念文档中的路标型文档的任务。
+    - [[概念图]] 
+        - the brain的思维导图可以画得特别大而总体不失控，就像一张复杂的网。我可以把the  brian当做一个^^建立关联^^的工具，当做 一个本地知识搜索引擎。就^^自由放任^^地用 吧。the brain是一张网，而[[kb(Knowledge database)]]用来建设局部思维地图。kb尽量保持秩序，但是一旦某一块知识地图失控也没事，我可以删除重建。非常方便。
+    - the brain和roam research的关系@评论:当the roam组织很好的时候，把二者关联起来，the brain就像是个非常好的概念图展示板，而展示的内容很多来自roam
         - 我喜欢的the brian的一个功能就是可以在思维导图上直接建立关联。[[roam research]]在[[sibling]]概念关联的时候不是很方便。这一点上，the brain和[[kb(Knowledge database)]]很像。
         - roam research更倾向于围绕一个核心概念写笔记。roam research中的一个page其实就像是用很多辅助理解的话语把一些node给粘到了一起，变成了一张饼。打个比喻，roam research的page就像是一大块撒了很多葡萄干的饼干，用’[[]]“括起来的内容就是葡萄干，散落在饼干表面。而the brain则就像是一串葡萄，主要在三维的空间(尽管展现形式只是平面的)巡视这串葡萄的结构。
+        - 很多关键词汇我可以让两款软件联动#[[软件联动]]
     - [[本地文件管理]]
-    - [[概念图]]
-        - the brain的思维导图可以画得特别大而总体不失控，就像一张复杂的网。我可以把the  brian当做一个^^建立关联^^的工具，当做 一个本地知识搜索引擎。就^^自由放任^^地用 吧。the brain是一张网，而[[kb(Knowledge database)]]用来建设局部思维地图。kb尽量保持秩序，但是一旦某一块知识地图失控也没事，我可以删除重建。非常方便。
     - [[百科全书]]
         - 我希望以[[知识图谱]]的形式来浏览自己关注的内容。
     - the brain复杂的样式是怎样转换为简单的txt格式的？#[[文件格式]]#[[洞见]]#[[软件启发]]#[[软件联动]] #[[标记语言]] #[[格式转换]]
@@ -50,8 +55,12 @@ via[TheBrain Blog](https://www.thebrain.com/blog?page=3)
 Via[(14 条消息) thebrain如何用 - 搜索结果 - 知乎](https://www.zhihu.com/search?q=thebrain%E5%A6%82%E4%BD%95%E7%94%A8&utm_content=search_relatedsearch&type=content) [[20210721]] 下午2:48
     - TheBrainVia[TheBrain - 知乎](https://www.zhihu.com/topic/19583518/hot) [[20210721]] 下午3:25
 - 使用技巧
-    - the brian可以作为一个非常好的^^本地文件管理工具^^，可以整理自己待阅读的内容
-    - the brian的使用方法以及the brian12的一些新功能
+    - the brain的编辑器非常难用，我需要一个好用的支持outliner功能的编辑器。最好是能够分享内部url,我觉得workflowy和checkvist都可以胜任。
+    - 把the mind 和knowledge database文件关联到其中，其实也相当于把他们当做了the brain的编辑器。#[[洞见]]
+    - 用默认的浏览器打开the brian中的网址附件
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMP1vV7kKik.png?alt=media&token=58d32b8e-8945-43c3-83c1-dc597fc23787)
+    - the brain可以作为一个非常好的^^本地文件管理工具^^，可以整理自己待阅读的内容
+    - the brain的使用方法以及the brain12的一些新功能
     - the brain的一些用例展示
         - https://www.thebrain.com/apps
         - https://www.thebrain.com/events/visualizing-innovation

@@ -113,7 +113,7 @@ Future task2               :         des4, after des3, 5d
         - 首先就是要找到blcok在哪里。可能有两种情况，一种是将当前的block引用到别的地方。这种情况下，先copy block reference，然后再在搜索框中找到要放到的地方，粘贴就可以。
         - 另一种是要在当前block当中引用别的block，为了方便找到，可以通过以下方式实现
             - 将您的光标放在一个块中，然后按Ctrl-Shift-9弹出搜索框
-    - the brain和roam research的关系
+    - the brain和roam research的关系@评论:当the roam组织很好的时候，把二者关联起来，the brain就像是个非常好的概念图展示板，而展示的内容很多来自roam
     - 如何搜索和替换概念？
         - 并没有这个功能，echnique begins [2:13](https://www.youtube.com/watch?v=78p6z2104AU&t=133s)1. create Page with name equal to existing text you want to change2. Unlinked References > Link All3. rename Page to whatever you want   -------   4. delete Page Find and Replace Technique [[roam research]] - YouTube](https://www.youtube.com/watch?v=78p6z2104AU) [[20210712]] 上午9:01
         - 
