@@ -21,3 +21,13 @@
         - [Is Always Better You Use Email - YouTube](https://www.youtube.com/watch?v=rvT5D-oQTdQ)
         - [The ONE Trello Setting You Should Change NOW! - YouTube](https://www.youtube.com/watch?v=96uaO6ShyuY)
         - [(79) 3 NewFeatures You Didn't Know Existed! - YouTube](https://www.youtube.com/watch?v=uAcU_msmplg)
+- 我一直很喜欢[[trello]]的看板模式，但是一直没有建立起使用的习惯来。
+- 发现[[trello]]是在是太强大了，有很多插件围绕着[[trello]]做了许多优化。
+- 我觉得特别好的插件可以实现以下几个功能：不打开[[trello]]看板的情况下新建卡片；在看板中预计项目执行时间和实际记录时间；以excel格式导出看板任务；展现或者隐藏[[trello]]卡片里面的任务清单；
+- 目前[[trello]]非常强大了。
+    - 可以不打开[[trello]]快速添加新卡片，包括把网站的网址和标题发到[[trello]]当中
+    - 用planway规划任务并且同步到滴答日历中（在滴答清单中不能改动），可以拖动任务到日历中，并且还可以以甘特图的方式展现出来
+    - plus插件来记录每个任务预计时间和实际花费时间，生成报表
+    - pro可以做很多界面美化
+    - pomello可以对任务做番茄时间管理
+    - [[trello]]看板可以导入到notion中
