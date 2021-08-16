@@ -55,7 +55,7 @@ via[Super — From Notion to Website in minutes](https://super.so/)
     - [177_bilibili的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/152842171?spm_id_from=333.788.b_765f7570696e666f.2) [[20210126]] 上午8:50@评论:这个up主对notion很有研究。
     - Via[Linmi - 探索未知，迭代新知，沉淀认知。](https://linmi.cc/) 下午1:28
     - 5 款 Notion 模板推荐 & Notion 团队专访 [sspai.com](https://sspai.com/post/57092)
-    - Notion 模板里有一篇「Blog Post」的模板， [[sspai.com[[[[]](]]]]https://sspai.com/post/57110)
+    - Notion 模板里有一篇「Blog Post」的模板， [[sspai.com]]https://sspai.com/post/57110)
     - Notion 小技巧 | Notion 如何快速记录？主作者 Power+ 用户 了解详情 > OSEN 联合作者 [[sspai.com]](https://sspai.com/post/57340)
     - [一个关于notion插件的网站](https://radreads.co/notion-integrations/)
     - Charts for Notion databasesVia[Chart Nerd](https://chart-nerd.now.sh/) 上午12:02

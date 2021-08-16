@@ -39,5 +39,5 @@
         - 手写识别 [post.smzdm.com](https://post.smzdm.com/p/a078lwdz/)
         - 文字批注和导出方法[post.smzdm.com](https://post.smzdm.com/p/a078lwdz/)
         - 这个应该关注一下
-        - 原笔记搜索 [[post.smzdm.com[[[[]](]]]]https://post.smzdm.com/p/a078lwdz/)
+        - 原笔记搜索 [[post.smzdm.com]]https://post.smzdm.com/p/a078lwdz/)
         - 手写笔记也可以搜索，还能搜索形状。有点意思。不过我应该实际很少使用，因为基本上不会在上面写字。
