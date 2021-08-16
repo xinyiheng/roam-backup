@@ -282,7 +282,7 @@ span.rm-page-ref[data-tag] {
     - ```css
 
 :root {
-    --main-left-bg: #1C635E;
+    --main-left-bg: #E1F6F4;
     --right-sidebar-bg: #9FD8D3(247 248 249);
     --right-sidebar-drag-bg: #337ac6;
     --masonry-bg: #F1F7FA;
