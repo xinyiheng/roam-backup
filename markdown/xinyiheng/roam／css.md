@@ -1,18 +1,3 @@
-- Code
-    - Definition of the blockquote:#[[bq]]
-        - css
- /*设置带有某种标签的block格式*/
-[data-page-links*="bq"] {
-  background-color: rgb(244,242,242);
-  border-left: 5px solid rgb(255,204,111);
-  padding-left: 10px;
-  
-}
-    - Hiding the tag
-        - css
-[data-tag="bq"] {
-display:none;
-  }
 - Using Roam/CSS to display a list as grid or in rows
 via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/share/06b03473bcda4728b5bef40929e5012f)
 [[20201230]] 上午10:14官方推出的一些css样式，用视频的形式展示出来的，比较直观
@@ -194,7 +179,6 @@ roam-block-container rm-block rm-block--mine rm-block--open rm-not-focused block
     --code-color: crimson;
     --block-widths: 1000px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
 }
-
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     background-color: var(--main-left-bg);
 }
@@ -209,7 +193,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 
 .sidebar-content {
     overflow: unset;
-    display:hidden;
+    display:none;
     flex-direction: column;
     flex-wrap: wrap;
     height: 99%;
@@ -218,7 +202,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 
 .sidebar-content>div:not(.rm-dnd-separator) {
     margin-bottom: 10px !important;
-    display:hidden;
+    display:none;
     background-color: var(--masonry-bg);
     max-height: 100%;
     margin-left: 15px;
