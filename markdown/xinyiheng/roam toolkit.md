@@ -3,5 +3,12 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FcRmOIjttot.png?alt=media&token=c6e7a690-72f5-4f78-b13f-2770b7934a1c)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F6v7dsVkiGg.png?alt=media&token=79aa09ce-da92-49fb-ada6-5a795c849828)
     - 原来显示的是pan，我修改成panZoom就好了。
+- 我最初以为这个问题完全解决了，实际上并没有。关键问题是卡片确实不能放太大，但这款插件已经设置了很多好用的调整方式，已经让卡片即使不放大最大也可以很好使用了。轻度使用问题不大。
+- 我发现跳动最大的是所有卡片中的锚点卡片，也就是搜索之后直接点击而生成的卡片，这种卡片没有普通卡片的这种可以调整打下的小标志。避免让卡片成为锚点卡片的方式是，搜索之后按住shift再点击。可能这款插件设计的本意是围绕一张卡片逐渐展开它关联的其他卡片，没有要编辑锚定卡片的意思。锚定卡片也没有右上角的小叉号可以关闭。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FCnLSKqkIws.png?alt=media&token=257ae9ee-eabb-43c7-aa61-b9816831b965)
+- 有时候打开达到文件也问题不大，看来不太稳定。实在不行刷新试试看。
+- 当内容太多的时候，卡片后面的linked references和unlinked references往往显示不出来
+- 插件自带的一些常用快捷方式
+    - 专注到一张卡片ctrl+0，查看全部卡片ctrl+9，放大卡片ctrl+=，缩小卡片ctrl+-。这里的放大和缩小还可以通过触控板来放大，还有一种放大方式是浏览器整体内容放大，用的是cmd+=和cmd+-，注意区分。
 - 我为这款插件设置了快捷键，mac上ctrl+i
 - 使用工具有时候不得不接受其不足。在短期内感觉很完美的工具过去新鲜劲以后也会发现各种不足。这才是[[软件联动]]有必要性的原因
