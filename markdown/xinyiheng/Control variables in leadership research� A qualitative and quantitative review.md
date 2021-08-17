@@ -1,7 +1,7 @@
 - ## Metadata::
     - Author(s):: [[Jeremy B. Bernerth]], [[Michael S. Cole]], [[Erik C. Taylor]], [[H. Jack Walker]]
     - Type:: [[Article]]
-    - Publication:: [[Journal of Management]]
+    - Publication:: Journal of Management
     - Topics:: 
     - Date:: 2018
     - Date added:: [[March 22nd, 2021]]

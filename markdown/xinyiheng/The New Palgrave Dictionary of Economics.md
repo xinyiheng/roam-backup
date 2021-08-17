@@ -1,6 +1,6 @@
 - ## Metadata::
     - Editor(s):: [[Matias Vernengo]], [[Esteban Perez Caldentey]], [[Barkley J. Rosser Jr]]
-    - Type:: [[Book]]
+    - Type:: Book
     - Topics:: 
     - Date:: 2020
     - Date added:: [[December 13th, 2020]]

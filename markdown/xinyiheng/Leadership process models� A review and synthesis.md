@@ -1,7 +1,7 @@
 - ## Metadata::
-    - Author(s):: [[Thomas Fischer]], [[Joerg Dietz]], [[John Antonakis]]
+    - Author(s):: Thomas Fischer, Joerg Dietz, John Antonakis
     - Type:: [[Article]]
-    - Publication:: [[Journal of Management]]
+    - Publication:: Journal of Management
     - Topics:: 
     - Date:: 2017
     - Date added:: [[March 22nd, 2021]]
