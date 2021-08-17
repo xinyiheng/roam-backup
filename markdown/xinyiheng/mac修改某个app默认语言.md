@@ -1,0 +1,2 @@
+- 在系统偏好设置-语言和地区 就可以设置了
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F1xcK1P0sV5.png?alt=media&token=197b3d6b-1962-4ca2-82bf-3744e7bd5c51)
