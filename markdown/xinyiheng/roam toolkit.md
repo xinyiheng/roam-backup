@@ -1,3 +1,7 @@
 - 卡片视图倒是很好，但是卡片不能放很大，否则卡片就容易跳动。
+    - 这个问题已经解决了。我在群里问了之后自己又看看了这个插件，自己发现了解决方法
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FcRmOIjttot.png?alt=media&token=c6e7a690-72f5-4f78-b13f-2770b7934a1c)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F6v7dsVkiGg.png?alt=media&token=79aa09ce-da92-49fb-ada6-5a795c849828)
+    - 原来显示的是pan，我修改成panZoom就好了。
 - 我为这款插件设置了快捷键，mac上ctrl+i
 - 使用工具有时候不得不接受其不足。在短期内感觉很完美的工具过去新鲜劲以后也会发现各种不足。这才是[[软件联动]]有必要性的原因

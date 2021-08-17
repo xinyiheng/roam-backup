@@ -209,6 +209,11 @@ via[如何交互可视化 Roam Research 局部笔记网络？ - 少数派](https
     - 怎么修改roam research导出的文件的格式？
         - https://roam-tools.ryanguill.com/?这个网站可以实现一些修改。
 - [Getting Started – Hook](https://hookproductivity.com/help/general/getting-started/#launch) 用这个软件可以把一些mac电脑中的其他文件以链接的形式添加到roam research中，这样可以完善它作为一元化笔记系统的核心处理器功能。
+- 如何取消roam research左边栏？
+    - 隐藏以后每次鼠标划过都会弹出来，看着很闹人。
+    - 我以前用css修改过，但是没有保存经验，现在不会弄了。
+    - 在群里问，有人告诉我方法了。非常好。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FPdXPY9obGs.png?alt=media&token=bbe91f32-d2aa-4fe3-bb28-09ee17f80368)
 - roam research的内容转换成为[[anki]]？
     - 学习骇客制作了一个工具，可以把按照一定格式组织起来的roam research内容批量生成卡片。我使用过，但是它制作的是问题-答案这种形式的卡片。我最近喜欢制作close形式的卡片，觉得更适合我。
 - [[间隔记忆]]
