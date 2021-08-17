@@ -9,8 +9,9 @@
 至于为什么用 Snippet Trigger 嘛，因为可以省去使用快捷键唤出 Alfred 这一步，这样一来就不会打断写作过程了。Via[从 0 到 1 写一个 Alfred Workflow - 少数派](https://sspai.com/post/47710)[[20210105]] 下午5:27
 - #[[参考资料]]
     - Alfred WorkflowsVia[Alfred Workflows - Alfred App Community Forum](https://www.alfredforum.com/forum/1-alfred-workflows/)[[20210105]] 下午5:33
+    - Workflows List Via[Alfred 2 Workflow List | Search, Install and Share](http://alfredworkflow.com/) [[20210817]] 下午4:35
+    - Packal😀😀Via[Home | Packal](http://www.packal.org/) [[20210817]] 下午4:36
 - 类似软件
     - [[raycast]]
     - [[launchbar]]T0210108]] 上午11:48
     - 0 到 1 写一个 Alfred WorkflowVia[从 0 到 1 写一个 Alfred Workflow - 少数派](https://sspai.com/post/47710)[[20210108]] 上午11:48
-    - 
