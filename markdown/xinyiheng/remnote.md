@@ -10,6 +10,8 @@
     - {{iframe: https://www.youtube.com/watch?app=desktop&v=KyfXoTvpngA&t=194s}}
     - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
 - mac 上的graph图中新建节点的时候如果输入中文经常会崩溃，先输入一个空格就可以了
+- remnote的graph图怎样使用？
+    - https://www.remnote.io/a/remnote-graph-/611b47dcf86c9f00341aceb8
 - remnote的graph图有什么特点？是在写作笔记的时候自动生成概念图，并且概念图也可以直接修改，并且反应在笔记上，这是[[Tinderbox]]和[[scapple]]也都无法达到的功能。
 - 如何创建rem(间隔记忆卡片或者说闪卡）？
     - 四种不同的卡片
