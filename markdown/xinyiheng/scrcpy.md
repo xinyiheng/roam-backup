@@ -17,3 +17,4 @@ adb: error: failed to get feature set: no devices/emulators found
     - 快捷键Via[Scrcpy-Android 设备投屏+控制工具 - 农夫山药 - 博客园](https://www.cnblogs.com/fanfeng/p/13093465.html) [[20210815]] 下午8:29
         - 最常用到的是熄灭手机屏幕cmd+o@评论:资料里的写的都是ctrl，用mac其实应该是cmd
         - 打开手机屏幕cmd+shift+o
+        - 注意，这些快捷键在外接的蓝牙键盘上使用没有反应，必须在macbook自带的键盘上使用才有反应。很神奇。
