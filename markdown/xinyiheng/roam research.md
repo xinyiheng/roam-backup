@@ -121,9 +121,13 @@ Future task2               :         des4, after des3, 5d
         - 并没有这个功能，echnique begins [2:13](https://www.youtube.com/watch?v=78p6z2104AU&t=133s)1. create Page with name equal to existing text you want to change2. Unlinked References > Link All3. rename Page to whatever you want   -------   4. delete Page Find and Replace Technique [[roam research]] - YouTube](https://www.youtube.com/watch?v=78p6z2104AU) [[20210712]] 上午9:01
     - 修改tag的样式
         - https://www.redgregory.com/roam-content/2021/1/8/customize-tags-inside-roam-research-with-this-simple-css
+    - 如何在roam research中直接标注pdf？
+        - 我觉得意义不大，没有实际使用，但是可以参考这个视频。
+        - {{iframe:https://www.youtube.com/watch?v=g7iG47XeOX0}}
 - #[[快捷方式]]
     - 在windows 系统中，查看上一个或下一个page的按键是alt+左右箭头
     - 快速跳转到daily note ctrl+shift+d
+    - {{iframe:https://cat-income-b7c.notion.site/f626dab7d985490fa504b763ea6f3e3c}}
     - 在[[roam research]]中打开开发者模式，ctrl+shift+=
 - [[smart block]]是最近推出的杀手级的新功能，这让roam research有了更大的自定义的可能性。很多实现方式借助[[JavaScript]]
 - #[[参考资料]]
