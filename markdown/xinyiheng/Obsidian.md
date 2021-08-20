@@ -8,6 +8,7 @@
     - 
     - 我还是决定用卡片法来写作
 - obsidian提供了从其他工具[迁移过来的方法](https://forum.obsidian.md/t/meta-migration-workflows/15252)
+- [obsidian插件.kdb](hook://file/2HeTJykrl?p=Y29tfmFwcGxlfkNsb3VkRG9jcy9Lbm93bGVkZ2UgZGF0YWJhc2UgYnVpbGRlcg==&n=obsidian%E6%8F%92%E4%BB%B6.kdb)
 - #[[快捷方式]]
     - 打开局部关系图：ctrl+g
     - 打开第三方插件中的mindmap：ctrl+r
