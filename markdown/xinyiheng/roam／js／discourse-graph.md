@@ -1,0 +1,105 @@
+- preview
+- grammar
+    - nodes
+        - CLM
+            - Claim
+            - C
+        - QUE
+            - Question
+            - Q
+        - EVD
+            - Evidence
+            - E
+        - SOU
+            - Source
+            - S
+        - EXC
+            - Excerpt
+            - X
+        - AUT
+            - Author
+            - A
+    - relations
+        - Informs
+            - Source
+                - EVD
+            - Destination
+                - QUE
+            - If
+                - And
+                    - Page
+                        - Is A
+                            - EVD
+                    - Block
+                        - References
+                            - Page
+                    - Block
+                        - Is In Page
+                            - ParentPage
+                    - ParentPage
+                        - Is A
+                            - QUE
+        - Supports
+            - Source
+                - EVD
+            - Destination
+                - CLM
+            - If
+                - And
+                    - Page
+                        - Is A
+                            - EVD
+                    - Block
+                        - References
+                            - Page
+                    - SBlock
+                        - References
+                            - SPage
+                    - SPage
+                        - Has Title
+                            - SupportedBy
+                    - SBlock
+                        - Has Child
+                            - Block
+                    - PBlock
+                        - References
+                            - ParentPage
+                    - PBlock
+                        - Has Child
+                            - SBlock
+                    - ParentPage
+                        - Is A
+                            - CLM
+        - Opposes
+            - Source
+                - EVD
+            - Destination
+                - CLM
+            - If
+                - And
+                    - Page
+                        - Is A
+                            - EVD
+                    - Block
+                        - References
+                            - Page
+                    - SBlock
+                        - References
+                            - SPage
+                    - SPage
+                        - Has Title
+                            - OpposedBy
+                    - SBlock
+                        - Has Child
+                            - Block
+                    - PBlock
+                        - References
+                            - ParentPage
+                    - PBlock
+                        - Has Child
+                            - SBlock
+                    - ParentPage
+                        - Is A
+                            - CLM
+- subscriptions
+    - 9YaEK4uASeVL3CYwaS4LURoRH4B2

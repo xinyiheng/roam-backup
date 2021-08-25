@@ -66,3 +66,16 @@
   })
 
 })();```
+- discourse graph
+    - {{[[roam/js]]}}
+        - ```javascript
+var existing = document.getElementById("roamjs-discourse-graph-main");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/discourse-graph/main.js";
+  extension.id = "roamjs-discourse-graph-main";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}
+```
