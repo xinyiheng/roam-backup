@@ -105,5 +105,15 @@
     - 9YaEK4uASeVL3CYwaS4LURoRH4B2
 - query
     - match
-        - Question
+        - Author
     - Conditions
+        - 0
+            - That
+                - false
+            - Relation
+                - Informs
+            - Predicate
+                - 
+        - 1
+            - That
+                - true

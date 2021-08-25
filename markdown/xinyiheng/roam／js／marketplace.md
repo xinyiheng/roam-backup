@@ -1,5 +1,17 @@
 - synced
 - extensions
+    - iframely
+        - {{[[roam/js]]}}
+            - ```javascript
+var existing = document.getElementById("roamjs-iframely");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/iframely.js";
+  extension.id = "roamjs-iframely";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}```
     - roam-garden
         - {{[[roam/js]]}}
             - ```javascript
