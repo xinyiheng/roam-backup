@@ -79,3 +79,16 @@ if (!existing) {
   document.getElementsByTagName("head")[0].appendChild(extension);
 }
 ```
+- sidebar
+- {{[[roam/js]]}}
+    - ```javascript
+var existing = document.getElementById("roamjs-sidebar");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/sidebar.js";
+  extension.id = "roamjs-sidebar";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}
+```
