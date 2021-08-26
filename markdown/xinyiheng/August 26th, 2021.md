@@ -5,4 +5,7 @@
     - 不仅如此，这款工具还可以根据这些类型在页面的位置设定不同的关系，比如支持，反对和参考等。通过结构化的搜索可以更好地利用这些内容。
     - 如何创建playground
         - PLAYGROUNDVia[Playground | Discourse Graph](https://roamjs.com/extensions/discourse-graph/playground) [[20210826]] 上午9:39
-        - 
+    - 这是开发者的twitterhttps://twitter.com/JoelChan86
+- 使用query来体系化整理自己的笔记
+    - {{[[query]]: {and:{and:[[笔记]] [[问题]]}}}}
+- 如何把roam research中的笔记二次加工，比如做成概念图，带着链接。#[[问题]]
