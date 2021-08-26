@@ -319,13 +319,14 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     height: 99%;
     align-content: flex-start;
 }
+/*设置卡片模式下卡片的颜色和背景阴影的颜色，我花了很多时间才学会*/
 .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self {
     width: 370px;
     height: 200px;
     margin: 20px;
-    box-shadow: 8px 8px 16px 0 rgb(29 0 0 / 76%), -8px -8px 16px 0 #EADF85CC;
+    box-shadow: 8px 8px 16px 0 rgb(29 0 0 / 76%);
     border-radius: 8px;
-    background: #FFF80030;
+    background:  rgba(223,242,94,0.1);
     padding: 20px 16px 16px 0;
 }
 .sidebar-content>div:not(.rm-dnd-separator) {
