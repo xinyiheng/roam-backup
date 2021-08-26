@@ -282,7 +282,7 @@ span.rm-page-ref[data-tag] {
     - ```css
 
 :root {
-    --main-left-bg: #E1F6F4;
+    --main-left-bg: #D9ECC2;
     --right-sidebar-bg: #9FD8D3(247 248 249);
     --right-sidebar-drag-bg: #337ac6;
     --masonry-bg: #F1F7FA;
@@ -327,6 +327,8 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     box-shadow: 8px 8px 16px 0 rgb(29 0 0 / 76%);
     border-radius: 8px;
     background:  rgba(223,242,94,0.1);
+    background-size: 100% 100%;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FlTUSLNlYQv.png?alt=media&token=7dd00fe6-6147-4537-b1a2-be4ed9e212f2");
     padding: 20px 16px 16px 0;
 }
 .sidebar-content>div:not(.rm-dnd-separator) {
