@@ -105,15 +105,12 @@
     - 9YaEK4uASeVL3CYwaS4LURoRH4B2
 - query
     - match
-        - Author
+        - Evidence
     - Conditions
         - 0
             - That
-                - false
-            - Relation
-                - Informs
-            - Predicate
-                - 
-        - 1
-            - That
                 - true
+            - Relation
+                - Supports
+            - Predicate
+                - [[QUE]] - 中国到底处在日本当年的哪个阶段？

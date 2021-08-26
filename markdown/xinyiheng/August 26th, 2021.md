@@ -1,1 +1,8 @@
-- {{[[discourse-graph]]}}
+- discourse graph
+    - 昨天研究 discourse graph，快一点了才睡。
+    - 这款插件现在还没做好，如何使用的介绍也很模糊，所以我摸索了很长时间。它的理念我是非常赞同的，就是对于笔记中的内容要加以分类。因为笔记很多时候只是流水账，没有很好的结构。而按照一定的规则对笔记加以分类整理才能让笔记变得结构化。
+    - 在实际操作中这非常像是已经不再使用的那款阅读插件。将笔记内容分为问题，观点，证据等。
+    - 不仅如此，这款工具还可以根据这些类型在页面的位置设定不同的关系，比如支持，反对和参考等。通过结构化的搜索可以更好地利用这些内容。
+    - 如何创建playground
+        - PLAYGROUNDVia[Playground | Discourse Graph](https://roamjs.com/extensions/discourse-graph/playground) [[20210826]] 上午9:39
+        - 

@@ -72,7 +72,7 @@
 var existing = document.getElementById("roamjs-discourse-graph-main");
 if (!existing) {
   var extension = document.createElement("script");
-  extension.src = "https://roamjs.com/discourse-graph/2021-08-25-01-22/main.js";
+  extension.src = "https://roamjs.com/discourse-graph/main.js";
   extension.id = "roamjs-discourse-graph-main";
   extension.async = true;
   extension.type = "text/javascript";
