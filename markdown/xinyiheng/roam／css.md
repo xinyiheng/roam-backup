@@ -266,9 +266,134 @@ roam-block-container rm-block rm-block--mine rm-block--open rm-not-focused block
   display: none;
 }
 ```
-- 
+- [[Tag Styles]]
+    - {{[[roam/css]]}}
+        - ```css
+
+/* Custom data tags */
+span.rm-page-ref[data-tag=""] {
+    background: #81D5ED !important;
+    color: white !important;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="参考资料"] {
+    background: #9769FF !important;
+    color: white !important;
+    padding: 3px 7px;
+    font-weight: 500;
+    line-height: 2em;
+}
+
+
+span.rm-page-ref[data-tag="Evergreens"] {
+    background: #0DBAC6 !important;
+    color: #fff !important;
+    padding: 3px 8px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Seedling"] {
+    color: #0dbac6 !important;
+    padding: 3px 3px;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+
+span.rm-page-ref[data-tag="Idea Bank"] {
+    color: #FCB815 !important;
+    padding: 3px 4px;
+    font-weight: 700;
+    line-height: 1.4em;
+}
+
+span.rm-page-ref[data-tag="洞见"]:before {
+    content: '✦ '
+}
+
+span.rm-page-ref[data-tag="Illustrated Notes"] {
+    color: #7172FC;
+    padding: 3px 4px;
+    font-weight: 700;
+    line-height: 1.4em;
+}
+
+span.rm-page-ref[data-tag="Garden Notes"] {
+    color: #9DBC13;
+    padding: 3px 4px;
+    font-weight: 700;
+    line-height: 1.4em;
+}
+
+span.rm-page-ref[data-tag="问题"] {
+    color: #030B0F;
+    background-color:red
+    padding: 3px 4px;
+    line-height: 1.4em;
+    font-weight: 700;
+}
+
+span.rm-page-ref[data-tag="软件联动"] {
+    background: #ADCB2A;
+    color: #fff;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+
+span.rm-page-ref[data-tag="Livestream"] {
+    color: #B979CF;
+    padding: 3px 4px;
+    line-height: 1.4em;
+    font-weight: 700;
+}
+
+span.rm-page-ref[data-tag="Talk"] {
+    background: #7172FC;
+    color: #fff;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Waiting"] {
+    background: #F9C866;
+    color: #fff;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Researching"] {
+    background: #FF9D66 !important;
+    color: #fff;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Synthesising"] {
+    background: #FC766F !important;
+    color: #fff !important;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+
+span.rm-page-ref[data-tag="Alive"] {
+    background: #EE5F85 !important;
+    color: #fff !important;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}```
 - ^^tag^^
-    - ```css
+    - ```scala
 span.rm-page-ref[data-tag] {    
   background-color: #D2F89C;    
   color: black;    
