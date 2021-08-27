@@ -266,7 +266,8 @@ roam-block-container rm-block rm-block--mine rm-block--open rm-not-focused block
   display: none;
 }
 ```
-- tag
+- 
+- ^^tag^^
     - ```css
 span.rm-page-ref[data-tag] {    
   background-color: #D2F89C;    
@@ -278,7 +279,7 @@ span.rm-page-ref[data-tag] {
   border-radius: 10px;    
   font-weight:500;
 }```
-- 秘密花园
+- ^^秘密花园^^
     - ```css
 
 :root {
@@ -298,24 +299,52 @@ span.rm-page-ref[data-tag] {
     --code-color: crimson;
     --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
 }
-
-div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
-    background-color: var(--main-left-bg);
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FRvbDl6A7m3.png?alt=media&token=a44fd792-bdaf-4954-82a9-f00a3e36e6cc");
-    background-size:100% 100%
-}
-
 #right-sidebar, div.roam-app>div.flex-h-box {
     background-color: var(--right-sidebar-bg);
+}
+/*修改高亮文字背景色*/
+.rm-highlight {
+  background-color: rgb(31,180,32);
+}
+/*修改编辑中的文字字体*/
+textarea {
+    font-family: 简宋;
+}
+/*修改选中后的文字颜色*/
+::selection {
+    background: #DC6767;
+}
+/*修改左侧边栏文字颜色*/
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 4px 0px 4px 4px;
+    color: #439AF6;
+}
+/*修改笔记主题的字体*/
+div {
+    font-family:简宋;
+}
+/*设置笔记主题的背景色和背景图片*/
+div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
+    background-color: var(--main-left-bg);
+  	background-image:url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FkfgLKELuc9.png?alt=media&token=1b25dfa7-e571-4aba-8391-24b28b585b88");
+    background-size:100% 100% ;
+}
+/*设置左侧边栏背景色*/
+.roam-body .roam-app .roam-sidebar-container {
+    background-color: #293840;
 }
 
 #roam-right-sidebar-content {
     overflow: auto !important;
 }
-
+#247EC2#1480D3#1476D3##C6C067
 .sidebar-content {
     overflow: unset;
     display: flex;
+    background-color: rgb(202,114,114);
     flex-direction: column;
     flex-wrap: wrap;
     height: 99%;
