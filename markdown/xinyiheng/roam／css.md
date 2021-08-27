@@ -434,6 +434,16 @@ span.rm-page-ref[data-tag] {
 #right-sidebar, div.roam-app>div.flex-h-box {
     background-color: var(--right-sidebar-bg);
 }
+/*修改看板的样式*/
+.kanban-board {
+   background-color: skyblue;
+   background-image:url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FFJiT_TGxLh.png?alt=media&token=ee76eead-1e43-47d6-9c02-6508e86f909f");
+   background-size:100% 100%;
+}
+.kanban-column {
+  background-color: rgba(210,227,233,0.65);
+}
+/*修改大卡片的样式*/
 .card-mode .rm-block__children.rm-level-0>.roam-block-container, .card-mode [style="margin-left: -20px;"]>.roam-block-container, .presentation-card-mode .rm-block__children.rm-level-0>.roam-block-container, .presentation-card-mode [style="margin-left: -20px;"]>.roam-block-container {
     box-shadow: 8px 8px 16px 0 rgb(0 0 0 / 6%);
     border-radius: 8px;

@@ -80,8 +80,8 @@ if (!existing) {
 }
 ```
 - sidebar
-- {{[[roam/js]]}}
-    - ```javascript
+    - {{[[roam/js]]}}
+        - ```javascript
 var existing = document.getElementById("roamjs-sidebar");
 if (!existing) {
   var extension = document.createElement("script");

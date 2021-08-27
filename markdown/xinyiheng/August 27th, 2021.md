@@ -4,4 +4,16 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FlTUSLNlYQv.png?alt=media&token=7dd00fe6-6147-4537-b1a2-be4ed9e212f2)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLrBDJMXPyp.png?alt=media&token=87b57d71-4923-4524-9ed6-e26243b7ba54)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FkfgLKELuc9.png?alt=media&token=1b25dfa7-e571-4aba-8391-24b28b585b88)
-- {{[[kanban]]}}
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FFJiT_TGxLh.png?alt=media&token=ee76eead-1e43-47d6-9c02-6508e86f909f)
+- {{kanban}}
+    - roam research看板用法
+        - 很久不用都忘了
+        - 用两个大括号括住kanban这两个字
+        - 然后，在下方输入文字就可以了
+    - todo
+        - 很方便使用
+        - 可以多使用
+        - 让自己的roam research变得更加有秩序
+        - 
+    - 再增加一行
+        - 我还修改了看板的背景，不过并不是很满意

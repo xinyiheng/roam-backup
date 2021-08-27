@@ -47,9 +47,13 @@
     - {{[[kanban]]}}
         - 待办
             - 
+            - 
         - 进行中
             - 
+            - 1
+            - 
         - 已完成
+            - 
             - 
 - Excalidraw
     - {{roam/render: ((sketching))}}
