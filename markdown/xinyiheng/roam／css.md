@@ -271,7 +271,7 @@ roam-block-container rm-block rm-block--mine rm-block--open rm-not-focused block
         - ```css
 
 /* Custom data tags */
-span.rm-page-ref[data-tag=""] {
+span.rm-page-ref[data-tag="写作"] {
     background: #81D5ED !important;
     color: white !important;
     padding: 3px 7px;
@@ -287,10 +287,17 @@ span.rm-page-ref[data-tag="参考资料"] {
     line-height: 2em;
 }
 
+span.rm-page-ref[data-tag="读书笔记"] {
+    background: #FF9800EA !important;
+    color: white !important;
+    padding: 3px 7px;
+    font-weight: 500;
+    line-height: 2em;
+}
 
 span.rm-page-ref[data-tag="Evergreens"] {
     background: #0DBAC6 !important;
-    color: #fff !important;
+    color: #EBDAA8 !important;
     padding: 3px 8px;
     line-height: 2em;
     font-weight: 500;
@@ -330,7 +337,7 @@ span.rm-page-ref[data-tag="Garden Notes"] {
 
 span.rm-page-ref[data-tag="问题"] {
     color: #030B0F;
-    background-color:red
+    background: #F44336 !important;
     padding: 3px 4px;
     line-height: 1.4em;
     font-weight: 700;
@@ -393,7 +400,7 @@ span.rm-page-ref[data-tag="Alive"] {
     font-weight: 500;
 }```
 - ^^tag^^
-    - ```scala
+    - ```css
 span.rm-page-ref[data-tag] {    
   background-color: #D2F89C;    
   color: black;    
@@ -401,7 +408,7 @@ span.rm-page-ref[data-tag] {
   line-height: 1em;    
   border-right: solid 1px;    
   border-bottom: solid 1px;    
-  border-radius: 10px;    
+  border-radius: 3px;    
   font-weight:500;
 }```
 - ^^秘密花园^^
@@ -426,6 +433,16 @@ span.rm-page-ref[data-tag] {
 }
 #right-sidebar, div.roam-app>div.flex-h-box {
     background-color: var(--right-sidebar-bg);
+}
+.card-mode .rm-block__children.rm-level-0>.roam-block-container, .card-mode [style="margin-left: -20px;"]>.roam-block-container, .presentation-card-mode .rm-block__children.rm-level-0>.roam-block-container, .presentation-card-mode [style="margin-left: -20px;"]>.roam-block-container {
+    box-shadow: 8px 8px 16px 0 rgb(0 0 0 / 6%);
+    border-radius: 8px;
+    background: #f2f4f8;
+    padding: 10px 16px 10px 0;
+    margin: 16px;
+    min-height: 200px;
+    max-width: 600px;
+    min-width: 400px;
 }
 /*修改高亮文字背景色*/
 .rm-highlight {
