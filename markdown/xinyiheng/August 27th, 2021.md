@@ -10,6 +10,7 @@
         - 很久不用都忘了
         - 用两个大括号括住kanban这两个字
         - 然后，在下方输入文字就可以了
+        - 
     - todo
         - 很方便使用
         - 可以多使用
@@ -29,3 +30,5 @@
         - 《从滩高中到东大》完成翻译交稿
         - 完成农业企业的传承内容写作
     - 已完成
+- Tinderbox 9.0.0 MacVia[Tinderbox 9.0.0 for Mac 軟體資訊交流 - winXmac軟體社群](https://winxmac.com/software/mac-tinderbox.html) [[20210827]] 下午11:37
+- 
