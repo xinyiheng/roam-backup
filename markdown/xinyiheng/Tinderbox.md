@@ -15,6 +15,7 @@
             -  ActionsVia[Mark Bernstein - The Tinderbox Way-Eastgate Systems (2017)](marginnote3app://note/F0B54C6E-AAB5-4401-9103-C14BFBB78F4C)[[20210123]] 下午10:39
     - note
         - attribute
+        - 按住alt选中多条笔记，其中的内容会整合显示出来，非常像是scrivener的第一个视图。
     - adornment
         - Adornments appear in the background layer of maps, and are hidden in other views. They help organize and annotate the space of the map, emphasizing and clarifying some spatial relationships. Via[Mark Bernstein - The Tinderbox Way-Eastgate Systems (2017)](marginnote3app://note/AB166AD7-767D-4119-8FF9-55106DFED720)[[20210124]] 下午10:07
         - 也有快捷方式，可以很快地把一条笔记拆分成多条笔记
@@ -51,6 +52,7 @@
 - [概念图](hook://tbx/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB?view=outline+select=1611239814;?filepath=/Users/wangxiaohui/Library/Mobile%20Documents/com~apple~CloudDocs/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.tbx)@评论:tinderbox也可以使用[[hook]]来把某条笔记的链接地址放到[[roam research]]当中来。太棒了！
 - ^^hyperbolic^^，这个视图有些可以赏玩概念图的意思，很不错，是一个设计亮点。
 - [[参考资料]] https://pan.baidu.com/s/1bvLe7r4TN-Uwzzb0ZnNzRQ
+    - 使用方法的视频介绍https://forum.eastgate.com/c/videos-to-help-you-get-started/17
     - [Mark Bernstein - The Tinderbox Way-Eastgate Systems (2017)](x-devonthink-item://3BA31925-5D82-4E9B-8065-CFB09695D19D)@评论:这款软件的设计者写的书，包括了他的一些设计初衷。介绍自己写的软件的书居然还收费，真是奇葩。
     - 这个人好像是个重度用户，可以从他那里获得启发
     - {{[[video]]: https://youtu.be/bSYy6uK94Lw}}
