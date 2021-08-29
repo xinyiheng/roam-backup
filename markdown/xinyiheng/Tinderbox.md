@@ -6,8 +6,7 @@
     - document
         - 文档可大可小，我倾向于所有的笔记都保存在同一个document之中。
     - container
-        - 也是一个note，但是包含其他note，用起来感觉像是一个board，可以打开继续显示为一个board，可以继续编辑，这也是我说tinderbox是无限层级的原因。
-        - 可以理解为一个文件夹
+        - 也是一个note，但是包含其他note，用起来感觉像是一个board，可以打开继续显示为一个board，可以继续编辑，这也是我说tinderbox是无限层级的原因。可以理解为一个文件夹。任何一个note也都可以变成一个container
     - agent
         - Agents are notes that search your Tinderbox document continuously for notes that meet the agent’s criteria. If an agent finds a note that satisfies its criteria, it automatically places an alias of that note inside the agent. The agent can also apply an action to notes it finds. For example, one agent might find notes that represent overdue library books and automatically set their color to red.
         - 就是query功能，不过强大之处在于，还可以跟进action。比如，通过revist这个action，可以设置定期回顾一个笔记。[[SRS]]![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F4umSRvQx0s.png?alt=media&token=653cd787-4e22-4480-883c-6919a9a7949a)
@@ -22,7 +21,7 @@
         - 一种特殊的note，比如可以设置为map的背景。adornment只能在map视图中显示，在其他视图中不显示。也就是adornment只是用来辅助整理笔记而已。
         - 可以直接把图片拖拽到map中形成一个note
     - aliases
-        - 可以理解为一个note的多个分身，可以让一个note出现在多个不同地方
+        - 可以理解为一个note的多个分身，可以让一个note出现在多个不同地方，在任何一个地方修改，其他地方也会变化
     - composites
         - 如何建立composites？只需要把希望组合到一起的多个note拖拽到一起挨着就可以了。
         - 如何修改composites中的某个笔记？用command+click就可以选中笔记进行修改。
