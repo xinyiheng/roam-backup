@@ -434,6 +434,18 @@ span.rm-page-ref[data-tag] {
 #right-sidebar, div.roam-app>div.flex-h-box {
     background-color: var(--right-sidebar-bg);
 }
+/*修改链接颜色以及隐藏双方括号*/
+.rm-page-ref {
+  font-weight:bold;
+  color:#009688;
+}
+.rm-page-ref__brackets{
+  display:none;
+}
+/*修改unlinked references字体颜色*/
+strong {
+  	color:rgb(217,36,36)!important;
+}
 /*修改看板的样式*/
 .kanban-board {
    background-color: skyblue;
