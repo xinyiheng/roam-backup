@@ -481,7 +481,7 @@ div {
 /*设置笔记主题的背景色和背景图片*/
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     background-color: var(--main-left-bg);
-  	background-image:url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FtFujYM6SMD.png?alt=media&token=4c059bff-3664-42de-9bda-dcf42b2668d0");
+  	background-image:url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F0_9X1hxqvp.png?alt=media&token=d57f76e2-419f-4861-8e53-038efdf4f992");
     background-size:100% 100% ;
 }
 /*设置左侧边栏背景色*/
