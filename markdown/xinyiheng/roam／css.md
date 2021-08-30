@@ -1,4 +1,4 @@
-- Using Roam/CSS to display a list as grid or in rows
+- bp3-popover-wrapperUsing Roam/CSS to display a list as grid or in rows
 via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/share/06b03473bcda4728b5bef40929e5012f)
 [[20201230]] 上午10:14官方推出的一些css样式，用视频的形式展示出来的，比较直观
 - Element Class Detail 发现没有关联的概念
@@ -353,7 +353,7 @@ span.rm-page-ref[data-tag="软件联动"] {
 
 
 span.rm-page-ref[data-tag="Livestream"] {
-    color: #B979CF;
+    color: #8C41A6;
     padding: 3px 4px;
     line-height: 1.4em;
     font-weight: 700;
@@ -433,6 +433,10 @@ span.rm-page-ref[data-tag] {
 }
 #right-sidebar, div.roam-app>div.flex-h-box {
     background-color: var(--right-sidebar-bg);
+}
+/*修改url链接的文字颜色*/
+a {
+  color:#9708AE !important;
 }
 /*修改链接颜色以及隐藏双方括号*/
 .rm-page-ref {
@@ -521,10 +525,10 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     margin: 20px;
     box-shadow: 8px 8px 16px 0 rgb(29 0 0 / 76%);
     border-radius: 8px;
-    background:  rgba(223,242,94,0.1);
+    background: hsl(132,29%,97%);
     background-size: 100% 100%;
     background-position: 0px 2px;
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FlTUSLNlYQv.png?alt=media&token=7dd00fe6-6147-4537-b1a2-be4ed9e212f2");
+    background-image: url("");
     padding: 20px 16px 16px 0;
 }
 .sidebar-content>div:not(.rm-dnd-separator) {
