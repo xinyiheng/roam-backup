@@ -1,1 +1,13 @@
 - 利用[[github]]对动备份的方法Via[Automated backups using Github | RoamStack](https://roamstack.com/kb/io/automated-backups-using-github/) [[20210831]] 下午1:30
+- 新建内容
+    - 新建内容
+        - 新实验
+            - [被交口称赞的App《韩熙载夜宴图》背后，其操刀团队是什么样的交互设计思路？-虎嗅网][🔗](https://www.huxiu.com/article/108089.html)
+            - Y ou get the results in a much more natural presentation in the Digest. [[DEVONagent Pro Man...]][🔗](https://www.diigo.com/item/pdf/783rf/0jka)
+            - 1
+                - Y ou can archive interesting searches and review or expand those searches on another day. [[DEVONagent Pro Man...]][🔗](https://www.diigo.com/item/pdf/783rf/0jka)
+            - 尤其是上班族，你要让他意识到，不能做「三等公民」：等下班、等加薪、等升职。 [[zhihu.com]][🔗](https://www.zhihu.com/)
+                - 对于阿里电商来说，一个巨大的障碍在于，如果不拥抱微信，它的用户可能提前见顶，是的，淘宝的用户天花板是小于拼多多的，因为中国有数以亿计的中老年人，除了微信和小程序里的东西，其它电商真的用不来。让这些人学会注册淘宝、注册并使用支付宝购物，那是不可能完成的任务。粗略估计，这样的人最少1-2亿。所有的淘宝用户都可能是拼多多用户，但是不是所有拼多多用户都可能是淘宝用户，这些人不是不愿意，而是真的用不来淘宝，一个支付宝就能挡住一大批人。如果说中国电商用户的极限值是10亿的话，拼多多用户天花板就是10亿，而淘宝可能只有8亿多点。 [[36kr.com]][🔗](https://36kr.com/p/1103457306462724)
+                - 用户上线，拼多多门槛更低，因此潜在客户群体比淘宝更多。
+                    - 对于阿里电商来说，一个巨大的障碍在于，如果不拥抱微信，它的用户可能提前见顶，是的，淘宝的用户天花板是小于拼多多的，因为中国有数以亿计的中老年人，除了微信和小程序里的东西，其它电商真的用不来。让这些人学会注册淘宝、注册并使用支付宝购物，那是不可能完成的任务。粗略估计，这样的人最少1-2亿。所有的淘宝用户都可能是拼多多用户，但是不是所有拼多多用户都可能是淘宝用户，这些人不是不愿意，而是真的用不来淘宝，一个支付宝就能挡住一大批人。如果说中国电商用户的极限值是10亿的话，拼多多用户天花板就是10亿，而淘宝可能只有8亿多点。 [[36kr.com]][🔗](https://36kr.com/p/1103457306462724)
+                    - 用户上线，拼多多门槛更低，因此潜在客户群体比淘宝更多。
