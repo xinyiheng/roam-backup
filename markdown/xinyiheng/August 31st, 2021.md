@@ -1,1 +1,1 @@
-- 利用[[github]]对roam research自动备份的方法Via[Automated backups using Github | RoamStack](https://roamstack.com/kb/io/automated-backups-using-github/) [[20210831]] 下午1:30
+- 利用[[github]]对动备份的方法Via[Automated backups using Github | RoamStack](https://roamstack.com/kb/io/automated-backups-using-github/) [[20210831]] 下午1:30
