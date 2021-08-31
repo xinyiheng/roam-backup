@@ -1,35 +1,35 @@
 - preview
 - grammar
     - nodes
-        - CLM
+        - [[CLM]] - {content}
             - Claim
             - C
-        - QUE
+        - [[QUE]] - {content}
             - Question
             - Q
-        - EVD
+        - [[EVD]] - {content}
             - Evidence
             - E
-        - SOU
+        - [[SOU]] - {content}
             - Source
             - S
-        - EXC
+        - [[EXC]] - {content}
             - Excerpt
             - X
-        - AUT
+        - [[AUT]] - {content}
             - Author
             - A
     - relations
         - Informs
             - Source
-                - EVD
+                - 7J6aO3AZc
             - Destination
-                - QUE
+                - PMii9g8Wp
             - If
                 - And
                     - Page
                         - Is A
-                            - EVD
+                            - source
                     - Block
                         - References
                             - Page
@@ -38,17 +38,17 @@
                             - ParentPage
                     - ParentPage
                         - Is A
-                            - QUE
+                            - destination
         - Supports
             - Source
-                - EVD
+                - 7J6aO3AZc
             - Destination
-                - CLM
+                - dgm8qMsN5
             - If
                 - And
                     - Page
                         - Is A
-                            - EVD
+                            - source
                     - Block
                         - References
                             - Page
@@ -69,17 +69,17 @@
                             - SBlock
                     - ParentPage
                         - Is A
-                            - CLM
+                            - destination
         - Opposes
             - Source
-                - EVD
+                - 7J6aO3AZc
             - Destination
-                - CLM
+                - dgm8qMsN5
             - If
                 - And
                     - Page
                         - Is A
-                            - EVD
+                            - source
                     - Block
                         - References
                             - Page
@@ -100,7 +100,7 @@
                             - SBlock
                     - ParentPage
                         - Is A
-                            - CLM
+                            - destination
 - subscriptions
     - 9YaEK4uASeVL3CYwaS4LURoRH4B2
 - query
@@ -114,3 +114,5 @@
                 - Supports
             - Predicate
                 - [[QUE]] - 中国到底处在日本当年的哪个阶段？
+- shimmed
+- shimmed
