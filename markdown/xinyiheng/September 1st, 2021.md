@@ -5,4 +5,6 @@
     - 
     - 
 - 巧用CSS cross-fade()实现背景图像半透明效果Via[巧用CSS cross-fade()实现背景图像半透明效果 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) [[20210901]] 上午10:40
+- 如何快速复制粘贴浏览器标签页的链接 | 实用技巧Via[如何快速复制粘贴浏览器标签页的链接 | 实用技巧 - 少数派](https://sspai.com/post/42230?series_id=9) [[20210901]] 上午11:38
+- 用 Keyboard Maestro 做一个文本格式转换工具箱Via[用 Keyboard Maestro 做一个文本格式转换工具箱 - 少数派](https://sspai.com/post/56851) [[20210901]] 上午11:41
 - 
