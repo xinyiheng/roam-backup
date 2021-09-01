@@ -495,9 +495,11 @@ div {
     font-family:简宋;
 }
 /*设置笔记主题的背景色和背景图片*/
+
+
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
-    background-color: var(--main-left-bg);
-  	background-image:url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FjIGoVPnHcH.png?alt=media&token=f7410c33-09f6-4b7b-96f3-041b78572457");
+    
+  	background-image:url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FZE0d6w50_4.jpeg?alt=media&token=f67f5222-4df2-4c1e-aa9c-37ebcb8b0068");
     background-size:100% 100% ;
 }
 /*设置左侧边栏背景色*/
