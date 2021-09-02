@@ -1,4 +1,4 @@
-- Alfred 的脚本通过[[ Workflows ]]功能中的 Run Script Action 执行，支持 [[Bash]]、PHP、Ruby、[[python]]、Perl、[[AppleScript]] 和[[JavaScript]]等多种语言。Via[极具潜力的效率启动器 App，Raycast 脚本功能详解 - 少数派](https://sspai.com/post/64339)[[20210105]] 下午5:17
+- Alfred 的脚本通过[[ Workflows ]]功能中的 Run Script Action 执行，支持 [[Bash]]、PHP、Ruby、[[python]]、Perl、[[applescript]] 和[[JavaScript]]等多种语言。Via[极具潜力的效率启动器 App，Raycast 脚本功能详解 - 少数派](https://sspai.com/post/64339)[[20210105]] 下午5:17
 - 非常建议大家在 iCloud Drive 或者你其它常用的云同步应用中新建一个文件夹用于存放脚本。这会极大地方便你在不同设备之间^^同步创建的自定义脚本^^。Via[极具潜力的效率启动器 App，Raycast 脚本功能详解 - 少数派](https://sspai.com/post/64339)[[20210105]] 下午5:20
 - 制作一个简单的workflow
     - 目的：复制网页名称和地址，以markdown的格式呈现
