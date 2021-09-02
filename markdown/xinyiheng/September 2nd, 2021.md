@@ -1,0 +1,2 @@
+- 今天在搜索applescirpt 的时候了解到一些获取UI script描述按钮的方法。
+- 
