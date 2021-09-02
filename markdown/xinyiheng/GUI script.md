@@ -1,0 +1,3 @@
+- https://forum.latenightsw.com/t/best-practices-for-gui-scripting/561/45
+- 工具
+    - UI browser
