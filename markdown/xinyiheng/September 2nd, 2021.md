@@ -1,2 +1,14 @@
 - 今天在搜索applescirpt 的时候了解到一些获取UI script描述按钮的方法。
+- 重新阅读少数派上mac os文件管理的内容
+    - [[Finder]]的使用技巧，快速给文件添加注释和标签，删除了原来多余的标签，这些标签是devonthink引入文件的时候自动生成的。我已经关闭里自动生成标签的功能。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fsv-jT4vsVT.png?alt=media&token=6a9bca9e-86b4-40b4-97ce-73bb3d9d7364)
+    - 给[[Finder]]一种比较简单的添加注释的方法：
+        - 1.打开访达 > 菜单栏 - 显示 > 自定工具栏 > 将“显示简介”图标拖入工具栏
+        - 2.设置完成后，每当需要对一个应用或文件添加注释，点击工具栏中对“显示简介”的图标按钮，在注释上输入就可以了。
+        - 直接在文件上右键，按住option。选择“显示检查器”。这个方法的好处是，检查器窗口会随时根据文件变换。不用写完一个关一个。
+- [[roam research]]返回上一个page的#[[快捷方式]]cmd+[，以前总是没有找到。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FVNTcNDtwpz.png?alt=media&token=6bc56570-87be-48e2-9476-8e08891b2040)
+- 阅读[[Devonthink]]的使用文件
+- #[[问题]]最近比较关注不同文件之间的格式转换，因为我使用的工具太多了，希望在不同的软件之间共享数据。
+- {{POMO:25}}
 - 

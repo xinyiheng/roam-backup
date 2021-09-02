@@ -1,4 +1,3 @@
 - 在Finder中的文件快速添加注释：cmd+i
 - 添加注释的地方也可以快速添加标签，不过我自己设置了一个新的快捷方式，直接添加标签，ctr+i
 - 一篇文章带你玩转Mac FinderVia[一篇文章带你玩转Mac Finder - 简书](https://www.jianshu.com/p/6505ead00d59) [[20210902]] 下午5:20
-- 
