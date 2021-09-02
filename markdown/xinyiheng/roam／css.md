@@ -446,6 +446,10 @@ a {
 .rm-page-ref__brackets{
   display:none;
 }
+.rm-topbar {
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FFJiT_TGxLh.png?alt=media&token=ee76eead-1e43-47d6-9c02-6508e86f909f);
+  opacity:0
+}
 /*修改unlinked references字体颜色*/
 strong {
   	color:rgb(217,36,36)!important;

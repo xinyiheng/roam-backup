@@ -1,3 +1,4 @@
 - https://forum.latenightsw.com/t/best-practices-for-gui-scripting/561/45
 - 工具
-    - UI browser
+    - UI browsernt 类下有一个 name 的属性，考虑到 Safari 页面是一个个的 HTML 文档（document），所以这应该就是我们需要的Via[AppleScript 入门：macOS 的台本 - 少数派](https://sspai.com/post/45368) [[20210902]] 上午11:13
+    - 
