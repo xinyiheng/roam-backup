@@ -8,4 +8,3 @@
 - 中午设置hazel同步roam research和obsidian
 - 午饭之后又看了半个多小时javascript
 - 下午《如何管理10人以下小团队》准备送外方审核资料
-- 
