@@ -7,4 +7,3 @@ Vega-Lite is probably the best JavaScript library for extremely rapid visual exp
     - ObservableVia[(38) Observable - YouTube](https://www.youtube.com/channel/UCCD2tAKN32ya7V639gkbWhg) [[20210114]] 下午3:07
     - Explore ObservableVia[Explore / Observable](https://observablehq.com/explore) [[20210114]] 下午3:14@评论:一些现成的可以直接导入的可交互文档。
     - https://observablehq.com/@mbostock
-- 
