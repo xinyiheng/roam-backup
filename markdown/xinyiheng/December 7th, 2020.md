@@ -60,7 +60,7 @@
     - Node.js 是一个基于Chrome JavaScript 运行时建立的一个平台。
 Node.js是一个事件驱动I/O服务端JavaScript环境，基于Google的V8引擎，V8引擎执行Javascript的速度非常快，性能非常好。
 谁适合阅读本教程？
-如果你是一个[[前端程序员]]，你不懂得像PHP、Python或Ruby等动态编程语言，然后你想创建自己的服务，那么Node.js是一个非常好的选择。
+如果你是一个[[前端程序员]]，你不懂得像PHP、Python或Ruby等^^动态编程语言^^，然后你想创建自己的服务，那么Node.js是一个非常好的选择。
 Node.js 是运行在服务端的 JavaScript，如果你熟悉Javascript，那么你将会很容易的学会Node.js。
 当然，如果你是[[后端程序员]]，想部署一些高性能的服务，那么学习Node.js也是一个非常好的选择。
 -via[Node.js 教程 | 菜鸟教程](https://www.runoob.com/nodejs/nodejs-tutorial.html)

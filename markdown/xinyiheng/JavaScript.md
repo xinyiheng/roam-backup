@@ -1,11 +1,17 @@
-- 好像roam之类的网页应用很多互动效果是通过javascript实现的。
+- roam之类的网页应用很多互动效果是通过javascript实现的。能够支持javascrpt的笔记工具应该可以实现更多的互动性。
 - [[可视化]]library
     - [[d3.js]]
-- 能够支持javascrpt的笔记工具应该可以实现更多的互动性。
 - 只需要一个浏览器就可以学习javascript，环境配置真是简单。
 -  Roam JS Extensions#[[roam research]]
 via[Roam JS Extensions](https://roam.davidvargas.me/)
 [[20201228]] 下午5:36
+- 开发框架
+    - [[vue]]
+    - [[react]]
+    - [[angular]]
+- 重要的库
+    - [[jQuery ]]
+    - [[bootstrap]]
 - 基于JavaScript的控制面板在快速授权访问数据科学结果方面是完美的，因为它们只要求用户有一个Web浏览器。替代方案也有，比如Qlik（第5章）。
 ·[[Crossfilter]]是一个[[MapReduce]]库，是众多JavaScript MapReduce库之一，但是它的稳定性得到了证明，并且被一家从事金融交易的公司Square所开发和使用。采用MapReduce是有效的，甚至在单一的节点上和一个浏览器上，它能够提高计算速度。
 ·dc.js是创建于[[d3.js]]和Crossfilter之上的图表库，支持浏览器控制面板的快速构建Via[Python数据科学导论 - 得到APP](https://www.dedao.cn/reader?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7VJa3rbx6pNgznl9VZPLJQyEBodb89mqoO)[[20210104]] 上午10:05
@@ -35,8 +41,9 @@ console.log（b）
 Object是一种对象类型。在JavaScript中有一句话“万物皆对象”，包括函数、数组、自定义对象等都属于对象类型，本书将在后续章节进行详细讲解。
 - [[DOM]]
 - 原型与原型链😀😀原型与原型链是JavaScript中最重要的一个环节。可以说理解了原型与原型链的思想，才能够算是真正学会了JavaScript。首先，需要理解什么是__proto__和prototype。而一个对象的__proto__的最终指向，就是这个对象的原型链。Via[Web前端学习笔记：HTML5+CSS3+JavaScript - 得到APP](https://www.dedao.cn/reader?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0Rq59w8XDBK9qZpgkRELd75z4Ma6oDRrqjY) [[20210114]] 上午10:32
-- 
 - #[[参考资料]]
+    - [JavaScript基础语法-dom-bom-js-es6新语法-jQuery-数据可视化echarts黑马pink老师前端入门基础视频教程(500多集)持续_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Sy4y1C7ha?p=456) [[20210909]] 上午11:53
+    - [2019全新javaScript进阶面向对象ES6_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Kt411w7MP?p=10) [[20210909]] 上午11:53
     - JavaScriptVia[JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)[[20210104]] 下午9:22 @评论:感觉这个教程不错
     - {{[[video]]: https://youtu.be/EfAl9bwzVZk}}
     - Want to learn JavaScript in 2021 ?
