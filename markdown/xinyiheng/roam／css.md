@@ -449,7 +449,7 @@ a {
 /*修改最顶端栏目的背景*/
 .rm-topbar {
   background-size:100%;
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FZE0d6w50_4.jpeg?alt=media&token=f67f5222-4df2-4c1e-aa9c-37ebcb8b0068);
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FmwQKP7gV77.jpeg?alt=media&token=55013d89-11f3-422f-bbf2-a06c4b9c1a24);
 }
 /*修改unlinked references字体颜色*/
 strong {
@@ -504,7 +504,7 @@ div {
 
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     
-  	background-image:url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FZE0d6w50_4.jpeg?alt=media&token=f67f5222-4df2-4c1e-aa9c-37ebcb8b0068");
+  	background-image:url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FmwQKP7gV77.jpeg?alt=media&token=55013d89-11f3-422f-bbf2-a06c4b9c1a24");
     background-size:100% 100% ;
 }
 /*设置左侧边栏背景色*/

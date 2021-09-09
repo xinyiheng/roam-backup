@@ -180,10 +180,10 @@ via[附录 A：命令行速成教程 - 附录练习 1 环境配置 - 《笨办�
     - 应用示例
         - 你已经学习了 pwd 的作用，即“打印工作目录”。^^什么是目录？目录就是文件夹^^，它们是同一个东西。当你打开你电脑的文件查看器去寻找文件的时候，你就是在文件夹中穿梭，这些文件夹就是我说的“目录”。
 via[附录 A：命令行速成教程 - 附录练习 2 路径，文件夹，目录 (pwd) - 《笨办法学Python3（Learn Python3 The Hard Way 中文版）》 - 书栈网 · BookStack](https://www.bookstack.cn/read/LearnPython3TheHardWay/spilt.3.spilt.60.learn-py3.md)
-[[20201221]] 上午7:10不管你什么时候迷的路，很大可能是因为你输入命令的时候不知道你停在哪儿。你要做的就是输入 pwd 以查看你当前所在的目录，这将会告诉你你现在在哪儿。
+[[20201221]] 上午7:10
+        - 不管你什么时候迷的路，很大可能是因为你输入命令的时候不知道你停在哪儿。你要做的就是输入 pwd 以查看你当前所在的目录，这将会告诉你你现在在哪儿。
 via[附录 A：命令行速成教程 - 附录练习 3 如果你迷路了 - 《笨办法学Python3（Learn Python3 The Hard Way 中文版）》 - 书栈网 · BookStack](https://www.bookstack.cn/read/LearnPython3TheHardWay/spilt.4.spilt.60.learn-py3.md)
 [[20201221]] 上午7:13
         - 现在用 pwd 弄明白你在哪儿，然后用 cd ~ 回到 home，这样可以确保你总是在正确的地方。
 via[附录 A：命令行速成教程 - 附录练习 3 如果你迷路了 - 《笨办法学Python3（Learn Python3 The Hard Way 中文版）》 - 书栈网 · BookStack](https://www.bookstack.cn/read/LearnPython3TheHardWay/spilt.4.spilt.60.learn-py3.md)
 [[20201221]] 上午7:14
-        - 
