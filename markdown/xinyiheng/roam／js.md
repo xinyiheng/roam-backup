@@ -95,6 +95,8 @@ if (!existing) {
 - 实验
     - {{[[roam/js]]}}
         - ```javascript
-var shiyan = document.getElementsByClassName("bp3-button bp3-minimal bp3-small bp3-icon-more");
-shiyan.setAttribute ("accesskey","u")```
+/*var shiyan = document.getElementsByClassName("bp3-button bp3-minimal bp3-small bp3-icon-more");
+shiyan.setAttribute ("shuxing","u")*/
+alert ("下午好");
+alert("坚持学习")```
     - 
