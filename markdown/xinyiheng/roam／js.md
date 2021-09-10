@@ -95,6 +95,6 @@ if (!existing) {
 - 实验
     - {{[[roam/js]]}}
         - ```javascript
-var shiyan=document.getElementsByClassName("bp3-popover-wrapper");
-shiyan.setAttribute("accessKey","h");```
+var d=document.getElementsByClassName("bp3-button bp3-minimal bp3-small bp3-icon-more");
+d.setAttribute("id","123");```
     - 
