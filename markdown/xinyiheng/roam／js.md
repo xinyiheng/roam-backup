@@ -95,5 +95,6 @@ if (!existing) {
 - 实验
     - {{[[roam/js]]}}
         - ```javascript
-```
+var shiyan=document.getElementsByClassName("bp3-popover-wrapper");
+shiyan.setAttribute("accessKey","h");```
     - 
