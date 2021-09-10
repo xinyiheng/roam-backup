@@ -95,6 +95,18 @@ if (!existing) {
 - 实验
     - {{[[roam/js]]}}
         - ```javascript
-var d=document.getElementsByClassName("bp3-button bp3-minimal bp3-small bp3-icon-more");
-d.setAttribute("id","123");```
+var hotkey=97 //设置快捷键为a
+var destination="http://toyota2006.iteye.com"
+if (document.layers)
+document.captureEvents(Event.KEYPRESS)
+function backhome(e){
+if (document.layers){
+if (e.which==hotkey)
+window.location=destination
+}
+else if (document.all){
+if (event.keyCode==hotkey)
+window.location=destination
+}}
+document.οnkeypress=backhome```
     - 
