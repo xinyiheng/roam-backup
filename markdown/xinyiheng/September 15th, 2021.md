@@ -1,4 +1,8 @@
 - 10:19
     - 来到公司以后尝试在roam research中使用js来更改一些页面元素，比之前有了进步
     - 发送《如何管理10人以下小团队》更改好的内文版本
-    - 
+    - 修改《100+管理学模型》
+- mac 版的[[word]]#[[快捷键]]
+    - 格式化的快捷方式是cmd+shift+c，然后应用到需要使用的文本上，cmd+shift+v。进入专注模式，我设置了一个快捷键cmd+alt+f
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FmiSGw_mD7U.png?alt=media&token=aaf8106c-e78d-46f8-94f3-0f87557a56a9)
+    - 之前还想着通过编程实现，完全是多此一举。
