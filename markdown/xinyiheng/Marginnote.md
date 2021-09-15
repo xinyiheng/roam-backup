@@ -26,3 +26,10 @@
     - 如果不想要这份文件了，只有同时删除这三个地方的副本才算真正删除干净。
 - marginnote的思维导图如何转变成为mind node？
     - 转换最好在阅读完成之后进行，否则，marginnote新添加的内容还需要重新导入。
+- marginnote插件
+    - [最新插件与自动化/插件发布区话题 - MarginNote 中文社区](https://bbs.marginnote.cn/c/script/mod/55) [[20210915]] 下午10:49
+    - 好像用到了[[JavaScript]]
+- #[[软件联动]]
+    - MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文Via[MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文_哔哩哔哩_bilibili](https://www.bilibili.com/video/bv1Tf4y1P7WH) [[20210915]] 下午10:50
+    - >Roam的链接跳转到marginnote? ma倒入印象笔记再把链接复制到Roam不是可以一样实现吗？
+    - https://diigo.com/0ltkef
