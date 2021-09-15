@@ -95,8 +95,19 @@ if (!existing) {
 - 实验
     - {{[[roam/js]]}}
         - ```javascript
-/*var shiyan = document.getElementsByClassName("bp3-button bp3-minimal bp3-small bp3-icon-more");
-shiyan.setAttribute("shuxing","xinde")*/
+var changshi=document.getElementById("mode-button-document");
+changshi.setAttribute("accesskey","e");
+//var btn = document.createElement("BUTTON");   
+//btn.innerHTML = "button";                  
+//document.getElementById("mode-toggle-focus").appendChild(btn);
+
+//btn.addEventListener ("click",function(){
+ // var h = document.createElement("H1");
+  //var t = document.createTextNode("Hello World");
+  //h.appendChild(t);
+ // document.body.appendChild(h);} );
+
+
 var date = new Date();
 var h = date.getHours();
         if (h <12){
