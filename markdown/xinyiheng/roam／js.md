@@ -95,12 +95,12 @@ if (!existing) {
 - 实验
     - {{[[roam/js]]}}
         - ```javascript
-//var changshi=document.getElementById("mode-button-document");
-//changshi.setAttribute("accesskey","e");
-function myFunction() {
-   document.getElementsByClassName("bp3-button bp3-minimal bp3-small bp3-icon-more").setAttribute = ("accesskey","e");
-};
-myFunction();
+//var changshi=document.getElementByClassName("bp3-icon-more");
+//changshi.setAttribute("accesskey","a");
+//function myFunction() {
+//   document.getElementsByClassName("bp3-icon-more").setAttribute = ("accesskey","a");
+//};
+//myFunction();
 //var btn = document.createElement("BUTTON");   
 //btn.innerHTML = "button";                  
 //document.getElementById("mode-toggle-focus").appendChild(btn);

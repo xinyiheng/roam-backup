@@ -1,3 +1,7 @@
+- 如何开发一个chrome插件？
+    - Getting startedVia[Getting started - Chrome Developers](https://developer.chrome.com/docs/extensions/mv3/getstarted/) [[20210915]] 上午11:57
+    - 如何从零开始写一个 Chrome 扩展？Via[(3 封私信 / 83 条消息) 如何从零开始写一个 Chrome 扩展？ - 知乎](https://www.zhihu.com/question/20179805) [[20210915]] 上午11:58
+    - [一篇文章教你顺利入门和开发chrome扩展程序（插件） - 掘金](https://juejin.cn/post/6844903740646899720) [[20210915]] 下午12:00
 - #[[参考资料]]
     - [浏览器插件 - 知乎](https://www.zhihu.com/topic/19587330/hot)
 - [[科学上网]]
