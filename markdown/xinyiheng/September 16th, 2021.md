@@ -1,0 +1,2 @@
+- 05Xbox 应用支持云端或者串流玩 Xbox 游戏😀😀微软于 9 月 14 日正式宣布，PC 端的 Xbox 应用现在已经支持在本地串流 Xbox 游戏，针对性的微软还提供了额外的升级，允许游戏以 1080P 的分辨率，60fps 的速度进行串流，并且支持串流 Xbox 360 以及 Xbox Original 游戏，该功能支持所有支持 Xbox 的国家和地区。此外本次更新还面向 22 个国家以及地区的 Xbox Game Pass Ultimate 会员提供云端玩 Game Pass 游戏，此前该功能需要依托浏览器，而现在通过 Windows 10 上的 Xbox 应用就可以，同时增加了易于访问的控制器以及网路状态信息，游戏栏集成以及社交功能。来源😀😀😀😀😀😀Via[Tabs Outliner](chrome-extension://eggkanocgddhmamlbiijnphhppkpkmkl/activesessionview.html?type=main&focusNodeId=undefined&altFocusNodeId=undefined&scrollToViewWinId=undefined) [[20210916]] 上午10:48
+- 
