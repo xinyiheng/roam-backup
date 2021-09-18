@@ -12,4 +12,7 @@ via[Super — From Notion to Website in minutes](https://super.so/)
 via[NotionMetrics](https://notionmetrics.com/)
 [[20201229]] 上午11:44
 - {{[[diagram]]}}
+    - roam 也是可以画图的
+    - 我之前没怎么用过这个功能。
+    - 新建内容
 - 

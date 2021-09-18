@@ -24,14 +24,23 @@ via[Roam for teamwork](https://roamforteamwork.com/)
 via[How to build diagrams in Roam Research - Ness Labs](https://nesslabs.com/roam-research-diagrams)
 [[20201223]] 下午10:50
             - {{[[diagram]]}}
-                - 可以很方便地创建板块
+                - 可很方便地创建板块
                     - 只能显示一级内容，第二个层级的内容无法显示
                 - 先把内容写下来然后在整理
-                - 不仅可以写内容，还可以用箭头连接起来
+                - 可以写内容，还可以用箭头连接起来
                 - 还可以用方框框起来
                 - 还支持建立双向连接，识别双方括号标记
                 - 还支持添加图片
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FkcJvNNtgKe.png?alt=media&token=678527b0-2637-4c76-b705-ed264c3f6025)
+            - {{[[diagram]]}}
+                - 新的内容
+                - 尝试建立链接
+                - 如何缩放大小
+                - 如何退出全屏
+                - 如何删除一个节点？
+                - 建立这种方框好像还是用option键
+            - 
+            - 
         - 表格视图
             - {{table}}
                 - 标题
