@@ -5,6 +5,6 @@
 - 我用curio制作了一个curio使用方法的介绍。可以在cuiro文件夹里找到。
 - 严格来说不是思维导图。我的利用方式是当作一个大型的展板
 - [工作资料看板整理.curio](hook://file/tVYpkeCM6?p=Y29tfmFwcGxlfkNsb3VkRG9jcy9DdXJpbw==&n=%E5%B7%A5%E4%BD%9C%E8%B5%84%E6%96%99%E7%9C%8B%E6%9D%BF%E6%95%B4%E7%90%86.curio)
-- [陈春花说向上管理](x-scrivener-item:///Users/wangxiaohui/Library/Mobile%20Documents/com~apple~CloudDocs/Scrivener/%E6%95%B4%E7%90%86%E5%86%99%E4%BD%9C%E6%96%87%E7%A8%BF.scriv?id=D5D4D9C5-4475-4BB5-B7DD-8ECD8ECAACC6)
-- com.ulyssesapp.mac
-- defaults write com.ulyssesapp.mac AppleLanguages '(en)'
+- https://www.notion.so/xinyiheng/curio-73d5f92b7b4842218d4c5923ddbb7853
+- 隐藏所有的界面，整个表现为一个软木板
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWBxCSF1ZSh.png?alt=media&token=dec4dca7-68df-4f2d-81b5-3b4efd8d810e)
