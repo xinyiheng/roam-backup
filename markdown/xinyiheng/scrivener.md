@@ -3,6 +3,47 @@
     - 卡片在scrivnener里面可以自由拆分和合并，这是我非常看中的功能。我知道[[Gingko]]目前也支持这种方式。[[Ulyssess]]也可以实现这一功能。
     - 同样的内容用不同的形式展现会刺激大脑产生不同的想法和愉悦感
     - View Mode中有3种视图模式：层叠、卡片、大纲，View Mode的3种模式掌握好了，[[scrivener]]的便捷性就能很快体现出来，层叠模式可以查看选中的所有内容，既可以是一个文件夹下的内容，也可以是单选 的多个章或小节内容。卡片模式有助于我们调整内容的组织结构，方便在卡片上拟定写作重点。大纲模式中则可以进行进度管理和调度安排。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)@评论:我当初看中[[scrivener]]也是被多种视图吸引。现在还知道了好多款可以切换视图的软件，比如[[Notion]]、clickup、taskade、wavemaker、airtable
+    - 完整阅读了一遍scrivener的教程，发现之前有许多东西是不知道，也没有使用过的。当使用一个软件一段时间以后，完整阅读官方教程可能是一个最好的方法。
+        - 搜索
+            - 可以根据格式来搜索，比如，搜索所有高亮的文本。
+        - 插入
+            - 脚注和评论Go to **Insert > Inline Footnote** or **Insert > Inline Annotation** in the menu.
+            - You can change the colour of an annotation by clicking into it and using the **Format > Color…** panel or the format bar colour button.When you export your work, ranges of text defined as footnotes can be turned into end-of-page footnotes, and ranges of text defined as annotations can be turned into comments or omitted altogether.
+        - 设定写作目标
+            - You can set three types of word and character count targets in Scrivener:
+                - Draft target: the total number of words, characters or pages you wish to write in your manuscript.
+                - Session target: the number of words or characters you wish to write during the current writing session. 这个很重要。
+                - Document target: the number of words or characters you wish to write in a particular document.
+            - 回顾写作历史
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FBwDgVuPhCW.png?alt=media&token=c090498b-7755-4aaa-819c-9713a545ca19)
+            - 写作界面设置
+                - Note that scriptwriting mode is saved on a document-by-document basis, so you can switch between documents that use script formatting and documents that don’t. Documents using scriptwriting mode have a yellow icon to distinguish them from other text documents.剧本写作模式。
+                - 在专注模式(composition)下，设置让当前写作的一行总是出于屏幕固定的某个位置(typewriter scrolling)。
+                    - By default, composition mode uses “typewriter scrolling” (you’ll be notified of this every time you enter composition mode until you tick “Do not show again”). With this enabled, newly-typed text will remain in the vertical centre of the screen so that you don’t have to crick your neck by looking down all the time.
+                    - When you want typewriter scrolling to occur in the middle of the screen again, hit **Cmd-J** (**Edit > Find > Jump to Selection**).
+                    - You can turn typewriter scrolling off by going to **View > Text Editing > Typewriter Scrolling** (**Ctrl-Cmd-T**). Using the same menu command, you can also turn it on for the editor when not in composition mode.
+                - 专注模式还可以设置背景图案，达到我在roam research中实现的效果，就像是在空中写字。进入和推出专注模式的快捷方式是cmd+option+f
+            - 编辑器
+                - 固定在编辑器中的document
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FbblSzQNnSU.png?alt=media&token=819018de-d7c4-4149-bc09-ac47fc6979e0)
+            - collection
+                - 主要有两种：search collection(即保存搜索结果)和Arbitrary Collections(自由选择几个document保存为collection)
+                - 由于在binder中点击document会直接在编辑器中显示document，为了避免这种情况，可以先把目前编辑器中的document固定住，也就是lock in place
+                - If you hold the Option key down while dragging a folder onto a collection, then all its subdocuments will get added to the collection too.如何将一个文件夹里的所有文档都加入collection
+                - To create an arbitrary collection:
+                    - Ctrl-click on the header view to bring up the header bar menu.
+                    - Select “Lock in Place”:
+            - 布局(layout)
+                - 我以前总是喜欢尽量少的展示区域，后来发现在scrivener同时打开多个视图真的很好用。
+                - 我现在很喜欢这种布局
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FDs7CZ3nRv9.png?alt=media&token=bf49ff78-b18b-4aec-8301-df7381ecd361)
+                - 还可以把自己喜欢的布局保存为模板，直接调用。
+            - 同时显示多个文档
+                - pop up
+                - copyholders
+                - split horizonly and vertically
+            - corkboard模式也可以展示多个文件夹中的内容
+                - You aren’t limited to displaying the contents of only one group in the corkboard or outliner—you can show the subdocuments of several groups by “stacking” them. This is really easy to do:
 - 使用技巧
     - 有windows、mac和ipad版本，三个版本同步是个问题。我使用icloud在mac和ipad之间同步问题不大，使用坚果云在windows和mac之间同步也倒是能够互相查看文档，但是不方便。官方推荐的dropbox在国内不好用。
     - Collections 的目的是为了更有效的归纳已有的文件，有点类似于Outlook中的智能文件夹，例如：可以先建一个 新增章节 Collection，然后到Binder中选中新增的章节右键（Add to Collection）到 新增章节 中。换个方式来理解也像是给内容加标签，通过标签来区分和快速定位到内容。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
@@ -17,6 +58,8 @@
     - 在binder中显示文件夹中文件数量的设置
         - http://wxhdp.xuexihaike.com/2020-02-23-145405.png
     - 缺点是排版不支持markdown模式。我觉得scrivener适合在写得差不多的时候再精修使用。
+    - placeholder
+    - 
 - 个人评价
     - 这款软件没有什么好挑剔的，是超大型[[写作]]项目的不二选择。
     - 最满意的交互界面。写长篇文章非常有优势。
