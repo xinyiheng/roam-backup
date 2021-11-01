@@ -1,0 +1,12 @@
+- 背景图片
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FR5MW2s8PIU.jpeg?alt=media&token=ba7795bd-cbee-4495-bd63-5b1ec38157fd)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FDflleTPpdJ.jpeg?alt=media&token=18c4e482-27a3-472c-ab5f-c648934d9dd1)
+    - 
+- 新的背景图片看起来好像还可以，只不过颜色有一点深，看得不是很清楚。还可以吧，先这样吧
+- [[flomo]]现在可以和[[Notion]]联动了，感觉还是不错的
+- [[写作]]的根本还是表达欲。
+- 直面问题比逃避问题的内心感受还要好一些。
+- 看到央视称美国为“美离间祸众国”
+- 形式无法取代内容
+- 变的有点像油画了，可以根据自己的需求修改一下。可以调整一下思路。
+- 一条信息与信息之间的集合体。
