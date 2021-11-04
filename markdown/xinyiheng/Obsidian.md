@@ -19,4 +19,6 @@ via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/I
     - 我的 Obsidian 工作流：模板+QuickAdd+Dataview 快速创建和自动索引 - 少数派 (https://sspai.com/post/68350)
     - 少数派上的文章一览
         - https://sspai.com/search/post/obsidian
+    - 常用 Obsidian 处理中文长文？试试这些这些大幅提升体验的插件和代码片段Via[常用 Obsidian 处理中文长文？试试这些这些大幅提升体验的插件和代码片段 - 少数派](https://sspai.com/post/69628) [[20211104]] 下午1:35
+    - 
 
