@@ -94,7 +94,7 @@ if (!existing) {
 ```
 - 实验
     - {{[[roam/js]]}}
-        - ```javascript
+        - ```css
 //var changshi=document.getElementByClassName("bp3-icon-more");
 //changshi.setAttribute("accesskey","a");
 //function myFunction() {
@@ -125,4 +125,3 @@ var h = date.getHours();
 
 ```
 - rm-block-separatorVia[DevTools - roamresearch.com/](devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@ff5c0da2ec0adeaed5550e6c7e98417dac77d98a/&panel=elements&dockSide=undocked) [[20210913]] 下午11:52rm-block-separatorVia[document.querySelector() - Web API 接口参考 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Document/querySelector) [[20210913]] 下午11:55
-- 
