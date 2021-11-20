@@ -178,8 +178,7 @@ document.getElementsByTagName("head")[0].appendChild(s);
 - 卡片写作，我最喜欢的主题# [[blck:green]]
     - {{[[roam/js]]}}
         - ```javascript
-const CARD_MODE_VERSION = "gh-pages";
-window.URLScriptServer = `https://raw.githack.com/JimmyLv/styled-roam/${CARD_MODE_VERSION}/`;
+window.URLScriptServer = `https://styled-roam.vercel.app/`;
 
 var existing = document.getElementById("styled-roam");
 if (!existing) {
@@ -189,7 +188,8 @@ if (!existing) {
   extension.async = true;
   extension.type = "text/javascript";
   document.getElementsByTagName("head")[0].appendChild(extension);
-}```
+}
+```
 - {{[[roam/js]]}}
     - ```javascript
 // ==UserScript==
