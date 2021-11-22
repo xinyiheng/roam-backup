@@ -178,16 +178,25 @@ document.getElementsByTagName("head")[0].appendChild(s);
 - 卡片写作，我最喜欢的主题# [[blck:green]]
     - {{[[roam/js]]}}
         - ```javascript
-window.URLScriptServer = `https://styled-roam.vercel.app/`;
+window.URLScriptServer = `https://styled-roam.vercel.app/`
+window.styledRoamDisabledFeatures = [
+  // 'CardListMode',
+  // 'CardFlowMode',
+  // 'TreeTableMode',
+  // 'DocumentMode',
+  // 'CalendarMode',
+  // 'DownloadMode',
+  // 'FocusMode',
+]
 
-var existing = document.getElementById("styled-roam");
+var existing = document.getElementById('styled-roam')
 if (!existing) {
-  var extension = document.createElement("script");
-  extension.src = window.URLScriptServer + "js/index.js";
-  extension.id = "styled-roam";
-  extension.async = true;
-  extension.type = "text/javascript";
-  document.getElementsByTagName("head")[0].appendChild(extension);
+  var extension = document.createElement('script')
+  extension.src = window.URLScriptServer + 'js/index.js'
+  extension.id = 'styled-roam'
+  extension.async = true
+  extension.type = 'text/javascript'
+  document.getElementsByTagName('head')[0].appendChild(extension)
 }
 ```
 - {{[[roam/js]]}}
