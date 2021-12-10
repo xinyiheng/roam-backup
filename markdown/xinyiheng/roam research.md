@@ -39,8 +39,6 @@ via[How to build diagrams in Roam Research - Ness Labs](https://nesslabs.com/roa
                 - 如何退出全屏
                 - 如何删除一个节点？
                 - 建立这种方框好像还是用option键
-            - 
-            - 
         - 表格视图
             - {{table}}
                 - 标题
