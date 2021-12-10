@@ -2,7 +2,7 @@
 - 现在看来，还是应该用起一些在ipad上有版本的笔记工具，比如[[kb(Knowledge database)]]、[[mindnode]]、[[幕布]]、[[the brain]]和[[滴答清单]]
 - 我安装的美区的[[scrivener]]非常不错
 - [[cardflow]]也有mac版本，在mac上阅读收集摘抄的语句，在ipad上随意拖拽整理也是很好的使用体验。
-- 我目前在ipad上有三种感觉不错的[[阅读批注]]的方式
+- 我目前在ipad上有三种感觉不错的[[阅读批注]]的方式#[[阅读]]
     - 使用[[diigo]]app阅读
     - 使用[[safari浏览器]]阅读，然后通过分享-标注-用marginnote或者liquidtext来阅读。
     - 使用[[safari浏览器]]阅读，然后把要摘抄的内容利用分屏功能拖拽到[[mindnode]]中整理，整理之后可以把文本复制到[[roam research]]这类知识体系笔记中
