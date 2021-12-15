@@ -1,2 +1,1 @@
-- open
 - auto focus
