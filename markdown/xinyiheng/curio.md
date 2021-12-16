@@ -9,6 +9,8 @@
 - 支持直接[跳转](curio://welcome?i=5guI4MvIRLiU0YBV9uMqdA)到curio里的一个idea space，这个太牛了！！！！！！！甚至可以定位到视频的某个片段。
 - curio支持figure之间跳转，目前还不支持双链。
     - 也支持双链，叫作reference。
+        - 用法是先把被参考的内容复制，然后找到要放置参考的地方，右键，选择
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FZg43phGkC5.png?alt=media&token=5864ebba-f89d-43cd-97ec-ca9a1510dd32)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FgkG5czrOiK.png?alt=media&token=de98ef79-f776-4c6c-947b-d42097a5382e)
 - 开发了daily journal板块，也是希望用户每天使用。
 - 支持markdown模式
