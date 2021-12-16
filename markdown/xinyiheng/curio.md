@@ -1,4 +1,5 @@
 - curio这款软件实在是太牛了，既然可以把一些其他app的图表拖拽过来直接启动。这简直就是最强的本地工作流程管理工具，非常方便。拖拽的方式是，在finder中找到所有app的列表，直接把想要选择的app拖拽到cuiro的文档面板就可以。
+- curio里的所有元素都称为一个figure，不管是一张图片、text、pdf、pinboard、mindmap还是table。
 - cuiro可以当做很好的本地资源管理工具。特别是某个项目常用的几个文档，几个软件，都可以直接拖拽到curio里面的一个文档里，形成一个看板。非常美观方便，curio看来要融入我日常的工作流中了。
 - 怎样把只拖进来一个快捷方式
     - ## From the Finder
@@ -6,7 +7,10 @@
 - curio居然还可以阅读pdf文件，用到的是spread pdf across idea space这个选项。在一个有pdf文件的idea 里右键，选择方框里的选项，稍等一会就会复制很多份这个idea pad，分属和pdf的页数一样
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9JSGH7Iq8F.png?alt=media&token=e247b434-9f8e-4a95-8bae-5641a8c6d87a)
 - 支持直接[跳转](curio://welcome?i=5guI4MvIRLiU0YBV9uMqdA)到curio里的一个idea space，这个太牛了！！！！！！！甚至可以定位到视频的某个片段。
-- 
+- curio支持figure之间跳转，目前还不支持双链。
+    - 也支持双链，叫作reference。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FgkG5czrOiK.png?alt=media&token=de98ef79-f776-4c6c-947b-d42097a5382e)
+- 开发了daily journal板块，也是希望用户每天使用。
 - 支持markdown模式
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FsMzvscmzOS.png?alt=media&token=c7d819ca-319b-41bb-9d21-b3c340f8ee74)
 - 比较清晰地呈现信息的白板工具。
