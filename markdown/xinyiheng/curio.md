@@ -3,6 +3,12 @@
 - 怎样把只拖进来一个快捷方式
     - ## From the Finder
     - When dragging in a file from the Finder, a copy of the file will be embedded in your project. Alternatively, if you hold the Command key while dragging in a file then the original will be moved into your project. If you hold the Option key then an alias to the original will be created (make sure to begin dragging first then press and hold the Option key, otherwise the Finder may hide the active application).
+- curio居然还可以阅读pdf文件，用到的是spread pdf across idea space这个选项。在一个有pdf文件的idea 里右键，选择方框里的选项，稍等一会就会复制很多份这个idea pad，分属和pdf的页数一样
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9JSGH7Iq8F.png?alt=media&token=e247b434-9f8e-4a95-8bae-5641a8c6d87a)
+- 支持直接[跳转](curio://welcome?i=5guI4MvIRLiU0YBV9uMqdA)到curio里的一个idea space，这个太牛了！！！！！！！甚至可以定位到视频的某个片段。
+- 
+- 支持markdown模式
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FsMzvscmzOS.png?alt=media&token=c7d819ca-319b-41bb-9d21-b3c340f8ee74)
 - 比较清晰地呈现信息的白板工具。
 - 版面可以做到无限大，也可以有一定限制。
 - 我用curio制作了一个curio使用方法的介绍。可以在cuiro文件夹里找到。
