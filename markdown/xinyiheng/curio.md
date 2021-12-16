@@ -1,5 +1,8 @@
 - curio这款软件实在是太牛了，既然可以把一些其他app的图表拖拽过来直接启动。这简直就是最强的本地工作流程管理工具，非常方便。拖拽的方式是，在finder中找到所有app的列表，直接把想要选择的app拖拽到cuiro的文档面板就可以。
 - cuiro可以当做很好的本地资源管理工具。特别是某个项目常用的几个文档，几个软件，都可以直接拖拽到curio里面的一个文档里，形成一个看板。非常美观方便，curio看来要融入我日常的工作流中了。
+- 怎样把只拖进来一个快捷方式
+    - ## From the Finder
+    - When dragging in a file from the Finder, a copy of the file will be embedded in your project. Alternatively, if you hold the Command key while dragging in a file then the original will be moved into your project. If you hold the Option key then an alias to the original will be created (make sure to begin dragging first then press and hold the Option key, otherwise the Finder may hide the active application).
 - 比较清晰地呈现信息的白板工具。
 - 版面可以做到无限大，也可以有一定限制。
 - 我用curio制作了一个curio使用方法的介绍。可以在cuiro文件夹里找到。
