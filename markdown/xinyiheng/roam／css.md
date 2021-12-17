@@ -415,10 +415,10 @@ span.rm-page-ref[data-tag] {
     - ```css
 
 :root {
-    --main-left-bg: #BECEFC;
-    --right-sidebar-bg: #9FD8D3(247 248 249);
+    --main-left-bg: white;
+    --right-sidebar-bg: rgb(247 248 249);
     --right-sidebar-drag-bg: #337ac6;
-    --masonry-bg: #F1F7FA;
+    --masonry-bg: white;
     --masonry-scrollbar-bg: lightgrey;
     --masonry-resizer-color: lightgrey;
     --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
@@ -431,9 +431,8 @@ span.rm-page-ref[data-tag] {
     --code-color: crimson;
     --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
 }
-#right-sidebar, div.roam-app>div.flex-h-box {
-    background-color: var(--right-sidebar-bg);
-}
+
+
 /*修改url链接的文字颜色*/
 a {
   color:#9708AE !important;
@@ -504,8 +503,10 @@ div {
 
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     
+
   	background-image:url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FDflleTPpdJ.jpeg?alt=media&token=18c4e482-27a3-472c-ab5f-c648934d9dd1");
-    background-size:100% 100% ;
+  	background-size:100% 100% ;
+
 }
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
@@ -538,6 +539,28 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     background-image: url("");
     padding: 20px 16px 16px 0;
 }
+
+div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
+    background-color: var(--main-left-bg);
+}
+
+#right-sidebar, div.roam-app>div.flex-h-box {
+    background-color: var(--right-sidebar-bg);
+}
+
+#roam-right-sidebar-content {
+    overflow: auto !important;
+}
+
+.sidebar-content {
+    overflow: unset;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 99%;
+    align-content: flex-start;
+}
+
 .sidebar-content>div:not(.rm-dnd-separator) {
     margin-bottom: 10px !important;
     display: flex;
@@ -662,8 +685,6 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     left: 1px;
     background-color: var(--right-sidebar-drag-bg);
 }
-
-
 
 .sidebar-content .rm-dnd-separator {
     width: unset;

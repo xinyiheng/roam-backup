@@ -94,3 +94,35 @@ if (!existing) {
 ```
 - 实验
     - {{[[roam/js]]}}
+- 秘密花园
+    - {{[[roam/js]]}}
+        - ```javascript
+:root {
+    --main-left-bg: white;
+    --right-sidebar-bg: rgb(247 248 249);
+    --right-sidebar-drag-bg: #337ac6;
+    --masonry-bg: white;
+    --masonry-scrollbar-bg: lightgrey;
+    --masonry-resizer-color: lightgrey;
+    --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
+    --masonry-minWidth: 440px;
+    --masonry-maxWidth: 1200px;
+    --masonry-startHeight: 234px; /* DEFAULT: 243px; Use "unset" to prevent loading in grid like format */
+    --masonry-minHeight: 200px;
+    --masonry-border: 1px solid lightgrey;
+    --closed-bullet-color: 4px solid #CED9E0;
+    --code-color: crimson;
+    --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
+}```
+    - {{[[roam/js]]}}
+        - ```javascript
+var tfps = document.createElement("script");
+tfps.type = "text/javascript";
+tfps.src = "https://gitmurf.github.io/masonry-vanilla/JS/toggleFullPageScroll.js";
+document.getElementsByTagName("head")[0].appendChild(tfps);```
+    - {{[[roam/js]]}}
+        - ```javascript
+var mms = document.createElement("script");
+mms.type = "text/javascript";
+mms.src = "https://gitmurf.github.io/masonry-vanilla/JS/matuschakModeSizer.js";
+document.getElementsByTagName("head")[0].appendChild(mms);```
