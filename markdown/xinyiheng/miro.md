@@ -12,4 +12,3 @@
 - 可以和很多工具协同，比如，可以添加google 网盘里的文件和trello和印象笔记、onenote等协同，但是，很多协同需要用zapier，实在是用不起啊。notion可以嵌入miro，还是不错的。
 - #[[参考资料]]
     - https://academy.miro.com/
-    - 

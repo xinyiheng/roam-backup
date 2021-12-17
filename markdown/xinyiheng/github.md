@@ -23,4 +23,3 @@ via[文科生数据科学上手指南](https://bookdown.org/wshuyi/dive-into-dat
     - 另外我个人推荐的Github视频教程为 LearnCode.academy的作品 。在Youtube平台上，该视频观看次数超过130万，点赞次数将近10000。
 via[文科生数据科学上手指南](https://bookdown.org/wshuyi/dive-into-data-science-practically/q-and-a-time.html#dive-into-github-effectively)
 [[20201217]] 下午4:36
-    - 
