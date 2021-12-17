@@ -12,18 +12,6 @@ if (!existing) {
   extension.type = "text/javascript";
   document.getElementsByTagName("head")[0].appendChild(extension);
 }```
-    - roam-garden
-        - {{[[roam/js]]}}
-            - ```javascript
-var existing = document.getElementById("roamjs-roam-garden");
-if (!existing) {
-  var extension = document.createElement("script");
-  extension.src = "https://roamjs.com/roam-garden/main.js";
-  extension.id = "roamjs-roam-garden";
-  extension.async = true;
-  extension.type = "text/javascript";
-  document.getElementsByTagName("head")[0].appendChild(extension);
-}```
     - query-builder
         - {{[[roam/js]]}}
             - ```javascript

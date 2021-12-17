@@ -34,4 +34,8 @@
     - tag
         - 知识管理
 - {{mindmap}}
-- 
+- 实验  {{Refresh Numbering:SmartBlock:Create Numbered List}}
+    - 1: 新的
+        - 1.1: xind
+        - 1.2: 可以使用
+    - 2: 我之前想要使用

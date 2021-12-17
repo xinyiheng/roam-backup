@@ -174,8 +174,7 @@ document.getElementsByTagName("head")[0].appendChild(s);
   s.async = false;
   document.getElementsByTagName('head')[0].appendChild(s);  
 }```
-- 导入文章
-- 卡片写作，我最喜欢的主题# [[blck:green]]
+- 卡片写作，我最喜欢的主题
     - {{[[roam/js]]}}
         - ```javascript
 window.URLScriptServer = `https://styled-roam.vercel.app/`
@@ -397,7 +396,7 @@ const extractVideoID = (url) => {
 };
   
 setInterval(activateYtVideos, 1000);```
-- 发现未连接的page# [[blck:green]]
+- 发现未连接的page
     - {{[[roam/js]]}}
         - ```javascript
 var s = document.createElement('script');
@@ -428,26 +427,7 @@ document.body.appendChild(s);```
   background-color: slategrey !important;
   text-decoration: none !important;
 }
-- 以方括号触发的js插件来源：[roamjs docs](https://roamjs.com/docs/extensions/charts）# [[blck:red]]
 - 秘密花园
-    - {{[[roam/js]]}}
-        - ```javascript
-var tfps = document.createElement("script");
-tfps.type = "text/javascript";
-tfps.src = "https://gitmurf.github.io/masonry-vanilla/JS/toggleFullPageScroll.js";
-document.getElementsByTagName("head")[0].appendChild(tfps);```
-    - {{[[roam/js]]}}
-        - ```javascript
-var mms = document.createElement("script");
-mms.type = "text/javascript";
-mms.src = "https://gitmurf.github.io/masonry-vanilla/JS/matuschakModeSizer.js";
-document.getElementsByTagName("head")[0].appendChild(mms);```
-    - {{[[roam/js]]}}
-        - ```javascript
-var cbw = document.createElement("script");
-cbw.type = "text/javascript";
-cbw.src = "https://gitmurf.github.io/masonry-vanilla/JS/cycleBlockWidth.js";
-document.getElementsByTagName("head")[0].appendChild(cbw);```
 - [[roam/comments]]
     - [[June 16th, 2021]]
         - {{[[roam/js]]}}
