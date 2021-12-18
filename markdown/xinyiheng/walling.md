@@ -3,7 +3,7 @@
     - project
         - wall
             - section
-                - 其实相当与[[trello]]中的泳道，只不过trello往往是纵向排列卡片，而walling横向排列卡片。
+                - 其实相当于[[trello]]中的泳道，只不过trello往往是纵向排列卡片，而walling横向排列卡片。
             - brick（其实就是一张卡片）
                 - 每个brick可以添加node，其实也就是tag，最奇特的地方是，tag之间可以像graph图那样关联起来。
                 - brick可以添加tag等来进行管理

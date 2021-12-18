@@ -31,5 +31,5 @@
     - 好像用到了[[JavaScript]]
 - #[[软件联动]]
     - MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文Via[MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文_哔哩哔哩_bilibili](https://www.bilibili.com/video/bv1Tf4y1P7WH) [[20210915]] 下午10:50
-    - >Roam的链接跳转到marginnote? ma倒入印象笔记再把链接复制到Roam不是可以一样实现吗？
+    - > Roam的链接跳转到marginnote? ma倒入印象笔记再把链接复制到Roam不是可以一样实现吗？
     - https://diigo.com/0ltkef

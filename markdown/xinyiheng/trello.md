@@ -1,16 +1,20 @@
-- 对于[[trello]]的看板实在是难以割舍
-- 下载了planway插件
-- 界面非常美观
-- 有chrome插件，搜集任务非常方便
+- 对于[[trello]]的看板实在是难以割舍，界面非常吸引我，虽然notion也可以实现看板的功能，但是明显没有trello好看。
 - 可以配合Chrome插件planway来把任务添加的日历中去。（这个功能和滴答清单有些重复。想当初我为了实现一边是日历，一边是任务，可以把任务通过拖拽的方式来分配到日历中的时间段的功能，花了非常多的时间。后来发现用滴答清单实际上可以非常容易实现。surface上和mac上的滴答清单版本都可以实现这一功能。这种功能非常具有掌控感，我认为可以帮助我培养起安排好日程的习惯，实际上却没有。因为我后来发现，自己的日程实际上主要是和各种资料打交道，安排好资料与其说是日程管理，不如说是知识管理或者说知识处理流程管理。 #进步#[[知识管理]]
-- trello自带一些power-ups，好像可以链接到evernote，也就是印象笔记的国际版，但是我使用的是国内版，从稳定性来看国内版更好，功能开发也更快，但是对于各类工具的扩展支持不如国际版。
-- 我觉得如果实现把印象笔记的新建笔记自动同步到trello看板中会是我[[自动化]]方面重要的进展。我探索花了很多时间，依然没有实现。
-- 每个trello看板都有一个专属的邮箱地址，可以通过向这个邮箱发送邮件可以快速建立新的卡片。通过这种方式从印象笔记向trello发送建立卡片也并不理想，但是从邮箱发送邮件效果挺好。
-- 我安装了很多trello插件，可以实现很多功能
-    - 在网页中把网页链接和标题发送到trello当中
+- trello插件
+    - [[trello]]很强大，有很多插件围绕着trello做了优化。
+    - 收集插件，网页链接和标题发送到trello当中
+    - 每个trello看板都有一个专属的邮箱地址，可以通过向这个邮箱发送邮件可以快速建立新的卡片。通过这种方式从印象笔记向trello发送建立卡片也并不理想，但是从邮箱发送邮件效果挺好。
     - 发现了逐个快速添加印象笔记文件到trello的方法。就是在chrome浏览器里，打开印象笔记网页版，然后在点击add to trello插件，就可以把印象笔记的标题和链接添加到trello当中了。虽然不完美，但是可以把印象笔记多个相关笔记整理成一个目录笔记，然后把这个笔记文件保存到trello当中，也可以快速访问多个印象笔记文件。
+    - 我觉得特别好的插件可以实现以下几个功能：不打开[[trello]]看板的情况下新建卡片；在看板中预计项目执行时间和实际记录时间；以excel格式导出看板任务；展现或者隐藏[[trello]]卡片里面的任务清单；
     - planaway可以把trello任务放到日历中去
-- trello和印象笔记的联合
+    - 可以不打开[[trello]]快速添加新卡片，包括把网站的网址和标题发到[[trello]]当中
+    - 用planway规划任务并且同步到滴答日历中（在滴答清单中不能改动），可以拖动任务到日历中，并且还可以以甘特图的方式展现出来
+    - plus插件来记录每个任务预计时间和实际花费时间，生成报表
+    - pro可以做很多界面美化
+    - pomello可以对任务做番茄时间管理
+    - [[trello]]看板可以导入到notion中
+- trello和印象笔记的联合#[[软件联动]]
+    - trello自带一些power-ups，好像可以链接到evernote，也就是印象笔记的国际版，但是我使用的是国内版，从稳定性来看国内版更好，功能开发也更快，但是对于各类工具的扩展支持不如国际版。
     - trello和印象笔记联合
         - [To ConnectTo Evernote - FREEPowerup - YouTube](https://www.youtube.com/watch?v=GqhPx8kNeCU)
         - [Evernote toIntegration - To-dos - YouTube](https://www.youtube.com/watch?v=HZW-ATKfovQ)
@@ -21,13 +25,12 @@
         - [Is Always Better You Use Email - YouTube](https://www.youtube.com/watch?v=rvT5D-oQTdQ)
         - [The ONE Trello Setting You Should Change NOW! - YouTube](https://www.youtube.com/watch?v=96uaO6ShyuY)
         - [(79) 3 NewFeatures You Didn't Know Existed! - YouTube](https://www.youtube.com/watch?v=uAcU_msmplg)
-- 我一直很喜欢[[trello]]的看板模式，但是一直没有建立起使用的习惯来。
-- 发现[[trello]]是在是太强大了，有很多插件围绕着[[trello]]做了许多优化。
-- 我觉得特别好的插件可以实现以下几个功能：不打开[[trello]]看板的情况下新建卡片；在看板中预计项目执行时间和实际记录时间；以excel格式导出看板任务；展现或者隐藏[[trello]]卡片里面的任务清单；
-- 目前[[trello]]非常强大了。
-    - 可以不打开[[trello]]快速添加新卡片，包括把网站的网址和标题发到[[trello]]当中
-    - 用planway规划任务并且同步到滴答日历中（在滴答清单中不能改动），可以拖动任务到日历中，并且还可以以甘特图的方式展现出来
-    - plus插件来记录每个任务预计时间和实际花费时间，生成报表
-    - pro可以做很多界面美化
-    - pomello可以对任务做番茄时间管理
-    - [[trello]]看板可以导入到notion中
+- 其他提供[[看板视图]]的一些软件
+    - [[walling]]
+    - [[notion]]
+    - [[taskade]]
+    - [[Clickup]]
+    - [[coda]]
+    - [[滴答清单]]
+    - 其实[[roam research]]和[[Obsidian]]也都具有看板功能
+    - [[workflowy]]
