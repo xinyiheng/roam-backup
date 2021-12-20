@@ -7,3 +7,4 @@
     - [[Gingko]]
     - 卡片思维导图
     - mindnode？
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F_Wl0phM6Ek.png?alt=media&token=517d595a-7ec1-4768-9481-da8a2346434a)
