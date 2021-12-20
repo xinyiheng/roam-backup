@@ -8,7 +8,7 @@
     - ^^白板(whiteboard，卡片的思维导图)^^
         - 这是hetpa最大的亮点。首先，这是卡片的思维导图。说到卡片思维导图，不得不提[[Gingko]]，那么hepta和gingko有什么区别呢？gingko整体来说还是列表式的展现，新的卡片必须添加在某个位置。而hepta则提供了更广阔的思维空间，可以先把卡片放在一个位置，以后再和其他卡片关联。整体呈现来看，hepta展示更加舒展，更利于发散思考，而gingko更适合写作。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FIxAJ76CK7Z.png?alt=media&token=2d6bd378-d2f7-454a-a453-ecfa75fb6549)
-        - [[roam research]]和[[obsidian]]等都可以把一篇笔记做成思维导图，hepta的优点在哪里呢？
+        - [[roam research]]和[[Obsidian]]等都可以把一篇笔记做成思维导图，hepta的优点在哪里呢？
             - hepta是对card做思维导图，而不是对单张card里的内容做思维导图。hepta的思维导图应该对应roam research的graph图。graph图显示了不同page之间有联系，甚至可以知道哪张卡片引用了哪一张，但总体来说，无法清晰地展示page之间的逻辑关系。
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F129Bo7AGoR.png?alt=media&token=e19a7d68-e4c9-43d2-a6e4-ffd4efe1d3f6)
     - card library

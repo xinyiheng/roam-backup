@@ -34,7 +34,7 @@ via[Super — From Notion to Website in minutes](https://super.so/)
     - 插件notion+标记管理器。可以把在notion中高亮的内容整体集中显示出来，这非常适合在notion中快速把重点内容集中起来，也可以方便地把标记内容复制到其他工具中。
 - #[[软件联动]]
     - notion和[[roam research]]的联动
-        - notion的结构化做的非常好，roam更加自由灵动，我希望在notion中整理一些长久来看价值更高的内容。感觉notion更适合做任务管理，也就是一些资料或者进度的跟踪，不太适合做一个笔记工具。
+        - notion的结构化做的非常好，roam更加自由灵动，我希望在notion中整理一些长久来看价值更高的内容。感觉notion更适合做任务管理，也就是一些资料或者进度的跟踪，不太适合做一个笔记工具。@评论:这只是一时的感受而已。
     - notion居然可以直接导入思维导图文件的内容，并且保留原始的结构，amazing
     - notion与[[scrivener]]
         - scrivener/mindnode/幕布/notion/ulyssess这几个软件居然可以非常方便的相互转换，真是太棒了！！！！#[[软件联动]]
