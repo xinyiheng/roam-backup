@@ -13,7 +13,7 @@
             - block
                 - block是最小可拖拽单元
 - #[[交互体验]]
-    - 不同的卡片上的内容可以很方便的通过drag and drop来进行整合，和[[keep]]相比最大的好处是一个卡片里的block还可以拖拽到其他brick当中
+    - 不同的卡片上的内容可以很方便的通过drag and drop来进行整合，和[[google keep]]相比最大的好处是一个卡片里的block还可以拖拽到其他brick当中
     - 展示上有些接近幕布，但是幕布是竖版的，而walling的甬道可以看做是横向的。
     - 类似卡片版的[[Notion]]
     - 还有chrome剪藏插件。收藏图片有些像是[[eagle]]
