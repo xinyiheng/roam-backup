@@ -65,7 +65,7 @@ via[How to build diagrams in Roam Research - Ness Labs](https://nesslabs.com/roa
                     - 坏的
                         - 生成很多
                             - 这样就可以成为表格了
-        -  看板视图
+        - 看板视图
             - {{[[kanban]]}}
                 - 新的
                     - 应该可以继续使用下去
@@ -174,7 +174,6 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
     - [Roam-Excalidraw Plugin MVP Release](https://www.zsolt.blog/2021/03/roam-excalidraw-plugin-mvp-release.html) [[20210319]] 下午8:42 @评论:这是一款可以绘制类似whiteboard的插件
 - roam research有哪些功能吸引了我？
     - 大网图、小网图（大纲/缩略式脑图）、大小粒度块引用、双向链接，是笔者认为的必备的四个双向链软件经典特征，其它就是附加插件功能，读者也可以从这四个经典元素对各种软件进行考察得出自己心中的排行，其实也就是Roam Research的核心功能。-20201027
-
 作者：[[威廉]]
 链接：https://zhuanlan.zhihu.com/p/267451435
 via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
@@ -187,6 +186,7 @@ via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https
 via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
 [[20201230]] 下午11:38
 - #[[软件联动]]
+    - [Getting Started – Hook](https://hookproductivity.com/help/general/getting-started/#launch) 用这个软件可以把一些mac电脑中的其他文件以链接的形式添加到roam research中，这样可以完善它作为一元化笔记系统的核心处理器功能。#[[软件联动]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMGOqbSgeQz.png?alt=media&token=8f895f65-b871-4b36-98e1-6fdf44df2dfd)
     - roam research如何与[[Obsidian]]同步？#[[软件联动]]#[[自创]]
         - 我自己也已经通过快捷方式可以让二者同步，也并不复杂，有空的时候再看看别人介绍的这个方法，好像[[github]]确实可以帮助完成很多事情。
@@ -219,15 +219,13 @@ via[如何交互可视化 Roam Research 局部笔记网络？ - 少数派](https
 [[20201213]] 上午8:05@评论:王树义老师这个我一直没有使用，这个python的版本还是比较粗糙。
     - 怎么修改roam research导出的文件的格式？
         - https://roam-tools.ryanguill.com/?这个网站可以实现一些修改。
-- [Getting Started – Hook](https://hookproductivity.com/help/general/getting-started/#launch) 用这个软件可以把一些mac电脑中的其他文件以链接的形式添加到roam research中，这样可以完善它作为一元化笔记系统的核心处理器功能。
 - 如何取消roam research左边栏？
     - 隐藏以后每次鼠标划过都会弹出来，看着很闹人。
     - 我以前用css修改过，但是没有保存经验，现在不会弄了。
     - 在群里问，有人告诉我方法了。非常好。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FPdXPY9obGs.png?alt=media&token=bbe91f32-d2aa-4fe3-bb28-09ee17f80368)
-- roam research的内容转换成为[[anki]]？
-    - 学习骇客制作了一个工具，可以把按照一定格式组织起来的roam research内容批量生成卡片。我使用过，但是它制作的是问题-答案这种形式的卡片。我最近喜欢制作close形式的卡片，觉得更适合我。
 - [[间隔记忆]]
+    - roam research的内容转换成为[[anki]]？
+        - 学习骇客制作了一个工具，可以把按照一定格式组织起来的roam research内容批量生成卡片。我使用过，但是它制作的是问题-答案这种形式的卡片。我最近喜欢制作close形式的卡片，觉得更适合我。
     - 目前roam research的插件也可以使用了，具体可以参考以下网页
         - https://roamstack.com/kb/extensions/roam-sr/#installing-roam-sr
-- 

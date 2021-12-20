@@ -1,0 +1,9 @@
+- {{diagram}}
+    - [[heptabase]]
+    - [[roam research]]
+    - [[diigo]]
+    - 把参考资料拖进笔记
+    - 优化graph图
+    - [[Gingko]]
+    - 卡片思维导图
+    - mindnode？

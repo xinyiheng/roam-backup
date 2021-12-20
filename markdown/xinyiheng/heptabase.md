@@ -2,7 +2,9 @@
     - card
         - 这是最基本的构成部分。在所有的软件中都有这个部分。它相当于[[roam research]]的page，相当于[[印象笔记]]中的一篇note。heptabase可以在白板中双击新建一张card，这是交互方式的一个亮点。在写card内容的时候，是一个支持markdown的编辑器。
         - 还有一个亮点是在白板中，card可以折叠起来，而不是像[[scapple]]那样，所有的内容都展现在一张平面上。这种体验更像是[[mindnode]]节点添加了注释。
-        - 一张卡片可以出现在多个白板中，甚至还可以在白板中把一些现有的卡片直接拖拽过来，这一点非常棒。这有些类似[[diigo]]的使用体验。但从本质上看，roam research之类的软件也可以实现这一功能。
+        - 一张卡片可以出现在多个白板中，甚至还可以在白板中把一些现有的卡片直接拖拽过来，这一点非常棒。这有些类似[[diigo]]的使用体验。但从本质上看，roam research之类的软件也可以实现这一功能。每一个linked reference相当于体现了这张卡片出现在哪个白板上。这是因为，roam research当中page，既可以理解为一张卡片，也可以理解为一张白板。只不过这张白板是bullet形式展示的。可能用diagram来展示更像是传统理解上的白板。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FocAN21VG8L.png?alt=media&token=deeca24e-c302-45c9-97de-a426002f3f45)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FuLaRq26ynh.png?alt=media&token=71dfe86f-8d58-4d07-9549-11cd05b1eae9)
     - ^^白板(whiteboard，卡片的思维导图)^^
         - 这是hetpa最大的亮点。首先，这是卡片的思维导图。说到卡片思维导图，不得不提[[Gingko]]，那么hepta和gingko有什么区别呢？gingko整体来说还是列表式的展现，新的卡片必须添加在某个位置。而hepta则提供了更广阔的思维空间，可以先把卡片放在一个位置，以后再和其他卡片关联。整体呈现来看，hepta展示更加舒展，更利于发散思考，而gingko更适合写作。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FIxAJ76CK7Z.png?alt=media&token=2d6bd378-d2f7-454a-a453-ecfa75fb6549)
@@ -17,4 +19,5 @@
         - 所有白板的集合。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FD2cMO_SBnr.png?alt=media&token=a6b8244f-bd71-4c95-be48-d0e7880daa5e)
     - timeline
-        - 在不打开白板的情况下快速创建卡片。这个很多软件都有这个功能。不多介绍了。
+        - 在不打开白板的情况下快速创建卡片。这个很多软件都有这个功能。不多介绍了。quick add。
+        - 补充一种把heptabase当作便签来使用的方法。进入timeline模式，调节窗口的大小，可以把heptabase做得更像一张便签。
