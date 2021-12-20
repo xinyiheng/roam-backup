@@ -6,7 +6,7 @@
     - View Mode中有3种视图模式：层叠、卡片、大纲，View Mode的3种模式掌握好了，[[scrivener]]的便捷性就能很快体现出来，层叠模式可以查看选中的所有内容，既可以是一个文件夹下的内容，也可以是单选 的多个章或小节内容。卡片模式有助于我们调整内容的组织结构，方便在卡片上拟定写作重点。大纲模式中则可以进行进度管理和调度安排。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)@评论:我当初看中[[scrivener]]也是被多种视图吸引。现在还知道了好多款可以切换视图的软件，比如[[Notion]]、clickup、taskade、wavemaker、airtable
     - 完整阅读了一遍scrivener的教程，发现之前有许多东西是不知道，也没有使用过的。当使用一个软件一段时间以后，完整阅读官方教程可能是一个最好的方法。
         - 搜索
-            - 可以根据格式来搜索，比如，搜索所有高亮的文本。
+            - 可以根据格式来[[搜索]]，比如，[[搜索]]所有高亮的文本。
         - 插入
             - 脚注和评论Go to **Insert > Inline Footnote** or **Insert > Inline Annotation** in the menu.
             - You can change the colour of an annotation by clicking into it and using the **Format > Color…** panel or the format bar colour button.When you export your work, ranges of text defined as footnotes can be turned into end-of-page footnotes, and ranges of text defined as annotations can be turned into comments or omitted altogether.
@@ -49,7 +49,7 @@
     - 有windows、mac和ipad版本，三个版本同步是个问题。我使用icloud在mac和ipad之间同步问题不大，使用坚果云在windows和mac之间同步也倒是能够互相查看文档，但是不方便。官方推荐的dropbox在国内不好用。
     - Collections 的目的是为了更有效的归纳已有的文件，有点类似于Outlook中的智能文件夹，例如：可以先建一个 新增章节 Collection，然后到Binder中选中新增的章节右键（Add to Collection）到 新增章节 中。换个方式来理解也像是给内容加标签，通过标签来区分和快速定位到内容。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
     - Draft目录下的内容默认都是输出合并文档的组成部分，Research目录下的内容一般用来放置各种写作会用到的资源文档，例如：网页、图片、素材文字等等，Research中的内容不会输出。 [literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
-    - Search Results是一个搜索痕迹保存的地方，只要搜索过的内容都会集中体现在这个默认分类当中。[literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
+    - Search Results是一个[[搜索]]痕迹保存的地方，只要[[搜索]]过的内容都会集中体现在这个默认分类当中。[literatureandlatte.com](http://www.literatureandlatte.com/forum/viewtopic.php?t=53967)
     - 打开多个文本参考。在双栏模式下，按住option键，拖动要参考的文章到栏目header处，双栏就会变成三栏，这时候要参考的文章会出现一个向上倾斜到箭头，单击这个箭头，要参考的文章就可以弹出来，随意拖动到副屏幕上查看。用这种方式可以打开好多个参考文本。
         - scrivener双栏显示有个bug，就是其中一个栏目里字只能排成一个长长的竖排，根本没办法阅读。用这种pop up 方式可以一定程度上弥补这个bug。我不知道是不是我设置的问题。
         - 双栏显示的bug只是在长文本试图出现，outliner和corkboard模式都正常。

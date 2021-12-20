@@ -176,7 +176,7 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
     - 大网图、小网图（大纲/缩略式脑图）、大小粒度块引用、双向链接，是笔者认为的必备的四个双向链软件经典特征，其它就是附加插件功能，读者也可以从这四个经典元素对各种软件进行考察得出自己心中的排行，其实也就是Roam Research的核心功能。-20201027
 作者：[[威廉]]
 链接：https://zhuanlan.zhihu.com/p/267451435
-via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
+via[(15 封私信 / 32 条消息) 威廉 obsidian - [[搜索]]结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
 [[20201230]] 下午11:38
     - 因为笔者的时间认知有限有很多笔记只简单使用过如：[[Infranodus]]、[[xanadu]] space、wuli wiki、[[gource]]、notion、Athens Research、葫芦笔记、印象笔记、dynalist、thebrain、tiddlywiki、[[workflowy]]、雅典、Craft、marginnote、[[MyBase]]、[[swrite]]、trilium、gingko、WikiLinks、[[connected papers]]、tagspaces等。D3.js、neo4j、PowerBI、Charticulator、R语言、Phyone、Nvivo这些专业的大工具更是只有肤浅的了解，都还未进行深度使用所以不好进行排行和对比解读，也就没进行测评排行，更多的双向链笔记软件可能连名字都不知道，所以就未出现在此文。-
 

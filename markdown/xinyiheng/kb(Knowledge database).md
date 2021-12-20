@@ -6,7 +6,7 @@
     - 可以作为一个草稿工具多加使用，有助于锻炼我的三维思考能力
 - 功能特点
     - 很喜欢那种三维展示效果。
-    - 之前没有使用过它最强大的功能，就是搜索网页，然后将标注自动添加到思维导图当中，从这个角度看，它可以算是一种特殊形式的网页版[[Marginnote]]。#[[软件启发]]。以前这个功能不好用，识别中文的效果很差，现在基本没有问题了。这个功能非常惊艳。可以在阅读一篇文章的时候做思维导图。
+    - 之前没有使用过它最强大的功能，就是[[搜索]]网页，然后将标注自动添加到思维导图当中，从这个角度看，它可以算是一种特殊形式的网页版[[Marginnote]]。#[[软件启发]]。以前这个功能不好用，识别中文的效果很差，现在基本没有问题了。这个功能非常惊艳。可以在阅读一篇文章的时候做思维导图。
         - 具体做法如下：在一个节点上新建笔记，把要标注的网页全文复制过来。在复制的时候，布局或者图片会有少许丢失，但问题不严重。进入编辑模式，选中框中内容就可以把鼠标选中的内容自动添加到导图中。想要把内容添加到哪个节点就先选中哪个节点。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FTF4uophwtV.png?alt=media&token=dd848928-8d1d-413b-bb45-e84eb26583cf)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FrlOcUsYNhG.png?alt=media&token=141e740c-6c38-41fb-8f1f-febc4b4b2125)
