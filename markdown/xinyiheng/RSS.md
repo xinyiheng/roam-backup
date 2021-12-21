@@ -1,2 +1,0 @@
-- [[inoreader]]
-- [[feed43]]
