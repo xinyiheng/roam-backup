@@ -11,3 +11,70 @@
                 - 用户上线，拼多多门槛更低，因此潜在客户群体比淘宝更多。
                     - 对于阿里电商来说，一个巨大的障碍在于，如果不拥抱微信，它的用户可能提前见顶，是的，淘宝的用户天花板是小于拼多多的，因为中国有数以亿计的中老年人，除了微信和小程序里的东西，其它电商真的用不来。让这些人学会注册淘宝、注册并使用支付宝购物，那是不可能完成的任务。粗略估计，这样的人最少1-2亿。所有的淘宝用户都可能是拼多多用户，但是不是所有拼多多用户都可能是淘宝用户，这些人不是不愿意，而是真的用不来淘宝，一个支付宝就能挡住一大批人。如果说中国电商用户的极限值是10亿的话，拼多多用户天花板就是10亿，而淘宝可能只有8亿多点。 [[36kr.com]][🔗](https://36kr.com/p/1103457306462724)
                     - 用户上线，拼多多门槛更低，因此潜在客户群体比淘宝更多。
+                    - 编程
+                        - javascript
+                            - [油猴使用指南 01：传说中的「油猴」与用户脚本 - 少数派](https://sspai.com/post/68574)
+                                - 用户脚本其实是一种注入式的 JavaScript 程序，在网页本身的程序之外，通过一些手段，将用户需要的数据和逻辑注入到当前的网页中，达到修改界面、增加功能等等的目的。
+                                - 换句话说用户脚本也是 JavaScript。JavaScript 能实现的能力，用户脚本基本也能做，比如操作页面元素，可以给页面中增加、删减、修改页面元素，最常见的去广告脚本就是这么实现的。
+                                - 用户脚本能提供一些普通 JavaScript 实现不了的能力。Greasymonkey 在最早的 0.25 版本中就带来了两个基本的功能： GM_xmlhttpRequest：用于发起跨域请求GM_registerMenuCommand：当用户操作菜单时，触发一个行为
+                                - 除了这两个功能之外，目前的用户脚本，大多采用了 Greasemonkey 制定的 [V4 API 规范](https://wiki.greasespot.net/Greasemonkey_Manual:API)。通过这个规范，我们就能知道用户脚本可以做什么了。 本地存储数据：这个能力和浏览器自带的 localStorage 比较像，可以给予用户脚本存储一些数据的能力。比如一些个性化的用户设置（譬如一张可爱的背景图）、用户数据（你关注的股票和基金）等等。获取外部资源：譬如从外部的地址获取图片、CSS 文件等等。发起浏览器提醒：调用浏览器右上角的那种提醒，可以指定文字图片和点击之后的效果。打开一个新页面：这个就很好理解，就是打开一个新的页面……设置剪贴板：这个能力可以访问你的剪贴板并给里面塞进去指定的内容。在 V3 版本的 API 中，还多了几个能力，包括： 插入 CSS 样式下载文件
+                                - 当然我更推荐下面的几个脚本源： [GreasyFork](https://greasyfork.org/) 可能是目前量最大的源，最开始让大家体验的 [少数派作者激励器](https://wvsjslugj8.feishu.cn/docs/%28https://greasyfork.org/zh-CN/scripts/429067-%E5%B0%91%E6%95%B0%E6%B4%BE%E4%BD%9C%E8%80%85%E6%BF%80%E5%8A%B1%E5%99%A8)也是这个平台中托管的[OpenUserJS](https://openuserjs.org/) 另一个开放的脚本源[Userscript.Zone](https://www.userscript.zone/)当然，直接在 GitHub 上去找脚本也是个不错的选择。
+                                - 因此我自己的解决方案是，对于轻量一些的场景，通过用户脚本+用户样式（user style）解决大部分浏览需求，重一些的场景则会选择浏览器扩展。
+                                - 用户脚本作为一个 17 年前的互联网老古董，现如今仍有自己的用武之地，还是十分令人感慨。但作为油猴使用指南的第一期，本文仅为增加大家对「油猴脚本」的一点了解，如果你想解锁用户脚本的全部实力、甚至自己动手制作用户脚本，还请留意本系列的后续内容更新。
+                            - [手把手教你用飞书 Webhook 打造一个消息推送 Bot - 少数派](https://sspai.com/post/68578)
+                                - 什么是 JSON？JSON（JavaScript Object Notation，即 JavaScript 对象表示法），是目前在 Web 领域里被广泛用于数据传递与交换的文件格式之一。JSON 通常由键值对构成，就像这样： { "id": 1, "name": "100gle", "site": "https://sspai.com/u/100gle/posts", "social_media": ["sspai", "Github"], "product": { "name": "Python 自学手册", "url": "https://sspai.com/series/148/list" } } 而我们的消息也是需要以这种格式来发送，当中包含的是关于该消息的类型、内容、其他参数等信息。
+                                - 什么是 JSON？JSON（JavaScript Object Notation，即 JavaScript 对象表示法），是目前在 Web 领域里被广泛用于数据传递与交换的文件格式之一。JSON 通常由键值对构成，就像这样：
+                                - { "id": 1, "name": "100gle", "site": "https://sspai.com/u/100gle/posts", "social_media": ["sspai", "Github"], "product": { "name": "Python 自学手册", "url": "https://sspai.com/series/148/list" } }
+                                - 而我们的消息也是需要以这种格式来发送，当中包含的是关于该消息的类型、内容、其他参数等信息。
+                        - [javascript](https://www.zhihu.com/search?type=content&q=javascript)
+                            - Javascript 的优势是动态灵活，然而太灵活了，大型工程难以保证质量，这也是 Chrome 发布了内置 DartVM 的版本，尝试用 Dart 取代 JavaScript 的__原因__之一。__虽然__这个超前的尝试失败了，但也说明__ Google __并不看好 Javascript，至少 Dart 比它先进。__Google__ 内部很多项目(如内部广告系统)都采用 Dart 来生成 Web前端了。 Flutter 携 Dart 之先进性，开启了统一 App/PC/Web 的征途。试问谁还会在乎 Javascript 的前景呢？多端大统一是大__趋势__，Javascript 程序员应该积极拥抱这种__变化__。
+                            - __如果__只能推荐一本 __JavaScript__ 的书，推荐《The Modern JavaScript Tutorial》，中文名《现代 JavaScript 教程》。
+                            - 这个教程是 [React 官方文档中与 MDN 并列推荐](https://link.zhihu.com/?target=https%3A//zh-hans.reactjs.org/docs/getting-started.html%23javascript-resources)的 JavaScript __学习__教程。
+                            - **这个教程主要分为三个部分：** **入门：**主要为 JavaScript 语言方面的内容，包括__数据__类型，循环，对象，闭包，Class，原型，继承，Promise，ES Module 等基础__知识__。**提升：**包括 BOM 和 BOM 的相关内容。**进阶：**包括__网络__请求，Web Components，正则，动画，浏览器缓存等相关内容。
+                            - 这个过程中，你会发现网页特效如banner焦点图切换，点击下拉再点击又关闭等效果以及字符串的检测等功能都可以在网上搜到很多现成的代码可以用，于是你就会觉的不亦乐乎，前端可以如此简单。
+                        - [前端三大框架以及jquery与bootstrap这种框架有什么区别？](https://www.zhihu.com/question/304757674)
+                            - 要回答这类问题，我们必须分清六个基本概念：Library，Toolkit，Framework，Design，Boilerplate，Scaffolding。看似这是几个基本概念，但是对于学习技术却很重要。我见过多个有十年工作经验的开发，简历里写的：熟悉jQuery框架。在很多人脑子里都只有框架这一个概念，啥都是框架。
+                            - **Library**就是库，而且分为两类。 一类是方法库，用来实现特定需求的一组API集合。最常见的就是jQuery，它是一系列操作DOM和AJAX的API组成的方法库。除了jQuery，还有早期的Prototype，Dojo，Mootools，后面这三个在当时也被称为三大前端工具库。
+                            - 操作Data的有UnderScore和Lodash，操作Event的有现在流行的RxJS，他们都是Library，在需要的时候，正确调用他们提供的方法就可以。
+                            - 一类是UI组件库，满足特定业务需要的高可复用的常见UI组件集合。例如Ant Design of React/Ant Design of Angular(NG-ZORRO)，Element UI，LayUI，EasyUI。早期的Yahoo UI，Extjs，jQuery UI。
+                            - Bootstrap是一个**Toolkit**(工具箱)，给你提供创建现代响应式页面所需要的工具，包含一套完整的响应式CSS类库，字体，同时还有一套很完整的UI组件。只是这些组件原生是用jQuery写的，不适用于现在主流的前端。所以产生了很多衍生UI库，例如Angular实现的ng-bootstrap和ngx-bootstrap，React实现的react-bootstrap，Vue实现的bootstrap-vue。
+                            - **Framework**是框架，用来构建一个应用的主体结构。然后你在这个主体结构上添砖加瓦，实现自己的需求。Web服务器端的框架基本实现的都是MVC设计模式，你在Model、View、Controller层分别去添加代码。Web前端，Angular(以及它的前身Angularjs)实现的都是MVP模式，是Model、View、Presenter三层。老一辈的其他前端框架，例如Backbone、Ember，实现的是所谓MVVM。 当前**所谓**的前端三大框架，只有Angular算作严格意义上的Framework，而且是一个**Opinionated** Framework，其他两个不算。
+                            - 所以，Vue(法文View的意思)本质上是一个解决View层的Library
+                            - React官网就没这么遮遮掩掩了，首页最大的字： A JavaScript **library** for building user interfaces所以，Vue和React都是关注于View这一层的Library。也正因如此，用React或Vue搭建项目就还需要一系列其他周边库做补充支持。例如React本身没有实现路由导航，就需要react-router。等等，还有很多，俗称全家桶。
+                            - react 单独而言也就仅是 view 层面的一个库，然后和其配套的库配合在一起，就成了框架。
+                            - **Design**是设计语言。当说到xxx Design的时候，前端应该经常听到Material Design和Ant Design，分别是Google和阿里的推出的两种前端UI设计语言。 设计语言(或者说设计风格)，是指导UI设计需要遵循的一些约束。这些约束包括：色彩、布局、层次、交互反馈等等。就像我们说建筑，有哥特式的、中国古典式的、希腊式的。买衣服，我们知道韩版、英伦风格、波斯米亚风格。
+                            - vue 则是以渐进式为特点，你将其用在单个的元素上（比如在vue官网上的入门案例那样），那就只是一个用于 model/view 双向绑定的的库罢了。但如果你将其用在整个网页上，甚至以 .vue 模板文件去组织网页，它就成了框架。
+                            - **Boilerplate**是模板、样板的意思。一般程序员很少了解这个概念，而是Library和Framework知道的多一些。上面说过了，当你用React开发的时候，React本身不能满足全部需求，就需要周边辅助的项目。如何把这些全家桶用最佳实践(Best Practice)的方式组合在一起？就需要有人给一个样板，Ant Design Pro就产生了。所以Ant Design是设计语言、Ant Design of React是遵循这门设计语言并且用React实现的UI组件库，Ant Design Pro就是模板。
+                            - **Scaffolding**是脚手架工具。前端的脚手架工具一般都是用cli提供的，cli是(Command Line Interface的缩写)，不是Client的前三个字母。例如ng-cli, create-react-app, vue cli，以及用Yeoman(YO)做出来的许多generator。 脚手架这个词看似陌生，但其实大家都见过。就是建筑工地大楼施工时候外面那一层钢管搭建的架子，还有很多绿色的网起到保护作用。**Scaffolding的作用就是辅助你快速搭建项目。但是Scaffolding不是最终成果物的一部分**！
+                            - 不管你用了jQuery也好，用了Vue也好，用了Bootstrap也好，这些东西的代码都会成为你最终编译成果的一部分，而Scaffolding不会。所以大楼建成以后，外面的脚手架是要被拆掉的，不会和大楼一起交付给业主！
+                            - React 起源于 Facebook 的内部项目，因为该公司对市场上所有 JavaScript MVC 框架，都不满意，就决定自己写一套，用来架设Instagram 的网站。
+                            - Angular 是一款十分流行且好用的 Web 前端框架，目前由 Google 维护。对于基于企业的应用程序和动态web应用程序，使用Angular是最好的选择。作为前端框架，Angular是一个完整的解决方案。如果你想构建一个范围有限的应用程序，你将不能使用Angular提供的资源。此外，当您拥有一个较小规模的团队时，请选择一个更小的框架，它具有更少的复杂性和简单的语法。
+                            - Vue是当今最流行的前端框架之一，它是一个简单而直接的框架。它擅长于消除Angular开发人员面临的复杂性。并提供了两个主要优点:可视化DOM和基于组件。它也是双向结合。
+                            - jQuery基本上是一个库，用于操作CSS和DOM，并优化网站的功能和交互性。
+                            - jq和bootstrap是library，而三大框架是framework。
+                            - library的意思是，用户愿意怎么搞怎么搞，需要用到库的东西的时候用API去调用，其他东西库一概不关心，随便搞什么库也不去干扰 。
+                            - 而framework就反过来，用户必须按照框架说的去做，框架会提供给用户一套机制来取代原来的机制，如果不通过框架调用底层机制可能会导致框架崩坏，总之是你做的一切都必须经过框架。
+                            - 前端三大框架以及jquery属于前端功能框架，处理的是前端数据相关问题。用来实现前端完整的解决方案，主要解决的是前端性能方面的问题。 Bootstrap是属于前端UI框架，主要用来实现前端页面以及交互问题，更偏向于UI方面。
+                            - 首先，我们做一个类比，把做一个Web产品，也就是一个Web页面，无论是单页多页还是其他的，都算Web页面，比做建一幢房子，一幢完整的房子。HTML是房子所有的材料结构，CSS是所有的装饰装修美化素材，JavaScript是整个房子所有的功能，比如门能够开能锁，水电能通能用。 然后，最原始，或者说最最基础的造房子的过程，我们是怎么做的呢，地基一点一点打，砖块加水泥一块一块垒，地砖一块一块贴，木制家具一点一点做，反正设计到哪就做到哪，水电想到哪装到哪，户型反正没个标准（说早些时候浏览器标准不统一的时候），这时候工人就很纠结，每一个房子我们都这样从头做起，效率从何而来，第一个房子造6个月，第二个房子5个半月，第三个及后续房子最多五个月，再也没法提高效率了。 后来，有了JQuery之类的JS Library，数JQuery最有名，它抹平了各种户型及设计上的差异，我们做了一些规定，水电的标准就是这样的，我们也拥有了一些趁手的建筑工具，使用方法也比较明确，我们已经可以定制一些小物件，比如一个整体的床，一个整体的窗户窗帘系统，或者我们整出了一个标准化的厕所，（这个时候基于JQuery水平的UI框架也都已经出现了，这时候的框架主要还是在小物件上，互相之间的条理也比较难理顺），他们给了建筑工人们更多可以用的模板物件，让工人们有了一些标准，所以效率得意提升，这回我们做一个房子只要3个月了。 再后来，出了类似Vue，React，Angular之类，其实这三种定位还是有一些不同的，但还算大同小异，在JQuery年代，我们能够定制的只是一些小物件，现在呢，我们已经可以定制整个房子了，我们相当于有了一套建材的3D打印设备，我们可以从内部打印出可组装式的卧室，客厅，厨房，厕所，书房，然后把他们拼成一个完整的房子，（这其中UI框架给我们提供了一些常用的组件，比如，每个厕所需要抽水马桶和洗手池，卧室需要床，再比如UI框架提供了，一体式厨房，UI框架以3D打印机为基础，提供了一套输出特定功能部件的，UI框架大多还提供了房间的空间布局，配色，以及一些小装饰），这回我们造一个房子估计只需要一个月就够了，而且如果造的越多，速度会越来越快。
+                            - 前端三大框架中只有angular是框架，你说的包含jquery的都是库，区别是有没有架构方面的解决方案，backbone是框架，但是复杂的多的vue只能是库，思考下区别。
+                        - [尤雨溪 - Gitee 封面人物](https://gitee.com/gitee-stars/14)
+                            - **尤雨溪 (Evan You)，前端框架Vue.js 作者，独立开源开发者，现居美国新泽西。曾就职于 Google Creative Labs 和 Meteor Development Group。由于工作中大量接触开源的 JavaScript 项目，最后自己也走上了开源之路，现在全职开发和维护 Vue.js。**
+                            - Vue 一开始完全是一个个人兴趣项目。2013 年的时候我还在 Google Creative Lab，那时候前端框架还处于比较草莽的阶段
+                            - 现在的Vue 跟运行初期相比，最大的区别就是框架涵盖的范围变大了许多。一开始 Vue 只有一个核心库，现在则是包含了路由、状态管理、CLI 工具链、浏览器开发者插件、ESLint 插件等等的全套设施。
+                        - [不用任何前端框架能开发一个企业网页吗？](https://www.zhihu.com/question/338882638)
+                            - 首先 Angular、React 和 Vue 这三个最常被叫做前端框架但它们严格来说是 **mvvm 框架**，最核心地部分用来解决频繁的前端数据/视图更新。简单来说就是你有一堆数据或者希望用户输入一堆数据，然后你要频繁地把数据（ [object.name](https://link.zhihu.com/?target=http%3A//object.name) = "John"）和网页视图（<div>John</div>）同步，那你就需要 mvvm 框架，因为现有的 HTML5 + CSS3 + JS 没法很方便的做到这一点。
+                            - 当然 ARV 三个框架在核心功能以外还提供了庞大的生态系统，覆盖了你构建一个成熟健全的 web app 的方方面面，但最核心的部分就是数据视图绑定。
+                            - 再然后有 jQuery、Bootstrap 这种大型库，它们的作用主要是提供广泛的浏览器兼容性支持并且扩充现有的 JavaScript API。举个例子如果你希望“对每一个 <div> 都给它一个 show 类”，使用 原生 JavaScript 你需要写一个循环，而使用这些库的话你只需要一条语句。它们是对现有功能的扩充，但并不是一个框架（Boostrap 稍微除外，它可以作为框架使用也可以作为库），所以它们比框架更接近原生。你还是需要自己搭积木，但它们给你提供了更好的积木。
+                            - 除此之外还有很多特型的框架和库，用来解决特别的问题，比如解决数据可视化的 D3.js
+                            - Node.js，因为这个东西本质上和“前端库”不是一个层面的东西。Node.js 不是一个框架或者库，它是一套开发体系，就像微软的 C#、Google 的 Go、甲骨文的 Java：它是一个“用一个特定的编程语言写程序”的体系，只是 Node 用的是 JavaScript。之所以它在前端里频繁出现，是因为我上面提到的每一个框架，尤其是 mvvm 们，**基本上**都需要 Node.js 编写的程序（就是它们自己）来把你根据它们的标准写的代码编译成 HTML5 + CSS3 + JavaScript 在浏览器里运行。所以当你选择了使用框架们，很大概率你需要安装 Node.js 作为它们的“编译器”或者“运行时”。
+                            - 如果你定义的“企业网页”不是什么大型的Web应用，只是一个展示页面之类的，那当然可以做，用三大框架反而会起反效果。 当然，如果是ERP这种中大型的Web应用，你硬是要抛开框架等等只用原生开撸，能力达到一定水平时间够多也能撸出来，麻烦耗时就是，有打火机不用为啥要钻木取火呢？
+                            - 何苦为难自己，前端早过了刀耕火种的年代了，vue写编译出来就是你说的html css js 。
+                        - [不同前端框架下的代码转换](https://www.jiqizhixin.com/articles/2019-03-20-10)
+                            - 日常工作中我们接触最多的编译器就是Babel，Babel可以将最新的Javascript语法编译成当前浏览器兼容的JavaScript代码，Babel工作流程分为三个步骤，由下图所示：
+                        - [人生苦短，我用 Python——我如何用 Python 助力工作和生活？](https://sspai.com/post/57061)
+                        - [玩转 Terminal 终端：入门指南及进阶技巧 - 少数派](https://sspai.com/post/45534)
+                        - [《笨办法学Python3（Learn Python3 The Hard Way 中文版）》](https://www.bookstack.cn/read/LearnPython3TheHardWay/spilt.59.learn-py3.md)
+                        - [附录 A：命令行速成教程 - 介绍：别说话，开始用 Shell - 《笨办法学Python3（Learn Python3 The Hard Way 中文版）》 - 书栈网 · BookStack](https://www.bookstack.cn/read/LearnPython3TheHardWay/spilt.1.spilt.60.learn-py3.md)
+                            - 编程语言就是用更高级的方式去控制你的计算机，而命令行就是编程语言的雏形。一旦你掌握了命令行，你就能够更轻松地学习编程语言。
+                        - [Web页面快捷键自定义](https://blog.csdn.net/gloomyboyo/article/details/4924867?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.no_search_link)
+                            - Web页面快捷键自定义，好像可以用html里的accesskey属性。
