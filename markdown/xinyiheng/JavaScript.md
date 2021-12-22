@@ -1,4 +1,19 @@
-- roam之类的网页应用很多互动效果是通过javascript实现的。能够支持javascrpt的笔记工具应该可以实现更多的互动性。
+- roam之类的网页应用很多互动效果是通过javascript实现的。能够支持javascrpt的笔记工具应该可以实现更多的互动性。
+- javascript
+    - [油猴使用指南 01：传说中的「油猴」与用户脚本 - 少数派](https://sspai.com/post/68574)
+        - 用户脚本其实是一种注入式的 JavaScript 程序，在网页本身的程序之外，通过一些手段，将用户需要的数据和逻辑注入到当前的网页中，达到修改界面、增加功能等等的目的。
+        - 换句话说用户脚本也是 JavaScript。JavaScript 能实现的能力，用户脚本基本也能做，比如操作页面元素，可以给页面中增加、删减、修改页面元素，最常见的去广告脚本就是这么实现的。
+        - 用户脚本能提供一些普通 JavaScript 实现不了的能力。Greasymonkey 在最早的 0.25 版本中就带来了两个基本的功能： GM_xmlhttpRequest：用于发起跨域请求GM_registerMenuCommand：当用户操作菜单时，触发一个行为
+        - 除了这两个功能之外，目前的用户脚本，大多采用了 Greasemonkey 制定的 [V4 API 规范](https://wiki.greasespot.net/Greasemonkey_Manual:API)。通过这个规范，我们就能知道用户脚本可以做什么了。 本地存储数据：这个能力和浏览器自带的 localStorage 比较像，可以给予用户脚本存储一些数据的能力。比如一些个性化的用户设置（譬如一张可爱的背景图）、用户数据（你关注的股票和基金）等等。获取外部资源：譬如从外部的地址获取图片、CSS 文件等等。发起浏览器提醒：调用浏览器右上角的那种提醒，可以指定文字图片和点击之后的效果。打开一个新页面：这个就很好理解，就是打开一个新的页面……设置剪贴板：这个能力可以访问你的剪贴板并给里面塞进去指定的内容。在 V3 版本的 API 中，还多了几个能力，包括： 插入 CSS 样式下载文件
+        - 当然我更推荐下面的几个脚本源： [GreasyFork](https://greasyfork.org/) 可能是目前量最大的源，最开始让大家体验的 [少数派作者激励器](https://wvsjslugj8.feishu.cn/docs/%28https://greasyfork.org/zh-CN/scripts/429067-%E5%B0%91%E6%95%B0%E6%B4%BE%E4%BD%9C%E8%80%85%E6%BF%80%E5%8A%B1%E5%99%A8)也是这个平台中托管的[OpenUserJS](https://openuserjs.org/) 另一个开放的脚本源[Userscript.Zone](https://www.userscript.zone/)当然，直接在 GitHub 上去找脚本也是个不错的选择。
+        - 因此我自己的解决方案是，对于轻量一些的场景，通过用户脚本+用户样式（user style）解决大部分浏览需求，重一些的场景则会选择浏览器扩展。
+        - 用户脚本作为一个 17 年前的互联网老古董，现如今仍有自己的用武之地，还是十分令人感慨。但作为油猴使用指南的第一期，本文仅为增加大家对「油猴脚本」的一点了解，如果你想解锁用户脚本的全部实力、甚至自己动手制作用户脚本，还请留意本系列的后续内容更新。
+    - [javascript](https://www.zhihu.com/search?type=content&q=javascript)学习
+        - Javascript 的优势是动态灵活，然而太灵活了，大型工程难以保证质量，这也是 Chrome 发布了内置 DartVM 的版本，尝试用 Dart 取代 JavaScript 的__原因__之一。__虽然__这个超前的尝试失败了，但也说明__ Google __并不看好 Javascript，至少 Dart 比它先进。__Google__ 内部很多项目(如内部广告系统)都采用 Dart 来生成 Web前端了。 Flutter 携 Dart 之先进性，开启了统一 App/PC/Web 的征途。试问谁还会在乎 Javascript 的前景呢？多端大统一是大__趋势__，Javascript 程序员应该积极拥抱这种__变化__。
+        - __如果__只能推荐一本 __JavaScript__ 的书，推荐《The Modern JavaScript Tutorial》，中文名《现代 JavaScript 教程》。
+        - 这个教程是 [React 官方文档中与 MDN 并列推荐](https://link.zhihu.com/?target=https%3A//zh-hans.reactjs.org/docs/getting-started.html%23javascript-resources)的 JavaScript __学习__教程。
+        - **这个教程主要分为三个部分：** **入门：**主要为 JavaScript 语言方面的内容，包括__数据__类型，循环，对象，闭包，Class，原型，继承，Promise，ES Module 等基础__知识__。**提升：**包括 BOM 和 BOM 的相关内容。**进阶：**包括__网络__请求，Web Components，正则，动画，浏览器缓存等相关内容。
+        - 这个过程中，你会发现网页特效如banner焦点图切换，点击下拉再点击又关闭等效果以及字符串的检测等功能都可以在网上搜到很多现成的代码可以用，于是你就会觉的不亦乐乎，前端可以如此简单。
 - [[可视化]]library
     - [[d3.js]]
 - 只需要一个浏览器就可以学习javascript，环境配置真是简单。

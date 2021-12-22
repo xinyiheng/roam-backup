@@ -1,0 +1,3 @@
+- [Web页面快捷键自定义]#[[快捷方式]](https://blog.csdn.net/gloomyboyo/article/details/4924867?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.no_search_link)
+    - Web页面快捷键自定义，好像可以用html里的accesskey属性。
+- 

@@ -2,4 +2,4 @@
 - 我的理解中，相当于[[知识图谱]]呈现的效果
 - [[arrows]]
 - [[kumu]]
-- 我今天(2021年12月22日)才第一次意识到，roam research中的graph图其实就是把一个page中提到的用shuang
+- 我今天(2021年12月22日)才第一次意识到，roam research中的graph图其实就是把一个page中提到的用双方括号包裹起来的内容以及下方linked referenc中的标题给展示出来了。graph图只告诉我们这些概念有关联，但是没有告诉有怎样的关联，其实看一看下面linked reference就明白了。#[[洞见]]

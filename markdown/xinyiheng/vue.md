@@ -1,1 +1,6 @@
 - [黑马程序员vue前端基础教程-4个小时带你快速入门vue_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12J411m7MG?p=37) [[20210909]] 上午11:51
+- [尤雨溪 - Gitee 封面人物](https://gitee.com/gitee-stars/14)
+    - **尤雨溪 (Evan You)，前端框架Vue.js 作者，独立开源开发者，现居美国新泽西。曾就职于 Google Creative Labs 和 Meteor Development Group。由于工作中大量接触开源的 JavaScript 项目，最后自己也走上了开源之路，现在全职开发和维护 Vue.js。**
+    - Vue 一开始完全是一个个人兴趣项目。2013 年的时候我还在 Google Creative Lab，那时候前端框架还处于比较草莽的阶段
+    - 现在的Vue 跟运行初期相比，最大的区别就是框架涵盖的范围变大了许多。一开始 Vue 只有一个核心库，现在则是包含了路由、状态管理、CLI 工具链、浏览器开发者插件、ESLint 插件等等的全套设施。
+- 

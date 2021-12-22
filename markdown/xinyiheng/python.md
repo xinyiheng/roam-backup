@@ -82,6 +82,7 @@ via[Python创建虚拟环境 - shyern - 博客园](https://www.cnblogs.com/shyer
             - Programming for Everybody
 -via[Programming for Everybody (Getting Started with Python) - 首页 | Coursera](https://www.coursera.org/learn/python/home/welcome)
     - 少数派推荐的学习资料
+        - [《笨办法学Python3（Learn Python3 The Hard Way 中文版）》](https://www.bookstack.cn/read/LearnPython3TheHardWay/spilt.59.learn-py3.md)
         - Python Cookbook 3rd Edition Documentation
 via[Python Cookbook 3rd Edition Documentation — python3-cookbook 3.0.0 文档](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
 [[20201217]] 上午9:07

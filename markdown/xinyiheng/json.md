@@ -16,4 +16,8 @@ via[附加案例二：用于获取数据的爬虫 - 少数派](https://sspai.com
 via[附加案例二：用于获取数据的爬虫 - 少数派](https://sspai.com/post/63900)
 [[20201225]] 上午9:05
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FyAsVK06qxs.png?alt=media&token=f12e2428-92d1-45f1-9553-4d3593b5c901)
-- 
+- [手把手教你用飞书 Webhook 打造一个消息推送 Bot - 少数派](https://sspai.com/post/68578)
+    - 什么是 JSON？JSON（JavaScript Object Notation，即 JavaScript 对象表示法），是目前在 Web 领域里被广泛用于数据传递与交换的文件格式之一。JSON 通常由键值对构成，就像这样： { "id": 1, "name": "100gle", "site": "https://sspai.com/u/100gle/posts", "social_media": ["sspai", "Github"], "product": { "name": "Python 自学手册", "url": "https://sspai.com/series/148/list" } } 而我们的消息也是需要以这种格式来发送，当中包含的是关于该消息的类型、内容、其他参数等信息。
+    - 什么是 JSON？JSON（JavaScript Object Notation，即 JavaScript 对象表示法），是目前在 Web 领域里被广泛用于数据传递与交换的文件格式之一。JSON 通常由键值对构成，就像这样：
+    - { "id": 1, "name": "100gle", "site": "https://sspai.com/u/100gle/posts", "social_media": ["sspai", "Github"], "product": { "name": "Python 自学手册", "url": "https://sspai.com/series/148/list" } }
+    - 而我们的消息也是需要以这种格式来发送，当中包含的是关于该消息的类型、内容、其他参数等信息。
