@@ -1,0 +1,79 @@
+- diigo导入
+    - 2021年12月22日
+        - 知识表征
+            - 我的知识库，可以分为：网络结构的滑箱笔记 树形结构的读书笔记 [[sspai.com]][🔗](https://sspai.com/post/69922)
+            - 全局标签系统的缺失可以看到，阅读工作流的每一环都离不开 # 标签 ，但现在还没有一个工具，可以将所有工具的标签串联起来。 我理想的效果，是点击 #营销 标签，我就能看到所有与营销相关的划线批注、临时笔记和永久笔记。那得多酷啊！ [[sspai.com]][🔗](https://sspai.com/post/69922)
+            - 我也有类似的需求。他所说的标签，就像是我在roam research中的page。
+        - 知识管理
+            - 「知识管理」真正的困难是「如何将信息传递给未来的我们」。 [[sspai.com]][🔗](https://sspai.com/post/68492)
+            - 我们记录信息，其实是在增援未来的自己。问题是，我们并不知道未来的自己需要什么东西。于是我们就开始记录所有可能性，但却忽略了，未来的我们其实和今天的我们无异，可能会着急、焦躁、没有耐心。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzI0MDA3MjQ2Mg==&mid=2247484513&idx=1&sn=a56b6571710147dc792d0fac60eeefe2&ascene=1&devicetype=android-29&version=2800063d&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AdbO0jy7phwKhAjR2CQ73fo%3D&pass_ticket=1ohmrG6%2BQFwGgRQHXBcXe9jrXOAwuGmapBbuEBWJourMjZin%2BU2ZKj%2FQsoLvdJCO&wx_header=1)
+            - 元数据[🔗](Metadata): 描述数据的数据。 举例:你和一个人打电话,你们电话的内容为数据,打电话的时间、时长为元数据. 博客系统中,博文为数据,博文的标题、添加时间、最后修改时间、标签、分类目录等为元数据. 一张数字照片是数据,它的拍摄地点、拍摄时间、光圈、快门、ISO等为元数据. [[zhuanlan.zhihu.com]][🔗](https://zhuanlan.zhihu.com/p/57614943)
+            - 什么是元数据？对于数据产生场景的描述。比如，一张照片是数据，但何时何地何人用何种设备设置了何种参数照出来的就是元数据。
+        - 渐进式阅读
+            - 下图中内容出自「TIAGO FORTE」的那篇著名的《Progressive Summarization: A Practical Technique for Designing Discoverable Notes》，翻译过来：「渐进式总结。设计可发现笔记的实用技术」。 [[sspai.com]][🔗](https://sspai.com/post/68492)
+            - 其实我们应该分层次的阅读内容，有一些层次略读，有一些层次精读，有一些层次和别的知识进行连接。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzI0MDA3MjQ2Mg==&mid=2247484513&idx=1&sn=a56b6571710147dc792d0fac60eeefe2&ascene=1&devicetype=android-29&version=2800063d&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AdbO0jy7phwKhAjR2CQ73fo%3D&pass_ticket=1ohmrG6%2BQFwGgRQHXBcXe9jrXOAwuGmapBbuEBWJourMjZin%2BU2ZKj%2FQsoLvdJCO&wx_header=1)
+            - 我的渐进阅读是这样的，先用[[diigo]]高亮内容，然后再用其自带的outliner整理成有体系的内容。之后整体拷贝到roam research的daily note中，之后再分别转运到响应的page中去。
+        - 房地产 黄奇帆
+            - 公积金
+                - 看公积金的受益比例，就明白，大部分人一辈子都轮不到用公积金买房。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzIzOTA3NTA5Mg==&mid=2652482646&idx=1&sn=24c55bb2838aea6c6b724f9736be1d8a&chksm=f2c2a62dc5b52f3bf60b703f9e09fc22667fcc71968e1a901a03a9a1f13e00d180d3a1548ffe)
+                - 这一点我感觉有些不太相信。没有用公积金买房子的人很大比例还是高收入者，比如中粮的40岁以上的经理人。
+                - 黄奇帆发表《新冠疫情下对经济发展和制造业复工的几点建议》，其中最引人注目的一条建议是“取消住房公积金”。黄奇帆说：住房公积金制度是1990年代初从新加坡学来的，现在我国房地产早已市场化，商业银行已成为提供房贷的主体，住房公积金存在的意义已经不大，将之取消可为企业和职工直接降低12%的成本。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzIzOTA3NTA5Mg==&mid=2652482646&idx=1&sn=24c55bb2838aea6c6b724f9736be1d8a&chksm=f2c2a62dc5b52f3bf60b703f9e09fc22667fcc71968e1a901a03a9a1f13e00d180d3a1548ffe)
+        - 阅读
+            - 非虚构作品多采用一种「沙漏型」结构，即开头和结尾信息含量最高，中间则是特定的细节类信息。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzI0MjY5Nzk1OQ==&mid=2247484747&idx=1&sn=3712f2ce06817f8486eb032d99c963c3&chksm=e97916c3de0e9fd5a95296a84b428159df68c1e503c63c8664c20178c88c7e4a4cf6543677c6)
+            - 带着问题，有目的地读我们在阅读中会得到三类信息：
+                - 是什么（what）：事实类信息，比如中国面积有多大；
+                - 怎么做（how）：方法流程类信息，比如怎样学好英语；
+                - 为什么（why）：原理类知识，比如为什么大河向东流； [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzI0MjY5Nzk1OQ==&amp;amp;amp;mid=2247484747&amp;amp;amp;idx=1&amp;amp;amp;sn=3712f2ce06817f8486eb032d99c963c3&amp;amp;amp;chksm=e97916c3de0e9fd5a95296a84b428159df68c1e503c63c8664c20178c88c7e4a4cf6543677c6)
+            - 高效阅读框架 （ADUR）在明确阅读目的后，我给你介绍一个我参考了大量资料，实践出整理出的一个阅读框架——ADUR框架。
+                - 其中A（ assess）是评估，先花几分钟评估阅读材料，制定阅读策略。
+                - 然后书要读三遍：
+                - 第一遍D（discover）是探索，把握书的整体架构，标注重点。
+                - 第二遍细读，为的是理解 U（understand ）。
+                - 第三遍则要将重点记住R（ remember ），或记录 R（record）在笔记中。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzI0MjY5Nzk1OQ==&amp;amp;amp;mid=2247484747&amp;amp;amp;idx=1&amp;amp;amp;sn=3712f2ce06817f8486eb032d99c963c3&amp;amp;amp;chksm=e97916c3de0e9fd5a95296a84b428159df68c1e503c63c8664c20178c88c7e4a4cf6543677c6)
+            - 通读网站 通读网站是一种很好的主题阅读方式，网站有沉淀下来的好思想，也有最新的趋势；有理论探讨，也有即时应用方案；有作者一家之言，也有读者多角度评论。通读某个领域的专业网站，可能比做一次书籍主题阅读来得更全面更节省时间。例如通读少数派网站，至少你会成为自我管理和高效数字生活的方法论高手，建立一个完整的知识框架。 [[sspai.com]][🔗](https://sspai.com/post/51236)
+            - 用网页插件来通读网站的确是一个新的思路。很有启发意义。
+            - 搜索信息时，我们通常要阅读多篇文章，辨别对比，以求获得对问题的全面认识，做出明智的决策。如果直接对比几十篇文章，可能会头晕眼花，利用 Liner 就可以先快速标记重点，再进行对比整合。 [[sspai.com]][🔗](https://sspai.com/post/51236)
+        - 🦩笔记 🦩提取 🦩标签 🦩印象笔记
+            - 大多数人的笔记就像一片茂密的丛林。里面有很多有趣的东西，但没有归纳，提炼，总结。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzI0MDA3MjQ2Mg==&mid=2247484513&idx=1&sn=a56b6571710147dc792d0fac60eeefe2&ascene=1&devicetype=android-29&version=2800063d&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AdbO0jy7phwKhAjR2CQ73fo%3D&pass_ticket=1ohmrG6%2BQFwGgRQHXBcXe9jrXOAwuGmapBbuEBWJourMjZin%2BU2ZKj%2FQsoLvdJCO&wx_header=1)
+            - 我们记录信息，其实是在增援未来的自己。问题是，我们并不知道未来的自己需要什么东西。于是我们就开始记录所有可能性，但却忽略了，未来的我们其实和今天的我们无异，可能会着急、焦躁、没有耐心。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzI0MDA3MjQ2Mg==&mid=2247484513&idx=1&sn=a56b6571710147dc792d0fac60eeefe2&ascene=1&devicetype=android-29&version=2800063d&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AdbO0jy7phwKhAjR2CQ73fo%3D&pass_ticket=1ohmrG6%2BQFwGgRQHXBcXe9jrXOAwuGmapBbuEBWJourMjZin%2BU2ZKj%2FQsoLvdJCO&wx_header=1)
+            - 举个小例子，在下面两张图中，我们需要找到一个洞窟，那么哪种情况下更简单呢？是在雨林中跋涉而寻？还是在山峰上远眺定位后再前行？显然后者更友好一些。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzI0MDA3MjQ2Mg==&mid=2247484513&idx=1&sn=a56b6571710147dc792d0fac60eeefe2&ascene=1&devicetype=android-29&version=2800063d&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AdbO0jy7phwKhAjR2CQ73fo%3D&pass_ticket=1ohmrG6%2BQFwGgRQHXBcXe9jrXOAwuGmapBbuEBWJourMjZin%2BU2ZKj%2FQsoLvdJCO&wx_header=1)
+            - [flomo Special - 如何在网页中，进行渐进式阅读（弱弱联合第六弹）][🔗](https://www.diigo.com/outliner/diigo_items/904019/12128769/616167883?key=34d57b46e1)
+            - 而另一种笔记像起伏的山峦，我们归纳，提取，整理，建立了我们的知识山丘。当我们需要寻找对应知识的时候，我们可以通过寻找山峰来确定大概范围确定目标，最终快速定位到我们想要找的知识洞窟。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzI0MDA3MjQ2Mg==&mid=2247484513&idx=1&sn=a56b6571710147dc792d0fac60eeefe2&ascene=1&devicetype=android-29&version=2800063d&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AdbO0jy7phwKhAjR2CQ73fo%3D&pass_ticket=1ohmrG6%2BQFwGgRQHXBcXe9jrXOAwuGmapBbuEBWJourMjZin%2BU2ZKj%2FQsoLvdJCO&wx_header=1)
+            - 标签
+                - 只使用标签进行整理 Evernote 有很多种整理方式，从大的来说有笔记本目录和标签体系 [[sspai.com]][🔗](https://sspai.com/post/51236)
+                - Evernote 的标签支持层级，你可以将特定主题标签拆分成多个子标签，也可以将关联标签拖到主题标签下，建立一个更加灵活的层级知识结构，也可以通过拖出去解散这个只是结构，这种处理层级的方法可比建立层级笔记本修改文章分类来得更加简单、灵活。 [[sspai.com]][🔗](https://sspai.com/post/51236)
+                - 只使用标签整理的结果就是标签数量膨胀，不过没关系，把标签按照笔记数量排序，仔细观察标签页，你会发现横向代表了知识的广度（收集意义上的），纵向代表了知识的深度（收集意义上的）。 [[sspai.com]][🔗](https://sspai.com/post/51236)
+                - 利用标签演示模式回顾 将所有文章放在「知识笔记本」里，必然「混乱不堪」，不过没关系，印象笔记排版一般般，我本来也不打算通过从上到下的列表方式浏览文章，我会使用标签演示模式。 打开标签页，选中一个标签，使用快捷键「ctrl+enter」以演示模式展示这个标签里的全部文章，「ctrl+←」「ctrl+→」切换前后页。在演示模式中，全屏无干扰，字体更大，字体间距更舒服，阅读更有满足感。 [[sspai.com]][🔗](https://sspai.com/post/51236)
+                - 如何解决印象笔记标签过多会很混乱的问题？
+            - 纸质笔记 模拟办公环境
+                - 很多時候不一定是先設好什麼目標，或是做出很漂亮的計畫，而是在不斷的記錄與回顧中，讓事情有所進展，或是找到某些真正的成就方向，無論是生活還是工作上。 [[playpcesor.com]][🔗](https://www.playpcesor.com/2021/12/2021.html)
+        - Diigo
+            - Diggo 它有三种标注模式，本质上是为收集服务的，例如使用「Read & Annotate」会进入阅读模式中标注，标注会收集到主页，但并不会保存在网页 [[sspai.com]][🔗](https://sspai.com/post/51236)
+            - 作者使用的版本可能比较老。diigo是我使用过的最好的标注工具了。现在也支持连续标注，就像拿着一支笔一直在画。 最好用的还是outliner功能。
+            - 将标注发送到 Evernote [[sspai.com]][🔗](https://sspai.com/post/51236)
+            - diigo虽然不支持一键分享到印象笔记。但是实际上把标注保存到印象笔记也非常容易。 在outliner模式下，export富文本格式，就可以轻松复制到印象笔记中了。整理本身就是一种享受。
+        - 交互体验
+            - 在线标注是对纸质阅读体验的还原 [[sspai.com]][🔗](https://sspai.com/post/51236)
+            - 体验非常重要
+        - 文化
+            - 建筑
+                - “柱”
+                    - 希腊的神庙可以依柱式来分类，“柱式”（order，此单词常指井然有序之意）这个词用得真是妙，因为它不仅用来指称神庙结构的组织，也显示各个结构之间，以及一个结构与整体大结构间圆满的关系与和谐的比例。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzIxOTAzNzU0OQ==&amp;mid=2647993479&amp;idx=1&amp;sn=86030817bf9fba42641de51129c4416c&amp;chksm=8fc0e685b8b76f931f124dcc53fdc9d7c49cc158a421087f0863e0ca16c4c48572a070443d48&amp;scene=0&amp;subscene=93&amp;clicktime=1639843001&amp;enterid=1639843001&amp;ascene=7&amp;devicetype=android-30&amp;version=28001057&amp;nettype=cmnet&amp;abtest_cookie=AAACAA%3D%3D&amp;lang=zh_CN&amp;exportkey=ATN1qQ5DbOWtww3gNg%2BPb%2BA%3D&amp;pass_ticket=UUhok%2BVvqHI3yhKNmES7aMgQ2kTdD0D5RSiCYzHz5AZnLE7j4WnuZSPKeHDp4jwH&amp;wx_header=1)
+                    - 他们甚至把支持房顶重量的柱子移到室外，利用圆柱和楣的原理，把两者串联成多用途的长柱廊。这个规划空间的方法，有效地将许多商店和工作铺收纳在一起，让这些要不然会沦为一堆零散的遮棚和陋舍的建筑显得优雅有序。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzIxOTAzNzU0OQ==&mid=2647993479&idx=1&sn=86030817bf9fba42641de51129c4416c&chksm=8fc0e685b8b76f931f124dcc53fdc9d7c49cc158a421087f0863e0ca16c4c48572a070443d48&scene=0&subscene=93&clicktime=1639843001&enterid=1639843001&ascene=7&devicetype=android-30&version=28001057&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=ATN1qQ5DbOWtww3gNg%2BPb%2BA%3D&pass_ticket=UUhok%2BVvqHI3yhKNmES7aMgQ2kTdD0D5RSiCYzHz5AZnLE7j4WnuZSPKeHDp4jwH&wx_header=1)
+                - 拱
+                    - 罗马使用拱加混凝土的结构，让柱子丧失它在建筑中必要的功用，为空间设计揭开崭新的一页。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzIxOTAzNzU0OQ==&mid=2647993479&idx=1&sn=86030817bf9fba42641de51129c4416c&chksm=8fc0e685b8b76f931f124dcc53fdc9d7c49cc158a421087f0863e0ca16c4c48572a070443d48&scene=0&subscene=93&clicktime=1639843001&enterid=1639843001&ascene=7&devicetype=android-30&version=28001057&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=ATN1qQ5DbOWtww3gNg%2BPb%2BA%3D&pass_ticket=UUhok%2BVvqHI3yhKNmES7aMgQ2kTdD0D5RSiCYzHz5AZnLE7j4WnuZSPKeHDp4jwH&wx_header=1)
+                    - 这是说的罗马
+                - 墙
+                    - 西方，每栋房子都骄傲地向路过的人炫耀自己的位置、地位与美。而中国屋主的社会地位，则可以从房屋在城市里或城市格状街坊中的方位看出端倪，不过从街上只能看到空白的墙。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzIxOTAzNzU0OQ==&mid=2647993479&idx=1&sn=86030817bf9fba42641de51129c4416c&chksm=8fc0e685b8b76f931f124dcc53fdc9d7c49cc158a421087f0863e0ca16c4c48572a070443d48&scene=0&subscene=93&clicktime=1639843001&enterid=1639843001&ascene=7&devicetype=android-30&version=28001057&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=ATN1qQ5DbOWtww3gNg%2BPb%2BA%3D&pass_ticket=UUhok%2BVvqHI3yhKNmES7aMgQ2kTdD0D5RSiCYzHz5AZnLE7j4WnuZSPKeHDp4jwH&wx_header=1)
+        - 项目
+            - 本书从生命周期的视角先后阐述了家族创业基本理论；个人创业生命周期、家族创业生命周期、企业创业生命周期；产品、产业和经济周期；可持续发展与家族企业的资源管理；每个阶段的创业精神以及成功跨越创业生命周期等。本书还融入了包括真功夫、国美、万向、李锦记等企业在内的中国家族创业的精彩案例，力求使本书能更好地贴近中国读者的生活和需求。 [[dedao.cn]][🔗](https://www.dedao.cn/eBook/6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3GX7Qw7olBEmjgakz1DPvYObQ4qpQdZqme9)
+        - 🦩记忆 🦩创新
+            - 存储在长期记忆中的知识的状态可以用两个变量来描述：[稳定性][🔗](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Stability)和[可提取性][🔗](https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Retrievability)。记忆的稳定性告诉您记忆在存储中可以持续多长时间。可提取性告诉你回忆一段知识是多么容易。在记忆研究中，这两个变量常常被混为一谈。 [[zhuanlan.zhihu.com]][🔗](https://zhuanlan.zhihu.com/p/99505568)
+            - 我主张少一些同行审查，多一些大胆的假设。 [[zhuanlan.zhihu.com]][🔗](https://zhuanlan.zhihu.com/p/99505568)
+            - [记忆的两个组成成分|浓缩通俗版 - 知乎][🔗](https://zhuanlan.zhihu.com/p/179076885)
+            - 遗忘是一个概率问题，我们需要用一个变量来衡量记忆后不同时间能够回忆起的概率。 [[zhuanlan.zhihu.com]][🔗](https://zhuanlan.zhihu.com/p/179076885)
+        - 育儿
+            - 單純的筆記，不需要很複雜的整理或設計，但這樣寫起來也很節省時間，更能當下就完成隨手的記錄。 單純的筆記，無論是紙本，還是 Evernote、 Notion 都能實踐。 [[playpcesor.com]][🔗](https://www.playpcesor.com/2021/12/2021.html)
+            - 單純的筆記，不需要很複雜的整理或設計，但這樣寫起來也很節省時間，更能當下就完成隨手的記錄。 單純的筆記，無論是紙本，還是 Evernote、 Notion 都能實踐。 [[playpcesor.com]][🔗](https://www.playpcesor.com/2021/12/2021.html)
+            - 累積進步的筆記：小孩畫畫任務 [[playpcesor.com]][🔗](https://www.playpcesor.com/2021/12/2021.html)
+            - 問題解決的筆記：小孩溝通與情緒練習 [[playpcesor.com]][🔗](https://www.playpcesor.com/2021/12/2021.html)
