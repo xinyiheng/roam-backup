@@ -132,6 +132,7 @@ Future task2               :         des4, after des3, 5d
         - 我觉得意义不大，没有实际使用，但是可以参考这个视频。
         - {{iframe:https://www.youtube.com/watch?v=g7iG47XeOX0}}
 - #[[快捷方式]]
+    - 在mac中，查看上一个或下一个用cmd+[或cmd+]，我现在才知道
     - 在windows 系统中，查看上一个或下一个page的按键是alt+左右箭头
     - 快速跳转到daily note ctrl+shift+d
     - {{iframe:https://cat-income-b7c.notion.site/f626dab7d985490fa504b763ea6f3e3c}}
