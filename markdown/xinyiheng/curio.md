@@ -1,4 +1,4 @@
-- curio这款软件实在是太牛了，既然可以把一些其他app的图标拖拽过来直接启动。这简直就是最强的本地工作流程管理工具，非常方便。拖拽的方式是，在finder中找到所有app的列表，直接把想要选择的app拖拽到cuiro的文档面板就可以。
+- curio这款软件实在是太牛了，既然可以把一些其他app的图标拖拽过来直接启动。这简直就是最强的本地工作流程管理工具，非常方便。拖拽的方式是，在finder中找到所有app的列表，直接把想要选择的app拖拽到cuiro的文档面板就可以。当然，如果明确地知道用哪个软件，直接打开也不难，但是，有时候如果不提前想好完成一个项目要用到哪些，就可能会遗忘。更重要的是，有些软件有链接，可以直接跳转到和某个项目最相关的部分。
 - curio里的所有元素都称为一个figure，不管是一张图片、text、pdf、pinboard、mindmap还是table。
 - cuiro可以当做很好的本地资源管理工具。特别是某个项目常用的几个文档，几个软件，都可以直接拖拽到curio里面的一个文档里，形成一个看板。非常美观方便，curio看来要融入我日常的工作流中了。
 - 怎样把只拖进来一个快捷方式
@@ -23,3 +23,4 @@
 - https://www.notion.so/xinyiheng/curio-73d5f92b7b4842218d4c5923ddbb7853
 - 隐藏所有的界面，整个表现为一个软木板
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWBxCSF1ZSh.png?alt=media&token=dec4dca7-68df-4f2d-81b5-3b4efd8d810e)
+- 以前，curio实现了所有参考资料的大一统，比如，关于一个项目所有要阅读的文章，包括pdf、epub、得到电子书、网页、本地保留的word，以及写作和整理要用到的mind node和scrivener软件的快捷跳转等等，把可以当做一个为了项目专门定制的包含各种数据和处理软件的工作流程。curio知道要阅读的文件在哪。roam research知道每一条标注，每一个想法(block)在哪。而[[roam research]]现在由于可以导入得到(通过印象笔记中转)、marginnote、网页内容(通过diigo中转)的内容，实现了所有标注内容的大一统。这两款软件实在是太棒了！！！！#[[洞见]]#[[文件管理]]#[[工作流]]#[[阅读管理]][[阅读批注]]

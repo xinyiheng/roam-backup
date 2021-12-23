@@ -186,6 +186,8 @@ via[(15 封私信 / 32 条消息) 威廉 obsidian - [[搜索]]结果 - 知乎](h
 via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
 [[20201230]] 下午11:38
 - #[[软件联动]]
+    - 如何用roam research模拟使用[[heptabase]]的体验？
+        - 用到两个功能，一个是插件[masonry-vanilla](https://github.com/GitMurf/masonry-vanilla)，另一个是roam自带diagram。在diagram中绘制一些想要关联的内容，用双方括号包裹起来，想要打开的时候就用shift点击，右侧就可以出现一张卡片。这样，既有卡片视图，也有卡片之间的联系。更为重要的是，卡片内部写的每个blcok也都可以被引用，所以，处理信息的颗粒度可以更小。
     - [Getting Started – Hook](https://hookproductivity.com/help/general/getting-started/#launch) 用这个软件可以把一些mac电脑中的其他文件以链接的形式添加到roam research中，这样可以完善它作为一元化笔记系统的核心处理器功能。#[[软件联动]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMGOqbSgeQz.png?alt=media&token=8f895f65-b871-4b36-98e1-6fdf44df2dfd)
     - roam research如何与[[Obsidian]]同步？#[[软件联动]]#[[自创]]
