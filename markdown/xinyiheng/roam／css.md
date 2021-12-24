@@ -411,8 +411,9 @@ span.rm-page-ref[data-tag] {
   border-radius: 3px;    
   font-weight:500;
 }```
-- ^^秘密花园^^
-    - ```clojure
+- [[侧边栏]]
+    - ^^秘密花园^^
+        - ```css
 
 :root {
     --main-left-bg: white;
@@ -718,7 +719,7 @@ div#right-sidebar .kanban-board .kanban-column {
     flex: 1 0 75px;
 }
 ```
-    - ```css
+        - ```css
 
 /* Extend the main page wider to allow for blocks to be wider  */
 
@@ -843,7 +844,7 @@ div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-ch
 }
 
 ```
-    - ```css
+        - ```css
 
 /* Extend the main page wider to allow for blocks to be wider  */
 
