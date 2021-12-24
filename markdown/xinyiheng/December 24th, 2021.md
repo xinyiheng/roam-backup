@@ -1,0 +1,22 @@
+- 阅读的工作流{{diagram}}#[[阅读管理]]#[[工作流]]
+    - block(最终的流向就是roam中的block)
+    - page(roam 中的文档)
+    - graph图(obsidian roam 自带)
+    - 白板概念图(curio)
+    - 卡片思维导图(heptabase)
+    - [[mindnode]]
+    - 网状思维导图(the brain)
+    - 整理成线性结构化的内容以后还可以整理成一个page
+    - 这类图如果整理不好，更像是对于page的索引，更像是一种索引卡片
+    - flomo
+    - diigo标注
+    - 印象笔记中的得到阅读标注
+    - marginnote中的阅读标注
+    - 掌握熟练以后，page的内容也可以理解为一个block
+    - ^^越往右，结构化越高，创新空间越大^^
+    - ^^越往左，认知负担越小，行动概率越高^^
+    - roam中的diagram辅助整理思路
+    - 概念文档
+    - 概念标签
+    - 概念遗珠
+- 
