@@ -1,5 +1,4 @@
 - Framework and Conceptual Model😀😀@评论:定义了一个图数据库的基础框架，对我思考[[语言学]]和[[语义网]]都有帮助。好像这种模型也是一种[[属性图]]协议是启动特定过程的一组规则（proto = first，colle =胶水）。认知意味着与其他事物认识的过程（con =与，gnōscō=知道）。认知协议意味着通过与其他事物的联系来了解某些事物的过程。Via[Cognitive Network Protocol | Nodus Labs](https://noduslabs.com/research/cognitive-network-protocol/) [[20210112]] 下午11:14
-    - 
     - The basic building block of the model is a ^^concep^^t😀😀
     - The concepts appear within ^^statements^^😀😀
     - The statements appear within ^^contexts^^😀😀
