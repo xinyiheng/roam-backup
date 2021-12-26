@@ -76,6 +76,23 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
             - background-color:  brown !important;
             - text-decoration: none !important;
         - }
+- ```css
+
+/*To style an entire block, and all its child elements, we use:*/
+/*.roam-block-container[data-page-links*="红色"] {
+  background: #F3D0D9;
+}*/
+
+/*To style only the child elements but not the parent, add .rm-block-children to the end use:*/
+
+.roam-block-container[data-page-links*="颜色"] .rm-block-children {
+  background: #F3D0D9;
+}
+
+/*To style just the block itself but none of the child elements, add */
+.roam-block-container[data-page-links*="红色"] > div.rm-block-main {
+  color:red;
+}```
 - 思维导图模式
     - ```css
 /* Created by: @Calhistorian (Mark Robertson) */
