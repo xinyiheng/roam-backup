@@ -159,6 +159,14 @@ roam-block-container rm-block rm-block--mine rm-block--open rm-not-focused block
   font-weight: 700px;
   border-bottom: none;
 }```
+- ```css
+span.rm-page-ref[data-tag="笔记"],
+span[data-link-title^="软件联动"] .rm-page-ref {
+  color: #fcb815;
+  padding: 3px 4px;
+  font-weight: 700;
+  line-height: 1.4em;
+}```
 - pdf优化
     - ```css
 :root{
