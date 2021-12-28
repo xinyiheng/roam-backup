@@ -1,6 +1,41 @@
 - bp3-popover-wrapperUsing Roam/CSS to display a list as grid or in rows
 via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/share/06b03473bcda4728b5bef40929e5012f)
 [[20201230]] 上午10:14官方推出的一些css样式，用视频的形式展示出来的，比较直观
+- 实现分列效果
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPcxSe5o-k.png?alt=media&token=d3ab6a1d-503a-4633-ad8e-c8a5f09f5d06)
+- ```css
+.roam-block-container[data-page-links*="分列"] .rm-block-children {
+    display: grid; 
+    margin-left: 20px; 
+    grid-template-columns: repeat( auto-fit, minmax(150px, 1fr) ); 
+    max-width: 850px; }
+
+span[data-tag="分列"] { 
+    display: none !important; 
+}
+
+.box .rm-block-text { 
+    padding: 10px; 
+    fontsize: 13px !important; 
+    border: 1px solid #6993B5 !important; 
+    border-radius: 2px; 
+    max-width: 50%; 
+    margin-bottom: 10px; 
+    margin-top: 10px; 
+    text-align: center; 
+}
+span[data-tag=".box"] { 
+    display: none !important; 
+}
+
+.roam-block-container[data-page-links*="分列"] .rm-bullet__inner{ 
+    display:none; 
+}
+```
+- 彩虹颜色
+    - {{[[roam/css]]}}
+        - ```css
+@import url('https://abhayprasanna.github.io/rainbow-indent.css');```
 - Element Class Detail 发现没有关联的概念
     - Class: `exact-word-match`
         - Criteria
@@ -77,6 +112,12 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
             - text-decoration: none !important;
         - }
 - ```css
+.rm-level3, .rm-heading-level-3>.rm-block__self .rm-block__input
+{ color: #0C403B;
+ font-weight:600;
+} ```
+- 对一个block设置字体颜色和背景颜色
+    - ```css
 
 /*To style an entire block, and all its child elements, we use:*/
 /*.roam-block-container[data-page-links*="红色"] {
@@ -90,8 +131,23 @@ via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/sh
 }
 
 /*To style just the block itself but none of the child elements, add */
-.roam-block-container[data-page-links*="红色"] > div.rm-block-main {
-  color:red;
+.roam-block-container[data-page-links*="rd"] > div.rm-block-main {
+  background:rgba(241,194,194,0.93);
+}
+span[data-link-title="rd"] { 
+    display: none !important; 
+}
+.roam-block-container[data-page-links*="gr"] > div.rm-block-main {
+  background:rgba(208,243,173,0.93);
+}
+span[data-link-title="gr"] { 
+    display: none !important; 
+}
+.roam-block-container[data-page-links*="yl"] > div.rm-block-main {
+  background:rgba(237,241,194,0.93);
+}
+span[data-link-title="yl"] { 
+    display: none !important; 
 }```
 - 思维导图模式
     - ```css
@@ -457,7 +513,9 @@ span.rm-page-ref[data-tag] {
     --code-color: crimson;
     --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
 }
-
+.rm-bullet__inner {
+  background-color:rgb(245,240,68);
+}
 
 /*修改url链接的文字颜色*/
 a {
@@ -466,7 +524,7 @@ a {
 /*修改链接颜色以及隐藏双方括号*/
 .rm-page-ref {
   font-weight:bold;
-  color:#009688;
+  color:#FFEB3B;
 }
 .rm-page-ref__brackets{
   display:none;
@@ -993,3 +1051,4 @@ div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-ch
     display: none;
 }
 ```
+        - 
