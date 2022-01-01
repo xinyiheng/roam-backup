@@ -6,6 +6,7 @@
     - 最大的优势是可以把网址复制过来，自动生成类似rss订阅源，非常方便。但是问题是，在这里里面生成的订阅源没有办法迁移到别的软件中。
     - 在mac电脑上安装了。原本以为要一个一个复制订阅源，后来尝试了一下，windows安装的软件可以导出一个irr文件，在mac上的版本导入即可。还是要多个心眼。
     - 结合[[瓦斯阅读]]这个网站可以订阅微信上的公众号文章，添加到rss
+    - 还可以用这种方法：[WeRss - 微信公众号RSS订阅](https://werss.app/) [[20211230]] 下午3:16
     - 如何在短时间内处理完rss信息
         - 限制時間，讓數位工具幫你過濾 [playpcesor.com](http://www.playpcesor.com/2011/10/61000-google-reader.html)
         - 而當我決定要一個小時內讀完Google Reader「每日必讀」分類裡的600+文章時，首先我一定把文章排序方法改成【[Sort by magic](http://playpcesor.blogspot.com/2007/03/google-reader.html)】，也就是讓Google Reader依據我的喜好和[社群力量](http://playpcesor.blogspot.com/2011/06/google_29.html)幫我排序出重點文章。[playpcesor.com](http://www.playpcesor.com/2011/10/61000-google-reader.html)

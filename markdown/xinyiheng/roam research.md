@@ -197,6 +197,7 @@ via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https
 目前，我在这两款工具的使用上，主要是做了一个内容方面的区分：偏研究性的内容会放在 Roam Research 上，偏写作类的内容会放在 Obsidian 上，而作为素材的笔记是用 Github 从 Roam Research 自动备份 再同步给 Obsidian 的。
 via[Matrix 圆桌 | 网状结构笔记工具是一阵风吗？ - 少数派](https://sspai.com/post/61886)
 [[20201213]] 上午7:52
+        - Automatic RoamResearch backupVia[MatthieuBizien/roam-to-git: Automatic RoamResearch backup to Git](https://github.com/MatthieuBizien/roam-to-git) [[20211230]] 下午10:52
     - 如何用roam research看中观图景？
         - 其实我用obsidian就可以实现查看中观图景，因为obsidian的graph图呈现方式比roam research要好得多。好像王树义老师的方法也就是通过obsidian来优化的。最后好像也是通过[[github]]来同步。我目前的方法只能实现从roam research到obsidian的单项同步，如果能够实现双向同步就完美了。以下方法也只能实现单项同步，目前来看，我自己想到的把roam research和[[Obsidian]]联动起来的方法最好。[[软件联动]]
             - 在生活中，你用过导航吧？你如果想到一个 10 公里左右的目的地，导航会给你展示什么样的信息呢？世界地图？还是周围 5 米的区域？

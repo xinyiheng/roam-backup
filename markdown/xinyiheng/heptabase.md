@@ -21,3 +21,5 @@
     - timeline
         - 在不打开白板的情况下快速创建卡片。这个很多软件都有这个功能。不多介绍了。quick add。
         - 补充一种把heptabase当作便签来使用的方法。进入timeline模式，调节窗口的大小，可以把heptabase做得更像一张便签。
+    - 参考资料
+        - [How to use Heptabase](https://www.notion.so/How-to-use-Heptabase-82fe296ef3544e549f51210c4a645613)Via[How to use Heptabase](https://alanchan1209.notion.site/How-to-use-Heptabase-82fe296ef3544e549f51210c4a645613#08e4e65570a5447c90bbb2afb708e91d) [[20211229]] 下午3:55
