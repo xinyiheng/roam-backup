@@ -10,4 +10,7 @@
     - [[xin]] at 10:57: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FKVI6KB8RP?alt=media&token=2b4011f9-df5a-4238-bb2b-50f61707e9c8)
     - [[xin]] at 11:19: 小米手机的桌面组件
-- 
+    - [[xin]] at 15:55: 取代flomo
+    - [[xin]] at 15:58: 是否可以把所有笔记整合到一起？
+    - [[xin]] at 16:01: 两个创作者  微信陈素封  bilibili切里大狸子
+- [**看一本关于规划孩子学习英语的书**](https://dida365.com/webapp/#p/5e58aa5a8f08e7d8bfc36a09/tasks/61d3fd24dbc5d10d244391f6)
