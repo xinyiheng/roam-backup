@@ -1,3 +1,12 @@
 - 一放假每日记录就容易中断，假期的活动实际上挺丰富。
 - 上班通常是浏览网页，有时候看着自己的骑行记录，总之就是迟迟不想开启一天的工作。
-- 
+- 实现了从telegram快速发送内容到roam research，这一点在手机上尤为好用。已经设置成功，可以从telegram上直接发送信息到roam research。在手机端的telegram上也可以使用。我设置的自动转发机器儿名字叫xiaotian。使用的[方法](https://github.com/mbrock/telegroam)#[[软件联动]]
+- [[Inbox]]
+    - [[xin]] at 10:56: 可以正常使用了
+    - [[xin]] at 10:56: 效果不错
+    - [[xin]] at 10:56: 很好
+    - [[xin]] at 10:56: 基本上可以同步了
+    - [[xin]] at 10:56: 这样才是正式的使用场景
+    - [[xin]] at 10:57: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FKVI6KB8RP?alt=media&token=2b4011f9-df5a-4238-bb2b-50f61707e9c8)
+    - 
