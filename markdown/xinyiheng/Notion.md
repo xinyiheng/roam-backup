@@ -52,6 +52,7 @@ via[Super — From Notion to Website in minutes](https://super.so/)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FJG5HaQAK36.png?alt=media&token=2feb9a31-53d0-40e8-a250-d0f7772003b8)
         - 这个表中的[[Dashboard]]如果在notion中能做的更好看些就好了
 - #[[参考资料]]
+    - Notion • theBlockVia[Notion • theBlock - 少数派](https://sspai.com/column/312) [[20220106]] 上午8:53
     - [177_bilibili的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/152842171?spm_id_from=333.788.b_765f7570696e666f.2) [[20210126]] 上午8:50@评论:这个up主对notion很有研究。
     - Via[Linmi - 探索未知，迭代新知，沉淀认知。](https://linmi.cc/) 下午1:28
     - 5 款 Notion 模板推荐 & Notion 团队专访 [sspai.com](https://sspai.com/post/57092)
