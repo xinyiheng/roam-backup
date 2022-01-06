@@ -1,3 +1,8 @@
 - 解决在typra上的截图无法上传到微信公众号的问题。办法是截图之后先通过ipic上传七牛云，然后复制到typora中就可以了。在typora导出为html格式，把内容复制到公众号发布平台就可以了。
 - 录制gif图
 - 微信公众号中无法打开链接
+- Alfred 相关插件：https://github.com/BenziAhamed/Menu-Bar-Search
+- https://www.packal.org/workflow/search-apple-notes​
+- 我发现印象笔记中的得到标注文件导出到devonthink速度也很快。这样，印象笔记内的搜索也可以在devonthink进行了。#[[软件联动]]
+- 在alfred里面启动devonthink的搜索我也已经设置好了。很早之前就安装了这个workflow，但是好像忘了。#[[软件联动]]https://github.com/mpco/AlfredWorkflow-DEVONthink-Search
+- 
