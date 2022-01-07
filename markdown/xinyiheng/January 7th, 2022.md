@@ -1,4 +1,4 @@
-- 
+- 想要把devonthink作为笔记的一站式搜索平台，但是发现无法搜索到roam research导出的markdown文件里面的内容。
 - [[Inbox]]
     - [[xin]] at 11:58: 如何使用
     - [[xin]] at 11:58: 执念
