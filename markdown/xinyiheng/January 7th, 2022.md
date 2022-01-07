@@ -1,4 +1,6 @@
-- 想要把devonthink作为笔记的一站式搜索平台，但是发现无法搜索到roam research导出的markdown文件里面的内容。
+- 想要把devonthink作为笔记的一站式搜索平台，但是发现无法搜索到roam research导出的markdown文件里面的内容。从昨天晚上就开始折腾，终于在今天晚上发现了问题的原因。preference-->import--> text encoding 改为automatic，就可以了，我之前选择的中文。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fe7dw8Rboqd.png?alt=media&token=dd302787-4f40-4054-a79d-ddb8bcbb2da5)
 - [[Inbox]]
     - [[xin]] at 11:58: 如何使用
     - [[xin]] at 11:58: 执念
+    - [[xin]] at 17:58: markdown索引到dt
