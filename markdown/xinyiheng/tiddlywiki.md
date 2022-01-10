@@ -1,6 +1,18 @@
 - {{[[youtube]]: https://www.youtube.com/watch?v=KtCUr83XgyE&feature=emb_logo}}
     - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
         - 很简单明快的入门介绍
+    - 00:00:01 - 
+- 林一二：入门太微（TiddlyWiki）构建你的数字化第二大脑Via[林一二：入门太微（TiddlyWiki）构建你的数字化第二大脑_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Kq4y1y7GN/) [[20220110]] 上午9:14
+    - 为什么一个page变成以卡片的样式展示我就非常喜欢？
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F3zslcuKxu0.png?alt=media&token=710a0851-de78-472b-909d-64db9961bcec)
+    - 类似用query的方式来自动聚合满足一定条件的笔记。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FGoK-3Lam1G.png?alt=media&token=48d9595c-1d38-4b66-b281-548a47d19eff)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FthJRnH6hTZ.png?alt=media&token=2deede01-d32b-40f9-9551-11aa78b87728)
+    - 微件[1:07:00]() 微件（Widget）
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F6ZrJGEypZ9.png?alt=media&token=db516a01-1b1d-42a7-a4c3-18fc1771e9a3)还可以同步anki#[[软件联动]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FPjlt-8LpDl.png?alt=media&token=d2588c10-7d1e-4c93-bf34-ea44f36518da)
+    - 欢迎来到太微！Via[太微中文教程 — 中文社区共建的TiddlyWiki教程，体验从入门到知识管理大师之路](https://tw-cn.netlify.app/#%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%A4%AA%E5%BE%AE%EF%BC%81:%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%A4%AA%E5%BE%AE%EF%BC%81) [[20220110]] 上午9:47
+    - 
 - Tiddly ResearchVia[TiddlyWiki — a non-linear personal web notebook](https://tiddlywiki.com/#GettingStarted)[[20210102]] 下午11:46
 - 相关插件
     - [[TiddlyMap]]
