@@ -21,7 +21,7 @@
 - 我看到一些觉得麻豆可能会喜欢的视频就把链接保存在滴答清单里，找时间和他一起看。#[[育儿]]
 - 【Notion × 微信公众号】在你的“第二大脑”中自动记录每一篇值得回顾的公众号文章 https://b23.tv/84Cemtw @评论:要想转变为在微信读书中看公众号，好像还要重新添加一遍所有的公众号，不是很方便。但这也是精简自己公众号的一次机会。博主主要使用了pocket，然后用zapier把pocket的内容自动发送到notion中，关键是zapier也不便宜啊，再说付费之后可以执行的转发次数也很悠闲。#[[阅读]]#[[软件联动]]
 - 我准备用好滴答清单，每天清空收件箱，完成日期为今天的任务，每天把滴答清单生成的每日总结自动发送到我的roam中。#[[时间管理]]#[[任务管理]]#[[滴答清单]]
-- 
+- #[[阅读]]![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FCPifeHGvp2.png?alt=media&token=ebd53889-176f-479a-b2d8-7a980dc3c4ec)
 - [[Inbox]]
     - [[xin]] at 10:32: 今天
 
@@ -45,6 +45,8 @@
 
 来自滴答清单:
 www.dida365.com
+    - [[xin]] at 15:08: #Photo caj转pdf #[[文件格式]]
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F0XRFHBtoa?alt=media&token=208d9ddd-5a3b-4ed8-97f3-fa7598759e8b)
 - "
     - 自从 Struggle with Me 开始关注记笔记这个话题， 我们经常收到朋友们关于如何记笔记的问题。粗略概括一下，这些问题大概分为三类：我也试过记笔记，但是对我没什么帮助。记笔记到底有什么用呢？我发现记笔记对我是有帮助的，但是很麻烦，效果也没有大家说得那么神奇。记笔记到底怎样才能简单又高效呢？我看了不少人的笔记经验介绍都觉得特别好，但自己一用就觉得不顺手。怎样打造一套适合自己的简单又高效的笔记系统呢？
     - 笔记的连接的三种方式：文件夹连接，标签连接，（双向）链接连接
@@ -52,4 +54,6 @@ www.dida365.com
     - 便笺笔记本推荐像 RHODIA 这种可以快速撕下来的，方便之后整理。
 - " https://diigo.com/0n3xdl
 - 终于通读完了《从滩中学到东大》这本书#[[工作]]
-- 
+- #[[工作]]
+    - https://www.processon.com/diagraming/61b70adff346fb2874b63e19
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FiwSLxYUmPd.png?alt=media&token=27881885-fe64-4874-9f41-f19bb39c8d39)
