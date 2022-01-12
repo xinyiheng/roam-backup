@@ -58,4 +58,7 @@ www.dida365.com
     - https://www.processon.com/diagraming/61b70adff346fb2874b63e19
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FiwSLxYUmPd.png?alt=media&token=27881885-fe64-4874-9f41-f19bb39c8d39)
 - 整理网页浏览记录的插件，想到了有些在新网页打开的插件可以通过保存为web app来用alfred快速打开。
-- 
+- 骑车一小时，33公里左右
+- 在微信读书阅读了一会。
+- 打开滴答清单回归今天的任务
+- 晚上想要把notion和github关联起来，其实就是想把notion中的内容自动索引到devonthinkhub中，没有成功#[[问题]]#[[软件联动]]
