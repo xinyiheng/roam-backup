@@ -1,0 +1,22 @@
+- 结合 Roam Research的 5 个插件谈谈 Roam 的可玩性和可能性Via[结合 Roam Research的 5 个插件谈谈 Roam 的可玩性和可能性_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1hZ4y1S7jP?spm_id_from=333.999.0.0) [[20220112]] 上午8:53
+    - 吕立青原来真名叫做吕靖
+    - roam的结构
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F8y_AUwPaID.png?alt=media&token=811e8833-d5ee-4945-b1a7-d6dcd76c94ed)
+    - 以后可能跨数据库查询，也就是查询别人的graph。
+    - block也可以是动态的，就像乐高积木也可以动起来。
+    - kanban和excalidraw之类背后的技术是roam render，这是把block渲染为不同的样子。
+    - 把twitter上看到很好的内容结合到一起，既可以生成自己的阅读周报#[[写作]]
+    - 为什么roam research的搜索结果那么快？
+        - 所有数据其实缓存在浏览器中了，使用效果非常接近本地的客户端。
+    - 可以把roam research剪藏到印象笔记，然后直接发布到社区。在得到上做的标注由于可以自动同步到印象笔记中，也可以直接全部复制到roam research中。#[[软件联动]]
+    - 文件批处理的概念
+- Roam Research 与任务管理，如何保持专注？Via[Roam Research 与任务管理，如何保持专注？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1zS4y1Z7io?spm_id_from=333.999.0.0) [[20220112]] 上午9:24#[[专注]]
+    - 单核工作法
+    - 待办事项不要超过五项
+    - roam research本身也可以设置番茄时间
+    - 注意力的广角与长焦隐喻
+    - 头脑风暴真的不必要吗？面对一张空白的纸，大脑是信息的唯一来源。确实如此，但我还是认为这有独特的好处。
+    - 通过可视化来呈现自己的工作流程，从而反思过程中的浪费。
+- 想到bilibili上的视频可以直接在网站上做笔记。只不过做的笔记很难导出到roam research
+- 我看到一些觉得麻豆可能会喜欢的视频就把链接保存在滴答清单里，找时间和他一起看。#[[育儿]]
+- 

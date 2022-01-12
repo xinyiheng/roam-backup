@@ -21,4 +21,5 @@
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FYK8YSvUQj?alt=media&token=45721596-8b87-4ab0-a11e-c551fd04d85d)
     - [[xin]] at 18:32: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fu9sMCHyER?alt=media&token=32c5e3b2-9d73-41a0-9af6-e0addfcbb1b7)
-- 
+- 完成一篇公众号推文
+- 晚上给麻豆讲故事，还给他看了一些植物大战僵尸的视频。早上陪着他设想各种新的植物战士和僵尸。
