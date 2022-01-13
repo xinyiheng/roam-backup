@@ -1,1 +1,18 @@
-- 早上来了以后看《cognitive 》
+- 早上来了以后看《Cognitive Productivity with macOS》，边看边写自己的感受。这本书我很久之前就放在滴答清单里了，但是一直不愿意抽出时间来认真阅读。总是在追赶新的东西，实际上之前收集的东西还没有好好利用。#[[写作]]
+- 去接水的时候看到了一本统计学的书，激起了我想要学习统计学的念头。#[[统计学]]
+    - 我之前实际安排过阅读经济学的图书，没有坚持下来。
+        - [爱上统计学 (豆瓣)](https://book.douban.com/subject/2985995/) [[20220113]] 上午11:00@评论:这本书还下架了
+        - [原因与结果的经济学 (豆瓣)](https://book.douban.com/subject/33425193/)
+        - [简单统计学 ](https://read.douban.com/ebook/56464317/?dcs=subject-rec&dcm=douban&dct=27192209)
+        - [统计学七支柱 (豆瓣)](https://book.douban.com/subject/30134619/)
+        - [统计思维 (豆瓣)](https://book.douban.com/subject/27192209/)
+    - 如果我想进行主题阅读，书单我应该保存在哪里呢？
+        - 豆瓣
+        - roam research
+        - the brain
+        - 滴答清单
+- 想到要设置滴答清单快速搜索任务内容。
+    - 
+- [[Inbox]]
+    - [[xin]] at 11:05: #Photo#[[育儿]]
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FbYXZRkZAk?alt=media&token=1be71165-e09e-4852-9d94-d3c9b516b8b4)
