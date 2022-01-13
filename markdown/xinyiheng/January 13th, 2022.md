@@ -17,5 +17,3 @@
 - [[Inbox]]
     - [[xin]] at 11:05: #Photo#[[育儿]]
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FbYXZRkZAk?alt=media&token=1be71165-e09e-4852-9d94-d3c9b516b8b4)
-    - [[xin]] at 11:21: #Photo
-        - 
