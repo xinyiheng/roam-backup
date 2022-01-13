@@ -3,4 +3,18 @@
     - ipad上的craft很容易可以把网页拖拽进来当做embed的文章，还是很美观的。
 - 我总是感觉它很像notion，除了ipad版本体验更好以外，我还真的没有体会到它独特的价值。但是这款软件确实受到了很多好评。
 - 年度 Mac 应用 Craft 推出 2.0 版本，用扩展插件开启更多可能Via[年度 Mac 应用 Craft 推出 2.0 版本，用扩展插件开启更多可能 - 少数派](https://sspai.com/post/70606) [[20211229]] 下午3:57
-- 
+- [展开讲讲 Craft｜我的 2021 年度应用 - 少数派](https://sspai.com/post/70778)
+- https://sspai.com/post/70778
+    - Craft 的空间与文档结构概念
+    - 完美的移动端交互
+        - 移动端交互效果确实很好，但我很少使用移动端。
+    - 可定制的渲染样式
+        - 丰富的UI，这好像就是它的主打。
+    - Deeplinks create a URL that can directly link to a document, page, or even the selected block inside the Craft app itself - clicking on them from anywhere on your system should open the Craft app to that point.
+    - Craft X，全称 Craft eXtension，类似于 Obsidian 的插件系统，可以为输入、编辑与发布带来不少功能上的增强。
+    - TextBundle 将 Markdown 纯文本格式文件和它的图片附件打包绑定在一个文件里，让 Markdown 的图片难题不再是难题。许多支持 Markdown 的应用并没有支持 TextBundle，好在 Craft 是支持的，文档迁移、导入导出都变得非常方便，后续也不必担心想切换应用，数据该怎么办。
+    - ### 导出为图片 —— 像素级复刻编辑器
+        - Craft 还可以当作一款优秀的长图生成器。
+            - 当作长图生成器，真是个奇特角度。
+        - Secret Link —— 把文档变成一个好看的网页
+            - 这个确实没有想到。如果想要个人建站的话，这个也是一个备选吧。
