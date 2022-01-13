@@ -7,12 +7,15 @@
         - [统计学七支柱 (豆瓣)](https://book.douban.com/subject/30134619/)
         - [统计思维 (豆瓣)](https://book.douban.com/subject/27192209/)
     - 如果我想进行主题阅读，书单我应该保存在哪里呢？
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FAO4kH-ihF?alt=media&token=9bc88fb4-e5f5-468c-9366-082282690dd1)
         - 豆瓣
         - roam research
+        - notion
         - the brain
-        - 滴答清单
-- 想到要设置滴答清单快速搜索任务内容。
-    - 
+        - 滴答清单，@评论:以后只有进入滴答清单才能真正开始阅读，减少随意阅读的时间
+- 想到要设置滴答清单快速搜索任务内容。然后把一些背景信息同步到roam research当中#[[软件联动]]
 - [[Inbox]]
     - [[xin]] at 11:05: #Photo#[[育儿]]
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FbYXZRkZAk?alt=media&token=1be71165-e09e-4852-9d94-d3c9b516b8b4)
+    - [[xin]] at 11:21: #Photo
+        - 
