@@ -38,3 +38,6 @@
         - 微信读书
         - marginnote
     - 关键问题是按照固定时间整理，比如每天整理或者每周，每月整理，还是按照书籍的状态，比如读完一本书就整理一次，不管时间。
+- 更改roam外观
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F-dg9mthmfv.png?alt=media&token=ba5abb5f-6f13-4e14-9b7c-945601e7c35d)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FcVi6lYH2aG.png?alt=media&token=9ac2e471-cd30-42c6-8975-bdc6b08e8c9f)

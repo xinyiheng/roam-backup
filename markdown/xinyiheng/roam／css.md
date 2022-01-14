@@ -514,7 +514,7 @@ span.rm-page-ref[data-tag] {
     --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
 }
 .rm-bullet__inner {
-  background-color:rgb(245,240,68);
+  background-color:rgb(100,100,95);
 }
 
 /*修改url链接的文字颜色*/
@@ -565,6 +565,7 @@ strong {
 /*修改编辑中的文字字体*/
 textarea {
     font-family: 简宋;
+    color:black
 }
 /*修改选中后的文字颜色*/
 ::selection {
@@ -586,15 +587,13 @@ div {
 
 
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
-    
-
-  	background-image:url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FDflleTPpdJ.jpeg?alt=media&token=18c4e482-27a3-472c-ab5f-c648934d9dd1");
-  	background-size:100% 100% ;
-
+     background-size:100% 100%;
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FDflleTPpdJ.jpeg?alt=media&token=18c4e482-27a3-472c-ab5f-c648934d9dd1);
+   
 }
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
-    background-color: #293840;
+    background-color: #EBF1F4;
 }
 
 #roam-right-sidebar-content {
