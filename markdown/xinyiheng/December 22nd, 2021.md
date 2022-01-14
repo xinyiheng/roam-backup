@@ -220,7 +220,7 @@
     - 我国民营家族企业代际传承研究_基于青岛市1583份问卷调查分析_金花[ >>](marginnote3app://note/B469F5DE-48DF-45E1-ABA4-C8C030A8106A)
     - 家族企业规划图[ >>](marginnote3app://note/8ED1BEF8-828D-49B6-8AAE-EBBB8748748F)
     - https://www.notion.so/2318bf6f500e4ad88747a98a5cef315cVia[THE VOLTAGE EFFECT ](https://www.notion.so/2318bf6f500e4ad88747a98a5cef315c)[[20210813]] 下午10:36
-    - #done
+    - #DONE
     - 前言[ >>](marginnote3app://note/93EE1146-2996-4B58-A3D6-19AAD4AA8F31)
     - 穆里耶兹家族／4[ >>](marginnote3app://note/23CD294B-12B6-49DE-8EE6-36545B3298C6)
     - 这一切令人惊叹:家族成为企业战略的基石;家族资产借由种种治理机制,如对新一代成员进行内部的企业家培训、族内私募基金等不断转化和增长;家族信条"百万一心"通过家族成员共有同一套资产组合[ >>](marginnote3app://note/7C61214A-1F60-4B60-9BD6-481BD4E8C2B8)

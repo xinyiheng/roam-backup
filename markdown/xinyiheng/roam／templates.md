@@ -25,6 +25,11 @@
             - [[金句]]
                 - 
         - [[信息与我的关系]]
+- 为什么？
+    - 我想从这个阅读材料中获得什么知识？
+    - 关于这个知识，我已经知道什么？
+    - 我准备如何处理阅读后的材料？
+    - 如果需要行动，什么时候行动？
 - S2R的模板
     - Copy the following sample data to the top of the test page you created:
         - Test GoogleSheets Spreadsheet:

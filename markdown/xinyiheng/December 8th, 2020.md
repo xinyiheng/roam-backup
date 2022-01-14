@@ -1,6 +1,6 @@
 - [[python]]
 - #[[问题]]
-    - knowledgebase builder快捷确认和缩放文本
+    - {{[[DONE]]}}knowledgebase builder快捷确认和缩放文本@评论:不要追求完美。基本能用了。
 - 画家与黑客#[[读书笔记]]
     - O'Reilly Media, Inc.介绍
 为了满足读者对网络和软件技术知识的迫切需求，世界著名计算机图书出版机构O'Reilly Media, Inc.授权人民邮电出版社，翻译出版一批该公司久负盛名的英文经典技术专著。
