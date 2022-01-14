@@ -44,7 +44,7 @@
 
 -via[苹果手机被曝存在重大安全漏洞；中国银行因原油宝被罚5050万；北京千万豪宅成烂尾工程](https://mp.weixin.qq.com/s?__biz=MTA3NDI5ODU0MQ==&mid=2655856666&idx=1&sn=44f881a0df6e7156f268d80c393f44b1&chksm=738e01d844f988ceedf236a53496a71286681e275d9d721e66611d56a918b9ba0758eb54afa9)
 - 「不正会計なくても負けパターンにはまっていた」 東芝・車谷社長
--via[「不正会計なくても負けパターンにはまっていた」 東芝・車谷社長：日経ビジネス電子版](https://business.nikkei.com/atcl/gen/19/00213/120400006/)#[[写作项目]]#[[问题]]
+-via[「不正会計なくても負けパターンにはまっていた」 東芝・車谷社長：日経ビジネス電子版](https://business.nikkei.com/atcl/gen/19/00213/120400006/)#[[写作项目]]
 - 欧洲“印钞机”更凶猛： 欧央行下周扩大刺激“板上钉钉” 
 -via[Google 快讯 - 每日摘要 - wangxiaohui19880214@gmail.com - Gmail](https://mail.google.com/mail/u/0/#inbox/FMfcgxwKjnWNtgWzMWzhnhRtPbZvQnWN)
 - 媒介豐富性理論#[[沟通]]
