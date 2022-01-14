@@ -1,4 +1,6 @@
 - 通过john分享的各种快捷设置，可以把obsidian和the brian关联起来了，非常棒。#[[自动化]]#[[软件联动]]
+- 一个新的主题，可以用卡片的形式展示笔记，我还没时间折腾。
+    - Via[kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) [[20220114]] 下午10:59
 - [从卡片链接到大脑联想，基于 Obsidian 的卡片盒笔记法实践 - 少数派](https://sspai.com/post/60802) #[[Roam-Highlights]
     - 简单来说，Zettelkasten 是一种比标签更高级的卡片笔记方法，开智部落王浚宇在《卡片大法的神奇之处》提到：
     - <h2>Zettelkasten 卡片盒笔记法是什么？</h2>
