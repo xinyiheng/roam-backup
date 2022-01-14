@@ -41,3 +41,7 @@
 - 更改roam外观
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F-dg9mthmfv.png?alt=media&token=ba5abb5f-6f13-4e14-9b7c-945601e7c35d)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FcVi6lYH2aG.png?alt=media&token=9ac2e471-cd30-42c6-8975-bdc6b08e8c9f)
+- [[Inbox]]
+    - [[xin]] at 17:14: https://sspai.com/post/70949
+- Hello, I am Kenshin Wang
+Via[Kenshin Wang](https://kenshin.wang/) [[20220114]] 下午5:34
