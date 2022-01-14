@@ -1,6 +1,11 @@
 - 通过john分享的各种快捷设置，可以把obsidian和the brian关联起来了，非常棒。#[[自动化]]#[[软件联动]]
 - 一个新的主题，可以用卡片的形式展示笔记，我还没时间折腾。
     - Via[kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) [[20220114]] 下午10:59
+- 改变graph节点的颜色原来很简单。
+    - 节点设置颜色的方法如图所示，Ob在0.12版本后就出了“颜色组”这个功能。
+    - 首先在关系图的设置里点开“颜色组”，然后点击“新建颜色组”，通过不同的检索方式将节点分类，然后对分好类的颜色组上色就行了。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fnr74QeftuU.png?alt=media&token=2d3fa0aa-d4eb-46bb-bc66-1fec6e1cf3bc)
+    - 关系图谱Via[关系图谱 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%B1) [[20220114]] 下午11:51@评论:关系图谱中的线的颜色也可以改变，但是官方并没有给出说明，参考这个就可以修改了。
 - [从卡片链接到大脑联想，基于 Obsidian 的卡片盒笔记法实践 - 少数派](https://sspai.com/post/60802) #[[Roam-Highlights]
     - 简单来说，Zettelkasten 是一种比标签更高级的卡片笔记方法，开智部落王浚宇在《卡片大法的神奇之处》提到：
     - <h2>Zettelkasten 卡片盒笔记法是什么？</h2>
@@ -17,6 +22,8 @@
     - obsidian@评论:官方参考资料，用graph图展示
 via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/Index)
 [[20201231]] 下午12:11
+    - 快速开始 Via[由此开始 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B) [[20220114]] 下午11:43
+    - 让 Obsidian 更好用，这些社区插件值得试试Via[让 Obsidian 更好用，这些社区插件值得试试 - 少数派](https://sspai.com/post/66094) [[20220114]] 下午11:32
     - 我的 Obsidian 工作流：模板+QuickAdd+Dataview 快速创建和自动索引 - 少数派 (https://sspai.com/post/68350)
     - 少数派上的文章一览
         - https://sspai.com/search/post/obsidian
