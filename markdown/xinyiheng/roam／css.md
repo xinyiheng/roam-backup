@@ -352,13 +352,6 @@ span[data-link-title^="软件联动"] .rm-page-ref {
         - ```css
 
 /* Custom data tags */
-span.rm-page-ref[data-tag="写作"] {
-    background: #81D5ED !important;
-    color: white !important;
-    padding: 3px 7px;
-    line-height: 2em;
-    font-weight: 500;
-}
 
 span.rm-page-ref[data-tag="参考资料"] {
     background: #9769FF !important;
@@ -367,15 +360,61 @@ span.rm-page-ref[data-tag="参考资料"] {
     font-weight: 500;
     line-height: 2em;
 }
-
+span.rm-page-ref[data-tag="读书笔记"]:before {
+    content: '📖'
+}
 span.rm-page-ref[data-tag="读书笔记"] {
-    background: #FF9800EA !important;
+    background: rgb(255,170,214) !important;
     color: white !important;
     padding: 3px 7px;
     font-weight: 500;
     line-height: 2em;
 }
-
+span.rm-page-ref[data-tag="低效"] {
+    background: #B8B2B2 !important;
+    color: white !important;
+    padding: 3px 7px;
+    font-weight: 500;
+    line-height: 2em;
+}
+span.rm-page-ref[data-tag="睡眠"] {
+    background: #B8B2B2!important;
+    color: white !important;
+    padding: 3px 7px;
+    font-weight: 500;
+    line-height: 2em;
+}
+span.rm-page-ref[data-tag="阅读"] {
+    background: rgb(255,170,214) !important;
+    color: white !important;
+    padding: 3px 7px;
+    font-weight: 500;
+    line-height: 2em;
+}
+span.rm-page-ref[data-tag="财富"] {
+    background: #2590E4!important;
+    color: white !important;
+    padding: 3px 7px;
+    font-weight: 500;
+    line-height: 2em;
+}
+span.rm-page-ref[data-tag="爱好"] {
+    background: #06BE0D!important;
+    color: white !important;
+    padding: 3px 7px;
+    font-weight: 500;
+    line-height: 2em;
+}
+span.rm-page-ref[data-tag="技能"] {
+    background: rgb(255,170,214) !important;
+    color: white !important;
+    padding: 3px 7px;
+    font-weight: 500;
+    line-height: 2em;
+}
+span.rm-page-ref[data-tag="育儿"]:before {
+    content: '👨‍🍼'
+}
 span.rm-page-ref[data-tag="育儿"] {
     background: #E341FF !important;
     color: #1A1918 !important;
@@ -401,15 +440,9 @@ span.rm-page-ref[data-tag="家庭"] {
 }
 
 span.rm-page-ref[data-tag="洞见"]:before {
-    content: '✦ '
+    content: '🦩'
 }
 
-span.rm-page-ref[data-tag="Illustrated Notes"] {
-    color: #7172FC;
-    padding: 3px 4px;
-    font-weight: 700;
-    line-height: 1.4em;
-}
 
 span.rm-page-ref[data-tag="Garden Notes"] {
     color: #9DBC13;
@@ -441,28 +474,14 @@ span.rm-page-ref[data-tag="工作"] {
     font-weight: 500;
 }
 
-span.rm-page-ref[data-tag="Livestream"] {
+span.rm-page-ref[data-tag="标准化"] {
     color: #8C41A6;
     padding: 3px 4px;
     line-height: 1.4em;
     font-weight: 700;
 }
 
-span.rm-page-ref[data-tag="Talk"] {
-    background: #7172FC;
-    color: #fff;
-    padding: 3px 7px;
-    line-height: 2em;
-    font-weight: 500;
-}
 
-span.rm-page-ref[data-tag="Waiting"] {
-    background: #F9C866;
-    color: #fff;
-    padding: 3px 7px;
-    line-height: 2em;
-    font-weight: 500;
-}
 
 span.rm-page-ref[data-tag="Researching"] {
     background: #FF9D66 !important;
@@ -472,17 +491,17 @@ span.rm-page-ref[data-tag="Researching"] {
     font-weight: 500;
 }
 
-span.rm-page-ref[data-tag="Synthesising"] {
-    background: #FC766F !important;
+
+
+span.rm-page-ref[data-tag="写作"] {
+    background: rgb(255,170,214) !important;
     color: #fff !important;
     padding: 3px 7px;
     line-height: 2em;
     font-weight: 500;
 }
-
-
-span.rm-page-ref[data-tag="Alive"] {
-    background: #EE5F85 !important;
+span.rm-page-ref[data-tag="人际"] {
+    background:rgb(255,170,214) !important;
     color: #fff !important;
     padding: 3px 7px;
     line-height: 2em;
