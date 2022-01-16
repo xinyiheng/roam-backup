@@ -376,23 +376,25 @@ span.rm-page-ref[data-tag="读书笔记"] {
     line-height: 2em;
 }
 
-span.rm-page-ref[data-tag="Evergreens"] {
-    background: #0DBAC6 !important;
-    color: #EBDAA8 !important;
+span.rm-page-ref[data-tag="育儿"] {
+    background: #E341FF !important;
+    color: #1A1918 !important;
     padding: 3px 8px;
     line-height: 2em;
     font-weight: 500;
 }
 
-span.rm-page-ref[data-tag="Seedling"] {
-    color: #0dbac6 !important;
+span.rm-page-ref[data-tag="健康"] {
+    background: #2590E4!important;
+    color: #2B2D2D !important;
     padding: 3px 3px;
     font-weight: 600;
     line-height: 1.4em;
 }
 
-span.rm-page-ref[data-tag="Idea Bank"] {
-    color: #FCB815 !important;
+span.rm-page-ref[data-tag="家庭"] {
+  background: #E341FF !important;
+    color: #201E20 !important;
     padding: 3px 4px;
     font-weight: 700;
     line-height: 1.4em;
@@ -431,7 +433,13 @@ span.rm-page-ref[data-tag="软件联动"] {
     line-height: 2em;
     font-weight: 500;
 }
-
+span.rm-page-ref[data-tag="工作"] {
+    background: #FF9800;
+    color: #3D3939;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
 
 span.rm-page-ref[data-tag="Livestream"] {
     color: #8C41A6;
