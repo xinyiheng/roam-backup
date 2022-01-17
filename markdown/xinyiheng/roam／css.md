@@ -520,7 +520,7 @@ span.rm-page-ref[data-tag] {
   font-weight:500;
 }```
 - [[侧边栏]]
-    - ^^秘密花园^^
+    - ^^数字花园^^
         - ```css
 
 :root {

@@ -1,4 +1,4 @@
-- #RoamCN2020W47 RoamCN WeeklyNewsletter roamcult @cn_roam
+- RoamCN WeeklyNewsletter roamcult @cn_roam
     - 1/ 使用 markdown  作为CSS style 选择器，通过 a[style="xxx"] 来定位指定元素
     - https://twitter.com/CatoMinor3/status/1255727586598105090
     - 2/ ____Roam Research____ 的强大之处在于排除干扰，保持专注力，而这是你最应该培养的核心____习惯____。

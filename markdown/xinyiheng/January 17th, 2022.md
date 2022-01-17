@@ -1,25 +1,25 @@
 - [[roam/sr/review]]
-    - 按照麻豆学习的内容更新软木板上的材料，这样可以展示我们对于麻豆学习内容的了解。#[[育儿]]#[[sr]]
-    - 目前的实际情况😀😀😀😀1）目前的货币基金和短期理财基金采用的是摊余成本法，所以大家会发现最近类似余额宝之类的产品收益一度下降，但仍然是正收益；😀😀😀😀2）债券型基金采用的是市值法，所以会出现有涨有跌的情况，当然基金公司都会尽量控制回撤；😀😀😀😀3）按照资管新规的要求，货币基金和短期理财基金长期来看也要回归到净值化，到时候可能就会出现买货币基金也是亏的，但目前的情况是存量的货币基金还是摊余成本法，大家不用担心；倒是短期理财基金各个基金公司正在整改，部分会转型成短债基金；😀😀😀😀4）不是说摊余成本法一定不能用，如果投资策略是^^持有至到期^^策略，且^^定开^^发行，且资金端定开的^^封闭期^^与投资端的^^久期^^匹配度符合条件，就还是可以发行的。Via[基金小讲|债券估值：市值法与摊余成本法 - 知乎](https://zhuanlan.zhihu.com/p/75447900)#[[sr]] [[20210711]] 下午4:22
-- [[roam/sr/review]]
+    - 目前的实际情况😀😀😀😀1）目前的货币基金和短期理财基金采用的是摊余成本法，所以大家会发现最近类似余额宝之类的产品收益一度下降，但仍然是正收益；😀😀😀😀2）债券型基金采用的是市值法，所以会出现有涨有跌的情况，当然基金公司都会尽量控制回撤；😀😀😀😀3）按照资管新规的要求，货币基金和短期理财基金长期来看也要回归到净值化，到时候可能就会出现买货币基金也是亏的，但目前的情况是存量的货币基金还是摊余成本法，大家不用担心；倒是短期理财基金各个基金公司正在整改，部分会转型成短债基金；😀😀😀😀4）不是说摊余成本法一定不能用，如果投资策略是^^持有至到期^^策略，且^^定开^^发行，且资金端定开的^^封闭期^^与投资端的^^久期^^匹配度符合条件，就还是可以发行的。Via[基金小讲|债券估值：市值法与摊余成本法 - 知乎](https://zhuanlan.zhihu.com/p/75447900)#[[sr]] [[20210711]] 下午4:22 #[[r/4]]
     - CRAAP#[[sr]]
-
+ #[[r/4]]
+    - 按照麻豆学习的内容更新软木板上的材料，这样可以展示我们对于麻豆学习内容的了解。#[[育儿]]#[[sr]] #[[r/4]]
+- [[roam/sr/review]]
 - 一个用 Roam Research 践行卡片笔记「写在写先」的例子Via[一个用 Roam Research 践行卡片笔记「写在写先」的例子_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Cu41127S6?p=1&share_medium=android&share_plat=android&share_session_id=526ce074-204e-4f05-893f-23914d5d9bf1&share_source=GENERIC&share_tag=s_i&timestamp=1642344847&unique_k=WRfadDX) [[20220117]] 上午9:29
     - 有意识的关联和无意识的关联(unlinked)
     - 先有原料再加工(先写后整理)
 - 设置一个网友提到的roam research 里面的smartblock中的block mention lists花了很长时间。参考效果[视频](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamjs%2FZeVVCoC39I.mp4?alt=media&token=2a6be385-b544-44ff-a281-711d41b62a4f)@评论:更多参考资料Via[Smartblocks: command reference by category | Roam42](https://roamjs.com/extensions/roam42/smartblocks:_command_reference_by_category) [[20220117]] 上午11:02
-- [[笔记]]
-- [[笔记]]
-- [[笔记]]
-- [[笔记]]
-- [[笔记]]
-- [[实体标注]]@评论:是否可以将这个技术和[[笔记]]融合起来？#[[交互体验]]
-- [[Writemapper]]好像作为思维导图工具更直观，或许可以作为一种[[笔记]]工具
-- {{[[query]]: {and:[[可视化]] [[笔记]]}}}if (e.which==hotkey)😀😀Via[JS 增加元素属性 - Google 搜索](https://www.google.com/search?q=JS+%E5%A2%9E%E5%8A%A0%E5%85%83%E7%B4%A0%E5%B1%9E%E6%80%A7&oq=JS+%E5%A2%9E%E5%8A%A0%E5%85%83%E7%B4%A0%E5%B1%9E%E6%80%A7&aqs=chrome..69i57.13688j0j1&sourceid=chrome&ie=UTF-8) [[20210910]] 下午12:24
-- {{[[query]]: {and:{and:[[笔记]] [[问题]]}}}}
-- {{[[TODO]]}}怎样充分整理自己的阅读[[笔记]]？#[[问题]]
-- #[[笔记]]
-- 为什么要做[[笔记]]？[[rd]]
+    - [[笔记]]
+    - [[笔记]]
+    - [[笔记]]
+    - [[笔记]]
+    - [[笔记]]
+    - [[实体标注]]@评论:是否可以将这个技术和[[笔记]]融合起来？#[[交互体验]]
+    - [[Writemapper]]好像作为思维导图工具更直观，或许可以作为一种[[笔记]]工具
+    - {{[[query]]: {and:[[可视化]] [[笔记]]}}}if (e.which==hotkey)😀😀Via[JS 增加元素属性 - Google 搜索](https://www.google.com/search?q=JS+%E5%A2%9E%E5%8A%A0%E5%85%83%E7%B4%A0%E5%B1%9E%E6%80%A7&oq=JS+%E5%A2%9E%E5%8A%A0%E5%85%83%E7%B4%A0%E5%B1%9E%E6%80%A7&aqs=chrome..69i57.13688j0j1&sourceid=chrome&ie=UTF-8) [[20210910]] 下午12:24
+    - {{[[query]]: {and:{and:[[笔记]] [[问题]]}}}}
+    - {{[[TODO]]}}怎样充分整理自己的阅读[[笔记]]？#[[问题]]
+    - #[[笔记]]
+    - 为什么要做[[笔记]]？[[rd]]
 - 新的实验
     - j[[概念]]就像是种子，人的[[注意力]]就是阳光雨露和肥沃土壤，只要把[[注意力]]放在哪个概念上，哪个概念就会茁壮成长#[[我的使用说明书]]#[[阅读]]
     - [[阅读]]
@@ -41,3 +41,41 @@
     - 我对于不同的行业有很强的好奇心，与其[[阅读]]财经新闻，不如直接阅读研报，先对行业有一个整体的认知之后，其他细节可以后续补充，我觉得可以把pinbox和比较好的研报网站的链接地址放到我的知识管理系统中，这样就比较系统化。印象笔记现在看来已经成为了我快速摄入行业信息的瓶颈。
     - 我目前在ipad上有三种感觉不错的[[阅读批注]]的方式#[[阅读]]
     - 先[[搜索]]再[[阅读]] {{[[∆]]:1+2}}
+- 整理roam插件之间的关系
+    - 我把所有的增强插件都集合整理在[[roam插件]]这个page下了
+    - Hymn 30 - [[Isaac Watts]]
+        - Prayer for deliverance answered.
+
+Isa. 26:12,20,21. 
+
+In thine own ways, O God of love,
+We wait the visits of thy grace,
+Our soul's desire is to thy name,
+And the remembrance of thy face.
+
+My thoughts are searching, Lord, for thee
+'Mongst the black shades of lonesome night;
+My earnest cries salute the skies
+Before the dawn restore the light.
+
+Look, how rebellious men deride
+The tender patience of my God!
+But they shall see thy lifted hand,
+And feel the scourges of thy rod.
+
+Hark! the Eternal rends the sky,
+A mighty voice before him goes;
+A voice of music to his friends,
+But threat'ning thunder to his foes.
+
+Come, children, to your Father's arms,
+Hide in the chambers of my grace,
+Till the fierce storms be overblown,
+And my revenging fury cease.
+
+My sword shall boast its thousands slain,
+And drink the blood of haughty kings,
+While heav'nly peace around my flock
+Stretches its soft and shady wings.
+    - Block threw an error while running: <%CURRENTBLOCKREF:wxHeader,false%><%NOBLOCKOUTP...
+    - jj

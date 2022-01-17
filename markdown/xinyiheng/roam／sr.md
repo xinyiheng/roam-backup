@@ -158,10 +158,10 @@ document.getElementsByTagName('head')[0].appendChild(s);```
     - ```css
 /* Uncomment to enable style. */
 
-/* GLOBAL STYLING */
-/* .roam-app, .roam-topbar {
+ GLOBAL STYLING *
+.roam-app, .roam-topbar {
   background-color: #eeeeee !important;
-} */
+} *
 
 /* HIDING BREADCRUMS */
 /* .roam-article .rm-zoom {

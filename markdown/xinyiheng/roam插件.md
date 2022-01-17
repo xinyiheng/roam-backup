@@ -1,12 +1,44 @@
 - chrome插件商店中的插件
-    - [[RoamPortal-Search]]可以展示概念之间的立体图，非常棒，我设置了#[[快捷方式]]ctrl+p
+    - [[roam portal]]可以展示概念之间的立体图，非常棒，我设置了#[[快捷方式]]ctrl+p
     - [[roam highlighter]]
     - [[roam toolkit]]很早就安装了，但是很少使用，最近知道了它可以把卡片以思维导图的方式展示出来，感觉很惊艳，可以使用。我设置了调出这个插件的#[[快捷方式]]ctrl+i
         - ```javascript
 ```
 - [[roam extentions]]基本上都是以[[roam/js]]为开头的
-    - ExtensionsVia[RoamJS Extensions](https://roamjs.com/extensions) [[20220117]] 上午10:21 @评论:这是最全的一个寻找roam插件的地方。
-    - 其中有一个叫做roam42的最特别，它最早提出了[[SmartBlock]]的概念，后来被官方接纳，不过两者差别还不小。
+    - ExtensionsVia[RoamJS Extensions](https://roamjs.com/extensions) [[20220117]] 上午10:21 @评论:这是最全的一个寻找roam插件的地方。它还推出了一个叫做[[roam/js/marketplace]]的插件专门管理下载的插件，可以说层层嵌套了。
+    - roam42的最特别，它最早提出了SmartBlock的概念，后来被官方接纳，不过两者差别还不小。smartblock有些自带的功能非常隐蔽，比如我探索的block mention lists这个功能就很隐蔽。
+    - masonry-vanilla @评论:数字花园
+        - {{[[roam/js]]}}
+            - ```javascript
+:root {
+    --main-left-bg: white;
+    --right-sidebar-bg: rgb(247 248 249);
+    --right-sidebar-drag-bg: #337ac6;
+    --masonry-bg: white;
+    --masonry-scrollbar-bg: lightgrey;
+    --masonry-resizer-color: lightgrey;
+    --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
+    --masonry-minWidth: 440px;
+    --masonry-maxWidth: 1200px;
+    --masonry-startHeight: 234px; /* DEFAULT: 243px; Use "unset" to prevent loading in grid like format */
+    --masonry-minHeight: 200px;
+    --masonry-border: 1px solid lightgrey;
+    --closed-bullet-color: 4px solid #CED9E0;
+    --code-color: crimson;
+    --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
+}```
+        - {{[[roam/js]]}}
+            - ```javascript
+var tfps = document.createElement("script");
+tfps.type = "text/javascript";
+tfps.src = "https://gitmurf.github.io/masonry-vanilla/JS/toggleFullPageScroll.js";
+document.getElementsByTagName("head")[0].appendChild(tfps);```
+        - {{[[roam/js]]}}
+            - ```javascript
+var mms = document.createElement("script");
+mms.type = "text/javascript";
+mms.src = "https://gitmurf.github.io/masonry-vanilla/JS/matuschakModeSizer.js";
+document.getElementsByTagName("head")[0].appendChild(mms);```
     - unlink-finder
         - {{[[roam/js]]}}
             - ```javascript
@@ -38,78 +70,6 @@ document.body.appendChild(s);```
   background-color: slategrey !important;
   text-decoration: none !important;
 }
-    - [[roam/comments]]
-        - [[June 16th, 2021]]
-            - {{[[roam/js]]}}
-                - 
-    - ### Code
-        - {{[[roam/js]]}}
-            - ```javascript
-
-
-;(()=>{
-  
-  if( typeof window.catominor_tags != 'undefined') return;
-
-  window.catominor_tags = {};
-
-  const scanTags = () => {
-    document.querySelectorAll('[data-tag]').forEach( (element)=>{
-      console.log("start");
-      let divBlockTagAttributeArray;
-      let divBlock = element.parentElement.parentElement;
-      const tagAttribute = " " + element.getAttribute('data-tag') + " ";
-      
-      
-      
-
-      
-      let divBlockTagAttribute = divBlock.getAttribute("data-tags");
-      
-      if (divBlockTagAttribute ==  null){
-        divBlockTagAttributeArray = [];
-      } else {
-        
-        divBlockTagAttributeArray = divBlockTagAttribute.split(","); 
-      }
-    
-      let index;
-	 
-      if(element) {
-        console.log(tagAttribute);
-        let index = divBlockTagAttributeArray.indexOf(tagAttribute);
-        if (index == -1) {
-       			divBlockTagAttributeArray.push(tagAttribute);
-   		 }
-     
-      } else {
-         let index = divBlockTagAttributeArray.indexOf(tagAttribute);
-		 if (index > -1) {
-       			divBlockTagAttributeArray.splice(index, 1);
-   		 }
-         
-        
-        
-      }
-      console.log(divBlockTagAttributeArray);
-      divBlock.dataset.tags = divBlockTagAttributeArray.join();
-      divBlock.parentNode.parentNode.parentNode.dataset.tagsUp = " " + divBlockTagAttributeArray.join() + " ";
-     // divBlock.parentNode.parentNode.parentNode.childNodes[0].dataset.tagsDown = divBlockTagAttributeArray.join();
-
-
-      console.log(divBlock.dataset.tags);
-  
-    })
-  }
-
-  scanTags()
-  var observerTags = new MutationObserver(scanTags);
-  observerTags.observe(document.querySelector('#app'), {
-    childList: true,
-    subtree: true
-  })
-
-})();```
     - roam gallary
         - {{[[roam/js]]}}
             - ```javascript
@@ -295,18 +255,6 @@ window.ViktorGallery = window.ViktorGallery || (function(){
 })();
 
 ```
-    - 热力图-目前还不好用
-        - {{[[roam/js]]}}
-            - ```javascript
-var existing = document.getElementById("roamjs-heatmap-main");
-if (!existing) {
-  var extension = document.createElement("script");
-  extension.src = "https://roamjs.com/heatmap/main.js";
-  extension.id = "roamjs-heatmap-main";
-  extension.async = true;
-  extension.type = "text/javascript";
-  document.getElementsByTagName("head")[0].appendChild(extension);
-}```
     - discourse graph
         - {{[[roam/js]]}}
             - ```javascript
@@ -333,40 +281,6 @@ if (!existing) {
   document.getElementsByTagName("head")[0].appendChild(extension);
 }
 ```
-    - 实验
-        - {{[[roam/js]]}}
-    - 秘密花园
-        - {{[[roam/js]]}}
-            - ```javascript
-:root {
-    --main-left-bg: white;
-    --right-sidebar-bg: rgb(247 248 249);
-    --right-sidebar-drag-bg: #337ac6;
-    --masonry-bg: white;
-    --masonry-scrollbar-bg: lightgrey;
-    --masonry-resizer-color: lightgrey;
-    --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
-    --masonry-minWidth: 440px;
-    --masonry-maxWidth: 1200px;
-    --masonry-startHeight: 234px; /* DEFAULT: 243px; Use "unset" to prevent loading in grid like format */
-    --masonry-minHeight: 200px;
-    --masonry-border: 1px solid lightgrey;
-    --closed-bullet-color: 4px solid #CED9E0;
-    --code-color: crimson;
-    --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
-}```
-        - {{[[roam/js]]}}
-            - ```javascript
-var tfps = document.createElement("script");
-tfps.type = "text/javascript";
-tfps.src = "https://gitmurf.github.io/masonry-vanilla/JS/toggleFullPageScroll.js";
-document.getElementsByTagName("head")[0].appendChild(tfps);```
-        - {{[[roam/js]]}}
-            - ```javascript
-var mms = document.createElement("script");
-mms.type = "text/javascript";
-mms.src = "https://gitmurf.github.io/masonry-vanilla/JS/matuschakModeSizer.js";
-document.getElementsByTagName("head")[0].appendChild(mms);```
 - 还有一些独立开发者基于[[roam/js]]开发的插件
     - 卡片写作@评论:吕立青开发的js，我喜欢的主题。
         - {{[[roam/js]]}}
@@ -392,3 +306,8 @@ if (!existing) {
   document.getElementsByTagName('head')[0].appendChild(extension)
 }
 ```
+    - 实验@评论:我自己学习js的时候尝试在roam中看看效果，目前并没有维护
+    - [Roam-Excalidraw Plugin MVP Release](https://www.zsolt.blog/2021/03/roam-excalidraw-plugin-mvp-release.html) [[20210319]] 下午8:42 @评论:这是一款可以绘制类似whiteboard的插件
+        - {{[[roam/js]]}}
+    - 在roam research中实现类似anki的间隔记忆
+        - [[roam/sr]]

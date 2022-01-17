@@ -137,7 +137,7 @@ Future task2               :         des4, after des3, 5d
     - 快速跳转到daily note ctrl+shift+d
     - {{iframe:https://cat-income-b7c.notion.site/f626dab7d985490fa504b763ea6f3e3c}}
     - 在[[roam research]]中打开开发者模式，ctrl+shift+=
-- [[smart block]]是最近推出的杀手级的新功能，这让roam research有了更大的自定义的可能性。很多实现方式借助[[JavaScript]]
+- smart block是最近推出的杀手级的新功能，这让roam research有了更大的自定义的可能性。很多实现方式借助[[JavaScript]]
 - #[[参考资料]]
     - Mickey Mellen  roam research的最近更新
 -via[(880) Mickey Mellen - YouTube](https://www.youtube.com/c/mickmel/videos)
@@ -170,12 +170,6 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
     - [[thinktool]]
     - [[innos note]]
 - [[roam插件]]
-    - [[roam各种增强工具]]
-    - [[roam/templates]]用“;;”调出保存在这个页面的模板。
-    - chrome插件
-        - [[roam portal]]
-        - [[roam toolkit]]
-    - [Roam-Excalidraw Plugin MVP Release](https://www.zsolt.blog/2021/03/roam-excalidraw-plugin-mvp-release.html) [[20210319]] 下午8:42 @评论:这是一款可以绘制类似whiteboard的插件
 - roam research有哪些功能吸引了我？
     - 大网图、小网图（大纲/缩略式脑图）、大小粒度块引用、双向链接，是笔者认为的必备的四个双向链软件经典特征，其它就是附加插件功能，读者也可以从这四个经典元素对各种软件进行考察得出自己心中的排行，其实也就是Roam Research的核心功能。-20201027
 作者：[[威廉]]

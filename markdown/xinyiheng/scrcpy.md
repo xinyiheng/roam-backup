@@ -1,7 +1,7 @@
 - #[[基本功能]]
     - 手机投屏到电脑，并且在电脑上控制手机
 - #[[使用方法]]
-    - 安装方法参考这个视频：____ — via [scrcpy安装方法](https://mp.weixin.qq.com/s?__biz=MzU1NDgyNDQ1Ng==&mid=2247495397&idx=3&sn=4eedfeaad8afb0749ebe86f5b86c7609&chksm=fbdf0882cca8819408cb6774619bc9a2364474b5ce8423cf1111089c7614dc2ded0449353eea) [[+Roam]]
+    - 安装方法参考这个视频：____ — via [scrcpy安装方法](https://mp.weixin.qq.com/s?__biz=MzU1NDgyNDQ1Ng==&mid=2247495397&idx=3&sn=4eedfeaad8afb0749ebe86f5b86c7609&chksm=fbdf0882cca8819408cb6774619bc9a2364474b5ce8423cf1111089c7614dc2ded0449353eea) +Roam
 - #[[个人评价]]
     - 我所了解的最棒的投屏软件，画质高清，毫无卡顿，还完全免费。可以在windows和mac上使用。
 - 在电脑上操作手机

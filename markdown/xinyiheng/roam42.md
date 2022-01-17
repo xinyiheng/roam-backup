@@ -12,6 +12,6 @@ if (!existing) {
   document.getElementsByTagName("head")[0].appendChild(extension);
 }```
 - roam42这个网站是[[roamhacker]]这个组织？个人？运作的，可以把他们理解为同一个人。
-- [[smart block]] Builders Guide
+- smart block Builders Guide
 via[SmartBlocks Builders Guide](https://roamresearch.com/#/app/roamhacker/page/GH0401tnt)
 [[20201229]] 上午9:37

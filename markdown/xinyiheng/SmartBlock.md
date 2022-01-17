@@ -1,4 +1,4 @@
 - 可以分为官方开发的和roam42这个民间开发的两种
 - 官方开发的triger是;; 民间开发的triger是“jj”  
-- 官方的模板都放在[[roam/templates]]这个page里面，而民间开发的都放在[[42SmartBlock]]这个page里面
+- 官方的模板都放在roam/templates这个page里面，而民间开发的都放在42SmartBlock这个page里面
 - 

@@ -1,2 +1,2 @@
 - 我在[[twitter]]上关注了这个人
-- ^^[RoamHacker](https://twitter.com/roamhacker)^^
+- ^^[RoamHacker](https://twitter.com/roamhacker)^^@评论:目前好像已经把roam42卖了就不再运营了。
