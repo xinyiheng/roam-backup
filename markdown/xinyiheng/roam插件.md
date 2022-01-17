@@ -6,39 +6,7 @@
 ```
 - [[roam extentions]]基本上都是以[[roam/js]]为开头的
     - ExtensionsVia[RoamJS Extensions](https://roamjs.com/extensions) [[20220117]] 上午10:21 @评论:这是最全的一个寻找roam插件的地方。它还推出了一个叫做[[roam/js/marketplace]]的插件专门管理下载的插件，可以说层层嵌套了。
-    - roam42的最特别，它最早提出了SmartBlock的概念，后来被官方接纳，不过两者差别还不小。smartblock有些自带的功能非常隐蔽，比如我探索的block mention lists这个功能就很隐蔽。
-    - masonry-vanilla @评论:数字花园
-        - {{[[roam/js]]}}
-            - ```javascript
-:root {
-    --main-left-bg: white;
-    --right-sidebar-bg: rgb(247 248 249);
-    --right-sidebar-drag-bg: #337ac6;
-    --masonry-bg: white;
-    --masonry-scrollbar-bg: lightgrey;
-    --masonry-resizer-color: lightgrey;
-    --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
-    --masonry-minWidth: 440px;
-    --masonry-maxWidth: 1200px;
-    --masonry-startHeight: 234px; /* DEFAULT: 243px; Use "unset" to prevent loading in grid like format */
-    --masonry-minHeight: 200px;
-    --masonry-border: 1px solid lightgrey;
-    --closed-bullet-color: 4px solid #CED9E0;
-    --code-color: crimson;
-    --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
-}```
-        - {{[[roam/js]]}}
-            - ```javascript
-var tfps = document.createElement("script");
-tfps.type = "text/javascript";
-tfps.src = "https://gitmurf.github.io/masonry-vanilla/JS/toggleFullPageScroll.js";
-document.getElementsByTagName("head")[0].appendChild(tfps);```
-        - {{[[roam/js]]}}
-            - ```javascript
-var mms = document.createElement("script");
-mms.type = "text/javascript";
-mms.src = "https://gitmurf.github.io/masonry-vanilla/JS/matuschakModeSizer.js";
-document.getElementsByTagName("head")[0].appendChild(mms);```
+    - [[roam42]]的最特别，它最早提出了SmartBlock的概念，后来被官方接纳，不过两者差别还不小。smartblock有些自带的功能非常隐蔽，比如我探索的block mention lists这个功能就很隐蔽。
     - unlink-finder
         - {{[[roam/js]]}}
             - ```javascript
@@ -311,3 +279,35 @@ if (!existing) {
         - {{[[roam/js]]}}
     - 在roam research中实现类似anki的间隔记忆
         - [[roam/sr]]
+    - masonry-vanilla @评论:数字花园
+        - {{[[roam/js]]}}
+            - ```javascript
+:root {
+    --main-left-bg: white;
+    --right-sidebar-bg: rgb(247 248 249);
+    --right-sidebar-drag-bg: #337ac6;
+    --masonry-bg: white;
+    --masonry-scrollbar-bg: lightgrey;
+    --masonry-resizer-color: lightgrey;
+    --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
+    --masonry-minWidth: 440px;
+    --masonry-maxWidth: 1200px;
+    --masonry-startHeight: 234px; /* DEFAULT: 243px; Use "unset" to prevent loading in grid like format */
+    --masonry-minHeight: 200px;
+    --masonry-border: 1px solid lightgrey;
+    --closed-bullet-color: 4px solid #CED9E0;
+    --code-color: crimson;
+    --block-widths: 800px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
+}```
+        - {{[[roam/js]]}}
+            - ```javascript
+var tfps = document.createElement("script");
+tfps.type = "text/javascript";
+tfps.src = "https://gitmurf.github.io/masonry-vanilla/JS/toggleFullPageScroll.js";
+document.getElementsByTagName("head")[0].appendChild(tfps);```
+        - {{[[roam/js]]}}
+            - ```javascript
+var mms = document.createElement("script");
+mms.type = "text/javascript";
+mms.src = "https://gitmurf.github.io/masonry-vanilla/JS/matuschakModeSizer.js";
+document.getElementsByTagName("head")[0].appendChild(mms);```

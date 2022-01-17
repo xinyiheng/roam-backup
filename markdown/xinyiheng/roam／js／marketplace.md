@@ -1,5 +1,18 @@
 - synced
 - extensions
+    - marketplace
+        - {{[[roam/js]]}}
+            - ```javascript
+var existing = document.getElementById("roamjs-marketplace-main");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/marketplace/main.js";
+  extension.id = "roamjs-marketplace-main";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}
+```
     - iframely
         - {{[[roam/js]]}}
             - ```javascript
@@ -139,19 +152,6 @@ if (!existing) {
   var extension = document.createElement("script");
   extension.src = "https://roamjs.com/timeline.js";
   extension.id = "timeline";
-  extension.async = true;
-  extension.type = "text/javascript";
-  document.getElementsByTagName("head")[0].appendChild(extension);
-}
-```
-    - marketplace
-        - {{[[roam/js]]}}
-            - ```javascript
-var existing = document.getElementById("roamjs-marketplace-main");
-if (!existing) {
-  var extension = document.createElement("script");
-  extension.src = "https://roamjs.com/marketplace/main.js";
-  extension.id = "roamjs-marketplace-main";
   extension.async = true;
   extension.type = "text/javascript";
   document.getElementsByTagName("head")[0].appendChild(extension);

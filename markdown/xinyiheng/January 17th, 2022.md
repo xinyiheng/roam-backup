@@ -41,7 +41,7 @@
     - 我对于不同的行业有很强的好奇心，与其[[阅读]]财经新闻，不如直接阅读研报，先对行业有一个整体的认知之后，其他细节可以后续补充，我觉得可以把pinbox和比较好的研报网站的链接地址放到我的知识管理系统中，这样就比较系统化。印象笔记现在看来已经成为了我快速摄入行业信息的瓶颈。
     - 我目前在ipad上有三种感觉不错的[[阅读批注]]的方式#[[阅读]]
     - 先[[搜索]]再[[阅读]] {{[[∆]]:1+2}}
-- 整理roam插件之间的关系
+- 整理roam插件之间的关系{{presentation}}
     - 我把所有的增强插件都集合整理在[[roam插件]]这个page下了
     - Hymn 30 - [[Isaac Watts]]
         - Prayer for deliverance answered.
@@ -77,5 +77,38 @@ My sword shall boast its thousands slain,
 And drink the blood of haughty kings,
 While heav'nly peace around my flock
 Stretches its soft and shady wings.
-    - Block threw an error while running: <%CURRENTBLOCKREF:wxHeader,false%><%NOBLOCKOUTP...
-    - jj
+    - No. 1 #decision-journal
+        - `Time: 12:15 PM`
+        - Decision:
+        - Content
+            - The situation/context:
+            - The problem statement or frame:
+            - The variables that govern the situation include:
+            - The complications/complexities as I see them:
+            - Alternatives that were seriously considered and not chosen were:
+            - Explain the range of outcomes:
+            - What I expect to happen and the actual probabilities are:
+            - The outcome:
+        - Review
+            - Date:
+            - What happended
+            - What did you learn
+    - jj伴随着《集合啦！动物森友会》的热销，快速推动Switch销量攀升，目前包括Target，BestBuy，Walmart，GameStop和Amazon在内的主流零售渠道均已售罄。不过任天堂表示，如果你愿意支付更高的金额，可以从亚马逊或者沃尔玛的第三方进行购买，但最便宜的价格为460美元，远远高于建议零售价299美元。（cnBeta）
+- {{emoji}}http://getemoji.com/
+- [[TODO]]
+    - [[TODO]]
+    - {{[[TODO]]}} 19年の新エネ車の乗用車の販売台数は前年比4%増の110万台。BYDは3.9%減の22万台に落ち込んだが、国内シェアは20%を維持した。 [nikkei.com](https://www.nikkei.com/article/DGXMZO55846060Z10C20A2XR1000)
+    - {{[[TODO]]}} 阅读豆瓣上关于日本的书籍的书评，也是了解读者心理的直观方法，我之前为什么就没有想到这个方法呢？
+    - {{[[TODO]]}} 整合经常浏览的各大网站对于我感兴趣的事件的标签
+    - {{[[TODO]]}} This is a todo
+    - {{[[TODO]]}} This is a todo
+    - {{[[TODO]]}} This is a todo
+    - {{[[TODO]]}} update the Telegram API key above
+    - {{[[TODO]]}}电脑本地文件[[全文搜索]]#[[问题]] @评论:spotlight就可以，不过，我真正想要搜索的内容都用devonthink来搜索了。
+- block
+    - [[稍后阅读]]
+    - [[checkvist]]可能也是一个比较好的整理[[稍后阅读]]信息的方式。
+- #[[分列]]内容[[gr]]
+    - 好的
+    - 可以
+    - 
