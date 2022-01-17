@@ -1,4 +1,5 @@
-- 就是[[42SmartBlock]]
+- 相同概念
+    - 42SmartBlock，要想新增smartblock，就在42SmartBlock这个page下新增
 - 稳定版的[[roam42]
 - {{{[[roam/js]]}}}
     - ```javascript
@@ -25,4 +26,3 @@ if (!existing) {
 - [[smart block]] Builders Guide
 via[SmartBlocks Builders Guide](https://roamresearch.com/#/app/roamhacker/page/GH0401tnt)
 [[20201229]] 上午9:37
-- 用roam42创造的[[smart block]]就叫做42SmartBlock

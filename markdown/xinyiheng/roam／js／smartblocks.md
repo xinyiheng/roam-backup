@@ -1,12 +1,4 @@
 - workflows
-    - #SmartBlock Close Block Children
-        - <%JAVASCRIPTASYNC:
-```javascript
-var parentBlock = document.activeElement.id.split('-').pop();
-var thisBlockInfo = await roam42.common.getBlockInfoByUID(parentBlock);
-var thisBlockInfoString = thisBlockInfo[0][0].string;
-
-await roam42.common.updateBlock(parentBlock, thisBlockInfoString, false);```%><%NOBLOCKOUTPUT%>
     - #SmartBlock Create Numbered List
         - <%CURRENTBLOCKREF:parentBlockUID,false%><%NOBLOCKOUTPUT%><%JAVASCRIPTASYNC:
 ```javascript
@@ -75,6 +67,7 @@ for (var i=0; i<info[0][0].children.length; i++) {
 - trigger
     - jj
 - publish
+    - token
     - display name
         - wang
 - hot keys

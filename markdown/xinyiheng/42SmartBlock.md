@@ -1,3 +1,4 @@
+- [[roam research]]官方开发的[[smart block]]只能够放在roam/templatespage下才能调用。
 - #42SmartBlock Random Quotes
     - <%NOBLOCKOUTPUT%><%JAVASCRIPTASYNC: ```javascript
 var settings = {
@@ -49,8 +50,20 @@ return fetch("https://www.poemist.com/api/v1/randompoems")
 ```%>
         - <%JAVASCRIPT: return document.poemData[0].content%>
 - 这种[[smart block]]可以在任何地方建立，并不需要单独保存到这个page当中，我都统一放在这里是为了看上去整齐美观。
-- [[roam research]]官方开发的[[smart block]]只能够放在roam/templatespage下才能调用。
 - #42SmartBlock Unsplash
+    -  **Unsplash SmartBlock Configuration:**
+        - **Mandatory Settings:**
+            - *** Access Key:**
+                - n0yCij1SOF7C82IFHAZx3e29htwwnCL1Wc03a_23A60
+            - *** Preferred Search Mode:**    (QUERY)
+                - QUERY
+        -  **Optional Settings:**
+            -  **Default Query:**    __(preferred default search term for prompt)__
+                - relaxed
+            - **Width:**    __(in pixels)__
+                - 600
+            - **Display:**    __(LANDSCAPE | PORTRAIT | SQUARISH)__
+                - LANDSCAPE
     - <%NOBLOCKOUTPUT%><%CLEARVARS%>
     - <%NOBLOCKOUTPUT%>
 <%SET:accessKey,<%RESOLVEBLOCKREF:n0yCij1SOF7C82IFHAZx3e29htwwnCL1Wc03a_23A60%>%>
@@ -106,19 +119,6 @@ $.ajax(settings).done(function (response) {
   const inputEvent = new Event('input', { bubbles: true })
   txtarea.dispatchEvent(inputEvent)
 });``` %>
--  **Unsplash SmartBlock Configuration:**
-    - **Mandatory Settings:**
-        - *** Access Key:**
-            - n0yCij1SOF7C82IFHAZx3e29htwwnCL1Wc03a_23A60
-        - *** Preferred Search Mode:**    (QUERY)
-            - QUERY
-    -  **Optional Settings:**
-        -  **Default Query:**    __(preferred default search term for prompt)__
-            - relaxed
-        - **Width:**    __(in pixels)__
-            - 600
-        - **Display:**    __(LANDSCAPE | PORTRAIT | SQUARISH)__
-            - LANDSCAPE
 - ## [[[[Algorithms of Thought]]/Difference Engine]]
     - #42SmartBlock Difference Engine
         - **Current Situation**
