@@ -4,3 +4,7 @@
 - [[roam/sr/review]]
     - CRAAP#[[sr]]
 
+- 一个用 Roam Research 践行卡片笔记「写在写先」的例子Via[一个用 Roam Research 践行卡片笔记「写在写先」的例子_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Cu41127S6?p=1&share_medium=android&share_plat=android&share_session_id=526ce074-204e-4f05-893f-23914d5d9bf1&share_source=GENERIC&share_tag=s_i&timestamp=1642344847&unique_k=WRfadDX) [[20220117]] 上午9:29
+    - 有意识的关联和无意识的关联(unlinked)
+    - 先有原料再加工(先写后整理)
+    - 

@@ -7,6 +7,8 @@
 - 模块支持的类型超过了我的想象，可以添加文件和网页，视频以及很多软件类型文件
 - notion是一款我作为[[信息输出]]的展示窗口。可以很好地展示一些结构化的知识体系，不像roam research有那么多私人化的东西，并且呈现方式也并不是很整齐美观。
 - 目前支持[[双向链接]]但是好像只能到page级别，不支持block链接，但是有一个插件可以实现block引用的效果。不过，操作比较复杂，并且这种引用的block也没有特殊标识，难以识别。插件名称是[[notion global block]]
+- HTTISHERE Notion WidgetsVia[httishere widgets](https://httishere.github.io/widgets-site/#/) [[20220117]] 上午9:46 @评论:notion组建，非常漂亮。
+- Notion组件库｜更新：支持暗黑模式｜组件库获取方法Via[Notion组件库｜更新：支持暗黑模式｜组件库获取方法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fP4y1E7s6) [[20220117]] 上午9:46
 - #[[tricks]]
     - 把notion变成网站
         - {{iframe: https://thenordicweb.com/}}
