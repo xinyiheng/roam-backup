@@ -1,16 +1,5 @@
 - 相同概念
     - 42SmartBlock，要想新增smartblock，就在42SmartBlock这个page下新增
-- 稳定版的[[roam42]
-- {{{[[roam/js]]}}}
-    - ```javascript
-
-var s = document.createElement('script');
-	s.type = "text/javascript";
-  	s.src =  "https://roam42.glitch.me/main.js";
-  	s.async = true;
-document.body.appendChild(s);
-```
-- 测试版的[[roam42]]# [[blck:green]]
 - {{{[[roam/js]]}}}
     - ```javascript
 var existing = document.getElementById("roamjs-roam42-main");
