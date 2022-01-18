@@ -232,4 +232,4 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fpk8PuTeCZX.gif?alt=media&token=81472cd8-5df1-400c-8ca2-f29f1f177fd9)
 - 晚上回来陪麻豆看视频，没有骑车
 - 图床出现问题，尝试解决。
-- 
+- 原来的macbook上窗口管理的软件[[magnet]]经常不能用，试了几个之后，选择了免费的spectacle，够用了。
