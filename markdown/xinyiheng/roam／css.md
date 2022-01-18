@@ -1,9 +1,6 @@
-- bp3-popover-wrapperUsing Roam/CSS to display a list as grid or in rows
-via[Using Roam/CSS to display a list as grid or in rows](https://www.loom.com/share/06b03473bcda4728b5bef40929e5012f)
-[[20201230]] 上午10:14官方推出的一些css样式，用视频的形式展示出来的，比较直观
-- 实现分列效果
+- 分列效果
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPcxSe5o-k.png?alt=media&token=d3ab6a1d-503a-4633-ad8e-c8a5f09f5d06)
-- ```css
+    - ```css
 .roam-block-container[data-page-links*="分列"] .rm-block-children {
     display: grid; 
     margin-left: 20px; 
@@ -32,11 +29,154 @@ span[data-tag=".box"] {
     display:none; 
 }
 ```
-- 彩虹颜色
-    - {{[[roam/css]]}}
-        - ```css
-@import url('https://abhayprasanna.github.io/rainbow-indent.css');```
+- 彩虹条
+    - ```css
+.rm-level-1 > .rm-multibar, .rm-level-19 > .rm-multibar, .rm-level-37 > .rm-multibar, .rm-inline-references > .rm-multibar {
+    border-right-color: var(--indent1) !important;
+    box-shadow: var(--box-shadow-values) var(--indent1) inset;
+}
+
+/* Level 2 */
+.rm-level-2 > .rm-multibar, .rm-level-20 > .rm-multibar, .rm-level-38 > .rm-multibar {
+    border-right-color: var(--indent2) !important;
+    box-shadow: var(--box-shadow-values) var(--indent2) inset;
+}
+
+/* Level 3 */
+.rm-level-3 > .rm-multibar, .rm-level-21 > .rm-multibar, .rm-level-39 > .rm-multibar {
+    border-right-color: var(--indent3) !important;
+    box-shadow: var(--box-shadow-values) var(--indent3) inset;
+}
+
+/* Level 4 */
+.rm-level-4 > .rm-multibar, .rm-level-22 > .rm-multibar, .rm-level-40 > .rm-multibar {
+    border-right-color: var(--indent4) !important;
+    box-shadow: var(--box-shadow-values) var(--indent4) inset;
+}
+
+/* Level 5 */
+.rm-level-5 > .rm-multibar, .rm-level-23 > .rm-multibar, .rm-level-41 > .rm-multibar {
+    border-right-color: var(--indent5) !important;
+    box-shadow: var(--box-shadow-values) var(--indent5) inset;
+}
+
+/* Level 6 */
+.rm-level-6 > .rm-multibar, .rm-level-24 > .rm-multibar, .rm-level-42 > .rm-multibar {
+    border-right-color: var(--indent6) !important;
+    box-shadow: var(--box-shadow-values) var(--indent6) inset;
+}
+
+/* Level 7 */
+.rm-level-7 > .rm-multibar, .rm-level-25 > .rm-multibar, .rm-level-43 > .rm-multibar {
+    border-right-color: var(--indent7) !important;
+    box-shadow: var(--box-shadow-values) var(--indent7) inset;
+}
+
+/* Level 8 */
+.rm-level-8 > .rm-multibar, .rm-level-26 > .rm-multibar, .rm-level-44 > .rm-multibar {
+    border-right-color: var(--indent8) !important;
+    box-shadow: var(--box-shadow-values) var(--indent8) inset;
+}
+
+/* Level 9 */
+.rm-level-9 > .rm-multibar, .rm-level-27 > .rm-multibar, .rm-level-45 > .rm-multibar {
+    border-right-color: var(--indent9) !important;
+    box-shadow: var(--box-shadow-values) var(--indent9) inset;
+}
+
+/* Level 10 */
+.rm-level-10 > .rm-multibar, .rm-level-28 > .rm-multibar, .rm-level-46 > .rm-multibar {
+    border-right-color: var(--indent10) !important;
+    box-shadow: var(--box-shadow-values) var(--indent10) inset;
+}
+
+/* Level 11 */
+.rm-level-11 > .rm-multibar, .rm-level-29 > .rm-multibar, .rm-level-47 > .rm-multibar {
+    border-right-color: var(--indent11) !important;
+    box-shadow: var(--box-shadow-values) var(--indent11) inset;
+}
+
+/* Level 12 */
+.rm-level-12 > .rm-multibar, .rm-level-30 > .rm-multibar, .rm-level-48 > .rm-multibar {
+    border-right-color: var(--indent12) !important;
+    box-shadow: var(--box-shadow-values) var(--indent12) inset;
+}
+
+/* Level 13 */
+.rm-level-13 > .rm-multibar, .rm-level-31 > .rm-multibar, .rm-level-49 > .rm-multibar {
+    border-right-color: var(--indent13) !important;
+    box-shadow: var(--box-shadow-values) var(--indent13) inset;
+}
+
+/* Level 14 */
+.rm-level-14 > .rm-multibar, .rm-level-32 > .rm-multibar, .rm-level-50 > .rm-multibar {
+    border-right-color: var(--indent14) !important;
+    box-shadow: var(--box-shadow-values) var(--indent14) inset;
+}
+
+/* Level 15 */
+.rm-level-15 > .rm-multibar, .rm-level-33 > .rm-multibar, .rm-level-51 > .rm-multibar {
+    border-right-color: var(--indent15) !important;
+    box-shadow: var(--box-shadow-values) var(--indent15) inset;
+}
+
+/* Level 16 */
+.rm-level-16 > .rm-multibar, .rm-level-34 > .rm-multibar, .rm-level-52 > .rm-multibar {
+    border-right-color: var(--indent16) !important;
+    box-shadow: var(--box-shadow-values) var(--indent16) inset;
+}
+
+/* Level 17 */
+.rm-level-17 > .rm-multibar, .rm-level-35 > .rm-multibar, .rm-level-53 > .rm-multibar {
+    border-right-color: var(--indent17) !important;
+    box-shadow: var(--box-shadow-values) var(--indent17) inset;
+}
+
+/* Level 18 */
+.rm-level-18 > .rm-multibar, .rm-level-36 > .rm-multibar, .rm-level-54 > .rm-multibar {
+    border-right-color: var(--indent18) !important;
+    box-shadow: var(--box-shadow-values) var(--indent18) inset;
+}
+
+/* Focused block */
+.rm-focused > .rm-block-children > .rm-multibar {
+  border-right: dotted;
+  box-shadow: none;
+}
+
+
+:root {
+    --box-shadow-values: 25px 0px 20px -30px; 
+      
+    --indent1: #EA0A16F2;
+    --indent2: #F206EF;
+    --indent3: #FF9800;
+    --indent4: #009688;
+    --indent5: #3AFF22;
+    --indent6: #FFEB3B;
+    --indent7: #A808E8AD;
+    --indent8: #303472AD;
+    --indent9: #395C45AD;
+    --indent10: #7C7948AD;
+    --indent11: #7D5039AD;
+    --indent12: #A5494FAD;
+    --indent13: #706597AD;
+    --indent14: #657D91AD;
+    --indent15: #6D8D76AD;
+    --indent16: #A09A84AD;
+    --indent17: #987174AD;
+    --indent18: #8B5F78AD;
+}
+
+.rm-multibar {
+  z-index:4;
+}```
 - Element Class Detail 发现没有关联的概念
+    - ```css
+.rm-level3, .rm-heading-level-3>.rm-block__self .rm-block__input
+{ color: #0C403B;
+ font-weight:600;
+} ```
     - Class: `exact-word-match`
         - Criteria
             - Case-Sensitive Match
@@ -111,11 +251,6 @@ span[data-tag=".box"] {
             - background-color:  brown !important;
             - text-decoration: none !important;
         - }
-- ```css
-.rm-level3, .rm-heading-level-3>.rm-block__self .rm-block__input
-{ color: #0C403B;
- font-weight:600;
-} ```
 - 对一个block设置字体颜色和背景颜色
     - ```css
 
@@ -1077,4 +1212,3 @@ div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-ch
     display: none;
 }
 ```
-        - 
