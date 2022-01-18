@@ -89,4 +89,14 @@
 [marginnote3app://note/75F3AD65-A327-40C5-A5E3-A70E338098DE](marginnote3app://note/75F3AD65-A327-40C5-A5E3-A70E338098DE)
 - 图形思考Via[图形思考 (豆瓣)](https://book.douban.com/subject/34927005/#/) [[20220118]] 下午2:13#[[读书笔记]]
 - 图形思考与表达的20堂课Via[图形思考与表达的20堂课 (豆瓣)](https://book.douban.com/subject/33451584/#/) [[20220118]] 下午2:15
-- 
+- [久恒啓一図解Web　::　メディア](http://www.hisatune.net/html/02-kenkyuu/media/index.htm#/)#[[图解]]
+- 《高效学习法》#[[读书笔记]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FmJb8T4lJyj.png?alt=media&token=9c826c68-eb2e-42e3-bdd6-9c1fd0ddca15)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FGfgQRlcwBe.png?alt=media&token=3b2b7a05-0a96-401e-8b95-f55037cd87ca)@评论:明确学习路径
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FmtrNG3Yq_Y.png?alt=media&token=e8dd98e0-1875-4f89-8bde-f3c77bd04e83)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FbE2NY57PTv.png?alt=media&token=6fdca61d-a0de-4ba2-a803-982deec6a3d0)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FSG92ngXBQm.png?alt=media&token=8dc3e182-921c-46a2-be24-651155b7004e)@评论:这个自我介绍确实不错。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FQ73-PjFeuv.png?alt=media&token=25aef89b-15b7-44e5-8dc7-511d07ae5ea2)@评论:很有启发。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FKfwU1YNNk9.png?alt=media&token=a9839028-a073-4cb4-863d-1d8e352e83f1)@评论:这个表述很好
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F6v08Ey3Bbc.png?alt=media&token=ea1298c1-dc18-476e-8d62-2e7551d4cd62)
+    - 如何制作一张卡片？
