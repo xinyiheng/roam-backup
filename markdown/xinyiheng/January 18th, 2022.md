@@ -231,5 +231,8 @@
     - 我用eagle效果很好，自动就提取出清晰大图了，不用再一个一个点开。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fpk8PuTeCZX.gif?alt=media&token=81472cd8-5df1-400c-8ca2-f29f1f177fd9)
 - 晚上回来陪麻豆看视频，没有骑车
-- 图床出现问题，尝试解决。
-- 原来的macbook上窗口管理的软件[[magnet]]经常不能用，试了几个之后，选择了免费的spectacle，够用了。
+- 图床出现问题，尝试解决。#[[技能]]
+    - 本来想着把图床从七牛云换成github，但也有人说github也不稳定。我查阅了学习骇客以前写的文章，意识到图片链接的形式不用markdown，而是用html就可以了。这个链接在typora和anki都可以使用，但是在roam中只能显示一个链接，无法加载出来。不过无所谓了，我在roam research中基本上把图片直接复制进去，用roam自带的图床。
+- 原来的macbook上窗口管理的软件[[magnet]]经常不能用，试了几个之后，选择了免费的spectacle，够用了。#[[技能]]
+- macbook上使用的cleanshotx显示没有激活，我以为出了问题，在邮箱找到激活码之后就可以使用了。#[[技能]]
+- 白天发现自动复制到roam research的快捷方式经常失效，原来是cmd+shift+enter这个快速定位到最后一个block的快捷失效了，好像是一个叫做roam comments的插件的原因，我删除了。
