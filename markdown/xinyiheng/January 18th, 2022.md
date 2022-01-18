@@ -230,3 +230,6 @@
     - eagle://item/KYJVNO3VY8V3S
     - 我用eagle效果很好，自动就提取出清晰大图了，不用再一个一个点开。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fpk8PuTeCZX.gif?alt=media&token=81472cd8-5df1-400c-8ca2-f29f1f177fd9)
+- 晚上回来陪麻豆看视频，没有骑车
+- 图床出现问题，尝试解决。
+- 
