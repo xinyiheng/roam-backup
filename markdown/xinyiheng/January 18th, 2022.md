@@ -226,7 +226,7 @@
             - 为什么自己不管是输入还是输出，总是不系统，每次别人问问题的时候，总是临时思考、组织语言回答，而我分享课程或者回答别人问题的时候，往往可以做到系统性地作答，如何才能做到像我这样呢？
             - 来自得到App
 - 保存图片
-    - 如何把微博上的图片批量保存？
+    - 如何把微博上的图片批量保存？#[[图片]]
     - eagle://item/KYJVNO3VY8V3S
     - 我用eagle效果很好，自动就提取出清晰大图了，不用再一个一个点开。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fpk8PuTeCZX.gif?alt=media&token=81472cd8-5df1-400c-8ca2-f29f1f177fd9)
