@@ -84,9 +84,9 @@
     - 绿色探索，成长
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLX6DVRNcKn.png?alt=media&token=a13371e8-e002-40fb-b2c7-22ff6d6bb09d)
 - 中午设置了mutibar的彩红颜色，发现原来的bullet path也不见了，原来是删除js的时候不小心删除了。设置好之后，又设置了鼠标悬浮在block上的背景颜色。现在ui方面有了不小变化。#[[技能]]
-- 
-
-[marginnote3app://note/75F3AD65-A327-40C5-A5E3-A70E338098DE](marginnote3app://note/75F3AD65-A327-40C5-A5E3-A70E338098DE)
 - 虽然存在诸多思维框架,但实际上均能归结为五种思维模式——“平行化” 、 “层次化” 、 “二维化” 、 “时序化” 、 “闭环化” 。
 
 [marginnote3app://note/75F3AD65-A327-40C5-A5E3-A70E338098DE](marginnote3app://note/75F3AD65-A327-40C5-A5E3-A70E338098DE)
+- 图形思考Via[图形思考 (豆瓣)](https://book.douban.com/subject/34927005/#/) [[20220118]] 下午2:13#[[读书笔记]]
+- 图形思考与表达的20堂课Via[图形思考与表达的20堂课 (豆瓣)](https://book.douban.com/subject/33451584/#/) [[20220118]] 下午2:15
+- 
