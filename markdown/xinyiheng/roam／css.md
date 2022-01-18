@@ -266,22 +266,22 @@ span[data-tag=".box"] {
 }
 
 /*To style just the block itself but none of the child elements, add */
-.roam-block-container[data-page-links*="rd"] > div.rm-block-main {
+.roam-block-container[data-page-links*="hongse"] > div.rm-block-main {
   background:rgba(241,194,194,0.93);
 }
-span[data-link-title="rd"] { 
+span[data-link-title="hongse"] { 
     display: none !important; 
 }
-.roam-block-container[data-page-links*="gr"] > div.rm-block-main {
+.roam-block-container[data-page-links*="lvse"] > div.rm-block-main {
   background:rgba(208,243,173,0.93);
 }
-span[data-link-title="gr"] { 
+span[data-link-title="lvse"] { 
     display: none !important; 
 }
-.roam-block-container[data-page-links*="yl"] > div.rm-block-main {
+.roam-block-container[data-page-links*="huangse"] > div.rm-block-main {
   background:rgba(237,241,194,0.93);
 }
-span[data-link-title="yl"] { 
+span[data-link-title="huangse"] { 
     display: none !important; 
 }```
 - 思维导图模式
@@ -367,15 +367,19 @@ roam-block-container rm-block rm-block--mine rm-block--open rm-not-focused block
   font-weight: 700px;
   border-bottom: none;
 }```
-- ```css
-span.rm-page-ref[data-tag="笔记"],
-span[data-link-title^="软件联动"] .rm-page-ref {
-  color: #fcb815;
-  padding: 3px 4px;
-  font-weight: 700;
-  line-height: 1.4em;
-}```
 - pdf优化
+    - ^^tag^^
+        - ```css
+span.rm-page-ref[data-tag] {    
+  background-color: #D2F89C;    
+  color: black;    
+  padding: 3px 7px;    
+  line-height: 1em;    
+  border-right: solid 1px;    
+  border-bottom: solid 1px;    
+  border-radius: 3px;    
+  font-weight:500;
+}```
     - ```css
 :root{
   --col1: rgba(255, 243, 174, .8);
@@ -482,7 +486,15 @@ span[data-link-title^="软件联动"] .rm-page-ref {
   display: none;
 }
 ```
-- [[Tag Styles]]
+- [[Tag Styles]][[lvse]]
+    - ```css
+span.rm-page-ref[data-tag="笔记"],
+span[data-link-title^="软件联动"] .rm-page-ref {
+  color: #fcb815;
+  padding: 3px 4px;
+  font-weight: 700;
+  line-height: 1.4em;
+}```
     - {{[[roam/css]]}}
         - ```css
 
@@ -642,21 +654,8 @@ span.rm-page-ref[data-tag="人际"] {
     line-height: 2em;
     font-weight: 500;
 }```
-- ^^tag^^
+- 数字花园[[hongse]]
     - ```css
-span.rm-page-ref[data-tag] {    
-  background-color: #D2F89C;    
-  color: black;    
-  padding: 3px 7px;    
-  line-height: 1em;    
-  border-right: solid 1px;    
-  border-bottom: solid 1px;    
-  border-radius: 3px;    
-  font-weight:500;
-}```
-- [[侧边栏]]
-    - ^^数字花园^^
-        - ```css
 
 :root {
     --main-left-bg: white;
@@ -678,7 +677,10 @@ span.rm-page-ref[data-tag] {
 .rm-bullet__inner {
   background-color:rgb(100,100,95);
 }
-
+/*修改鼠标选中某个block时候的背景色*/
+.roam-block-container:hover {
+  background-color: #ECF4F4;
+}
 /*修改url链接的文字颜色*/
 a {
   color:#9708AE !important;
@@ -731,6 +733,9 @@ textarea {
 }
 /*修改选中后的文字颜色*/
 ::selection {
+    background: #DC6767;
+}
+::hover {
     background: #DC6767;
 }
 /*修改左侧边栏文字颜色*/
@@ -963,7 +968,7 @@ div#right-sidebar .kanban-board .kanban-column {
     flex: 1 0 75px;
 }
 ```
-        - ```css
+    - ```css
 
 /* Extend the main page wider to allow for blocks to be wider  */
 
@@ -1088,7 +1093,7 @@ div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-ch
 }
 
 ```
-        - ```css
+    - ```css
 
 /* Extend the main page wider to allow for blocks to be wider  */
 

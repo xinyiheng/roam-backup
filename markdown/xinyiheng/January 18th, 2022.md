@@ -83,6 +83,5 @@
     - 黑色负面，否定
     - 绿色探索，成长
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLX6DVRNcKn.png?alt=media&token=a13371e8-e002-40fb-b2c7-22ff6d6bb09d)
-- 发了两条微博#[[写作]]
-    - 在微博上写的一句话就比我吭哧吭哧写微信公众号的阅读量多得多。
-- 我找到了，感兴趣的朋友可以试试 https://gist.github.com/azlen/cc8d543f0e46e17d978e705650df0e9e
+- 中午设置了mutibar的彩红颜色，发现原来的bullet path也不见了，原来是删除js的时候不小心删除了。设置好之后，又设置了鼠标悬浮在block上的背景颜色。现在ui方面有了不小变化。#[[技能]]
+- 

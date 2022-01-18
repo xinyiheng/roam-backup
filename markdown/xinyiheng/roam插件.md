@@ -1145,21 +1145,12 @@ document.getElementsByTagName("head")[0].appendChild(mms);```
   }
 
 })()```
-    - {{[[roam/js]]}}
-        - ```javascript
-/*
- * credit to Dhrumil Shah (@wandcrafting) and Robert Haisfield (@RobertHaisfield)
- * for the original concept which was part of their RoamGames submission
- * and can be found at: https://www.figma.com/file/5shwLdUCHxSaPNEO7pazbe/
- *
- */
-
-/* ======= OPTIONS ======== */
-/* note: if you change these, reload the page to see the effect */
-
+    - bullet path@评论:显示当前block的路径
+        - {{[[roam/js]]}}
+            - ```javascript
 // BULLET
 let scale = 2;
-let bulletColor = '#FF0099';
+let bulletColor = '#07FA11';
 
 // LINES
 let showLines = true;
@@ -1263,6 +1254,4 @@ document.arrive('textarea.rm-block-input', function(el) {
     
     // set content of style tag to include both the base styles from before and the bullet styles we just generated
     style.textContent = baseStyle + bulletStyle;
-})
-Search...
-```
+})```
