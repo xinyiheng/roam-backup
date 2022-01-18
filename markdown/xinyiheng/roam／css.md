@@ -677,10 +677,10 @@ span.rm-page-ref[data-tag="人际"] {
 .rm-bullet__inner {
   background-color:rgb(100,100,95);
 }
-/*修改鼠标选中某个block时候的背景色*/
+/*修改鼠标选中某个block时候的背景色
 .roam-block-container:hover {
   background-color: #ECF4F4;
-}
+}*/
 /*修改url链接的文字颜色*/
 a {
   color:#9708AE !important;
