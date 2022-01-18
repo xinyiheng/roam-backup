@@ -1,0 +1,2 @@
+- AI帮你理解科学Via[Selection-based note-taking applications - AMiner](https://www.aminer.cn/pub/53e9b500b7602d970403120a/selection-based-note-taking-applications) [[20220118]] 上午9:01
+- 说实话，第一次见到论文溯源分析图，确实是惊到了Via[说实话，第一次见到论文溯源分析图，确实是惊到了。。。。科技没有尽头！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1J3411x7h1?p=1&share_medium=android&share_plat=android&share_session_id=a8c0d13b-f96d-4734-a62d-82b46797e0cb&share_source=COPY&share_tag=s_i&timestamp=1642258147&unique_k=KQBZLdb#/) [[20220118]] 上午9:01

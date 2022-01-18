@@ -19,6 +19,13 @@
 - 也支持epub格式的文件，但是不支持mobi、azw3这些亚马逊为kindle开发的格式，但是通过calibre可以很快地转换成为epub格式，所以，电子书的格式不会成为阅读障碍
 - 阅读场景比较重，我正在想办法克服这个问题。已经取得了一些进展。
 - 最大的缺点就是每打开一个pdf都会在marginnote的文件夹里生成一个新的副本，这样很容易文件版本混乱。
+- 特色功能
+    - 标题链接
+        - marginnote3新功能“标题链接”有多好用？Via[marginnote3新功能“标题链接”有多好用？性感笔记，点击查词_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ho4y1d7De/?spm_id_from=autoNext) [[20220118]] 上午9:33@评论:也就是说，mn中允许多张卡片共用一个标题，打开标题链接功能以后，同样标题的所有卡片都可以在一起显示。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FhSkqGIfTNt.png?alt=media&token=06f37666-0357-4a25-b1d7-4d22dbd8d762)
+        - 所谓标题链接外部字典，就是另一本书中也提到了你作为卡片标题的概念，就把那一本书的相关卡片也一起显示出来。
+    - 双向链接
+        - 
 - [[同步]]的逻辑很奇葩，这让管理阅读文件变得非常困难。
     - 在mac中凡是用marginnote打开的文件都被保存到marginnote内置的文件夹中，这样，电脑中原本只有一份的文件A就新增了一份marginnote里面的副本A'。
     - 如果开启icloud同步功能，那么这份文本就会上传到icloud中，这样，又生成了一份副本A''。如果只把icloud中的文件删除，在客户端同步并不会删除客户端内部的文件。也就是说，icloud在这里更像是一个云盘而不是同步盘，icloud的内容可以下载到客户端，而直接删除icloud里面的内容不能删除客户端里面的文件。
@@ -28,6 +35,8 @@
     - 转换最好在阅读完成之后进行，否则，marginnote新添加的内容还需要重新导入。
 - marginnote插件
     - [最新插件与自动化/插件发布区话题 - MarginNote 中文社区](https://bbs.marginnote.cn/c/script/mod/55) [[20210915]] 下午10:49
+    - ohmyMN,卡片批量重命名#[[文件批处理的概念]]@评论:还有一个功能，设置卡片标题更方便了。
+    - allinone，好像只比较适合ipad，作者解说太差了。
     - 好像用到了[[JavaScript]]
 - #[[软件联动]]
     - 如何实现marginnote的内容批量导入到roam research？[[rd]]

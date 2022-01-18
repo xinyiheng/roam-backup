@@ -1,0 +1,2 @@
+- https://researchrabbitapp.com/home
+- 我注册了一个账号，需要机构信息。wangxiaohui@mail.tsinghua.org.cn，密码 wxhdp666666

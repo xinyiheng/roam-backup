@@ -1,0 +1,9 @@
+- 今天起得早一些，给麻豆读了一会书
+- 在地铁上打开滴答清单，看之前加入阅读清单一直没有读的书早上发现telegram无法使用
+- [[Inbox]]
+    - [[xin]] at 08:50: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FGFicikRV8?alt=media&token=708cacdc-22b7-4b61-bd14-5f9ea9d2b015)
+    - [[xin]] at 08:50: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FyBbKlR3cm?alt=media&token=963849fa-a1e0-483f-86d5-e16c912f0f1c)
+    - [[xin]] at 08:51: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FhOm4_aeu0?alt=media&token=b89bf752-c88f-41fd-99b2-da445c1811d1)

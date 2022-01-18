@@ -9,7 +9,7 @@
     - 为什么roam research的搜索结果那么快？
         - 所有数据其实缓存在浏览器中了，使用效果非常接近本地的客户端。
     - 可以把roam research剪藏到印象笔记，然后直接发布到社区。在得到上做的标注由于可以自动同步到印象笔记中，也可以直接全部复制到roam research中。#[[软件联动]]
-    - 文件批处理的概念
+    - [[文件批处理的概念]]
 - Roam Research 与任务管理，如何保持专注？Via[Roam Research 与任务管理，如何保持专注？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1zS4y1Z7io?spm_id_from=333.999.0.0) [[20220112]] 上午9:24#[[专注]]
     - 单核工作法
     - 待办事项不要超过五项
