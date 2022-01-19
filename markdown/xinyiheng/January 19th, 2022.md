@@ -1,0 +1,15 @@
+- [[Inbox]]
+    - [[xin]] at 08:29: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FyPmaNONVu?alt=media&token=d303784e-3b99-48d1-b803-e26daabdd0f9)
+- 把自己的文章写成图片。
+- 设置mac mini bartender，尝试了好多个破解版本的都不好用，最后还是在淘宝的蜜蜂软件上花了26块钱买了个正版的授权号。
+- 还是放不下在chrome中向滴答清单添加任务的设置，算是弄出了一个还算可以的快捷方式，还是沿用了zz这个快捷键。#[[快捷方式]]#[[软件联动]]
+- 指导员吴刚：坚持卡片笔记300天是怎样的体验？Via[指导员吴刚：坚持卡片笔记300天是怎样的体验？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1gS4y1f7cH#/) [[20220119]] 上午9:39
+    - 如何记录卡片笔记
+        - 没有错误的笔记，记下来就行
+        - 阅读联想
+        - 平行联想
+        - 对话联想
+        - 延伸研究()
+    - 如何坚持记录
+    - 卡片笔记写作
