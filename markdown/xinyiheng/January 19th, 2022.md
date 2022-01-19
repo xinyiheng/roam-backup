@@ -3,8 +3,8 @@
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FyPmaNONVu?alt=media&token=d303784e-3b99-48d1-b803-e26daabdd0f9)
     - [[xin]] at 13:44: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FY2nj_cFNT?alt=media&token=d586af94-8c52-4571-878b-d3bb3a2b8cd0)
-- 把自己的文章写成图片。
-- 设置mac mini bartender，尝试了好多个破解版本的都不好用，最后还是在淘宝的蜜蜂软件上花了26块钱买了个正版的授权号。
+- 把自己的文章写成图片。#[[洞见]]
+- 设置mac mini bartender，尝试了好多个破解版本的都不好用，最后还是在淘宝的蜜蜂软件上花了26块钱买了个正版的授权号。#[[技能]]
 - 还是放不下在chrome中向滴答清单添加任务的设置，算是弄出了一个还算可以的快捷方式，还是沿用了zz这个快捷键。#[[快捷方式]]#[[软件联动]]
 - word不好用了，在淘宝上买了一个激活码。
 - [[指导员吴刚]]：坚持卡片笔记300天是怎样的体验？Via[指导员吴刚：坚持卡片笔记300天是怎样的体验？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1gS4y1f7cH#/) [[20220119]] 上午9:39@评论:内容倒是没有多少启发，但这个人做的事情我可以借鉴。#[[人际]]#[[阅读]]@评论:我添加了他的微信
@@ -27,7 +27,7 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fj4u7i23Iob.png?alt=media&token=9150956a-69ef-4de6-a222-4db4cf63e3cb)
         - 影响行为的六个方面
     - 卡片笔记写作
-- 叶峻峣：用 SuperMemo 打通阅读、理解与记忆Via[叶峻峣：用 SuperMemo 打通阅读、理解与记忆_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1jL411V7GD?p=1&share_medium=android&share_plat=android&share_session_id=52b9d7c8-e074-4dd0-9dd7-8fb71ffb2f1e&share_source=GENERIC&share_tag=s_i&timestamp=1642344650&unique_k=ulJYnGh#/) [[20220119]] 上午10:15
+- 叶峻峣：用 SuperMemo 打通阅读、理解与记忆Via[叶峻峣：用 SuperMemo 打通阅读、理解与记忆_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1jL411V7GD?p=1&share_medium=android&share_plat=android&share_session_id=52b9d7c8-e074-4dd0-9dd7-8fb71ffb2f1e&share_source=GENERIC&share_tag=s_i&timestamp=1642344650&unique_k=ulJYnGh#/) [[20220119]] 上午10:15#[[阅读]]
     - 集智俱乐部 Via[【关于集智】](https://www.wolai.com/fHxGuDuNUvwqfq7mjHtLFe#/) [[20220119]] 上午10:19
     - 什么是组织良好的卡片？
         - 间隔记忆的另一个关键点是要自己做卡片(自己的话，自己的理解)
@@ -54,4 +54,4 @@
 - 《给孩子的人工智能通识课》文案#[[工作]]
 - 晚上骑行1个小时，43公里。#[[健康]]
 - cleanshotX只能激活一个账号，所以我在家里的电脑又重新在网上花了20元买了一个破解版本，安装不顺利，但最后还是成功了，心情不太好。
-- 
+- #[[写作]]硬着头皮写公众号
