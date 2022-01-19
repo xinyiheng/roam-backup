@@ -2,3 +2,7 @@
 - [[Inbox]]
     - [[xin]] at 24:04: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FbgdUt455G?alt=media&token=10275bc4-5d7d-4568-b21f-0ad2502f63a1)
+    - [[xin]] at 24:28: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F1D1gW6ZV5?alt=media&token=590cf69a-7e93-47e9-9489-2b34c9e3eb6d)
+    - [[xin]] at 24:29: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWnwtnxIdz?alt=media&token=7612b41d-df44-4655-8859-f2c38b2029d3)
