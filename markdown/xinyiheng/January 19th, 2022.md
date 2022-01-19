@@ -25,5 +25,20 @@
         - 影响行为的六个方面
     - 卡片笔记写作
 - 叶峻峣：用 SuperMemo 打通阅读、理解与记忆Via[叶峻峣：用 SuperMemo 打通阅读、理解与记忆_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1jL411V7GD?p=1&share_medium=android&share_plat=android&share_session_id=52b9d7c8-e074-4dd0-9dd7-8fb71ffb2f1e&share_source=GENERIC&share_tag=s_i&timestamp=1642344650&unique_k=ulJYnGh#/) [[20220119]] 上午10:15
-    - ji'zhi'ju'le'bu IVia[【关于集智】](https://www.wolai.com/fHxGuDuNUvwqfq7mjHtLFe#/) [[20220119]] 上午10:19
-    - 
+    - 集智俱乐部 Via[【关于集智】](https://www.wolai.com/fHxGuDuNUvwqfq7mjHtLFe#/) [[20220119]] 上午10:19
+    - 什么是组织良好的卡片？
+        - 间隔记忆的另一个关键点是要自己做卡片(自己的话，自己的理解)
+        - 不要大段无意义的并列。![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FzC1MkW9SEb.png?alt=media&token=7de4cdd1-0a8e-454c-a8fa-33619a4ab809)
+        - 原则
+            - 从浅到深：无法理解的内容，大脑的反应也是没有针对性，只能盲目乱动
+            - 使用例子：也是缩小问题的范围
+            - 最小信息：细节不能全部记忆。这和我理解的用细节来辅助记忆(多感官刺激)相冲突
+            - 使用术语：缩小需要记忆的焦点，类似关键词
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FhYoCs0zx2S.png?alt=media&token=46f9fa9a-e126-4847-8722-9c5d43aa3aa2)@评论:记住一条路径明显更容易
+        - 记忆卡片也要不断迭代，非常接近[[渐进式阅读]]
+        - supermemo由于有很多卡片，给卡片也设置了优先级
+        - supermemo支持渐进阅读，好像是边阅读边制卡。但我这会改变我的整个阅读流程，我的迁移成本太高了。
+        - **01:13:40**演示从网页导入阅读材料。 好像用的简悦
+        - 电子化教材结合间隔记忆软件，可能是未来教育的方向#[[育儿]]
+        - 
+- 
