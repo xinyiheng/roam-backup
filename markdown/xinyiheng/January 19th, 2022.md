@@ -1,6 +1,8 @@
 - [[Inbox]]
     - [[xin]] at 08:29: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FyPmaNONVu?alt=media&token=d303784e-3b99-48d1-b803-e26daabdd0f9)
+    - [[xin]] at 13:44: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FY2nj_cFNT?alt=media&token=d586af94-8c52-4571-878b-d3bb3a2b8cd0)
 - 把自己的文章写成图片。
 - 设置mac mini bartender，尝试了好多个破解版本的都不好用，最后还是在淘宝的蜜蜂软件上花了26块钱买了个正版的授权号。
 - 还是放不下在chrome中向滴答清单添加任务的设置，算是弄出了一个还算可以的快捷方式，还是沿用了zz这个快捷键。#[[快捷方式]]#[[软件联动]]
