@@ -30,4 +30,6 @@
     - 工作	January 20, 2022 1:40 PM	2022/01/20, 13:40	很不错的体验
     - 工作	January 20, 2022 1:46 PM	2022/01/20, 13:46	notion新建
 - 减少twitter上的订阅源。太多的内容导致根本无法吸收。#[[阅读]]
+- 邮箱的订阅内容也可以在inoreader中管理
+- incoming-xinyihengyouxiang@inoreader.comVia[Sheracaolity](https://sheracaolity.ghost.io/#/) [[20220120]] 下午5:33
 - 
