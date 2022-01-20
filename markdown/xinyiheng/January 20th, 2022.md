@@ -1,8 +1,12 @@
-- 
 - [[Inbox]]
-    - [[xin]] at 24:04: #Photo
-        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FbgdUt455G?alt=media&token=10275bc4-5d7d-4568-b21f-0ad2502f63a1)
     - [[xin]] at 24:28: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F1D1gW6ZV5?alt=media&token=590cf69a-7e93-47e9-9489-2b34c9e3eb6d)
     - [[xin]] at 24:29: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWnwtnxIdz?alt=media&token=7612b41d-df44-4655-8859-f2c38b2029d3)
+    - [[xin]] at 09:33: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FoZwab4Dkn?alt=media&token=35519ae2-fe6c-45d0-9d21-f92791000f96)
+- {{[[DONE]]}}需要做视频笔记吗？#[[问题]]
+    - 对我来说，这不是一个迫切的需求。我在youtube和bilibili上看视频都可以直接添加时间戳。这类视频很少回去回顾。本地视频也不多。所以，我最多把自己在这些平台上的笔记复制到roam research来就可以了。
+    - 以后想要做视频笔记，可以参考john的做法。不过需要花不少时间。
+- 
+- 
