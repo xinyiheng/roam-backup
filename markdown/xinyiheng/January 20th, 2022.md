@@ -21,3 +21,11 @@
     - Integromat 请问使用的是付费版本吗，免费的一个月是 1000 operation ，按照文中每次触发得占用2个，那么一个月 1000/30/2 ~= 17，每天大概可以 star 17篇？
     - 还有一个选择是自建 n8n 这个也可以考虑看看
     - " https://diigo.com/0n71q9
+- 我实现了notion和谷歌日历同步，这样其实也打通了notion和滴答清单。#[[软件联动]]
+    - 如何自動同步 Notion 和 Google Calendar 的任務？使用 Automate.io 建立自動化流程Via[如何自動同步 Notion 和 Google Calendar 的任務？使用 Automate.io 建立自動化流程 | by 朱騏 | PM的生產力工具箱 | Medium](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/%E5%A6%82%E4%BD%95%E8%87%AA%E5%8B%95%E5%90%8C%E6%AD%A5-notion-%E5%92%8C-google-calendar-%E7%9A%84%E4%BB%BB%E5%8B%99-8d9ae356e952#/) [[20220120]] 下午1:39@评论:是通过这篇文章了解的。
+- 在inoreader中的星标文章自动发送到滴答清单#[[软件联动]]
+- {{table}}
+    - 写作	January 20, 2022 1:34 PM	2022/01/20, 13:34	实验新的内容
+    - 技能	January 20, 2022 1:35 PM	2022/01/20, 13:35	阅读文章的时候
+    - 工作	January 20, 2022 1:40 PM	2022/01/20, 13:40	很不错的体验
+    - 工作	January 20, 2022 1:46 PM	2022/01/20, 13:46	notion新建
