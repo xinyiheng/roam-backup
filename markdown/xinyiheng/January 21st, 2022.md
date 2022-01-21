@@ -111,9 +111,8 @@
         - " https://diigo.com/0n7fxu
     - #[[技能]]
         - libgen的一个插件，可以在goodreads旁边显示下载链接。很好。
-        - 学到了一个新技能
+        - 学到了一个新技能#[[视频]]
             - 把youtube上视频的字幕整体下载下来，然后翻译成汉语，快速了解视频的内容，非常适合初步筛选。
             - 网站链接
                 - https://www.dvdvideosoft.com/online-youtube-subtitles-download#/
-- https://rsshub.app/sspai/activity/xinyihengVia[电子书《小岛经济学》的笔记](file:///Users/wangxiaohui/Desktop/%E6%88%91%E7%9A%84%E7%AC%94%E8%AE%B0/%E7%94%B5%E5%AD%90%E4%B9%A6%E3%80%8A%E5%B0%8F%E5%B2%9B%E7%BB%8F%E6%B5%8E%E5%AD%A6%E3%80%8B%E7%9A%84%E7%AC%94%E8%AE%B0.html) [[20220121]] 下午12:06
-- 
+    - [[inoreader]]还可以生成以邮箱，订阅别人的newsletter的时候填写这个邮箱就可以把内容直接发送到inoreader中，再也不用到邮箱里去看了。结合rsshub 雷达这款插件更好用，因为可以为我在豆瓣、少数派和知乎上的动态生成rss，在inoreader中也可回顾自己的阅读了。
