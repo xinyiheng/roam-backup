@@ -115,4 +115,4 @@
             - 把youtube上视频的字幕整体下载下来，然后翻译成汉语，快速了解视频的内容，非常适合初步筛选。
             - 网站链接
                 - https://www.dvdvideosoft.com/online-youtube-subtitles-download#/
-    - [[inoreader]]还可以生成以邮箱，订阅别人的newsletter的时候填写这个邮箱就可以把内容直接发送到inoreader中，再也不用到邮箱里去看了。结合rsshub 雷达这款插件更好用，因为可以为我在豆瓣、少数派和知乎上的动态生成rss，在inoreader中也可回顾自己的阅读了。
+    - [[inoreader]]还可以生成以邮箱，订阅别人的newsletter的时候填写这个邮箱就可以把内容直接发送到inoreader中，再也不用到邮箱里去看了。结合rsshub 雷达这款插件更好用，因为可以为我在豆瓣、少数派和知乎上的动态以及diigo的标注记录生成rss，在inoreader中也可回顾自己的阅读了。
