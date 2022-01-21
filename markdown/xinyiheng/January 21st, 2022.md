@@ -115,4 +115,5 @@
             - 把youtube上视频的字幕整体下载下来，然后翻译成汉语，快速了解视频的内容，非常适合初步筛选。
             - 网站链接
                 - https://www.dvdvideosoft.com/online-youtube-subtitles-download#/
+- https://rsshub.app/sspai/activity/xinyihengVia[电子书《小岛经济学》的笔记](file:///Users/wangxiaohui/Desktop/%E6%88%91%E7%9A%84%E7%AC%94%E8%AE%B0/%E7%94%B5%E5%AD%90%E4%B9%A6%E3%80%8A%E5%B0%8F%E5%B2%9B%E7%BB%8F%E6%B5%8E%E5%AD%A6%E3%80%8B%E7%9A%84%E7%AC%94%E8%AE%B0.html) [[20220121]] 下午12:06
 - 
