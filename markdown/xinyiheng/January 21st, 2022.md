@@ -14,7 +14,7 @@
             - 网络热词
         - 视频的封面
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FVl5u92kEgv.png?alt=media&token=fdd898b6-a624-400d-ad81-fe827ca64a87)
-    - 元宇宙
+    - [[元宇宙]]
         - "
             - 真假元宇宙：一份“元宇宙”世界的通行指南
                 - 一个概念太热，必定鱼龙混杂。 comment by[🔗](https://www.diigo.com/profile/wangxiaohui19880214)
@@ -109,9 +109,10 @@
                 - 恐怕这句话放在哪都合适。特别是新生事物。 comment by[🔗](https://www.diigo.com/profile/wangxiaohui19880214)
                 - 元宇宙三大定律：非定域实在性，多世界诠释，虚实二象相（互补原理）。都充满着矛盾和辩证。
         - " https://diigo.com/0n7fxu
-    - libgen的一个插件，可以在goodreads旁边显示下载链接。很好。
-    - 学到了一个新技能
-        - 把youtube上视频的字幕整体下载下来，然后翻译成汉语，快速了解视频的内容，非常适合初步筛选。
-        - 网站链接
-            - https://www.dvdvideosoft.com/online-youtube-subtitles-download#/
+    - #[[技能]]
+        - libgen的一个插件，可以在goodreads旁边显示下载链接。很好。
+        - 学到了一个新技能
+            - 把youtube上视频的字幕整体下载下来，然后翻译成汉语，快速了解视频的内容，非常适合初步筛选。
+            - 网站链接
+                - https://www.dvdvideosoft.com/online-youtube-subtitles-download#/
 - 
