@@ -1,0 +1,18 @@
+- #[[阅读]]
+    - 自媒体时代，还在为视频创作而迷茫？这里有一份实战秘笈 | 案例拆解Via[自媒体时代，还在为视频创作而迷茫？这里有一份实战秘笈 | 案例拆解](https://mp.weixin.qq.com/s?__biz=MzIzNzYwMzM3Ng==&mid=2247529827&idx=1&sn=5744adbfbd603bd94a47f75d179cb45b&chksm=e8c42a3cdfb3a32aab3faafcee7375ee569a4fc8f38517267e8b07ad67c8593e561550bc4390&scene=21#/wechat_redirect) [[20220121]] 上午9:35
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FjGMaKuEooK.png?alt=media&token=b874d669-86cc-49d9-9b6b-56dc7db397c6)
+        - 标题的是个套路
+            - 问
+            - 数
+            - 名人
+            - 实用
+            - 不(警告不要做某事：千万别碰它)
+            - 对比(李子柒：年入2亿的背后)
+            - 行业趋势 最后5天，抓住红利的尾巴
+            - 特定人群 北漂
+            - 时效  刚刚，倒计时，突发
+            - 网络热词
+        - 视频的封面
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FVl5u92kEgv.png?alt=media&token=fdd898b6-a624-400d-ad81-fe827ca64a87)
+- 元宇宙
+    - 
