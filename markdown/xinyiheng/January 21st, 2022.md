@@ -109,10 +109,13 @@
                 - 恐怕这句话放在哪都合适。特别是新生事物。 comment by[🔗](https://www.diigo.com/profile/wangxiaohui19880214)
                 - 元宇宙三大定律：非定域实在性，多世界诠释，虚实二象相（互补原理）。都充满着矛盾和辩证。
         - " https://diigo.com/0n7fxu
-    - #[[技能]]
-        - libgen的一个插件，可以在goodreads旁边显示下载链接。很好。
-        - 学到了一个新技能#[[视频]]
-            - 把youtube上视频的字幕整体下载下来，然后翻译成汉语，快速了解视频的内容，非常适合初步筛选。
-            - 网站链接
-                - https://www.dvdvideosoft.com/online-youtube-subtitles-download#/
-    - [[inoreader]]还可以生成以邮箱，订阅别人的newsletter的时候填写这个邮箱就可以把内容直接发送到inoreader中，再也不用到邮箱里去看了。结合rsshub 雷达这款插件更好用，因为可以为我在豆瓣、少数派和知乎上的动态以及diigo的标注记录生成rss，在inoreader中也可回顾自己的阅读了。
+- #[[技能]]
+    - libgen的一个插件，可以在goodreads旁边显示下载链接。很好。
+    - 学到了一个新技能#[[视频]]
+        - 把youtube上视频的字幕整体下载下来，然后翻译成汉语，快速了解视频的内容，非常适合初步筛选。
+        - 网站链接
+            - https://www.dvdvideosoft.com/online-youtube-subtitles-download#/
+- [[inoreader]]还可以生成以邮箱，订阅别人的newsletter的时候填写这个邮箱就可以把内容直接发送到inoreader中，再也不用到邮箱里去看了。结合rsshub 雷达这款插件更好用，因为可以为我在豆瓣、少数派和知乎上的动态以及diigo的标注记录生成rss，在inoreader中也可回顾自己的阅读了。#[[技能]]
+- 收尾《从滩中学到东大》#[[工作]]
+- 陪麻豆看植物大战僵尸的视频和大国建造，我买的旅行日历到了，每一张就像是机票，麻豆拿着机票登机，我带着他去参观。今天的图是韩国的韩屋，和麻豆在谷歌地图上去首尔看了。#[[育儿]]
+- 
