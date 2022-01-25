@@ -1,4 +1,9 @@
 - [[Inbox]]
 - #[[写作]] 早上趁着还有点记忆就把昨天推送内容的后续写完了。应该写了两个多小时。
 - #[[工作]] 制作版权页，《从滩中学到东大》排版
-- 
+- 素材收集#[[软件联动]]
+    - {{iframe:https://forms.zohopublic.com.cn/wxhdp/report/UntitledReport/reportperma/Vq5YIaAszzm1vb4B7FeNIkPZ_IAe1ejDs-bzNj5GcFE}}
+- flomo与roam research联动#[[软件联动]]
+    - 阅读界面：我还是很习惯obsidian的左侧把所有笔记都列出来的这种方式。roam research的all page和主编辑区无法同时显示。
+    - 当你为自己书写，那是日记，当你为别人书写，那是书
+    - 距离影响判断

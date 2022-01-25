@@ -56,3 +56,28 @@ if (window.YT !== undefined) {
 %><%CURSOR%>
     - <%IFTRUE:"<%GET:varYTbut%>" != "y"%> <%CURSOR%>
     - <%SET:varYTbut,n%><%NOBLOCKOUTPUT%>
+- #[[SmartBlock]]flomo随机内容
+    - <%SET:result,<%JA:```javascript
+roam42.loader.addScriptToPage('turndown', 'https://unpkg.com/turndown/dist/turndown.js');
+var turndownService = new TurndownService();
+
+function getRandomInt(max) {
+  return Math.floor(Math.random() * max);
+}
+
+const flomo_session = 'eyJpdiI6InRwOGJcLzB5OHhMbDR3S3ZINkl2OUNBPT0iLCJ2YWx1ZSI6IjA3cWhLenRyUXBsWG5ZTUQ0T2tIak1qam5sVlJRSzA5NDlHUDR0ZHBDVTVCMllEcGNoYURlQlRRb3czY1Z1R1AiLCJtYWMiOiJlYTgzMTIwNThkMzE1YzMyMWJiY2JiYzg2OGM5MWRmODNkNzA0Mjc0MTE5OWZiZWM0OWE4ZGYzOTRhM2MxOTMyIn0%3D'; // todo: update to your session key
+var text = '';
+var settings = {
+  "url": `https://flomo-api-proxy.vercel.app/api/flomo?flomo_session=${flomo_session}`,
+  "method": "GET",
+  "timeout": 0,
+  "async": false
+};
+
+await $.ajax(settings).then(function (response) {
+  console.log({ response });
+  const random = getRandomInt(response?.memos?.length);
+  const resource = response?.memos[random]?.content;
+  text = turndownService.turndown(resource)
+}).catch(error =>  console.info({ error }));
+return JSON.stringify({text});```%>%><%J:return JSON.parse(result).text%>
