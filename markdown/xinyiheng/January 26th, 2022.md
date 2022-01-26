@@ -3,4 +3,5 @@
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FHfeGT6rM7?alt=media&token=6fc111b3-fa19-49c1-a670-a141977a919c)
     - [[xin]] at 24:02: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FRPeMXsBIu?alt=media&token=1744b146-83bf-4f12-b70c-1d84b6e3a4d4)
-- #[[软件联动]] 印象笔记和diigo的联动。印象笔记的内容可以通过chrome打开，然后用diigo标注，做渐进式阅读。
+- #[[软件联动]] 印象笔记和diigo的联动。印象笔记的内容可以通过chrome打开，然后用diigo标注，做渐进式阅读。好像也不太有用，只能公开分享的标注，自动复制的内部链接无法标注。
+- 
