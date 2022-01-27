@@ -11,4 +11,9 @@
         - 
     - **How 怎样 **
         - 
-- 
+- 今天对笔记系统做了重大的调整，想明白该怎么使用各种工具了。先从印象笔记开始说起，我现在把印象笔记里面的所有笔记都导出为html了，这样，我就可以把它们全部放到devonthink中统一管理了。大部分不过是剪藏的网页而已，没有必要占据那么大空间。这些导出的笔记恐怕不会主动再去看了，当作一个搜索的资料源。
+- [[Inbox]]
+    - [[xin]] at 22:57: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FbqkiWJ1NA?alt=media&token=980ba2b2-a041-46dc-91c6-33d339a68564)
+    - [[xin]] at 22:58: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLIQbET8ue?alt=media&token=e1632847-661b-4fe7-b26e-56db5a42d108)
