@@ -26,7 +26,7 @@
     - devonthink我已经放弃了使用同步工具在两台电脑上同步的做法，太不稳定了，根本难以实现。因此，我把它的database放在移动硬盘里，每天可以拿着来回走。为了防备崩盘，我只能定期上传云盘来备份。
     - 我设置了快速向the brain中添加网页链接的方式，zb就可以，我发现只要复制网址到the brain的搜索栏里，就可以快速新建一个节点，并且节点会自动抓取网址对应的标题名称，这样比the brain的chrome插件还要快。我决定只在the brain中放我自己思考整理的内容以及想要建立联系的重要的阅读内容。我可以利用anki之类的记忆软件来辅助我记忆the brain中的结构。
     - [[mindnode]]是不错的整合[[roam research]]中内容的工具，我建立了快捷方式，可以快速把roam research中的笔记的名称和链接放到mindnode中。mindnode既可以当做白板，也可以当做思维导图，还可以当作大纲工具来用，很不错。只不过我还不太习惯把它当做大纲工具来用的感觉，总是觉得有点奇怪。建立好一个mindnode文件之后，还可以把它的链接快速用[[hook]]来复制到其他需要的地方，比如再复制回roam research或者[[the brain]]。#[[软件联动]] 
-    - [[简悦]]如何在把文章加入稍后读的时候自动保存html和
+    - [[简悦]]如何在把文章加入稍后读的时候自动保存html和epub文件？顺序是先进入阅读模式(xx)，再加入稍后读(cc)，括号里的快捷键可以修改。在通过设置“服务-自动化”就可以保存到指定的文件夹了。
 - [[Inbox]]
     - [[xin]] at 22:57: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FbqkiWJ1NA?alt=media&token=980ba2b2-a041-46dc-91c6-33d339a68564)
