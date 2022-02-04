@@ -5,4 +5,5 @@
     - Hooking items together with Hook’s menu bar iconVia[Hook App Videos – Hook](https://hookproductivity.com/help/general/videos/) [[20210110]] 下午9:58
     - 我可以利用这个功能给roam research的某个页面关联多个别的软件的文件。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F-9UVLDWn4_.png?alt=media&token=68d5059a-1b71-4a54-9a75-399493ebff19)
-- 利用hook建立起来的关联如果进行可视化也会是非常壮观的网状
+- 利用hook建立起来的关联如果进行可视化也会是非常壮观的网站
+- 
