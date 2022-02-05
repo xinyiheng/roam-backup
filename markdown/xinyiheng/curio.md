@@ -1,6 +1,7 @@
 - curio这款软件实在是太牛了，既然可以把一些其他app的图标拖拽过来直接启动。这简直就是最强的本地工作流程管理工具，非常方便。拖拽的方式是，在finder中找到所有app的列表，直接把想要选择的app拖拽到cuiro的文档面板就可以。当然，如果明确地知道用哪个软件，直接打开也不难，但是，有时候如果不提前想好完成一个项目要用到哪些，就可能会遗忘。更重要的是，有些软件有链接，可以直接跳转到和某个项目最相关的部分。
 - curio里的所有元素都称为一个figure，不管是一张图片、text、pdf、pinboard、mindmap还是table。
 - cuiro可以当做很好的本地资源管理工具。特别是某个项目常用的几个文档，几个软件，都可以直接拖拽到curio里面的一个文档里，形成一个看板。非常美观方便，curio看来要融入我日常的工作流中了。
+- 还可以自动备份为pdf版本，这样就可以让我通过[[Devonthink]]搜索到curio中的内容。#[[软件联动]]
 - 怎样把只拖进来一个快捷方式
     - ## From the Finder
     - When dragging in a file from the Finder, a copy of the file will be embedded in your project. Alternatively, if you hold the Command key while dragging in a file then the original will be moved into your project. If you hold the Option key then an alias to the original will be created (make sure to begin dragging first then press and hold the Option key, otherwise the Finder may hide the active application).
