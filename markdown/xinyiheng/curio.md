@@ -7,6 +7,7 @@
     - When dragging in a file from the Finder, a copy of the file will be embedded in your project. Alternatively, if you hold the Command key while dragging in a file then the original will be moved into your project. If you hold the Option key then an alias to the original will be created (make sure to begin dragging first then press and hold the Option key, otherwise the Finder may hide the active application).
 - curio居然还可以阅读pdf文件，用到的是spread pdf across idea space这个选项。在一个有pdf文件的idea 里右键，选择方框里的选项，稍等一会就会复制很多份这个idea pad，分属和pdf的页数一样
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9JSGH7Iq8F.png?alt=media&token=e247b434-9f8e-4a95-8bae-5641a8c6d87a)
+- 还支持把任务同步到calendar当中，滴答清单订阅mac的calendar就可以看到了#[[软件联动]] 
 - 支持直接[跳转](curio://welcome?i=5guI4MvIRLiU0YBV9uMqdA)到curio里的一个idea space，这个太牛了！！！！！！！甚至可以定位到视频的某个片段。
 - curio支持figure之间跳转，目前还不支持双链。
     - 也支持双链，叫作reference。
