@@ -1,2 +1,5 @@
 - [[roam/sr/review]]
-    - 按照麻豆学习的内容更新软木板上的材料，这样可以展示我们对于麻豆学习内容的了解。#[[育儿]]#[[sr]]
+    - 注册制如何管理坏企业？#[[sr]] #[[r/4]]
+    - 按照麻豆学习的内容更新软木板上的材料，这样可以展示我们对于麻豆学习内容的了解。#[[育儿]]#[[sr]] #[[r/4]]
+- #[[育儿]] 带着麻豆去朝阳公园踢球，麻豆玩得挺开心。最近这几天空气非常好，天特别蓝，可以说是冬奥蓝。
+- [思维导图.mindnode](hook://file/tXn5kWqAm?p=VzZMMzlVWUw2Wn5jb21+bWluZG5vZGV+TWluZE5vZGUvRG9jdW1lbnRz&n=%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.mindnode)
