@@ -28,17 +28,19 @@
 - 链接
     - {{table}}
         - The Brain链接
-            - 
+            - 🦩 
         - Notion链接
-            - 
+            - 🦩 
         - Mindnode链接
-            - 
+            - 🦩 
+        - Knowlege database链接
+            - 🦩 
         - Curio链接
-            - 
+            - 🦩 
         - Tinderbox链接
-            - 
+            - 🦩 
         - Scapple链接
-            - 
+            - 🦩 
 - 为什么？
     - 我想从这个阅读材料中获得什么知识？
     - 关于这个知识，我已经知道什么？
