@@ -1,0 +1,1 @@
+- #[[工具]] 理想中的知识呈现界面：延展布局(notion)、链接布局(the brain)、空间布局(mindnode)、草稿箱(curio、scapple)
