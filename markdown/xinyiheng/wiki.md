@@ -2,7 +2,6 @@
     - [[wiki link]]这款ipad软件来浏览wikipedia效果不错。很好融入了[[知识图谱]]的视图。
     - [[wikigraph]]可以作为web端一个查看wikipedia局部内容的工具，目前还在开发中，功能有限。
 - [[ikiwiki]]
-- [[wikiwiki]]
 - [[fed wiki]]
 - [[tiddlywiki]]
 - #[[相似概念]]
