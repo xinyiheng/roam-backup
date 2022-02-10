@@ -1,0 +1,16 @@
+- 
+- {{table}}
+    - The Brain链接
+        - 🦩 [NLP](brain://api.thebrain.com/g7PXu0IyM0ucARb24SvxiA/tBOMj0EP-EuJnQgaHKlIIQ/Nlp)
+    - Notion链接
+        - 🦩 
+    - Mindnode链接
+        - 🦩 
+    - Knowlege database链接
+        - 🦩 
+    - Curio链接
+        - 🦩 
+    - Tinderbox链接
+        - 🦩 
+    - Scapple链接
+        - 🦩 
