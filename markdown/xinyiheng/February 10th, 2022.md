@@ -28,3 +28,34 @@
     - ❆心理
         - 客体[🔗](object)一词为[弗洛伊德][🔗](https://www.diigo.com/item/%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7)（Freud）所使用，对婴儿而言，客体指满足需求的事物，对儿童而言，客体一词可与『他人』互换，[客体关系][🔗](https://www.diigo.com/item/%E5%AE%A2%E4%BD%93%E5%85%B3%E7%B3%BB/8795223)即指人际关系。 [[baike.baidu.com]][🔗](https://baike.baidu.com/item/%E5%AE%A2%E4%BD%93%E5%85%B3%E7%B3%BB%E7%90%86%E8%AE%BA/4621370)
         - 客体关系理论（object-relations theory）是心理动力取向的[人格发展理论][🔗](https://www.diigo.com/item/%E4%BA%BA%E6%A0%BC%E5%8F%91%E5%B1%95%E7%90%86%E8%AE%BA/9924624)，主张[人类行为][🔗](https://www.diigo.com/item/%E4%BA%BA%E7%B1%BB%E8%A1%8C%E4%B8%BA/9050344)的动力源自寻求客体。客体关系理论是在[精神分析][🔗](https://www.diigo.com/item/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/9493003)的理论框架中探讨人际关系，更强调环境的影响。认为真正影响一个人精神发展过程的是在出生早期婴儿与父母的关系。 [[baike.baidu.com]][🔗](https://baike.baidu.com/item/%E5%AE%A2%E4%BD%93%E5%85%B3%E7%B3%BB%E7%90%86%E8%AE%BA/4621370)
+- #[[知识管理]] 要关注对自己的生活有真正影响的问题。把自己的注意力集中起来。
+- #[[阅读]] 学习的目的是为了有更好的决策依据。这需要很多思维模型。
+- 看到有人用hepta做了一本书的读书笔记[《精准学习》][🔗](https://app.heptabase.com/w/dd90dec40bbb690551306bfbe0ac46a1787109d82f0eca4cf045502f9de6fa17)，是成甲的书《好好学习》的台湾版本。
+- #[[知识管理]] #[[搜索]] 发现用wikigraph搜索出来的知识图谱效果还不错，可以结合[[the brain]]来使用，构建自己的知识图谱。我设置了一个alfred搜索快捷方式，可以快速在wikigraph里面搜索内容。#[[软件联动]] 
+- [[heptabase]]在本质上和[[the brain]]其实是一样的，只不过the brain给人的印象是节点，而不是卡片，是思维导图，而不是白板。
+- 整理当天阅读资料
+    - ❆学习
+        - 学习的目的是为了有更好的决策依据。 而决策依据的水准，主要取决于经过广泛验证的的原理和定律，这些「经过广泛验证的的原理和定律」就称为思维模型。 [[inoreader.com]][🔗][🔗](https://www.inoreader.com/article/3a9c6e7ad0ac36f1-)
+    - ❆ 工具应用
+        - Github Actions 是一个持续集成的自动化方案，具有很多玩法，春节期间抽时间用了用，所以诞生了这个项目，这个项目的特点是： [[inoreader.com]][🔗][🔗](https://www.inoreader.com/article/3a9c6e7ad62ec348-github-actions-telegram-1910-github-actions-api-telegram)
+        - 開啟讓 YouTube 關閉影片畫面只聽聲音的專注學習純文字模式 取得連結 Facebook Twitter Pinterest 以電子郵件傳送 其他應用程式 作者 [[playpcesor.com]][🔗][🔗](https://www.playpcesor.com/2022/02/youtube.html)
+        - youtube的音乐模式，关闭画面。
+        - Hack This Page留着愚人节用吧。 [[sspai.com]][🔗][🔗](https://sspai.com/post/71336)
+        - 修改网页上的信息玩
+    - ❆育儿
+        - [Inoreader - 孩子的体格是随爸爸还是随妈妈？][🔗][🔗](https://www.inoreader.com/article/3a9c6e7ad09f9596-)
+            - **有些现象要从进化的角度去理解。比如，孩子的体格是随爸爸还是随妈妈？答案是妈妈。** 有句老话说的好，“爹矮矮一个，娘矮矮一窝”，孩子的大小、至少在子宫内的大小基本上是随妈妈。 为什么呢？要是胎儿的大小遗传了身材高大的爸爸，那身材矮小的妈妈就会因为胎儿太大而难产死亡。
+            - 为什么孩子体格随母亲？
+            - **比如自然状态下，出生的男孩数量会比女孩多一些，性别比例是男:女=106/7:100。** 为什么会多出6-7个男孩？因为长期来看，男孩的攻击性相对强，自然夭折率比较高，打架夭折2个，游泳出事夭折1个，爬树夭折1个……出生的时候男孩多一些，基本上到了生育年龄，男女比例就平衡了。 可是到了现在，男孩子绝大多数都很乖了，很少夭折。这下子麻烦就来了，到了婚育年龄，就进一步加大了男女性别的失衡。2021年我国第七次人口普查的出生性别比是111:100，这就造成了一个巨大的社会问题。
+            - 男女比例天然就不是1：1的。
+    - ❆工作方法
+        - [主页 / Twitter][🔗][🔗](https://www.diigo.com/outliner/diigo_items/1032604/12128769/621502999)
+    - ❆出版
+        - [冊子の製本と開き方の違いについて解説！ | 冊子製本お役立ちコラム | ウイルダイレクト][🔗][🔗](https://www.diigo.com/outliner/diigo_items/1032604/12128769/621414642)
+        - [冊子の製本と開き方の違いについて解説！ | 冊子製本お役立ちコラム | ウイルダイレクト][🔗][🔗](https://www.diigo.com/outliner/diigo_items/1032604/12128769/621414612)
+    - ❆NFT
+        - [Twitter 的创始人将一条亲笔签名的推文][🔗][🔗](https://www.theverge.com/2021/3/5/22316320/jack-dorsey-original-tweet-nft-cent-valuables)作为 NFT 出售 [[theverge.com]][🔗][🔗](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
+    - ❆心理
+        - 客体[🔗][🔗](object)一词为[弗洛伊德][🔗][🔗](https://www.diigo.com/item/%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7)（Freud）所使用，对婴儿而言，客体指满足需求的事物，对儿童而言，客体一词可与『他人』互换，[客体关系][🔗][🔗](https://www.diigo.com/item/%E5%AE%A2%E4%BD%93%E5%85%B3%E7%B3%BB/8795223)即指人际关系。 [[baike.baidu.com]][🔗][🔗](https://baike.baidu.com/item/%E5%AE%A2%E4%BD%93%E5%85%B3%E7%B3%BB%E7%90%86%E8%AE%BA/4621370)
+        - 客体关系理论（object-relations theory）是心理动力取向的[人格发展理论][🔗][🔗](https://www.diigo.com/item/%E4%BA%BA%E6%A0%BC%E5%8F%91%E5%B1%95%E7%90%86%E8%AE%BA/9924624)，主张[人类行为][🔗][🔗](https://www.diigo.com/item/%E4%BA%BA%E7%B1%BB%E8%A1%8C%E4%B8%BA/9050344)的动力源自寻求客体。客体关系理论是在[精神分析][🔗][🔗](https://www.diigo.com/item/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/9493003)的理论框架中探讨人际关系，更强调环境的影响。认为真正影响一个人精神发展过程的是在出生早期婴儿与父母的关系。 [[baike.baidu.com]][🔗][🔗](https://baike.baidu.com/item/%E5%AE%A2%E4%BD%93%E5%85%B3%E7%B3%BB%E7%90%86%E8%AE%BA/4621370)
+- 
