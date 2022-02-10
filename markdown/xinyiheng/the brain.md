@@ -38,7 +38,7 @@
         - scrivener也可以导入mindnode文件，全部整理成为卡片的模式。导入效果最好的格式是opml，也就是说mindnode先转变成为opml，这样，每一个节点都变成一张卡片的题目，而节点的注释则会变成卡片的正文。@评论:这一点很重要，以前忽视了，可以取代[[Writemapper]]#[[洞见]]
         - mindnode文件也可转变成为freemind文件，拓展名为mm。freemind文件可以直接导入到the brain中，层级关系可以得到完整保留。每一个freemind的节点都可以变成一个the brain中的节点;而节点的注释也会变成the brian的note。
         - 这样，我就完全打通了scrivener、mindnode、the brain三个软件。
-    - 如何把有结构的内容导入到the brain，并且保留链接功能？
+    - 如何把有结构的内容导入到the brain，并且保留链接功能？@评论:在tab outliner批量收集的网页没有阅读，价值并不高，还是阅读之后直接把笔记整理到the brain中更好。
         - 这个问题一直难为着我，今天花了一天在各种尝试。
         - 目前的解决方案。可以把tab outliner里的网页复制到roam中，在roam里整理好结构。注意，每个节点内容不能太长。(后文会说明)然后直接复制到the brian中的一个thought的编辑器里。
         - 在编辑器里选中所有文本，选择-copy as text
@@ -57,11 +57,11 @@ via[TheBrain Blog](https://www.thebrain.com/blog?page=3)
 Via[(14 条消息) thebrain如何用 - 搜索结果 - 知乎](https://www.zhihu.com/search?q=thebrain%E5%A6%82%E4%BD%95%E7%94%A8&utm_content=search_relatedsearch&type=content) [[20210721]] 下午2:48
     - TheBrainVia[TheBrain - 知乎](https://www.zhihu.com/topic/19583518/hot) [[20210721]] 下午3:25
 - 使用技巧
-    - the brain的编辑器非常难用，我需要一个好用的支持outliner功能的编辑器。最好是能够分享内部url,我觉得workflowy和checkvist都可以胜任。
-    - 把the mind 和knowledge database文件关联到其中，其实也相当于把他们当做了the brain的编辑器。#[[洞见]]
+    - the brain的编辑器非常难用，我需要一个好用的支持outliner功能的编辑器。最好是能够分享内部url,我觉得workflowy和checkvist都可以胜任。#[[软件联动]] 
+    - 把mind node和knowledge database文件关联到其中，其实也相当于把他们当做了the brain的编辑器。#[[洞见]] #[[软件联动]]
     - 用默认的浏览器打开the brian中的网址附件
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMP1vV7kKik.png?alt=media&token=58d32b8e-8945-43c3-83c1-dc597fc23787)
-    - the brain可以作为一个非常好的^^本地文件管理工具^^，可以整理自己待阅读的内容
+    - the brain可以作为一个非常好的^^本地文件管理工具^^，可以整理自己待阅读的内容 @评论:目前已经不使用它了，还是cuiro更强大。
     - the brain的使用方法以及the brain12的一些新功能
     - the brain的一些用例展示
         - https://www.thebrain.com/apps
@@ -70,7 +70,7 @@ Via[(14 条消息) thebrain如何用 - 搜索结果 - 知乎](https://www.zhihu.
     - the brian确实不好修改笔记内容的颗粒度，文本编辑器也不好用，但是就是对它这种呈现方式很着迷。
     - "The Brain + Airlist，兼顾“千头万绪”和“专心协作”两种环境
     - The Brain是一个把庸俗的“思维导图”打至渣的信息组织软件。其基本单元是“Thought”，基本结构则是Tought —— Thought 这样的连线。通过三种简单连线类型（Parent，Child, Jump），即可描述出日常观察和思考推进的多种状态。
-    - 在我自己拟定的凡例当中，Parent-Child关系通常适用于这些情况：
+    - 在我自己拟定的凡例当中，Parent-Child关系通常适用于这些情况：@评论: 如果用the brain来说明节点之间的关系的话，显然不如概念图来得直接和彻底。
         - 前者统属后者；
         - 前者是后者的原因；
         - 后者是前者的演化；
@@ -83,7 +83,7 @@ Via[(14 条消息) thebrain如何用 - 搜索结果 - 知乎](https://www.zhihu.
         - 为什么不行呢？半导体制冷片的存在，与插电即用的扎啤机，同样是因果关系。
         - 假如你是个设计或工程爱好者，脑子里想象到了能够远程控制或是自动按照你的行动习惯来工作的聪明扎啤机，则此“聪明扎啤机”又可以是“扎啤机”的子想法。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fq56vG-jlJw.png?alt=media&token=353ae896-46f2-496f-b0a5-a95be53243ff)
-    - Airlist@评论:这其实是把它当做了the brian的笔记编辑器，因为这个编辑器实在是太难用了。我有时候用typra作为编辑器。其实顺着这个思路，任意一个可以访问的链接都可以当做编辑器使用。比如，我想到过用大纲工具写完之后再导入到the brain，这和作者的想法如出一辙
+    - Airlist@评论:这其实是把它当做了the brian的笔记编辑器，因为这个编辑器实在是太难用了。我有时候用typra作为编辑器。其实顺着这个思路，任意一个可以访问的链接都可以当做编辑器使用。比如，我想到过用大纲工具写完之后再导入到the brain，这和作者的想法如出一辙 @评论:我当时对于大纲编辑笔记非常着迷，现在觉得都可以
         - Airlist是一个极其轻便的Web列表/文本工具，它从头到尾只给你一大张纸，不过你能在纸上写无限多层的列表。
         - 每一个层级都可以快速展开、收缩。
         - 最重要的是，Airlist的每一个项目都有独立的url，因此它可以直接贴到The Brain的想法当中去。
