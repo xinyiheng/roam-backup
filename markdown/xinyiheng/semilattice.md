@@ -2,7 +2,7 @@
 - #[[交互体验]]
     - Fluid Content StructureVia[Semilattice](https://www.semilattice.xyz/) [[20210116]] 下午9:37
     - 让笔记变得像是游戏
-        -  block是最基本单元
+        - block是最基本单元
         - block形成列表
         - 卡片包含列表和一些手写内容
         - 卡片可以有多个父级和子级关联
