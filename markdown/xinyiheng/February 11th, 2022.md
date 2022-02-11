@@ -11,4 +11,18 @@
 - #[[精力管理]] #[[知识管理]] 集中优势兵力消灭敌人有生力量
 - #[[可视化]] #[[激励]] #[[理想]] 梦想画板
 - #[[阅读管理]]
-    - {{[[draw]]}}
+    - 知识管理流程中的阅读管理局部图 {{diagram}}
+        - 阅读流程
+        - 书籍
+        - 一个概念
+        - 一篇长文
+        - 搜索
+        - 另一本书
+        - 下载
+        - Devonthink
+        - marginnote
+        - roam research
+        - 知识管理流程
+        - diigo
+- #[[知识表征]] #[[交互体验]] 就拿每天的活动来说，自己实际的生活是视频，但是用图片的方式呈现出来就很不容易了，更何况是文字。
+    - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FqvWTDu_rb?alt=media&token=c94feb7c-e615-4546-a27d-15274aff9e75)
