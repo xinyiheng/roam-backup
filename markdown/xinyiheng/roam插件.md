@@ -277,6 +277,14 @@ if (!existing) {
     - 实验@评论:我自己学习js的时候尝试在roam中看看效果，目前并没有维护
     - [Roam-Excalidraw Plugin MVP Release](https://www.zsolt.blog/2021/03/roam-excalidraw-plugin-mvp-release.html) [[20210319]] 下午8:42 @评论:这是一款可以绘制类似whiteboard的插件
         - {{[[roam/js]]}}
+            - ```javascript
+{
+  let s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.src = 'https://www.roam-excalidraw.com/dist/loader.js';
+  s.async = false;
+  document.getElementsByTagName('head')[0].appendChild(s);  
+}```
     - 在roam research中实现类似anki的间隔记忆
         - [[roam/sr]]
     - masonry-vanilla @评论:数字花园
