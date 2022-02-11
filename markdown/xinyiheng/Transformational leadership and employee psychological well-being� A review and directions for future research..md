@@ -1,9 +1,0 @@
-- ## Metadata::
-    - Author(s):: [[Kara A. Arnold]]
-    - Type:: [[Article]]
-    - Publication:: [[Journal of Occupational Health Psychology]]
-    - Topics:: 
-    - Date:: 2017
-    - Date added:: [[March 22nd, 2021]]
-    - Zotero links:: [Local library](zotero://select/library/items/W7CNRB2I), [Web library](https://www.zotero.org/users/7147715/items/W7CNRB2I), 
-    - Tags:: #[[ZoteroImport]]

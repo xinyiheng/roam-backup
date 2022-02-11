@@ -9,7 +9,7 @@
     - {{[[DONE]]}}看obsidian能否更加优雅地实现bullet功能
     - {{[[DONE]]}}学习使用vim，因为我发现用键盘控制软件可以让我更容易进行软件联动，只需要使用keyboard maestro模拟键盘按键就可以了。@评论:用到再学，这种知识不用提前储备。
     - {{[[DONE]]}}roam research是否可以自动定期导出为markdown格式呢？@评论:已经解决了，先自动同步到github，再用github桌面版自动拉取到本地文件夹。
-- [[ ]]和[[正则表达式]]抽取文本结构化信息？
+-  和[[正则表达式]]抽取文本结构化信息？
 via[如何用 Python 和正则表达式抽取文本结构化信息](https://mp.weixin.qq.com/s?__biz=MzIyODI1MzYyNA==&mid=2653540664&idx=1&sn=fbd0088427d8133b80964e010df2494d&chksm=f389bbefc4fe32f9a2b1255779e67cbfb49259a6d43e1261d94abcc0ae4ea8adef87719038cd&token=1251496818&lang=zh_CN&scene=21#wechat_redirect)
 - 有哪几个功能失效了？
     - 从chrome和marginnote向roam 添加内容

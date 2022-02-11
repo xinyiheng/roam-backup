@@ -1,9 +1,0 @@
-- ## Metadata::
-    - Author(s):: [[Jeremy B. Bernerth]], [[Michael S. Cole]], [[Erik C. Taylor]], [[H. Jack Walker]]
-    - Type:: [[Article]]
-    - Publication:: Journal of Management
-    - Topics:: 
-    - Date:: 2018
-    - Date added:: [[March 22nd, 2021]]
-    - Zotero links:: [Local library](zotero://select/library/items/USWV4ZF9), [Web library](https://www.zotero.org/users/7147715/items/USWV4ZF9), 
-    - Tags:: #[[ZoteroImport]]

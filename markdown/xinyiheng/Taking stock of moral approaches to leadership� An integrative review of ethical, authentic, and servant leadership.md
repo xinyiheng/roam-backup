@@ -1,9 +1,0 @@
-- ## Metadata::
-    - Author(s):: [[G. James Lemoine]], [[Chad A. Hartnell]], [[Hannes Leroy]]
-    - Type:: [[Article]]
-    - Publication:: [[Academy of Management Annals]]
-    - Topics:: 
-    - Date:: 2019
-    - Date added:: [[March 22nd, 2021]]
-    - Zotero links:: [Local library](zotero://select/library/items/9PMRD6PD), [Web library](https://www.zotero.org/users/7147715/items/9PMRD6PD), 
-    - Tags:: #[[ZoteroImport]]

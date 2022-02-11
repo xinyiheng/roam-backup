@@ -116,7 +116,7 @@ Stretches its soft and shady wings.
 - block
     - [[稍后阅读]]
     - [[checkvist]]可能也是一个比较好的整理[[稍后阅读]]信息的方式。
-- #[[分列]]内容[[gr]]
+- #[[分列]]内容gr
     - 好的
     - 可以
     - 

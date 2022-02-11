@@ -1,9 +1,0 @@
-- ## Metadata::
-    - Author(s):: [[Ilke Inceoglu]], [[Geoff Thomas]], [[Chris Chu]], [[David Plans]], [[Alexandra Gerbasi]]
-    - Type:: [[Article]]
-    - Publication:: [[The Leadership Quarterly]]
-    - Topics:: 
-    - Date:: 2018
-    - Date added:: [[March 22nd, 2021]]
-    - Zotero links:: [Local library](zotero://select/library/items/77CANCPT), [Web library](https://www.zotero.org/users/7147715/items/77CANCPT), 
-    - Tags:: #[[ZoteroImport]]

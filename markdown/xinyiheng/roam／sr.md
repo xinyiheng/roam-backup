@@ -7,7 +7,7 @@
         - [COMMUNITY CUSTOMIZATIONS](https://roamresearch.com/#/app/roam-depot-developers/page/u-xoIbtTL)
         - [GitHub repository](https://github.com/aidam38/roamsr)
     - query for flagged cards
-        - {{[[query]]: {and: [[sr]] [[f]]}}}
+        - {{[[query]]: {and: [[sr]] f}}}
     - custom data tags (move this to your [[roam/css]] page)
         - ```css
 span.rm-page-ref[data-tag="sr"] {

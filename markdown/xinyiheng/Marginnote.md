@@ -39,7 +39,7 @@
     - allinone，好像只比较适合ipad，作者解说太差了。
     - 好像用到了[[JavaScript]]
 - #[[软件联动]]
-    - 如何实现marginnote的内容批量导入到roam research？[[rd]]
+    - 如何实现marginnote的内容批量导入到roam research？rd
         - MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文Via[MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文_哔哩哔哩_bilibili](https://www.bilibili.com/video/bv1Tf4y1P7WH) [[20210915]] 下午10:50 @评论:吕立青这个插件我无法使用，一直加载不出来。类似的还有slidepad浏览器，我不知道是不是vpn的问题。虽然我一直可以用chrome科学上网。@评论:目前已经解决这个问题了，使用的是 速蛙云。
         - 要想保留在marginote整理好的结构，可以先用其自带的导出功能导出到印象笔记。但缺点是，不是每张卡片都带着链接，以后把卡片移到别的地方的时候就可能找不到出处。我一直喜欢带着出处，虽然可能实际意义不大，但是还是尊重内心的这种需求吧。
         - 还有一个方法可以保留每一张卡片跳转回marginote的链接，但是缺点是无法保留原来整理好的层级。不过，我觉得这种方法对我来说更有价值。因为，我通常还要在roam research整理导入的内容，原来的结构并不那么重要。

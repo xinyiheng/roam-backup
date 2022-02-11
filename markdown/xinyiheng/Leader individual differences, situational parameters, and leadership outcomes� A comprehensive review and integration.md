@@ -1,9 +1,0 @@
-- ## Metadata::
-    - Author(s):: [[Stephen J. Zaccaro]], [[Jennifer P. Green]], [[Samantha Dubrow]], [[MaryJo Kolze]]
-    - Type:: [[Article]]
-    - Publication:: [[The Leadership Quarterly]]
-    - Topics:: 
-    - Date:: 2018
-    - Date added:: [[March 22nd, 2021]]
-    - Zotero links:: [Local library](zotero://select/library/items/3JBWIUTD), [Web library](https://www.zotero.org/users/7147715/items/3JBWIUTD), 
-    - Tags:: #[[ZoteroImport]]

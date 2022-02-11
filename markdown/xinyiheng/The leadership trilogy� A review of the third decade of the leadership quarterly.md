@@ -1,9 +1,0 @@
-- ## Metadata::
-    - Author(s):: [[William L. Gardner]], [[Kevin B. Lowe]], [[Jeremy D. Meuser]], [[Farzaneh Noghani]], [[Daniel P. Gullifor]], [[Claudia C. Cogliser]]
-    - Type:: [[Article]]
-    - Publication:: [[The Leadership Quarterly]]
-    - Topics:: 
-    - Date:: 2020
-    - Date added:: [[March 22nd, 2021]]
-    - Zotero links:: [Local library](zotero://select/library/items/7WFQ68GM), [Web library](https://www.zotero.org/users/7147715/items/7WFQ68GM), 
-    - Tags:: #[[ZoteroImport]]

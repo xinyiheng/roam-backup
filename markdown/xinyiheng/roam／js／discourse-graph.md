@@ -1,22 +1,22 @@
 - preview
 - grammar
     - nodes
-        - [[CLM]] - {content}
+        - CLM - {content}
             - Claim
             - C
         - [[QUE]] - {content}
             - Question
             - Q
-        - [[EVD]] - {content}
+        - EVD - {content}
             - Evidence
             - E
-        - [[SOU]] - {content}
+        - SOU - {content}
             - Source
             - S
         - [[EXC]] - {content}
             - Excerpt
             - X
-        - [[AUT]] - {content}
+        - AUT - {content}
             - Author
             - A
     - relations

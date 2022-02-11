@@ -1,9 +1,0 @@
-- ## Metadata::
-    - Author(s):: [[Thomas K. Kelemen]], [[Samuel H. Matthews]], [[Kimberley Breevaart]]
-    - Type:: [[Article]]
-    - Publication:: [[The Leadership Quarterly]]
-    - Topics:: 
-    - Date:: 2020
-    - Date added:: [[March 22nd, 2021]]
-    - Zotero links:: [Local library](zotero://select/library/items/W8SMQYSP), [Web library](https://www.zotero.org/users/7147715/items/W8SMQYSP), 
-    - Tags:: #[[ZoteroImport]]
