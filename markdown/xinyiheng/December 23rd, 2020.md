@@ -112,7 +112,7 @@
         - 而是输入下面的代码:  
         - >>> cat = ['fat', 'black', 'loud'] 
         - >>> size, color, disposition = cat  
-        - 变量的数目和列表的长度必须严格相等,否则 Python 将给出 ValueError:  >>> cat = ['fat', 'black', 'loud'] >>> size, color, disposition, name = cat Traceback (most recent call last):   File "<pyshell#84>", line 1, in <module>     size, color, disposition, name = cat ValueError: need more than 3 values to unpack 
+        - 变量的数目和列表的长度必须严格相等,否则 Python 将给出 ValueError:  >>> cat = ['fat', 'black', 'loud'] >>> size, color, disposition, name = cat Traceback (most recent call last):   File "<pyshell84>", line 1, in <module>     size, color, disposition, name = cat ValueError: need more than 3 values to unpack 
     - 所有男人都是消耗品
 via[所有男人都是消耗品（村上龙作品集）-村上龙-微信读书](https://weread.qq.com/web/reader/56f323507213d42356feed5kc81322c012c81e728d9d180)
 [[20201223]] 下午8:54
