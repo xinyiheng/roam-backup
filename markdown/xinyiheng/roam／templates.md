@@ -41,34 +41,28 @@
             - 🦩 
         - Scapple链接
             - 🦩 
-- 为什么？
-    - 我想从这个阅读材料中获得什么知识？
-    - 关于这个知识，我已经知道什么？
-    - 我准备如何处理阅读后的材料？
-    - 如果需要行动，什么时候行动？
 - 今日任务
     - 描述
         - 这个笔记存在的意义是建立每日任务模板
         - 可以参考晨间日记
     - 今天要完成的一件事情是什么？
-- S2R的模板
-    - Copy the following sample data to the top of the test page you created:
-        - Test GoogleSheets Spreadsheet:
+- PDCA循环
+    - {{table}}
+        - ^^**PLAN 目标**^^
+            - ^^**DO 执行**^^
+        - 🦩
             - 
-        - Highlighting the Spreadsheet ID and the Sheet GID so that you know where to look for them:
+        - ^^**CHECK 检查**^^
+            - ^^**ACTION 行动**^^
+        - 🦩
             - 
-        - S2R Spreadsheet ID:: 
-        - S2R Sheet GID:: 17193194
-        - Some test/demo data:
-            -  
-            - A3#S2R
-                - 
-            - B5 #S2R
-                - 
-            - B7 #S2R
-                - 
-            - E10 #S2R
-                - 
+- 心情记录
+    - {{slider}}
+- 为什么？
+    - 我想从这个阅读材料中获得什么知识？
+    - 关于这个知识，我已经知道什么？
+    - 我准备如何处理阅读后的材料？
+    - 如果需要行动，什么时候行动？
 - 看板
     - {{[[kanban]]}}
         - 待办
@@ -108,16 +102,24 @@
     - {{[[TODO]]}} 过于消极
     - {{[[TODO]]}} 与世隔绝（不接受新信息）
     - {{[[TODO]]}} 信息过剩（不处理新信息）
-- PDCA循环
-    - {{table}}
-        - ^^**PLAN 目标**^^
-            - ^^**DO 执行**^^
-        - 🦩
+- S2R的模板
+    - Copy the following sample data to the top of the test page you created:
+        - Test GoogleSheets Spreadsheet:
             - 
-        - ^^**CHECK 检查**^^
-            - ^^**ACTION 行动**^^
-        - 🦩
+        - Highlighting the Spreadsheet ID and the Sheet GID so that you know where to look for them:
             - 
+        - S2R Spreadsheet ID:: 
+        - S2R Sheet GID:: 17193194
+        - Some test/demo data:
+            -  
+            - A3#S2R
+                - 
+            - B5 #S2R
+                - 
+            - B7 #S2R
+                - 
+            - E10 #S2R
+                - 
 - 5W1H
     - {{table}}
         - **When 何时**
