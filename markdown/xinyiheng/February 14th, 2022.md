@@ -17,4 +17,10 @@
     - 《反内耗指南》改名
     - 试图了解日本图书里艺术作品版权声明的含义
 - 想要查询艺术作品的知识图谱
-- 
+- 处理添加在滴答清单中的阅读材料
+- obsidian中的一个新开发中的插件，树叶笔记法
+- 继续了解Bret Victor的思想[Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/)
+    - 为什么阅读论文很困难。作者在脑中有个图像，而只能通过文字这种窄带宽的方式呈现出来。
+    - 笔记也是再组织和呈现信息的创造过程
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FrKenCIVza1.png?alt=media&token=74188902-fb4e-4468-accc-a3585804a872)
+    - 
