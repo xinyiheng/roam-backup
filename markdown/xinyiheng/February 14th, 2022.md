@@ -23,4 +23,8 @@
     - 为什么阅读论文很困难。作者在脑中有个图像，而只能通过文字这种窄带宽的方式呈现出来。
     - 笔记也是再组织和呈现信息的创造过程
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FrKenCIVza1.png?alt=media&token=74188902-fb4e-4468-accc-a3585804a872)
-    - 
+    - 更尊重人学习知识的规律，降低学习的门槛，包括数学。目前，即使好老师也没有摆脱用符号来教学的限制。
+- 知识图谱
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fbyi1eciwo6.png?alt=media&token=ae025258-b603-43c7-b091-58d7ec0631fb)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FnB7vT9Efj_.png?alt=media&token=3f16470f-20fe-4872-9894-326d5df0054c)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fr9QTZ58yVz.png?alt=media&token=b33a8877-d017-408e-9103-93af3c7a519e)
