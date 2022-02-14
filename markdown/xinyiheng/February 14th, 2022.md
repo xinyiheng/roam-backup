@@ -1,1 +1,15 @@
--  {{[[∆]]:1+2}}
+- 信息图
+    - 一些参考网站
+        - "本文所用图表均来自图研所，flicker等网站"
+            - https://diigo.com/0nhbo0
+        - "视频类网站：
+            - http://www.lanja.de/
+            - Melih Bilgil的主页，上面有他的一系列动态图表视频，简洁标准的图表风格
+            - http://v.youku.com/v_show/id_XMTQ1MDc1ODk2.html
+            - 《Slagsmlsklubben [Sponsored by destiny]》（图表版小红帽），当童话变得富有科技感~
+            - http://v.youku.com/v_show/id_XMTYzOTE3NDcy.html
+            - 《奇怪的日本》，视角独特而搞笑"
+                - https://diigo.com/0nhbo4
+- 设计的一些书籍
+    - 《点石成金》，豆瓣设计类前十的书籍
+- 
