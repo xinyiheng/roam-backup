@@ -1,0 +1,13 @@
+- [[信息图]]  [infographic_presentation_cn.pdf](hook://file/9MN2ukD67?p=aUNsb3VkflFSZWFkZXJ+TWFyZ2luU3R1ZHkvRG9jdW1lbnRz&n=infographic_presentation_cn.pdf)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fbr50XPMddU.png?alt=media&token=1e07bea0-e686-48d3-98c6-37707af8b64c)
+    - 一些信息图的网站
+        - https://www.dailyinfographic.com/
+        - https://coolinfographics.com/
+        - http://www.infographicsshowcase.com/
+        - https://www.infographicsarchive.com/
+        - https://infographicjournal.com/
+        - https://www.flickr.com/search/groups/?text=infographic
+    - 信息图制作工具
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F97XuKNLJh-.png?alt=media&token=280f854d-3527-4851-9770-f27c0809bd20)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FTsxCNV53vw.png?alt=media&token=d0adc575-b210-47a1-aa3d-40ada49de3e7)
+- 
