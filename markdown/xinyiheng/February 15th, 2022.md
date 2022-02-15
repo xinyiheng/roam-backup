@@ -18,3 +18,4 @@
     - 信息图
     - 用mind node来整理roam research的page
     - 重新使用knowledge database
+- the brain中节点关系的变化反应出我与知识的动态关系。#[[洞见]] #[[知识管理]]
