@@ -10,4 +10,4 @@
     - 信息图制作工具
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F97XuKNLJh-.png?alt=media&token=280f854d-3527-4851-9770-f27c0809bd20)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FTsxCNV53vw.png?alt=media&token=d0adc575-b210-47a1-aa3d-40ada49de3e7)
-- 
+- #[[洞见]] #[[roam research]] roam的最大作用是通过双方括号快速建立一些想要长期关注的节点，并自动在roam的资料库里搜索和关联这些节点。[[概念文档]]这个级别的内容整理，在roam research中并没有特别的优势。这是因为，它不过是一个大纲文档而已，难以突破
