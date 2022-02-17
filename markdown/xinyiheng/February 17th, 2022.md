@@ -1,5 +1,7 @@
 - #[[阅读]] 在路上阅读《分析与思考》
 - #[[阅读]] 尝试边阅读，边在mindnode上整理思维导图的笔记
 - #[[育儿]] 和麻豆一起拼装玩具
-- 
 - [[Inbox]]
+    - [[xin]] at 22:03: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F7Jm9ViSNL?alt=media&token=9aa913ff-fe1b-49aa-96c8-77f275950cbc)
+- #[[知识管理]] 用mindnode整理思路的时候发现以前太早就想要开始整理知识了，没有足够的阅读，很多所谓的知识整理不过是空对空而已，没有具体内容的支撑。
