@@ -45,4 +45,7 @@ title：什么是数字花园（Digital Garden）
 - #[[阅读]] #[[知识管理]] 围绕一个核心概念进行主题阅读的时候，要把这个阅读当作一个项目，用方便调整结构的形式展现笔记。我意识到fleeting note、literature note 和permanant note最好采用不同的软件。在推进一个项目的时候，总是想着如何展示与现有知识体系的融合会降低思考的灵活性。对于阅读可以采用局部结构整理，然后待项目告一段落以后整合到现有知识体系中。
 - System Innovation ProcessVia[Idiagram | Process](https://www.idiagram.com/process.html) [[20220216]] 下午4:31
 - [DensityDesign Lab | Blog](https://densitydesign.org/blog/) [[20220216]] 下午4:46
-- 
+- #[[阅读]] 读完了《图形对话》一书，很专心地做了笔记，感觉在marginnote中做思维导图阅读确实头脑更加灵活。
+- #[[健康]] 骑行40公里，平均功率达到220瓦，突破了自己的最好成绩
+- #[[育儿]] 和麻豆拼装了两个玩具
+- #[[阅读]] 晚上睡觉之前没有再看电脑，看了《这里是中国》，发现自己还真是缺乏对于地理的系统了解。为了以后旅行的乐趣，还是要多了解一些
