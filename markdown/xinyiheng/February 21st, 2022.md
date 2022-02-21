@@ -14,5 +14,7 @@
 - 然而，我们现在所熟知的互联网概念是在I989年由提姆·博纳斯一李(Tim Berners- Lee)开发的。他是一名在欧洲原子核研究组织(CERN,the European Organization for Nuclear Research;源自法文Conseil Europeen pour la Recherche Nucleaire)工作的物理学家。博纳斯一李提议将超文本（植入在屏幕文本中让使用者连接到其他的文件或文件夹的链接)连接到互联网上，这样研究者可以更快地交流信息。随后一名CERN的系统工程师罗伯特·卡约(Robert Cailliau)与他合作，两人在一台NeXT电脑上共同创建了第一个网页浏览器、编辑程序、服务器和网页。他们也创造了“万维网”(World Wide Web)这个概念。
 第一个网址是http://info.cern.ch/hypertext/, WWW/TheProject.html,该网页向人们解释了网络科技，教用户如何创建网站，以及如何有效查找信息。他们意识到当时CERN使用Via[信息设计](marginnote3app://note/3E0A174A-6DB0-48BC-94AC-27A144793102)[[20220221]] 上午10:46
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FD8F1DIezZB.png?alt=media&token=56c7906c-fba9-4172-8e28-714641061dd1)
-- 观看《互联网时代》
-- 
+- 观看《互联网时代》，文案真是不错。#[[文案]]
+- 你在何处，你都在网上;你孤身一人，你都在世界的中央。
+- 宝洁的难题：在随手可得的150万临时研发人员面前，宝洁引以为豪的9000人研发团队显得微不足道。从如何在薯片上打印图案想到的创新途径。#[[知识管理]] @评论:这也是我总是对于自己的知识库感到不满意的原因。这样看来，必须接受它是不完美的，并且不断变动，方便快速整合新的资源的一个开放体系。不过，这不能当作拒绝输出内容的借口。
+-   
