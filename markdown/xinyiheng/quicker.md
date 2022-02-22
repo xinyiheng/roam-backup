@@ -1,0 +1,1 @@
+- workflow vol.001 阅读篇01：一键摘录文本到笔记软件及其zettelkasten初处理Via[workflow vol.001 阅读篇01：一键摘录文本到笔记软件及其zettelkasten初处理 - 知乎](https://zhuanlan.zhihu.com/p/463317897) [[20220222]] 下午2:26
