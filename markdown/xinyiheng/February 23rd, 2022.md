@@ -21,3 +21,11 @@
 - #[[阅读]] 阅读理解能力是空间想象力 #[[知识管理]]
 - #[[人际]] 廖博士打电话询问是否对二代接班培训感兴趣，我还是先写完文章再说。我内心对非自己专业领域的事情感到信心不足。
 - 
+- [[Inbox]]
+    - [[xin]] at 18:10: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fp4vkuft8o?alt=media&token=2d3ba7c5-3f6c-41d7-b71f-e33426f2c085)
+    - [[xin]] at 18:10: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fx8AcABqhX?alt=media&token=d32e5c8f-87f1-45eb-a333-4d9ae4db449a)
+    - [[xin]] at 18:10: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FoPn8ZxjvY?alt=media&token=771df78e-603d-45cb-9dc0-2e763838e0ef)
+    - #[[阅读]] 晚上阅读古建筑的书籍，我发现在阅读的时候才能发现自己真正想知道的问题，还需要在搜索中寻找答案，这样效果最好。
