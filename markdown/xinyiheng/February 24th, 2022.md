@@ -3,5 +3,3 @@
         - 读完《应试九成靠妈妈》
     - 今天要改进什么事情？
         - 休息的方式
-- 压降制造业贷款Via[2.3 知识图谱的符号表示方法 - YouTube](https://www.youtube.com/watch?v=r_tzRhTg46w&list=PLFI1Cd4723_QRcDU28fm2TBcMkMk2Rbz7&index=7) [[20220224]] 下午12:15
-- 
