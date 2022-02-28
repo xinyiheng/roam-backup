@@ -15,4 +15,5 @@
     - 公寓的陷阱
     - 长租公寓陷阱
         - 为什么长租公寓很热？通过贷款建房可以降低继承税。
+        - 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FoCn-NOxzaU.png?alt=media&token=a0c0f855-7f4c-4352-a570-53e862593b02)
