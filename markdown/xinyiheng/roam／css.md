@@ -694,10 +694,10 @@ a {
   display:none;
 }
 /*修改最顶端栏目的背景*/
-/*.rm-topbar {
+.rm-topbar {
   background-size:100%;
   background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FDflleTPpdJ.jpeg?alt=media&token=18c4e482-27a3-472c-ab5f-c648934d9dd1);
-}*/
+}
 /*修改unlinked references字体颜色*/
 strong {
   	color:rgb(217,36,36)!important;
@@ -753,11 +753,11 @@ div {
 /*设置笔记主题的背景色和背景图片*/
 
 
-/*div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
+div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
      background-size:100% 100%;
   background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FDflleTPpdJ.jpeg?alt=media&token=18c4e482-27a3-472c-ab5f-c648934d9dd1);
    
-}*/
+}
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
     background-color: #EBF1F4;
