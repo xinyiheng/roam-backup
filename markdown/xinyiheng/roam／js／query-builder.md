@@ -1,0 +1,2 @@
+- Query Pages
+    - queries/*
