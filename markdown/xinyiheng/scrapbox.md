@@ -1,7 +1,7 @@
 - 一家日本京都的公司
 - 支持双向链接
 - 最好的[[交互体验]]是每一个文档都以一张卡片的形式呈现。这是一个UI设计的问题。应该可以通过html和css来实现。
+- 对中文支持不好
 - 除此之外，好像优点不是很多。![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FTvcH91WHIT.png?alt=media&token=19f28906-78b0-49a4-a910-8ae53f50583f)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FcdCiegkBjB.png?alt=media&token=a283ed83-edf2-47f7-8cac-3b395d078918)
 - 好像也支持一些[[JavaScript]]
-- 
