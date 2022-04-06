@@ -1,3 +1,25 @@
+- ```clojure
+/* 笔记不包含光标也没被选中时，应用卡片样式，背景变浅蓝色 */
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
+  background-color: rgba(240,245,245,0.33);
+  border-radius: 10px;
+  margin: 10px 0 10px 0;
+  padding: 10px 0 10px 0;
+}
+/* 笔记中包含光标时，应用卡片样式，同时背景变为浅绿色 */
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
+  background-color: rgba(239,241,199,0.33);
+  border-radius: 10px;
+  margin: 10px 0 10px 0;
+  padding: 10px 0 10px 0;
+}
+/* 笔记处于行选中状态时，应用卡片样式，呈现默认蓝色高亮 */
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
+  border-radius: 10px;
+  margin: 10px 0 10px 0;
+  padding: 10px 0 10px 0;
+}```
 - 分列效果
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPcxSe5o-k.png?alt=media&token=d3ab6a1d-503a-4633-ad8e-c8a5f09f5d06)
     - ```css
@@ -755,7 +777,7 @@ div {
 
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
      background-size:100% 100%;
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FDflleTPpdJ.jpeg?alt=media&token=18c4e482-27a3-472c-ab5f-c648934d9dd1);
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FNEqteuKXNg.jpg?alt=media&token=cccd33f3-6911-4f2c-9f3c-2421bd6fa07c);
    
 }
 /*设置左侧边栏背景色*/
