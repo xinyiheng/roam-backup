@@ -1,7 +1,7 @@
-- ```clojure
+- ```css
 /* 笔记不包含光标也没被选中时，应用卡片样式，背景变浅蓝色 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
-  background-color: rgba(240,245,245,0.33);
+  background-color: rgba(188,229,235,0.66);
   border-radius: 10px;
   margin: 10px 0 10px 0;
   padding: 10px 0 10px 0;
@@ -9,7 +9,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 /* 笔记中包含光标时，应用卡片样式，同时背景变为浅绿色 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
-  background-color: rgba(239,241,199,0.33);
+  background-color: rgba(232,239,101,0.33);
   border-radius: 10px;
   margin: 10px 0 10px 0;
   padding: 10px 0 10px 0;
@@ -710,7 +710,7 @@ a {
 /*修改链接颜色以及隐藏双方括号*/
 .rm-page-ref {
   font-weight:bold;
-  color:#FFEB3B;
+  color:#DE1717;
 }
 .rm-page-ref__brackets{
   display:none;
@@ -718,7 +718,7 @@ a {
 /*修改最顶端栏目的背景*/
 .rm-topbar {
   background-size:100%;
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FDflleTPpdJ.jpeg?alt=media&token=18c4e482-27a3-472c-ab5f-c648934d9dd1);
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FAEgKzCmePz.jpeg?alt=media&token=1604225f-9a7c-4a7c-ba2d-3a936faeab6a);
 }
 /*修改unlinked references字体颜色*/
 strong {
@@ -777,7 +777,8 @@ div {
 
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
      background-size:100% 100%;
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FNEqteuKXNg.jpg?alt=media&token=cccd33f3-6911-4f2c-9f3c-2421bd6fa07c);
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FAEgKzCmePz.jpeg?alt=media&token=1604225f-9a7c-4a7c-ba2d-3a936faeab6a
+  );
    
 }
 /*设置左侧边栏背景色*/

@@ -1,5 +1,6 @@
 - [[roam/sr/review]]
     - 以解决^^实际问题^^为导向#[[sr]] #f
-- 
+- 背景图片
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FAEgKzCmePz.jpeg?alt=media&token=1604225f-9a7c-4a7c-ba2d-3a936faeab6a)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FNEqteuKXNg.jpg?alt=media&token=cccd33f3-6911-4f2c-9f3c-2421bd6fa07c)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F0U476lysxL.jpeg?alt=media&token=6d259efa-758c-45a4-a7ae-0a913ae850c8)
