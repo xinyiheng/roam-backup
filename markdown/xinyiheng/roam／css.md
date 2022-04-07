@@ -20,6 +20,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
   margin: 10px 0 10px 0;
   padding: 10px 0 10px 0;
 }
+/* 解决block内部文字无法很接近右侧的问题 */
 .rm-block-separator {
     flex: 0 0 0px;
     min-width: 0px;
@@ -32,19 +33,20 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     align-items: flex-start;
     justify-content: flex-start;
 }
-
+/* card-list-mode 卡片之间设置空隙 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
     background-color: #72DE7721;
     border-radius: 10px;
     margin: 10px 20px 10px 0;
     padding: 10px 0 10px 0;
 }
-
-.card-mode .roam-block-container,  {
+/* card-list-mode 文字重合的问题 */
+.card-mode .roam-block-container {
 overflow: scroll;
+flex: 0 0 auto;
   
 }
-
+/* card-flow-mode 全部铺开的设置 */
 .flow-mode .roam-article>div:first-child .rm-block__children.rm-level-0>.roam-block-container {
   align-items: center;
   position: relative;   
