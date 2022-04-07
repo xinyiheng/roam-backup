@@ -1,7 +1,7 @@
 - ```css
 /* 笔记不包含光标也没被选中时，应用卡片样式，背景变浅蓝色 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
-  background-color: rgba(188,229,235,0.42);
+  background-color: #9E9E9E30;
   border-radius: 10px;
   margin: 10px 0 10px 0;
   padding: 10px 0 10px 0;
@@ -705,7 +705,7 @@ span.rm-page-ref[data-tag="人际"] {
 }*/
 /*修改url链接的文字颜色*/
 a {
-  color:#9708AE !important;
+  color:#9708AEB5 !important;
 }
 /*修改链接颜色以及隐藏双方括号*/
 .rm-page-ref {
@@ -726,7 +726,7 @@ strong {
 }
 /*修改看板的样式*/
 .kanban-board {
-   background-color: skyblue;
+   background-color: rgba(135,206,235,0.35);
    background-image:url("https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FFJiT_TGxLh.png?alt=media&token=ee76eead-1e43-47d6-9c02-6508e86f909f");
    background-size:100% 100%;
 }
@@ -746,7 +746,7 @@ strong {
 }
 /*修改高亮文字背景色*/
 .rm-highlight {
-  background-color: rgb(31,180,32);
+  background-color: rgba(31,180,32,0.5);
 }
 /*修改编辑中的文字字体*/
 textarea {
@@ -755,10 +755,10 @@ textarea {
 }
 /*修改选中后的文字颜色*/
 ::selection {
-    background: #DC6767;
+    background: #DC676793;
 }
 ::hover {
-    background: #DC6767;
+    background: #DC676777;
 }
 /*修改左侧边栏文字颜色*/
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
@@ -783,7 +783,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
-    background-color: #EBF1F4;
+    background-color: #EBF1F400;
 }
 
 #roam-right-sidebar-content {
