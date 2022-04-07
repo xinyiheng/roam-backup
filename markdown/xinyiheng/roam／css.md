@@ -20,11 +20,17 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
   margin: 10px 0 10px 0;
   padding: 10px 0 10px 0;
 }
+.rm-block-separator {
+    flex: 0 0 0px;
+    min-width: 0px;
+}
+
 .roam-block-container .rm-block-main {
     display: flex;
+    flex: 0 0 auto;
+    overflow: hidden;
     align-items: flex-start;
     justify-content: flex-start;
-    flex: 1 1 auto;
 }```
 - 分列效果
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPcxSe5o-k.png?alt=media&token=d3ab6a1d-503a-4633-ad8e-c8a5f09f5d06)
@@ -999,24 +1005,6 @@ div#right-sidebar .kanban-board .kanban-column {
 ```
     - ```css
 
-/* Extend the main page wider to allow for blocks to be wider  */
-
-div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 800px) / 2);"], div[style*="padding-right: calc((100% - 568px) / 2); padding-left: calc((100% - 1032px) / 2);"] {
-    /*
-    Roam Default 800px
-    padding-right: calc((100% - 800px) / 2) !important;
-    padding-left: calc((100% - 800px) / 2) !important;
-
-    FULL WIDTH
-    padding-right: calc((100% - 3400px) / 2) !important;
-    padding-left: calc((100% - 3400px) / 2) !important;
-    */
-
-    padding-right: calc((100% - var(--block-widths)) / 2) !important;
-    padding-left: calc((100% - var(--block-widths)) / 2) !important;
-}
-
-/* Block text widths to extend block text wider for when you make the page wider with the CSS above  */
 
 .roam-block-container {
     max-width: unset;
@@ -1124,10 +1112,8 @@ div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-ch
 ```
     - ```css
 
-/* Extend the main page wider to allow for blocks to be wider  */
-
 div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 800px) / 2);"], div[style*="padding-right: calc((100% - 568px) / 2); padding-left: calc((100% - 1032px) / 2);"] {
-    /*
+    
     Roam Default 800px
     padding-right: calc((100% - 800px) / 2) !important;
     padding-left: calc((100% - 800px) / 2) !important;
@@ -1141,7 +1127,6 @@ div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 
     padding-left: calc((100% - var(--block-widths)) / 2) !important;
 }
 
-/* Block text widths to extend block text wider for when you make the page wider with the CSS above  */
 
 .roam-block-container {
     max-width: unset;
