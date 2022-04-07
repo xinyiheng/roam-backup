@@ -1,7 +1,7 @@
 - ```css
 /* 笔记不包含光标也没被选中时，应用卡片样式，背景变浅蓝色 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
-  background-color: #9E9E9E30;
+  background-color: #9E9E9EA0;
   border-radius: 10px;
   margin: 10px 0 10px 0;
   padding: 10px 0 10px 0;
