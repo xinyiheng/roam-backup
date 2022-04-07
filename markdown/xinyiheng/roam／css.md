@@ -28,7 +28,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 .roam-block-container .rm-block-main {
     display: flex;
     flex: 0 0 auto;
-    overflow: hidden;
+    overflow: scroll;
     align-items: flex-start;
     justify-content: flex-start;
 }```
