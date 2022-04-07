@@ -20,13 +20,11 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
   margin: 10px 0 10px 0;
   padding: 10px 0 10px 0;
 }
-div.rm-block-main {
-    width:80%;
-}
 .roam-block-container .rm-block-main {
-    display: -webkit-inline-box;
-    flex:auto;
-    align-items: self-start;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex: 1 1 auto;
 }```
 - 分列效果
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPcxSe5o-k.png?alt=media&token=d3ab6a1d-503a-4633-ad8e-c8a5f09f5d06)
