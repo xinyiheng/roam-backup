@@ -1,7 +1,7 @@
 - ```css
 /* 笔记不包含光标也没被选中时，应用卡片样式，背景变浅蓝色 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
-  background-color: rgba(188,229,235,0.66);
+  background-color: rgba(188,229,235,0.42);
   border-radius: 10px;
   margin: 10px 0 10px 0;
   padding: 10px 0 10px 0;
@@ -523,7 +523,7 @@ span[data-link-title^="软件联动"] .rm-page-ref {
 /* Custom data tags */
 
 span.rm-page-ref[data-tag="参考资料"] {
-    background: #9769FF !important;
+    background: #9769FF8E !important;
     color: white !important;
     padding: 3px 7px;
     font-weight: 500;
@@ -533,7 +533,7 @@ span.rm-page-ref[data-tag="读书笔记"]:before {
     content: '📖'
 }
 span.rm-page-ref[data-tag="读书笔记"] {
-    background: rgb(255,170,214) !important;
+    background: rgba(255,170,214,0.68) !important;
     color: white !important;
     padding: 3px 7px;
     font-weight: 500;
@@ -554,7 +554,7 @@ span.rm-page-ref[data-tag="睡眠"] {
     line-height: 2em;
 }
 span.rm-page-ref[data-tag="阅读"] {
-    background: rgb(255,170,214) !important;
+    background: rgba(255,170,214,0.48) !important;
     color: white !important;
     padding: 3px 7px;
     font-weight: 500;
@@ -568,7 +568,7 @@ span.rm-page-ref[data-tag="财富"] {
     line-height: 2em;
 }
 span.rm-page-ref[data-tag="爱好"] {
-    background: #06BE0D!important;
+    background: #06BE0D7C!important;
     color: white !important;
     padding: 3px 7px;
     font-weight: 500;
@@ -585,7 +585,7 @@ span.rm-page-ref[data-tag="育儿"]:before {
     content: '👨‍🍼'
 }
 span.rm-page-ref[data-tag="育儿"] {
-    background: #E341FF !important;
+    background: #E341FF6B !important;
     color: #1A1918 !important;
     padding: 3px 8px;
     line-height: 2em;
@@ -593,7 +593,7 @@ span.rm-page-ref[data-tag="育儿"] {
 }
 
 span.rm-page-ref[data-tag="健康"] {
-    background: #2590E4!important;
+    background: #2590E475!important;
     color: #2B2D2D !important;
     padding: 3px 3px;
     font-weight: 600;
@@ -601,7 +601,7 @@ span.rm-page-ref[data-tag="健康"] {
 }
 
 span.rm-page-ref[data-tag="家庭"] {
-  background: #E341FF !important;
+  background: #E341FF7F !important;
     color: #201E20 !important;
     padding: 3px 4px;
     font-weight: 700;
@@ -629,14 +629,14 @@ span.rm-page-ref[data-tag="问题"] {
 }
 
 span.rm-page-ref[data-tag="软件联动"] {
-    background: #ADCB2A;
+    background: #ADCB2A72;
     color: #fff;
     padding: 3px 7px;
     line-height: 2em;
     font-weight: 500;
 }
 span.rm-page-ref[data-tag="工作"] {
-    background: #FF9800;
+    background: #FF980070;
     color: #3D3939;
     padding: 3px 7px;
     line-height: 2em;
@@ -644,7 +644,7 @@ span.rm-page-ref[data-tag="工作"] {
 }
 
 span.rm-page-ref[data-tag="标准化"] {
-    color: #8C41A6;
+    color: #8C41A677;
     padding: 3px 4px;
     line-height: 1.4em;
     font-weight: 700;
@@ -663,14 +663,14 @@ span.rm-page-ref[data-tag="Researching"] {
 
 
 span.rm-page-ref[data-tag="写作"] {
-    background: rgb(255,170,214) !important;
+    background: rgba(255,170,214,0.41) !important;
     color: #fff !important;
     padding: 3px 7px;
     line-height: 2em;
     font-weight: 500;
 }
 span.rm-page-ref[data-tag="人际"] {
-    background:rgb(255,170,214) !important;
+    background:rgba(255,170,214,0.45) !important;
     color: #fff !important;
     padding: 3px 7px;
     line-height: 2em;
