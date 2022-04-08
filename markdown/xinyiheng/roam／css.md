@@ -41,9 +41,9 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     padding: 10px 0 10px 0;
 }
 /* card-list-mode 文字重合的问题 */
-.card-mode .roam-block-container {
-overflow: scroll;
-flex: 0 0 auto;
+.card-mode>.roam-block-container {
+overflow: auto;
+flex: 0 1 auto;
   
 }
 /* card-flow-mode 全部铺开的设置 */

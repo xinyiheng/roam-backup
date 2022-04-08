@@ -1,2 +1,39 @@
-- 00:37
-    - 为什么是这个颜色？
+- 目前调整的roam research可用性强了很多，感觉UI整体有了很大的提升，解决了吕立青开发的card模式在我的软件中适配不好的一些地方。目前感觉非常棒。
+- 昨天睡觉前调试软件的css，结果睡觉超过12点了，晚上睡眠质量不好。这几天要把睡眠状态调整过来。#[[健康]]
+- 购买了手机上写作的软件[[纯纯写作]]的会员。我觉得在手机上写作既可以很轻松地用语言来快速表达自己模糊的想法，也可以选择性地用理性来字斟句酌，形式上也比较灵动和轻松。这是我开发的更多的写作场景中的一个。#[[写作]]
+- 下载了roam research手机版本，最近刚出的。
+- [[April 8th, 2022]] at 09:27
+    - 好像很方便快速收集想法。
+- [[April 8th, 2022]] at 09:31
+    - 好像没有多大改进
+- [[Inbox]]
+    - [[xin]] at 10:03: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FjwotQy2l5?alt=media&token=cc4d124c-0669-4c76-8851-9ef5daeda9a4)
+    - [[xin]] at 10:04: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FBLVlPTP30?alt=media&token=560fe8c1-31af-4d5b-a123-38f4f8289fb6)
+    - [[xin]] at 10:04: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F5r9NHu4gB?alt=media&token=1210af63-abe6-4a4d-9484-ae0d371b04dd)
+    - [[xin]] at 10:05: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FtUsdhbyCk?alt=media&token=315691d3-51f3-4c98-9290-81e95ce14eba)
+    - [[xin]] at 10:06: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F1D-MOuhLO?alt=media&token=5aff2dfa-8fa3-48ac-ae2c-7e7fba34ec5d)
+    - [[xin]] at 10:07: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FdaBRE2Km3?alt=media&token=3bf2de6f-1f5f-47a3-9db1-16261d99ed36)
+    - [[xin]] at 10:07: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FBeVR4IZo-?alt=media&token=61e16c3c-f229-4b8b-93b8-73719270b664)
+    - [[xin]] at 10:07: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FuudS8O6rk?alt=media&token=d1bb7822-ed63-4cf2-86c1-4bde367ae71b)
+    - [[xin]] at 10:08: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLMGS5sYjE?alt=media&token=dddf1883-22a3-4f9c-9943-fc3b804934ce)
+    - [[xin]] at 10:09: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FwiHgtVQU6?alt=media&token=1d2f8a2e-4e9f-492f-9c09-87a0c5f4ea71)
+    - [[xin]] at 10:09: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FKDIostsO8?alt=media&token=414c057e-b393-4ca1-ae7b-a45695aca552)
+    - [[xin]] at 10:09: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FOLbUTTaAv?alt=media&token=210885ae-186b-4485-8fa7-4dab4dd184b9)
+    - [[xin]] at 10:10: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FTg8_0IxBo?alt=media&token=13095081-c4e9-4971-859a-3de2babedb5f)
+    - [[xin]] at 10:11: 很多新闻不过是提供了一个进一步思考的由头而已。
+    - [[xin]] at 10:13: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FPvvGeRr-0?alt=media&token=bb2ca7f7-77c3-43eb-9a9b-72e996138e13)
+- 用工具来弥补自己工作记忆太差的问题。在头脑中要有清晰的定位，知道每款工具记录了什么信息，在什么场景中使用。尽量简化。#[[记忆]] 
