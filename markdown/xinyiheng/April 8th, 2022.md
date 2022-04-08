@@ -37,3 +37,4 @@
     - [[xin]] at 10:13: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FPvvGeRr-0?alt=media&token=bb2ca7f7-77c3-43eb-9a9b-72e996138e13)
 - 用工具来弥补自己工作记忆太差的问题。在头脑中要有清晰的定位，知道每款工具记录了什么信息，在什么场景中使用。尽量简化。#[[记忆]] 
+- #[[写作]] 由于特别追求最佳实践，所以我收集的很多写作相关的材料实际上都没有看过和整理过，这也是我排斥写作的一个很重要原因吧。我今天看了flomo里收集的很多资料，格式之类的很混乱，从来没有整理过，这当然导致没有输出的欲望。
