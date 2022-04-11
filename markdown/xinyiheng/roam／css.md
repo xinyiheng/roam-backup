@@ -52,8 +52,8 @@ flex: 0 1 auto;
   position: relative;   
   top: 0;
 }
-#roam-toolkit-spatial-mode--mask{
-  position:;
+.roam-toolkit-spatial-mode{
+  position:static;
 }
 ```
 - 分列效果
@@ -717,10 +717,10 @@ span.rm-page-ref[data-tag="人际"] {
 
 :root {
     --main-left-bg: white;
-    --right-sidebar-bg: rgb(247 248 249);
+    --right-sidebar-bg: #EA9C9C(247 248 249);
     --right-sidebar-drag-bg: #337ac6;
-    --masonry-bg: white;
-    --masonry-scrollbar-bg: lightgrey;
+    --masonry-bg: #DFF7E091;
+    --masonry-scrollbar-bg: rgb(223,162,162);
     --masonry-resizer-color: lightgrey;
     --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
     --masonry-minWidth: 440px;
