@@ -28,8 +28,6 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 
 .roam-block-container .rm-block-main {
     display: flex;
-    flex: 0 0 auto;
-    overflow: scroll;
     align-items: flex-start;
     justify-content: flex-start;
 }
@@ -55,7 +53,9 @@ flex: 0 1 auto;
 .roam-toolkit-spatial-mode{
   position:static;
 }
-```
+
+
+ ```
 - 分列效果
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPcxSe5o-k.png?alt=media&token=d3ab6a1d-503a-4633-ad8e-c8a5f09f5d06)
     - ```css
@@ -713,7 +713,7 @@ span.rm-page-ref[data-tag="人际"] {
     font-weight: 500;
 }```
 - 数字花园[[hongse]] @评论:暂时暂停使用，因为和roam-tookit里面的功能冲突
-    - ```css
+    - ```clojure
 
 :root {
     --main-left-bg: white;
