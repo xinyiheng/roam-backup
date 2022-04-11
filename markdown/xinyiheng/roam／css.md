@@ -52,6 +52,9 @@ flex: 0 1 auto;
   position: relative;   
   top: 0;
 }
+#roam-toolkit-spatial-mode--mask{
+  position:;
+}
 ```
 - 分列效果
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPcxSe5o-k.png?alt=media&token=d3ab6a1d-503a-4633-ad8e-c8a5f09f5d06)
