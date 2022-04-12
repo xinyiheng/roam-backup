@@ -173,10 +173,10 @@ document.getElementsByTagName('head')[0].appendChild(s);```
   display: none;
 } */
 
-/* HIDING THE #sr TAG */
-/* span.rm-page-ref[data-tag="sr"] {
+
+span.rm-page-ref[data-tag="sr"] {
   display: ;
-} */
+}
 
 /* DISABLING ROAM TOOLKIT */
 /* .roam-toolkit--hint0::after,
