@@ -25,35 +25,50 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     flex: 0 0 0px;
     min-width: 0px;
 }
-
+/* card-flow-mode 文字溢出卡片修复 */
 .roam-block-container .rm-block-main {
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
+    overflow:scroll;
 }
 /* card-list-mode 卡片之间设置空隙 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
+    flex:1 1 auto;
     background-color: #72DE7721;
     border-radius: 10px;
     margin: 10px 20px 10px 0;
     padding: 10px 0 10px 0;
 }
-/* card-list-mode 文字重合的问题 */
-.card-mode>.roam-block-container {
-overflow: auto;
-flex: 0 1 auto;
-  
-}
+
+
 /* card-flow-mode 全部铺开的设置 */
 .flow-mode .roam-article>div:first-child .rm-block__children.rm-level-0>.roam-block-container {
   align-items: center;
   position: relative;   
-  top: 0;
+  top:0;
 }
-.roam-toolkit-spatial-mode{
+/*.roam-toolkit-spatial-mode{
   position:static;
+} */
+/* card-list-mode 文字重合的问题*/ 
+.block-bullet-view {
+    flex: 0 0 auto;
 }
-
+/* table-mode 全部铺开的设置 */
+.table-mode .roam-article>div:first-child .rm-block__children.rm-level-0>.roam-block-container {
+    width: calc(100vw - 30px)!important;
+    border: 1px solid #bfccd6;
+   align-items: center;
+    border-bottom: none;
+    background: #f2f4f8;
+    position: relative;
+    top: 50px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
 
  ```
 - 分列效果
@@ -713,7 +728,7 @@ span.rm-page-ref[data-tag="人际"] {
     font-weight: 500;
 }```
 - 数字花园[[hongse]] @评论:暂时暂停使用，因为和roam-tookit里面的功能冲突
-    - ```clojure
+    - ```css
 
 :root {
     --main-left-bg: white;
