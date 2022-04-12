@@ -7,5 +7,3 @@
 - 去年我读了一本关于城市规划的书 Happy city by Charles Montgomery （《幸福的都市栖居》），这本书从「人」的角度出发，回答了「什么样的城市会让人幸福」这个问题。😀😀😀😀Via[什么样的城市让人幸福？ - 少数派](https://sspai.com/post/72543) [[20220412]] 13:21
 - 什么样的城市让人幸福？Via[什么样的城市让人幸福？ - 少数派](https://sspai.com/post/72543) [[20220412]] 11:43
 - 卡片都不是居中的，这一点是否可以改变呢？如果改变的话，后续可能还会牵扯很多内容。
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FDb43CLlJOE.jpeg?alt=media&token=7027f015-0f12-4198-9668-9aa4f31258ad)
-- 
