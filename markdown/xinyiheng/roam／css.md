@@ -52,7 +52,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 } */
 /* card-list-mode 文字重合的问题*/ 
 .block-bullet-view {
-    flex: 0 0 auto;
+    flex: 1 1 auto;
 }
 /* table-mode 全部铺开的设置 */
 .table-mode .roam-article>div:first-child .rm-block__children.rm-level-0>.roam-block-container {
