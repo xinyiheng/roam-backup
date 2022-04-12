@@ -12,3 +12,5 @@
     - 专注到一张卡片ctrl+0，查看全部卡片ctrl+9，放大卡片ctrl+=，缩小卡片ctrl+-。这里的放大和缩小还可以通过触控板来放大，还有一种放大方式是浏览器整体内容放大，用的是cmd+=和cmd+-，注意区分。
 - 我为这款插件设置了快捷键，mac上ctrl+i
 - 使用工具有时候不得不接受其不足。在短期内感觉很完美的工具过去新鲜劲以后也会发现各种不足。这才是[[软件联动]]有必要性的原因
+-  Spatial Graph Sidebar released!😀😀😀😀Mind Map by opening links: https://youtu.be/Yc1T0micgzk  
+- Via[(1) Dave Lu 在 Twitter: "@RoamResearch Spatial Graph Sidebar released! Mind Map by opening links: https://t.co/3iRXcMdDBF Thank you @VladyslavSitalo for maintaining Roam Toolkit, and @AbhayPrasanna for beta testing! #roamcult https://t.co/ixPXYuAVLt" / Twitter](https://twitter.com/daveludavelu/status/1331106926923431941) [[20220412]] 23:01
