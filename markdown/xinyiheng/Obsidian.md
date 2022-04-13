@@ -29,5 +29,8 @@ via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/I
     - 少数派上的文章一览
         - https://sspai.com/search/post/obsidian
     - 常用 Obsidian 处理中文长文？试试这些这些大幅提升体验的插件和代码片段Via[常用 Obsidian 处理中文长文？试试这些这些大幅提升体验的插件和代码片段 - 少数派](https://sspai.com/post/69628) [[20211104]] 下午1:35
-    - 
+    - 如何修改obsidian的字体？
+        - obsidian主题设置 - 少数派  https://sspai.com/post/66281 
+            - @评论:下载了主题之后，可以在文件夹里找到css文件，然后找到字体字段修改就可以了。我使用的字体是从typora找到的"PT Serif"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FeWU5Y7lapY.png?alt=media&token=8964683c-5314-4b94-b904-3418ae3cfb7b)
 
