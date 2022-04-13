@@ -1,19 +1,5 @@
-- open
+- auto focus
 - saved
-    - shiyan
-        - outline
-            - 9eFECyCTj
-        - outline
-            - 0yquExZCF
-        - outline
-            - i1NCRnpez
-        - outline
-            - oDkevAo9J
-        - outline
-            - OkQRUiTvm
-        - page
-            - r7s4yMOC9
-            - 
     - 卡片版
         - outline
             - OkQRUiTvm
@@ -74,4 +60,3 @@
         - page
             - cb_yFa1BF
             - 
-- auto focus
