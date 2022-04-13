@@ -23,7 +23,7 @@
     - obsidian@评论:官方参考资料，用graph图展示
 via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/Index)
 [[20201231]] 下午12:11
-    - 快速开始 Via[由此开始 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B) [[20220114]] 下午11:43
+    - 快速开始 Via[由此开始 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B) [[20220114]] 下午11:43 @评论:这个帮助文档做的太棒了。我的知识管理体系其实很大程度上就是要做成这样。#[[知识管理]] [[hongse]]
     - 让 Obsidian 更好用，这些社区插件值得试试Via[让 Obsidian 更好用，这些社区插件值得试试 - 少数派](https://sspai.com/post/66094) [[20220114]] 下午11:32
     - 我的 Obsidian 工作流：模板+QuickAdd+Dataview 快速创建和自动索引 - 少数派 (https://sspai.com/post/68350)
     - 少数派上的文章一览
@@ -34,3 +34,5 @@ via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/I
             - @评论:下载了主题之后，可以在文件夹里找到css文件，然后找到字体字段修改就可以了。我使用的字体是从typora找到的"PT Serif"
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FeWU5Y7lapY.png?alt=media&token=8964683c-5314-4b94-b904-3418ae3cfb7b)
 
+    - 如何修改obsidian 上excalidraw插件的字体？
+        - Obsidian 的 Excalidraw 插件自定义中文字体Via[Obsidian 的 Excalidraw 插件自定义中文字体](https://www.uncoverman.com/excalidraw-plguin-in-obsidian-support-font-custom.html) [[20220413]] 17:11
