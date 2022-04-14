@@ -1,2 +1,3 @@
 - 使用方法
     - 在键盘打出“;;”，然后选择excalidraw既可以了
+- excalidraw本身是一个网页绘图工具，但是可以整合到roam research和obsidian中。这就为这两款软件提供了新的整理信息的方式。目前看来，obsidian中的excalidraw插件要比在roam research中好用很多。
