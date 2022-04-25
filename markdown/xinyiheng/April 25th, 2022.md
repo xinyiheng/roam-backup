@@ -1,2 +1,7 @@
 - #[[知识管理]] 知识管理的元问题应该是“我能知道什么？”“我能表达什么？”#[[洞见]]
 - 少一些收集整理，多一些问题输出。
+- [[Inbox]]
+    - [[xin]] at 15:11: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fd5OCndLYr?alt=media&token=ca70fa2a-a7ea-453d-beae-649f6bb50a50)
+    - [[xin]] at 15:12: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F2QASt4Hg5?alt=media&token=b4ef3961-ab7d-4ed6-be03-df17af557dc0)
