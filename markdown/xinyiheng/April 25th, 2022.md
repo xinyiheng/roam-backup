@@ -1,5 +1,5 @@
 - #[[知识管理]] 知识管理的元问题应该是“我能知道什么？”“我能表达什么？”#[[洞见]]
-- 少一些收集整理，多一些问题输出。
+- 少一些收集整理，多一些问题输出。[[Literature Notes]][[Reference Notes]][[Fleeting Notes]][[Permanent Notes]]
 - [[Inbox]]
     - [[xin]] at 15:11: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fd5OCndLYr?alt=media&token=ca70fa2a-a7ea-453d-beae-649f6bb50a50)
