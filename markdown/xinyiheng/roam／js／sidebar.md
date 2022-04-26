@@ -1,4 +1,3 @@
-- open
 - auto focus
 - saved
     - 卡片版
