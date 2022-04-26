@@ -3,3 +3,5 @@
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FvBgeXdbRB?alt=media&token=3ec68716-0350-43a9-8c2b-a155698508bb)
     - [[xin]] at 13:57: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fo8L6BxwzR?alt=media&token=c1d7e4b6-1216-435a-b820-d8f88bc2d181)
+- #[[知识管理]] 脑中的网络才是真正重要的网络。外部的软件工具，the brain和mind node不过是提供了更大的工作记忆而已。决断力(呈现哪些内容)和组合力(如何呈现内容)才是真正重要的事情。#[[灵感]] [[Permanent Notes]]
+- 
