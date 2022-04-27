@@ -1,0 +1,8 @@
+- #[[知识管理]] 用设计思维(好看的外观)来增加思考、整理和输出的时间。
+- [[Inbox]]
+    - [[xin]] at 14:29: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FnaJqbnkVv?alt=media&token=cb58ed8b-36a5-453d-b224-d1e34b17cd44)
+    - [[xin]] at 14:31: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FnnALFXvk9?alt=media&token=a1c2a3f0-18ba-4198-9892-1fcfd4eeee45)
+    - [[xin]] at 14:32: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FVif8A_k80?alt=media&token=18157196-c8f7-46dd-ad3a-71f8588153aa)
