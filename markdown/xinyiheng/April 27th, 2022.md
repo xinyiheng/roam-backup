@@ -17,3 +17,5 @@
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F-VOKHx1sm?alt=media&token=d5255926-90d9-48dc-a915-14c666d82642)
     - [[xin]] at 21:18: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FfpPzAbiSi?alt=media&token=6acfac4f-aaf5-42d9-bb07-fdc8c439f941)
+    - [[xin]] at 21:31: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FPGSSnqme-?alt=media&token=f6f21ccf-3471-4e11-a7e1-91a8a605ecb0)
