@@ -12,3 +12,4 @@
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FazfigzHs_?alt=media&token=deeac3a3-7fdf-446f-aed8-17b7dd62e0a0)
     - [[xin]] at 16:52: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F6YD24qO7Y?alt=media&token=7fe35249-b7c7-4887-a4f7-d9f8cbd729b8)
+    - [[xin]] at 17:16: 前面讲过考试脑科学，是为了能帮助更多的考生良好地使用自己的大脑，知道怎么样调动激情、好奇心来记住那些难以记忆的、无关的生活的知识。
