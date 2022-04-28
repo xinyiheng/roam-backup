@@ -1,0 +1,8 @@
+- [[Inbox]]
+    - [[xin]] at 09:57: https://mp.weixin.qq.com/s?__biz=MjM5MDgxNjc0MA==&mid=2651418433&idx=2&sn=96d5002540c1baba49e5567ab1ef1863&chksm=bd42cfca8a3546dc7e90a8ac3a0661e8469ae3db38e06464511b8bd35ad9c5698de79e6e6eab#rd
+    - [[xin]] at 10:25: #Photo
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FU0PdD8y5o?alt=media&token=a9e61350-a6cf-4f44-aadd-58b771ff4211)
+    - [[xin]] at 10:37: https://wx1.sinaimg.cn/orj360/89572784ly8h194z0e92rj22y127jb21.jpg
+- #[[知识管理]] 真佛只说家常话
+- #[[工具]] 学会了在ipad上设置简单的[[捷径]],实现了通过菜单快速把在safari中的文档用diigo打开。之所以不直接用diigo浏览器，是因为如果在diigo上直接使用inoreader，经常会死机。一开始发现这个捷径有bug，原本该用diigo打开，却每一次都跳转到chrome上。我直接把chrome删除了。在ipad上，chrome浏览器并没有什么优势可言。
+- [[liquid text]]现在是在ipad和mac以及windows系统上都可以使用，只不过同步数据需要购买专业版，还是比较贵的。
