@@ -5,4 +5,5 @@
     - [[xin]] at 10:37: https://wx1.sinaimg.cn/orj360/89572784ly8h194z0e92rj22y127jb21.jpg
 - #[[知识管理]] 真佛只说家常话
 - #[[工具]] 学会了在ipad上设置简单的[[捷径]],实现了通过菜单快速把在safari中的文档用diigo打开。之所以不直接用diigo浏览器，是因为如果在diigo上直接使用inoreader，经常会死机。一开始发现这个捷径有bug，原本该用diigo打开，却每一次都跳转到chrome上。我直接把chrome删除了。在ipad上，chrome浏览器并没有什么优势可言。
-- [[liquid text]]现在是在ipad和mac以及windows系统上都可以使用，只不过同步数据需要购买专业版，还是比较贵的。
+- [[liquid text]]现在是在ipad和mac以及windows系统上都可以使用，只不过同步数据需要购买专业版，还是比较贵的
+- **“编辑”不仅是种职业，更是种****处理复杂信息的能力**
