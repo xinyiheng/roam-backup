@@ -1,4 +1,16 @@
 - [印象笔记中的内容](https://app.yinxiang.com/shard/s63/nl/13797828/8ca6b267-ecf9-4aa0-b7be-8f5a968f2df5/)
+- 好像已经和星座一样火了。微博话题MBTI的阅读量达到13亿左右，讨论次数近30万；话题mbti meme已有超21亿次阅读，抖音mbti相关短视频也累计播放超10亿。Via[全网超50亿围观！MBTI为什么没有涨粉千万的“陶白白”？](https://app.yinxiang.com/shard/s63/nl/13797828/8c60c70c-a10a-4bff-a03e-14fa78bc6f66/) [[20220429]] 23:07
+- 2022年3月的人群画像显示，搜索MBTI的人群在19岁以下的占比29.82%，几乎是星座的两倍。同时，30-39岁的人群中，搜索星座的数量近乎MBTI人群的3倍。Via[全网超50亿围观！MBTI为什么没有涨粉千万的“陶白白”？](https://app.yinxiang.com/shard/s63/nl/137978
+- 为什么这种模型被广泛应用？仅仅是好玩吗？仅仅是因为有“科学”依据吗？
+    - @评论:反映出普通人希望了解自己，找到自己性格合适的工作的愿望。性格测试不仅仅只代表着个人爱好，还预示着一种新兴的白领工作文化。当工人的生活意向与生产行为之间的偏差过大，比如躺平欲望，显然是不符合企业扩大生产的主体利益的。因此，让人们相信，自己总能找到更适应自己的某种工作角色，而不是总希望花费时间和精力在非生产性兴趣上寻找价值，更为重要。Via[全网超50亿围观！MBTI为什么没有涨粉千万的“陶白白”？](https://app.yinxiang.com/shard/s63/nl/13797828/8c60c70c-a10a-4bff-a03e-14fa78bc6f66/) [[20220429]] 23:1828/8c60c70c-a10a-4bff-a03e-14fa78bc6f66/) [[20220429]] 23:138)@评论:可以说是年轻人的游戏
+    - 有科学依据还是没有呢？恐怕当作一种交流的游戏话题还比较合适。可信度来自于在商业上的应用。 
+    - MBTI并非属于心理科学的研究范畴，而是一种群体心理文化的市场商品。^^
+    - 最典型的，就是社会名人、历史名人的类型分析，会成为被绑定推广的kol。😀😀😀😀 😀😀😀😀如果你是INTJ，那你和马斯克是同一类人。😀😀😀😀如果你是ENFJ，那你和奥巴马是同一类人。😀😀😀😀如果你是INTP，恭喜你，你和爱因斯坦和牛顿是同一类人。Via[全网超50亿围观！MBTI为什么没有涨粉千万的“陶白白”？](https://app.yinxiang.com/shard/s63/nl/13797828/8c60c70c-a10a-4bff-a03e-14fa78bc6f66/) [[20220429]] 23:29 @评论:我最初只注意到这样方便记忆不同的性格类型，但忽略了其中自恋和寻求自己和名人共同点的含义。
+    - 是减压的一种方法，在不确定性中追求确定性。
+    - 社交的语码，快速了解对方，先通过这种方式建立一些共识基础最典型的，就是社会名人、历史名人的类型分析，会成为被绑定推广的kol。😀😀😀😀 😀😀😀😀如果你是INTJ，那你和马斯克是同一类人。😀😀😀😀如果你是ENFJ，那你和奥巴马是同一类人。😀😀😀😀如果你是INTP，恭喜你，你和爱因斯坦和牛顿是同一类人。Via[全网超50亿围观！MBTI为什么没有涨粉千万的“陶白白”？](https://app.yinxiang.com/shard/s63/nl/13797828/8c60c70c-a10a-4bff-a03e-14fa78bc6f66/) [[20220429]] 23:29。
+    - 总结：就像荣格所说：“人类可以被分成八种类型，但每个人都应该是一个例外。”Via[全网超50亿围观！MBTI为什么没有涨粉千万的“陶白白”？](https://app.yinxiang.com/shard/s63/nl/13797828/8c60c70c-a10a-4bff-a03e-14fa78bc6f66/) [[20220429]] 23:28^^Via[全网超50亿围观！MBTI为什么没有涨粉千万的“陶白白”？](https://app.yinxiang.com/shard/s63/nl/13797828/8c60c70c-a10a-4bff-a03e-14fa78bc6f66/) [[20220429]] 23:28
+- #[[传播]] 群体往往会臣服于刺激因素，不像个体具有掌控自身反射作用的克制性。😀😀😀😀 😀😀😀😀正如《乌合之众》中提到的，刺激群体想象力的并非事实本身，而是它们产生并且被人们注意的方式。Via[全网超50亿围观！MBTI为什么没有涨粉千万的“陶白白”？](https://app.yinxiang.com/shard/s63/nl/13797828/8c60c70c-a10a-4bff-a03e-14fa78bc6f66/) [[20220429]] 23:19Via[全网超50亿围观！MBTI为什么没有涨粉千万的“陶白白”？](https://app.yinxiang.com/shard/s63/nl/13797828/8c60c70c-a10a-4bff-a03e-14fa78bc6f66/) [[20220429]] 23:19
+- 另一方面，不像星座概念人人都可以迅速接受、快捷理解，MBTI复杂的人格划分和字母转换，很容易让不接触这一文化圈层的人感到迷惑。😀😀😀😀 😀😀😀😀一些圈内人刷的津津有味的梗和刻板印象合集，也很难让大家对星座印象一样，感到瞬间的记忆和共情。Via[全网超50亿围观！MBTI为什么没有涨粉千万的“陶白白”？](https://app.yinxiang.com/shard/s63/nl/13797828/8c60c70c-a10a-4bff-a03e-14fa78bc6f66/) [[20220429]] 23:12
 - 对于这几个字母的翻译说法比较多，下面这个是我认可的翻译方法
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FkkSqxOD_TT.png?alt=media&token=ab2c1b52-0484-48bd-a493-e90437124fa6)
 - 我属于INPT@评论:我和王博是一样的，和王庆懿完全相反，很有趣
@@ -11,4 +23,4 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FN228zLTlsC.png?alt=media&token=4e58fbd7-37e6-4160-9d0b-9ec2c60e4c95)
 - 我的测试结果@评论:好像和我的自我感觉有些出入
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FyDzEsMpQsC.jpg?alt=media&token=15d7f55e-c3b9-48fd-b7d5-e16e24d5983a)
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fm2erHBj5Z6.png?alt=media&token=71329f4e-4a2e-4204-90ab-7a534a2f0c08)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fm2erHBj5Z6.png?alt=media&token=71329f4e-4a2e-4204-90ab-7a534a2f0c0
