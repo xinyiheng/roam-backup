@@ -2,12 +2,13 @@
 - 对于这几个字母的翻译说法比较多，下面这个是我认可的翻译方法
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FkkSqxOD_TT.png?alt=media&token=ab2c1b52-0484-48bd-a493-e90437124fa6)
 - 我属于INPT@评论:我和王博是一样的，和王庆懿完全相反，很有趣
-    - 从人际关系的角度：内向
+    - 从人际关系的角度：内向 I
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F2L9JYH1U3E.png?alt=media&token=c00d430b-af12-45fb-b66c-3c1adfd59460)
-    - 从做判断的角度：思维和情感几乎不相上下。也正是因为如此，可能我才容易推迟决策
-    - 从接受信息的角度：明显属于直觉型
+    - 从做判断的角度：思维和情感几乎不相上下。也正是因为如此，可能我才容易推迟决策 T可以，F也可以
+    - 从接受信息的角度：明显属于直觉型 N
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FDQ3fFKLXpB.png?alt=media&token=5b9c4eeb-5ddc-42f7-be14-42dfd872c63d)
-    - 从做事风格来看，明显面向知觉型，即比较自由随意
+    - 从做事风格来看，明显面向知觉型，即比较自由随意  P
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FN228zLTlsC.png?alt=media&token=4e58fbd7-37e6-4160-9d0b-9ec2c60e4c95)
 - 我的测试结果@评论:好像和我的自我感觉有些出入
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FyDzEsMpQsC.jpg?alt=media&token=15d7f55e-c3b9-48fd-b7d5-e16e24d5983a)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fm2erHBj5Z6.png?alt=media&token=71329f4e-4a2e-4204-90ab-7a534a2f0c08)
