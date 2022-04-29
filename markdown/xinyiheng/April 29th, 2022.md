@@ -1,2 +1,4 @@
 - 工作流程比使用的工具还重要。为什么就是迟迟难以推出自己的工作流程版本呢？#[[知识管理]]
 - 并且，相对于爱蹦跶的雀形目鸟类来说，鸭类体型通常较大，行为也更为“稳重”，容易被我们所发现和观察。😀😀😀😀😀😀😀😀因此，在带领青少年儿童观鸟时，我们都喜欢从观鸭开始。😀😀😀😀😀😀😀😀那应该如何去观察鸭类呢？Via[五一不能出行？来这里看看鸭！](https://app.yinxiang.com/shard/s63/nl/13797828/534c3f79-20d0-4586-9b0d-246b4e3d97f9/) [[20220429]] 11:48
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FrV-au2EK6O.png?alt=media&token=dc56628d-8198-43b6-b77b-5aee1a6bf37e)
+- 

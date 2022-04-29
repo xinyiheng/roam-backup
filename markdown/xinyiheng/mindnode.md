@@ -18,7 +18,7 @@
         - 先在印象笔记中把要添加的笔记建立一个目录。
         - 目录默认是用数字排序的，可以在目录笔记中把数字改成圆点或者取消序号标记。
         - 把目录中的文件用鼠标拖到mindnode当中就可以了。
-    - mindnode如何与tab outliner联动？
+    - mindnode如何与[[tab outliner]]联动？
         - https://checkvist.com/cvt/50418695
     - 把[[diigo]]大纲文件转换成为mindnode大纲的方法
         - diigo大纲文件转换为mindnode思维导图的方法
