@@ -9,10 +9,10 @@
         - 因此我自己的解决方案是，对于轻量一些的场景，通过用户脚本+用户样式（user style）解决大部分浏览需求，重一些的场景则会选择浏览器扩展。
         - 用户脚本作为一个 17 年前的互联网老古董，现如今仍有自己的用武之地，还是十分令人感慨。但作为油猴使用指南的第一期，本文仅为增加大家对「油猴脚本」的一点了解，如果你想解锁用户脚本的全部实力、甚至自己动手制作用户脚本，还请留意本系列的后续内容更新。
     - [javascript](https://www.zhihu.com/search?type=content&q=javascript)学习
-        - Javascript 的优势是动态灵活，然而太灵活了，大型工程难以保证质量，这也是 Chrome 发布了内置 DartVM 的版本，尝试用 Dart 取代 JavaScript 的__原因__之一。__虽然__这个超前的尝试失败了，但也说明__ Google __并不看好 Javascript，至少 Dart 比它先进。__Google__ 内部很多项目(如内部广告系统)都采用 Dart 来生成 Web前端了。 Flutter 携 Dart 之先进性，开启了统一 App/PC/Web 的征途。试问谁还会在乎 Javascript 的前景呢？多端大统一是大__趋势__，Javascript 程序员应该积极拥抱这种__变化__。
-        - __如果__只能推荐一本 __JavaScript__ 的书，推荐《The Modern JavaScript Tutorial》，中文名《现代 JavaScript 教程》。
+        - Javascript 的优势是动态灵活，然而太灵活了，大型工程难以保证质量，这也是 Chrome 发布了内置 DartVM 的版本，尝试用 Dart 取代 JavaScript 的原因之一。虽然这个超前的尝试失败了，但也说明Google并不看好 Javascript，至少 Dart 比它先进。Google内部很多项目(如内部广告系统)都采用 Dart 来生成 Web前端了。 Flutter 携 Dart 之先进性，开启了统一 App/PC/Web 的征途。试问谁还会在乎 Javascript 的前景呢？多端大统一是大趋势，Javascript 程序员应该积极拥抱这种变化。
+        - 如果只能推荐一本JavaScript的书，推荐《The Modern JavaScript Tutorial》，中文名《现代 JavaScript 教程》。
         - 这个教程是 [React 官方文档中与 MDN 并列推荐](https://link.zhihu.com/?target=https%3A//zh-hans.reactjs.org/docs/getting-started.html%23javascript-resources)的 JavaScript __学习__教程。
-        - **这个教程主要分为三个部分：** **入门：**主要为 JavaScript 语言方面的内容，包括__数据__类型，循环，对象，闭包，Class，原型，继承，Promise，ES Module 等基础__知识__。**提升：**包括 BOM 和 BOM 的相关内容。**进阶：**包括__网络__请求，Web Components，正则，动画，浏览器缓存等相关内容。
+            - **这个教程主要分为三个部分：** **入门：**主要为 JavaScript 语言方面的内容，包括__数据__类型，循环，对象，闭包，Class，原型，继承，Promise，ES Module 等基础__知识__。**提升：**包括 BOM 和 BOM 的相关内容。**进阶：**包括__网络__请求，Web Components，正则，动画，浏览器缓存等相关内容。
         - 这个过程中，你会发现网页特效如banner焦点图切换，点击下拉再点击又关闭等效果以及字符串的检测等功能都可以在网上搜到很多现成的代码可以用，于是你就会觉的不亦乐乎，前端可以如此简单。
 - [[可视化]]library
     - [[d3.js]]
@@ -63,3 +63,14 @@ Object是一种对象类型。在JavaScript中有一句话“万物皆对象”�
     - {{[[video]]: https://youtu.be/EfAl9bwzVZk}}
     - Want to learn JavaScript in 2021 ?
 Here's a Roadmap for youVia[(3) Nirbhay Vashisht 在 Twitter: "Want to learn JavaScript in 2021 ? Here's a Roadmap for you🧵👇" / Twitter](https://twitter.com/nirbhayvashisht/status/1346332985369378817)[[20210105]] 下午2:35
+    - javascript
+        - [jQuery之家-自由分享jQuery、html5、css3的插件库](http://www.htmleaf.com/)
+        - [jQuery插件库-收集最全最新最好的jQuery插件](https://www.jq22.com/)
+        - [Bootstrap中文网](https://www.bootcss.com/)
+        - [Bootstrap v3 中文文档 · Bootstrap 是最受欢迎的 HTML、CSS 和 JavaScript 框架，用于开发响应式布局、移动设备优先的 WEB 项目。 | Bootstrap 中文网](https://v3.bootcss.com/)
+        - [Examples - Apache ECharts](https://echarts.apache.org/examples/zh/index.html#chart-type-line)
+            - [现代 JavaScript 教程](https://zh.javascript.info/)
+                - [Importing data from theBrain into DT - DEVONthink - DEVONtechnologies Community](https://discourse.devontechnologies.com/t/importing-data-from-thebrain-into-dt/57007/31) #[[软件联动]]
+                - [Export TheBrain to Obsidian, a small script - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/export-thebrain-to-obsidian-a-small-script/6641/3) #[[软件联动]]
+                - [JavaScript 库 | 菜鸟教程](https://www.runoob.com/js/js-libraries.html)
+                - [jQuery 教程 | 菜鸟教程](https://www.runoob.com/jquery/jquery-tutorial.html)

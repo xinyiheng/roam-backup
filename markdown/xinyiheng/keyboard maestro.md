@@ -76,3 +76,11 @@ via[Regular Expressions -Keyboard Maestro Wik](https://wiki.keyboardmaestro.com/
 -via[如何用语音控制电脑 - 少数派](https://sspai.com/post/45630)
     - Automator 简单介绍及入门玩法 | Matrix 精选
 -via[Automator 简单介绍及入门玩法 | Matrix 精选 - 少数派](https://sspai.com/post/36667)
+    - keyboard maestro
+        - [keyboard maestro - Google 搜索](https://www.google.com/search?q=keyboard+maestro&sxsrf=AOaemvJJ4ewVQPfHRjfVj2QrvDgGsX9zYQ:1630316034667&source=lnms&tbm=vid&sa=X&ved=2ahUKEwi_ofjAuNjyAhWTHTQIHfl3DrEQ_AUoAnoECAIQBA)
+        - [Keyboard Maestro 9.2: Work Faster with Macros for macOS](https://www.keyboardmaestro.com/main/#Pricing)
+        - [Latest Tips & Tutorials topics - Keyboard Maestro Discourse](https://forum.keyboardmaestro.com/c/tips/14)
+        - [MacSparky](https://www.macsparky.com/)
+        - [Home Page [Keyboard Maestro Wiki](https://wiki.keyboardmaestro.com/doku.php)
+        - [manual:Features [Keyboard Maestro Wiki](https://wiki.keyboardmaestro.com/manual/Features)
+        - [User Manual [Keyboard Maestro Wiki](https://wiki.keyboardmaestro.com/User_Manual)
