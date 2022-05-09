@@ -1,5 +1,5 @@
 - Main Component
-    - ```clojure
+    - ```javascript
 (ns excalidraw.app.mvp.v07
   (:require 
    [clojure.set :as s]
