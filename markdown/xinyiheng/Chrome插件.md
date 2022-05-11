@@ -39,7 +39,6 @@
             - [[web historian edu]]
                 - [[可视化]]的程度超过了我的想象。高频浏览网址的圆点图等等
             - [[my map]]
-                - 
             - [[historian]]
             - [[graphitabs]]
 - [[阅读批注]]
