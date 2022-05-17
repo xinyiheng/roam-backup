@@ -22,6 +22,20 @@ return fetch("https://www.poemist.com/api/v1/randompoems")
 }).catch(e => e)
 ```%>
         - <%JAVASCRIPT: return document.poemData[0].content%>
+- https://roamjs.com/extensions/smartblocks
+- #SmartBlock Excalidraw
+    - <%JA: ```javascript
+const room = Array.from(window.crypto.getRandomValues(new Uint8Array(10))).map((byte) => `0${byte.toString(16)}`.slice(-2)).join("");
+const key = (await window.crypto.subtle.exportKey("jwk",await window.crypto.subtle.generateKey({name:"AES-GCM",length:128},true,["encrypt", "decrypt"]))).k;
+return `{{iframe: https://excalidraw.com/#room=${room},${key}}}`;```%>
+    - <%CURSOR%>
+- #SmartBlock Excalidraw
+    - Description
+        - This smartblock will insert an iframe pointing to a unique Excalidraw collaboration room instance. This room is encrypted with a 128 bit AES-GCM key. Your drawing will be stored in an encrypted form on https://excalidraw.com 's servers. Currently Excalidraw will store your drawing indefinitely, but it is a good practice for important drawings to export the image and to store the file as well.
+        - If you want to collaborate with others on the drawing, you can invite them by clicking the green collaboration icon and sharing the collaboration link with others. If you click Stop Session in the collaboration window, further changes to your drawing will no longer be saved, however those that have the link will continue to have access to the collaboration room. 
+        - If you want to edit in full screen mode, simply copy the collaboration link, and open excalidraw in an new browser tab using the link.
+        - If you see the number of collaborators increase, this is most likely a fantom effect. Close your excalidraw browser windows, navigate away from the page in Roam and back, and the number of collaborators should reset to 1.
+        - If you like this script consider supporting me on https://ko-fi/zsolt
 - #SmartBlock YouTube TimeStamp
     - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
     - <%IFTRUE:"<%GET:varYTbut%>" == "y"%><%JAVASCRIPT:
