@@ -1,0 +1,6 @@
+- Author:: [[chrome.google.com]]
+- Full Title:: Save to Pocket
+- Category:: #articles
+- URL:: https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj
+- ### Highlights first synced by #Readwise [[May 17th, 2022]]
+    - y to capture articles,
