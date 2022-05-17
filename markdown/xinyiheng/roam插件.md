@@ -285,6 +285,16 @@ if (!existing) {
   s.async = false;
   document.getElementsByTagName('head')[0].appendChild(s);  
 }```
+    - excalidraw
+        - {{[[roam/js]]}}
+            - ```javascript
+{
+  let s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.src = ' https://roam-excalidraw.vercel.app/dist/loader.js';
+  s.async = false;
+  document.getElementsByTagName('head')[0].appendChild(s);  
+}```
     - 在roam research中实现类似anki的间隔记忆
         - [[roam/sr]]
     - masonry-vanilla @评论:数字花园
