@@ -1,5 +1,7 @@
+- Index
+    - query
 - Format
-    - [[QUE]] - {content}
+    - 问题 - {content}
 - Shortcut
     - Q
 - Template

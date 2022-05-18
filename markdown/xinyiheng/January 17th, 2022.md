@@ -16,8 +16,8 @@
     - [[实体标注]]@评论:是否可以将这个技术和[[笔记]]融合起来？#[[交互体验]]
     - [[Writemapper]]好像作为思维导图工具更直观，或许可以作为一种[[笔记]]工具
     - {{[[query]]: {and:[[可视化]] [[笔记]]}}}if (e.which==hotkey)😀😀Via[JS 增加元素属性 - Google 搜索](https://www.google.com/search?q=JS+%E5%A2%9E%E5%8A%A0%E5%85%83%E7%B4%A0%E5%B1%9E%E6%80%A7&oq=JS+%E5%A2%9E%E5%8A%A0%E5%85%83%E7%B4%A0%E5%B1%9E%E6%80%A7&aqs=chrome..69i57.13688j0j1&sourceid=chrome&ie=UTF-8) [[20210910]] 下午12:24
-    - {{[[query]]: {and:{and:[[笔记]] [[问题]]}}}}
-    - {{[[TODO]]}}怎样充分整理自己的阅读[[笔记]]？#[[问题]]
+    - {{[[query]]: {and:{and:[[笔记]] 问题}}}}
+    - {{[[TODO]]}}怎样充分整理自己的阅读[[笔记]]？#问题
     - #[[笔记]]
     - 为什么要做[[笔记]]？
 - 新的实验
@@ -107,12 +107,12 @@ Stretches its soft and shady wings.
     - [[TODO]]
     - {{[[TODO]]}} 19年の新エネ車の乗用車の販売台数は前年比4%増の110万台。BYDは3.9%減の22万台に落ち込んだが、国内シェアは20%を維持した。 [nikkei.com](https://www.nikkei.com/article/DGXMZO55846060Z10C20A2XR1000)
     - {{[[TODO]]}} 阅读豆瓣上关于日本的书籍的书评，也是了解读者心理的直观方法，我之前为什么就没有想到这个方法呢？
-    - {{[[TODO]]}} 整合经常浏览的各大网站对于我感兴趣的事件的标签#[[问题]]
+    - {{[[TODO]]}} 整合经常浏览的各大网站对于我感兴趣的事件的标签#问题
     - {{[[TODO]]}} This is a todo
     - {{[[TODO]]}} This is a todo
     - {{[[TODO]]}} This is a todo
     - {{[[TODO]]}} update the Telegram API key above
-    - {{[[TODO]]}}电脑本地文件[[全文搜索]]#[[问题]] @评论:spotlight就可以，不过，我真正想要搜索的内容都用devonthink来搜索了。
+    - {{[[TODO]]}}电脑本地文件[[全文搜索]]#问题 @评论:spotlight就可以，不过，我真正想要搜索的内容都用devonthink来搜索了。
 - block
     - [[稍后阅读]]
     - [[checkvist]]可能也是一个比较好的整理[[稍后阅读]]信息的方式。

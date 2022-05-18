@@ -7,8 +7,8 @@
         - PLAYGROUNDVia[Playground | Discourse Graph](https://roamjs.com/extensions/discourse-graph/playground) [[20210826]] 上午9:39
     - 这是开发者的twitterhttps://twitter.com/JoelChan86
 - 使用query来体系化整理自己的笔记
-    - {{[[query]]: {and:{and:[[笔记]] [[问题]]}}}}
-- {{[[DONE]]}}如何把roam research中的笔记二次加工，比如做成概念图，带着链接。#[[问题]]#[[DONE]]
+    - {{[[query]]: {and:{and:[[笔记]] 问题}}}}
+- {{[[DONE]]}}如何把roam research中的笔记二次加工，比如做成概念图，带着链接。#问题#[[DONE]]
     - 可以使用roam的diagram这个组件。
     - 如何在roam research中模拟[[heptabase]]的使用？#[[洞见]]
 - {{[[query]]: {and:[[插件]] {or:[[视频]]}}}}

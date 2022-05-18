@@ -9,7 +9,7 @@
 - [[roam research]]返回上一个page的#[[快捷方式]]cmd+[，以前总是没有找到。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FVNTcNDtwpz.png?alt=media&token=6bc56570-87be-48e2-9476-8e08891b2040)
 - 阅读[[Devonthink]]的使用文件
-- #[[问题]]{{[[TODO]]}}最近比较关注不同文件之间的格式转换，因为我使用的工具太多了，希望在不同的软件之间共享数据。
+- #问题{{[[TODO]]}}最近比较关注不同文件之间的格式转换，因为我使用的工具太多了，希望在不同的软件之间共享数据。
 - {{POMO:25}}
 - {{POMO:25}}
 - devonthink的一些applescript脚本

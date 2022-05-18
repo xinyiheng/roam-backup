@@ -76,5 +76,5 @@ via[图灵奖 - Wikiwand](https://www.wikiwand.com/zh-hans/%E5%9B%BE%E7%81%B5%E5
 - 新系统的shell已经更换为zsh，老系统使用的是bash风格，请用此 `chsh -s /bin/zsh` 命令切换。
 via[The default interactive shell is now zsh. - 知乎](https://zhuanlan.zhihu.com/p/86248456)
 [[20201214]] 下午11:12
-- #[[问题]]
+- #问题
     - {{[[DONE]]}}把想要高亮的词汇用chrom插件标出来@评论:已经解决了，[[highlight this]]这款插件就可以

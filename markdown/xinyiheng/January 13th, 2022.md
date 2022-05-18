@@ -6,7 +6,7 @@
         - [简单统计学 ](https://read.douban.com/ebook/56464317/?dcs=subject-rec&dcm=douban&dct=27192209)
         - [统计学七支柱 (豆瓣)](https://book.douban.com/subject/30134619/)
         - [统计思维 (豆瓣)](https://book.douban.com/subject/27192209/)
-    - 如果我想进行主题阅读，书单我应该保存在哪里呢？#[[问题]]#[[DONE]]
+    - 如果我想进行主题阅读，书单我应该保存在哪里呢？#问题#[[DONE]]
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FAO4kH-ihF?alt=media&token=9bc88fb4-e5f5-468c-9366-082282690dd1)
         - 豆瓣
         - roam research

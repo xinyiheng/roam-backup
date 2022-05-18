@@ -1,5 +1,7 @@
 - preview
+- hide page metadata
 - grammar
+    - preview
     - nodes
     - relations
         - Informs
