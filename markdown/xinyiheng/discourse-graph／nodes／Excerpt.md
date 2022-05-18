@@ -1,0 +1,5 @@
+- Format
+    - [[EXC]] - {content}
+- Shortcut
+    - X
+- Template

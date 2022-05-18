@@ -1,0 +1,5 @@
+- Format
+    - [[QUE]] - {content}
+- Shortcut
+    - Q
+- Template

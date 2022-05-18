@@ -249,6 +249,33 @@ if (!existing) {
   document.getElementsByTagName("head")[0].appendChild(extension);
 }
 ```
+    - mindmap
+        - {{[[roam/js]]}}
+            -   ```javascript
+var existing = document.getElementById("roamjs-mindmap");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/mindmap.js";
+  extension.id = "roamjs-mindmap";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}
+```
+  ```
+    - 选择多行
+        - {{[[roam/js]]}}
+            - ```javascript
+var existing = document.getElementById("roamjs-multi-select");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/multi-select.js";
+  extension.id = "roamjs-multi-select";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}
+```
 - 还有一些独立开发者基于[[roam/js]]开发的插件
     - 卡片写作@评论:吕立青开发的js，我喜欢的主题。
         - {{[[roam/js]]}}
@@ -288,8 +315,7 @@ if (!existing) {
     - excalidraw
         - {{[[roam/js]]}}
             - ```javascript
-{
-  let s = document.createElement('script');
+{let s = document.createElement('script');
   s.type = 'text/javascript';
   s.src = 'https://roam-excalidraw.vercel.app/dist/loader.js';
   s.async = false;
