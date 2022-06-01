@@ -1,5 +1,5 @@
 - [[roam/sr/review]]
-    - 以解决^^实际问题^^为导向#[[sr]] #f
+    - 以解决^^实际问题^^为导向
 - 背景图片
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FAEgKzCmePz.jpeg?alt=media&token=1604225f-9a7c-4a7c-ba2d-3a936faeab6a)
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FNEqteuKXNg.jpg?alt=media&token=cccd33f3-6911-4f2c-9f3c-2421bd6fa07c)

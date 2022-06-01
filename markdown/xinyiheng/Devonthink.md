@@ -10,6 +10,10 @@ via[从 Evernote 到 DEVONthink - 少数派](https://sspai.com/post/44648)
 via[从 Evernote 到 DEVONthink - 少数派](https://sspai.com/post/44648)
 [[20201220]] 上午7:46
 - devonthink的使用总算是入门了。
+- [DEVONthink Pro Office，文件管理爱好者的福音（一） - 少数派](https://www.diigo.com/outliner/diigo_items/1060283/12128769/485180111)
+    - DEVONthink 的文件都在数据库里，并且只能由 DT 这个软件自身为入口去取用文件。少数情况下，因为没有 DT，即使有同步到坚果云，文件还是不可用。这个是我说的通用性的意思。GM 上面说的其实挺好，DT 的使用最好有个 主题，仅仅看作高级版 Finder 可能不是很适用。
+    - DEVONthink Pro Office 本身就是一个文件管理器，升级版的 Finder，他对文件管理的组织性更加灵活，以我的观念来看，使用 DEVONthink Pro Office 最好有个「主题」，比如「外汇交易」，使用 DEVONthink Pro Office 把「外汇交易」相关的文本、知识、材料、PDF、数据、网页等等全部集合在一起，方便我们进一步学习和创作，如果没有相关的主题，那么整理文件就是整理文件而已。
+    - 这其实就是通用性和功能性之间的矛盾，DT这类数据管理App是用所谓的「库文件」来实现数据管理，用户需要做的事情就是把数据放进去，进行各种数据相关操作的时候不需要考虑实际数据存储的结构，只需要做想做的事情就好了。这就把功能性和实际的文件数据结构之间独立开来了，用户只需要知道数据都在库文件里，需要的时候用DEVONthink这个入口进行访问，并不需要关心实际库文件里面复杂的数据标签关联的结构。当然这就带来了你提到的通用性问题，但是我认为这些文件数据重要的是你对它们进行的分类整理和其之间的各种关联关系，从这个角度来看，把各种文件和其分类整理和关联结构整体打包成一个库文件是更便利和方便的数据管理方式。同理，像照片App和iOS上的一些PDF阅读App（比如MarginNote和LiquidText）也是这样的库文件的使用方式。
 - 对标两个软件：
     - 印象笔记
     - mac中的finder
@@ -36,3 +40,4 @@ via[从 Evernote 到 DEVONthink - 少数派](https://sspai.com/post/44648)
 - 重大缺陷
     - 所有保存在其中的电子书都是封装在一个devonthink的database里面的，即使同步windows电脑上，由于没有windows没有这个软件，无法打开查阅其中的内容。
     - ipad端做得也不好，这让devonthink只能够在mac电脑上使用。
+    - 即使在不同的mac电脑之间，无法通过icloud之类的云同步工具来同步database。我目前的解决方案就是买了一个大容量的u盘，随身带着这个u盘。

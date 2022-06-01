@@ -302,25 +302,6 @@ if (!existing) {
 }
 ```
     - 实验@评论:我自己学习js的时候尝试在roam中看看效果，目前并没有维护
-    - [Roam-Excalidraw Plugin MVP Release](https://www.zsolt.blog/2021/03/roam-excalidraw-plugin-mvp-release.html) [[20210319]] 下午8:42 @评论:这是一款可以绘制类似whiteboard的插件
-        - {{[[roam/js]]}}
-            - ```javascript
-{
-  let s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.src = 'https://www.roam-excalidraw.com/dist/loader.js';
-  s.async = false;
-  document.getElementsByTagName('head')[0].appendChild(s);  
-}```
-    - excalidraw
-        - {{[[roam/js]]}}
-            - ```javascript
-{let s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.src = 'https://roam-excalidraw.vercel.app/dist/loader.js';
-  s.async = false;
-  document.getElementsByTagName('head')[0].appendChild(s);  
-}```
     - 在roam research中实现类似anki的间隔记忆
         - [[roam/sr]]
     - masonry-vanilla @评论:数字花园
@@ -355,6 +336,10 @@ var mms = document.createElement("script");
 mms.type = "text/javascript";
 mms.src = "https://gitmurf.github.io/masonry-vanilla/JS/matuschakModeSizer.js";
 document.getElementsByTagName("head")[0].appendChild(mms);```
+    - excalidraw
+        - [[roam/excalidraw]]
+        - 来源：https://roamresearch.com/#/app/Zsolt-Blog/page/6uptQqZEV  
+        - @评论:还有一个版本，我用着无效。[Roam-Excalidraw Plugin MVP Release](https://www.zsolt.blog/2021/03/roam-excalidraw-plugin-mvp-release.html) 之前画的图都失效了。
     - telegroam  @评论:从telegram中直接发信息同步到roam research
         - {{[[roam/js]]}}
             - ```javascript

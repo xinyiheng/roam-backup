@@ -1,4 +1,4 @@
-- Author:: [[尹晓琳]]
+- Author:: 尹晓琳
 - Full Title:: 对话单伟建：3000亿超级pe的掌舵者，如何通关金钱游戏？
 - Category:: #articles
 - Document Tags:: #[[inoreader]] #[[财经报道]]

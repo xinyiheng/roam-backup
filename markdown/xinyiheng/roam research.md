@@ -196,7 +196,7 @@ via[Matrix 圆桌 | 网状结构笔记工具是一阵风吗？ - 少数派](http
 [[20201213]] 上午7:52
         - Automatic RoamResearch backupVia[MatthieuBizien/roam-to-git: Automatic RoamResearch backup to Git](https://github.com/MatthieuBizien/roam-to-git) [[20211230]] 下午10:52
     - 如何用roam research看中观图景？
-        - 其实我用obsidian就可以实现查看中观图景，因为obsidian的graph图呈现方式比roam research要好得多。好像王树义老师的方法也就是通过obsidian来优化的。最后好像也是通过[[github]]来同步。我目前的方法只能实现从roam research到obsidian的单项同步，如果能够实现双向同步就完美了。以下方法也只能实现单项同步，目前来看，我自己想到的把roam research和[[Obsidian]]联动起来的方法最好。[[软件联动]]
+        - 其实我用obsidian就可以实现查看中观图景，因为obsidian的graph图呈现方式比roam research要好得多。好像[[王树义]]老师的方法也就是通过obsidian来优化的。最后好像也是通过[[github]]来同步。我目前的方法只能实现从roam research到obsidian的单项同步，如果能够实现双向同步就完美了。以下方法也只能实现单项同步，目前来看，我自己想到的把roam research和[[Obsidian]]联动起来的方法最好。[[软件联动]]
             - 在生活中，你用过导航吧？你如果想到一个 10 公里左右的目的地，导航会给你展示什么样的信息呢？世界地图？还是周围 5 米的区域？
 都不是，应该先是一个从当前位置到目的地的概况图，之后给你展示清楚道路、红绿灯之类的动态视域。这就是合适的中观图。
 你卡片足够多时， Roam Research 却偏偏还只给你展示全局链接图，这便本文开头我遇到的困境。
@@ -217,7 +217,7 @@ via[Matrix 圆桌 | 网状结构笔记工具是一阵风吗？ - 少数派](http
 
 如果你熟悉前端，并且对这个功能比较感兴趣，欢迎进一步做个二次开发，让更多用户可以拿来即用。之前有不少小伙伴儿这么做了。例如最近，吕立青就把我之前做的 Roam Research 图片增量备份工具，集成到了 Roam to git 脚本里面，使得你可以完全用 Github 自动备份文字和图片内容，大伙儿用起来更加方便了。
 via[如何交互可视化 Roam Research 局部笔记网络？ - 少数派](https://sspai.com/post/61864)
-[[20201213]] 上午8:05@评论:王树义老师这个我一直没有使用，这个python的版本还是比较粗糙。
+[[20201213]] 上午8:05@评论:[[王树义]]老师这个我一直没有使用，这个python的版本还是比较粗糙。
     - 怎么修改roam research导出的文件的格式？
         - https://roam-tools.ryanguill.com/?这个网站可以实现一些修改。
     - telegram发送内容到roam reseaerch。[[Telegram Bot]]

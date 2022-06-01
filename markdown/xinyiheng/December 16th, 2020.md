@@ -21,7 +21,7 @@ via[轻芒小程序+](https://qingmang.me/)
 via[A Text Renaissance](https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/)
 [[20201216]] 下午1:44
 - #[[读书笔记]]
-    - 经营战略全史
+    - 经营战略全史 #[[微信读书]]
 via[经营战略全史-三谷宏治-微信读书](https://weread.qq.com/web/reader/0af320005c43930af173574kc81322c012c81e728d9d180)
 [[20201216]] 下午12:00
     - 中国古建筑知识一点通

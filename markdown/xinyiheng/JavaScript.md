@@ -1,4 +1,5 @@
 - roam之类的网页应用很多互动效果是通过javascript实现的。能够支持javascrpt的笔记工具应该可以实现更多的互动性。
+-  Marginnote3.6.7推出插件系统后，不仅官方可以在不影响主程序的基础上为用户定制功能，懂javascript的用户也可以自由发挥，编写自己的独属插件。这会给应用带来更多的可能性，anki丰富的插件生态就是一个很好的例子。  [bbs.marginnote.cn](https://bbs.marginnote.cn/t/topic/6246/1)
 - javascript
     - [油猴使用指南 01：传说中的「油猴」与用户脚本 - 少数派](https://sspai.com/post/68574)
         - 用户脚本其实是一种注入式的 JavaScript 程序，在网页本身的程序之外，通过一些手段，将用户需要的数据和逻辑注入到当前的网页中，达到修改界面、增加功能等等的目的。

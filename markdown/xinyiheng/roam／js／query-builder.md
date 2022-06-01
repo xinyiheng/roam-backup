@@ -2,3 +2,4 @@
     - queries/*
 - Query Pages
     - queries/*
+- Native Queries

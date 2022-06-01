@@ -16,7 +16,7 @@ marginnote3app://note/FE5C8C0D-5990-497C-8E21-7909FFEB085D
 - 学习如何[[学习]]
 via[产品沉思录（精选） ProductThinking](https://index.pmthinking.com/ProductThinking-a601a12335044f349a22caf57f274c27?p=4d92410d370849c1be0bde496b6d60bb)
 [[20201211]] 下午3:04
-- 花园与溪流的隐喻#[[信息处理]]
+- 花园与溪流的隐喻#[[知识管理]]
 via[花园与溪流的隐喻](https://index.pmthinking.com/effa3aa294af4d07ac279e74aec69602)
 [[20201211]] 下午3:34
     - **解法**：**从 "溪流 " → "花园"**

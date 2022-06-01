@@ -6,7 +6,7 @@
     - 我对这种同一种内容可以用多种模式显示的感觉十分着迷
 - notion也可以看作一个无限层级的软件。page里面套page，就像是[[Tinderbox]]，我追求的很多使用体验每款软件其实都差不多可以找到类似的替代方案，只不过有的界面更好一点，使用的感觉也更好一点，这样，就容易把使用体验好的软件当作使用某种体验的首选入口。
 - 模块支持的类型超过了我的想象，可以添加文件和网页，视频以及很多软件类型文件
-- notion是一款我作为[[信息输出]]的展示窗口。可以很好地展示一些结构化的知识体系，不像roam research有那么多私人化的东西，并且呈现方式也并不是很整齐美观。
+- notion是一款我作为[[知识输出]]的展示窗口。可以很好地展示一些结构化的知识体系，不像roam research有那么多私人化的东西，并且呈现方式也并不是很整齐美观。
 - 目前支持[[双向链接]]但是好像只能到page级别，不支持block链接，但是有一个插件可以实现block引用的效果。不过，操作比较复杂，并且这种引用的block也没有特殊标识，难以识别。插件名称是[[notion global block]]
 - HTTISHERE Notion WidgetsVia[httishere widgets](https://httishere.github.io/widgets-site/#/) [[20220117]] 上午9:46 @评论:notion组建，非常漂亮。
 - Notion组件库｜更新：支持暗黑模式｜组件库获取方法Via[Notion组件库｜更新：支持暗黑模式｜组件库获取方法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fP4y1E7s6) [[20220117]] 上午9:46
@@ -49,11 +49,6 @@ via[Super — From Notion to Website in minutes](https://super.so/)
             - 效果：完美保留了diigo中的层级结构以及原始链接的可用性和美观
     - notion也有可以支持[[JavaScript]]和[[python]]的插件！！！
         - Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面Via[Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av90931560/?spm_id_from=trigger_reload) 下午10:53
-- #[[效率博主]]
-    - [[August Bradley]]这个youtube上的频道介绍了很多使用notion作为生产力工具的做法，提供了很多模板。https://www.youtube.com/user/augustbradley
-    - 以[[计算机科学]]的思维来设计自己的[[时间管理]]的做法让我有些惊讶，虽然我在设计自己的[[life wiki]]的时候也多少参考了系统的理念。
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FJG5HaQAK36.png?alt=media&token=2feb9a31-53d0-40e8-a250-d0f7772003b8)
-        - 这个表中的[[Dashboard]]如果在notion中能做的更好看些就好了
 - #[[参考资料]]
     - Notion • theBlockVia[Notion • theBlock - 少数派](https://sspai.com/column/312) [[20220106]] 上午8:53
     - [177_bilibili的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/152842171?spm_id_from=333.788.b_765f7570696e666f.2) [[20210126]] 上午8:50@评论:这个up主对notion很有研究。

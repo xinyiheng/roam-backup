@@ -76,7 +76,7 @@ via[Python创建虚拟环境 - shyern - 博客园](https://www.cnblogs.com/shyer
 -via[JupyterLab:程序员的笔记本 - 少数派](https://sspai.com/post/53308)
         - 这个世界上，就没有哪件东西大家都说好。但口碑非常好的教材是存在的，例如这本起了个怪名字的《笨办法学Python》(Learn Python the Hard Way)。
 -via[如何高效学 Python？ - 少数派](https://sspai.com/post/53500)
-        - 我根据王树义老师的推荐，下载了一本书，收藏了一门MOOC课程，还有一本中文版的《笨办法学python3》
+        - 我根据[[王树义]]老师的推荐，下载了一本书，收藏了一门MOOC课程，还有一本中文版的《笨办法学python3》
             - 笨办法学Python3
 -via[笨办法学Python3（Learn Python3 The Hard Way 中文版） - 《笨办法学Python3（Learn Python3 The Hard Way 中文版）》 - 书栈网 · BookStack](https://www.bookstack.cn/read/LearnPython3TheHardWay/spilt.1.learn-py3.md)
             - Programming for Everybody
@@ -89,7 +89,7 @@ via[Python Cookbook 3rd Edition Documentation — python3-cookbook 3.0.0 文档]
         - Python 教程
 via[Python 教程 — Python 3.9.1 文档](https://docs.python.org/zh-cn/3/tutorial/)
 [[20201217]] 上午9:07
-    - 王树义老师自己做的python学习文档
+    - [[王树义]]老师自己做的python学习文档
         - 如何高效入门[[数据科学]]？
 
 via[文科生数据科学上手指南](https://bookdown.org/wshuyi/dive-into-data-science-practically/chap-intro.html#dive-into-data-science-effectively)
