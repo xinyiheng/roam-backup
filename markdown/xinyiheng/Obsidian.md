@@ -1,4 +1,4 @@
-- 通过john分享的各种快捷设置，可以把obsidian和the brian关联起来了，非常棒。#[[自动化]]#[[软件联动]]
+- 通过john分享的各种快捷设置，可以把obsidian和the brain关联起来了，非常棒。#[[自动化]]#[[软件联动]]
 - 一个新的主题，可以用卡片的形式展示笔记，我还没时间折腾。
     - Via[kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) [[20220114]] 下午10:59
 - 改变graph节点的颜色原来很简单。
@@ -15,7 +15,6 @@
     - <h2>Zettelkasten 本质上是一种渐进式总结方法</h2>
     - 我还是决定用卡片法来写作
 - obsidian提供了从其他工具[迁移过来的方法](https://forum.obsidian.md/t/meta-migration-workflows/15252)
-- [obsidian插件.kdb](hook://file/2HeTJykrl?p=Y29tfmFwcGxlfkNsb3VkRG9jcy9Lbm93bGVkZ2UgZGF0YWJhc2UgYnVpbGRlcg==&n=obsidian%E6%8F%92%E4%BB%B6.kdb)
 - #[[快捷方式]]
     - 打开局部关系图：ctrl+g
     - 打开第三方插件中的mindmap：ctrl+r
@@ -25,6 +24,7 @@ via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/I
 [[20201231]] 下午12:11
     - 快速开始 Via[由此开始 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B) [[20220114]] 下午11:43 @评论:这个帮助文档做的太棒了。我的知识管理体系其实很大程度上就是要做成这样。#[[知识管理]] [[hongse]]
     - 让 Obsidian 更好用，这些社区插件值得试试Via[让 Obsidian 更好用，这些社区插件值得试试 - 少数派](https://sspai.com/post/66094) [[20220114]] 下午11:32
+        - [玩转 Obsidian 08：利用 Dataview 打造自动化 HomePage - 少数派](https://sspai.com/post/73958)@评论:这个插件我感觉就像是query
     - 我的 Obsidian 工作流：模板+QuickAdd+Dataview 快速创建和自动索引 - 少数派 (https://sspai.com/post/68350)
     - 少数派上的文章一览
         - https://sspai.com/search/post/obsidian

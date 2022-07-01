@@ -136,6 +136,14 @@ for (var i=0; i<info[0][0].children.length; i++) {
     }
   }
 }```%>
+- daily
+    - scheduled
+    - time
+        - 22:00
+    - latest
+        - 432a8159-868f-4a76-9319-f2972be0e3da
+    - latest
+        - 97a10766-ea13-4c4d-b88c-858f50ab3271
 - trigger
     - jj
 - publish

@@ -276,6 +276,19 @@ if (!existing) {
   document.getElementsByTagName("head")[0].appendChild(extension);
 }
 ```
+    - google calendar
+        - {{[[roam/js]]}}
+            - ```javascript
+var existing = document.getElementById("roamjs-google-calendar-main");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/google-calendar/main.js";
+  extension.id = "roamjs-google-calendar-main";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}
+```
 - 还有一些独立开发者基于[[roam/js]]开发的插件
     - 卡片写作@评论:吕立青开发的js，我喜欢的主题。
         - {{[[roam/js]]}}
