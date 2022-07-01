@@ -1,0 +1,2 @@
+- 职场懒人写作闭环「All Writing in Writeathon」Via[职场懒人写作闭环「All Writing in Writeathon」 - 少数派](https://sspai.com/post/73648)
+- [杨行密 ](brain://api.thebrain.com/g7PXu0IyM0ucARb24SvxiA/qh8jmVZTTkC8za5yUmyjAA/%E6%9D%A8%E8%A1%8C%E5%AF%86) [[20220701]] 17:22
