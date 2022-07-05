@@ -1,25 +1,4 @@
 - ```css
-/* 笔记不包含光标也没被选中时，应用卡片样式，背景变浅蓝色 */
-div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
-  background-color: #72DE7721;
-  border-radius: 10px;
-  margin: 10px 0 10px 0;
-  padding: 10px 0 10px 0;
-}
-/* 笔记中包含光标时，应用卡片样式，同时背景变为浅绿色*/
-div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
-div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
-  background-color: rgba(232,239,101,0.33);
-  border-radius: 10px;
-  margin: 10px 0 10px 0;
-  padding: 10px 0 10px 0;
-}
-/* 笔记处于行选中状态时，应用卡片样式，呈现默认蓝色高亮 */
-div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
-  border-radius: 10px;
-  margin: 10px 0 10px 0;
-  padding: 10px 0 10px 0;
-} */
 /* 解决block内部文字无法很接近右侧的问题 */
 .rm-block-separator {
     flex: 0 0 0px;
