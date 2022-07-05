@@ -1,2 +1,3 @@
 - 截图截视频，制作gif，还可以写在录屏的时候显示自己按过的键
 - https://cleanshot.com/
+- The Brain链接[☎️](brain://api.thebrain.com/g7PXu0IyM0ucARb24SvxiA/ueAjyS6g50GmaKH9fEC2Aw/CleanshotX)🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀[[hongse]]
