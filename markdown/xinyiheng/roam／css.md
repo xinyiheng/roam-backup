@@ -58,7 +58,7 @@ div {
     --right-sidebar-bg: #EA9C9C(247 248 249);
     --right-sidebar-drag-bg: #337ac6;
     --masonry-bg: #F2FCF321;
-    --masonry-scrollbar-bg: rgba(172,222,194,0.48);
+    --masonry-scrollbar-bg: rgba(49,227,127,0.48);
     --masonry-resizer-color: rgb(10,188,23);
     --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
     --masonry-minWidth: 440px;
@@ -595,14 +595,14 @@ span[data-link-title="Permanent Notes"]::after {
     - ```css
 
 /*To style an entire block, and all its child elements, we use:*/
-/*.roam-block-container[data-page-links*="红色"] {
-  background: #F3D0D9;
+/*.roam-block-container[data-page-links*="zise"] {
+  background: #D35CE8;
 }*/
 
 /*To style only the child elements but not the parent, add .rm-block-children to the end use:*/
 
-.roam-block-container[data-page-links*="颜色"] .rm-block-children {
-  background: #F3D0D9;
+.roam-block-container[data-page-links*="lanse"] .rm-block-children {
+  background: #66B0F5;
 }
 
 /*To style just the block itself but none of the child elements, add */
