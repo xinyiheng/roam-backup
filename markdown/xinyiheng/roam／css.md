@@ -14,8 +14,8 @@
 /* card-list-mode 卡片之间设置空隙 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
     background-color: #72DE7721;
-    border-radius: 10px;
-    margin: 10px 20px 10px 0;
+    border-radius:10px;
+    margin: 10px 200px 10px 0;
     padding: 10px 0 10px 0;
 }
 
@@ -372,7 +372,7 @@ span[data-link-title="Permanent Notes"]::after {
 - 彩虹条
     - ```css
 .rm-level-1 > .rm-multibar, .rm-level-19 > .rm-multibar, .rm-level-37 > .rm-multibar, .rm-inline-references > .rm-multibar {
-    border-right-color: var(--indent1) !important;
+    border-right-color: var(--indent1) !important;春日獭祭鱼，东风解冻，桃花灼灼，柳絮作雪飞；夏日熏风长，雷雨阵阵，梅子金黄，满架蔷薇一院香；秋日寒蝉鸣，白露降，晴空一鹤排云上；冬日万物蛰伏，备下红泥小火炉，温三杯两盏淡酒，等待风雪夜归人……Via[电子书《跟熊逸一起读唐诗》的笔记](https://app.yinxiang.com/shard/s63/nl/13797828/1ab997fc-8610-480b-8e66-c150b6635c85/)
     box-shadow: var(--box-shadow-values) var(--indent1) inset;
 }
 

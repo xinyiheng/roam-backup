@@ -1,5 +1,42 @@
-- 深色
-    - 卡片的颜色
-        - 仅有的一张卡片
-- 行距变大了
-- 好像
+- 今天晚上又在梳理历程。
+- 唐代官制，县长称为县令，县令手下有文职和武职两位副官，文职副官称为县丞，武职副官称为县尉。这都是官方的称谓，冷冰冰的，文人之间书信往还，通常要用雅称，县令、县丞、县尉的雅称分别是明府、赞府、少府。Via[电子书《跟熊逸一起读唐诗》的笔记](https://app.yinxiang.com/shard/s63/nl/13797828/1ab997fc-8610-480b-8e66-c150b6635c85/)[[20220705]] 
+- 为什么读诗？
+    - 诗歌是高效的场景构建器。春日獭祭鱼，东风解冻，桃花灼灼，柳絮作雪飞；夏日熏风长，雷雨阵阵，梅子金黄，满架蔷薇一院香；秋日寒蝉鸣，白露降，晴空一鹤排云上；冬日万物蛰伏，备下红泥小火炉，温三杯两盏淡酒，等待风雪夜归人……Via[电子书《跟熊逸一起读唐诗》的笔记](https://app.yinxiang.com/shard/s63/nl/13797828/1ab997fc-8610-480b-8e66-c150b6635c85/)熊逸的寥寥数语，就让读者在脑中生成了一幅幅画面。
+    - 我喜欢旅行，觉得懂点诗歌的旅行更酷。
+        - 旅行的意义到底是什么呢？至少有两点。
+第一点是摆脱旧环境带来的负面联想，因为在你受过伤的地方，一草一木都有可能让你触绪伤怀。
+第二点是帮你摆脱工具意识，因为在熟悉的场景里，你看到的一切或多或少都会工具化。
+        - 从美学角度定义俗气，就是人和现实生活拉不开距离，一切所想所做都是工具化的。诗的语言，一定要和日常语言泾渭分明。诗歌是语言的旅行。
+    - 诗歌是借助诗人的才思来书法古今相通的情感。
+        - 诗歌一旦成型，总会超越一时一事，拥有自己的生命，在无限的时空里寻找着每一朵孤独的火苗。Via[电子书《跟熊逸一起读唐诗》的笔记](https://app.yinxiang.com/shard/s63/nl/13797828/1ab997fc-8610-480b-8e66-c150b6635c85/)
+        - 诗歌之所以打动人心，是因为它最要调动的是人的形象思维。如果用抽象思维来说理，最多能够以理服人，很难让人感同身受，自然也很难让人产生共鸣。调用形象思维，最好的方式莫过于运用意象。Via[电子书《跟熊逸一起读唐诗》的笔记](https://app.yinxiang.com/shard/s63/nl/13797828/1ab997fc-8610-480b-8e66-c150b6635c85/)
+        - 有程序员用文本挖掘的方法分析了《全唐诗》四万八千九八多首唐诗，发现了其中充满了各种意象、颜色与四季。理性或许可以让我们更懂感性，但只有感性才能反过来指导我们如何利用理性。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FxD6IRFpGaa.png?alt=media&token=94d0e80e-d909-44f0-aa2e-2a41f8463ad2)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FGAB6NirO-P.png?alt=media&token=2acb2111-9f61-43ca-8211-6dee86e732f8)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FtHDEayVpiv.png?alt=media&token=50a61b9c-7d82-4a76-87c3-ae2ac4faea19)
+- 唐诗的一点小常识
+    - 律诗是唐朝的新兴文体，因为是新兴的，所以又称为近体诗或今体诗；相应地，人们把传统的、比较自由的诗歌写法称为古体诗。古体诗既不讲究章法，也不大在乎音调，只要大体上每一句的字数相同，每两句都押韵，就可以了。所以自由奔放的诗人爱写古体诗，比如李白；精雕细琢的诗人爱写近体诗，比如杜甫。Via[电子书《跟熊逸一起读唐诗》的笔记](https://app.yinxiang.com/shard/s63/nl/13797828/1ab997fc-8610-480b-8e66-c150b6635c85/)
+    - 七言律诗，简称七律。“七言”是指每句诗固定七个字；“律”指的是“格律”，也就是格式、法律的意思。律诗的“律”体现在两个方面，一是每句诗的结构安排是固定的，二是每个字的声调安排是固定的。如果有任何一个细节违反了这些硬性规定，就叫“出律”，也就是在诗歌世界里违法乱纪了。你可以把律诗当成诗歌里的八股文，其实律诗不但比八股文出现得早，还比八股文对形式的要求更严格。人们常说八股文束缚思想，但唐诗的独创性恰恰就表现在八股文一样的律诗里边。Via[电子书《跟熊逸一起读唐诗》的笔记](https://app.yinxiang.com/shard/s63/nl/13797828/1ab997fc-8610-480b-8e66-c150b6635c85/)
+    - 唐诗的声调需要一点音韵学的知识。有些今天读起来不押韵，但查一下记录唐朝声韵系统的《广韵》，就能发现其实是押韵的。
+    - 为什么读唐诗中的登高主题是一个不错的切入口？
+        - 之所以把登高主题放在第一位，是因为在唐代以前，诗坛的流行基调是由南北朝的宫廷文人们奠定的，称为“宫体诗”，一派矫揉造作的香艳味道。而有了登高这个意象，加上激昂、壮阔的写法，盛唐气象一下子就出来了，中国诗坛的萎靡、空洞被一扫而空。Via[电子书《跟熊逸一起读唐诗》的笔记](https://app.yinxiang.com/shard/s63/nl/13797828/1ab997fc-8610-480b-8e66-c150b6635c85/)
+        - 杜甫的《登高》被称为古今第一律诗的呼声很高。
+        - 《登高》不仅句式形成对仗，比如“无边落木萧萧下”和“不尽长江滚滚来”，而且每一句之内，不同的词语和意象也形成对仗，比如“风急天高猿啸哀”里的“风急”对“天高”，以及和这一句相对的“渚清沙白鸟飞回”里的“渚清”和“沙白”对仗。一组小对仗组成的单元和另一组小对仗的单元在一起形成了更大的一组对仗，这是只有古汉语才能达到的形式美，其他任何一种语言都望尘莫及。Via[电子书《跟熊逸一起读唐诗》的笔记](https://app.yinxiang.com/shard/s63/nl/13797828/1ab997fc-8610-480b-8e66-c150b6635c85/)
+- [[dida]]
+    - [夏天，去看草原最美的风景！](http://mp.weixin.qq.com/s?__biz=MjM5NTA0OTU4MA==&mid=2653024865&idx=1&sn=26d62343d1e60e63361607f1d0724e10&chksm=bd2b2b628a5ca274ecdd632bf35a359b746f5100450f6eb926de027d8b794ec44e64e7c178a7&mpshare=1&scene=1&srcid=0704GE7Ra0ETJB0QbzrtiTgc&sharer_sharetime=1656930312542&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86#rd) (All Day - All Day)
+    - [中国最美的峡谷，看山河共舞](http://mp.weixin.qq.com/s?__biz=MjM5NTA0OTU4MA==&mid=2653024811&idx=1&sn=c2e11023a9b44240828a59eb1250303a&chksm=bd2b2b288a5ca23ef763b632572674be77b1987c02850f1492bfa2cb561fae067e3e8538f6a9&mpshare=1&scene=1&srcid=0704iBQIaweREN5vBSzLTmu7&sharer_sharetime=1656887148598&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86#rd) (All Day - All Day)
+    - 2.:/ y复制打开抖音，看看【封面新闻的作品】3岁“召唤师”发O音能召唤成群蚊子？专家解读“蚊子... ёQu0vaLX6Ht8ΦΦ  (All Day - All Day)
+    - 4b:/ .复制打开抖音，看看【李永乐老师的作品】如何把硬币放在扑克牌的侧面？ ξOsvYWOnZz5Ht8д (All Day - All Day)
+    - 这些小昆虫不仅不认识，竟连名字都不会念(*/\*) - 每日头条 (All Day - All Day)
+    - 这些小昆虫不仅不认识，竟连名字都不会念(*/\*) - 每日头条 (All Day - All Day)
+    - Migration guide | Smartblocks (All Day - All Day)
+    - This river of rocks, moving like a fluid,  landsli (All Day - All Day)
+- [[dida]]
+    - [夏天，去看草原最美的风景！](http://mp.weixin.qq.com/s?__biz=MjM5NTA0OTU4MA==&mid=2653024865&idx=1&sn=26d62343d1e60e63361607f1d0724e10&chksm=bd2b2b628a5ca274ecdd632bf35a359b746f5100450f6eb926de027d8b794ec44e64e7c178a7&mpshare=1&scene=1&srcid=0704GE7Ra0ETJB0QbzrtiTgc&sharer_sharetime=1656930312542&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86#rd) (All Day - All Day)
+    - [中国最美的峡谷，看山河共舞](http://mp.weixin.qq.com/s?__biz=MjM5NTA0OTU4MA==&mid=2653024811&idx=1&sn=c2e11023a9b44240828a59eb1250303a&chksm=bd2b2b288a5ca23ef763b632572674be77b1987c02850f1492bfa2cb561fae067e3e8538f6a9&mpshare=1&scene=1&srcid=0704iBQIaweREN5vBSzLTmu7&sharer_sharetime=1656887148598&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86#rd) (All Day - All Day)
+    - 2.:/ y复制打开抖音，看看【封面新闻的作品】3岁“召唤师”发O音能召唤成群蚊子？专家解读“蚊子... ёQu0vaLX6Ht8ΦΦ  (All Day - All Day)
+    - 4b:/ .复制打开抖音，看看【李永乐老师的作品】如何把硬币放在扑克牌的侧面？ ξOsvYWOnZz5Ht8д (All Day - All Day)
+    - 这些小昆虫不仅不认识，竟连名字都不会念(*/\*) - 每日头条 (All Day - All Day)
+    - 这些小昆虫不仅不认识，竟连名字都不会念(*/\*) - 每日头条 (All Day - All Day)
+    - Migration guide | Smartblocks (All Day - All Day)
+    - This river of rocks, moving like a fluid,  landsli (All Day - All Day)
