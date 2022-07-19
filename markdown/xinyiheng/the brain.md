@@ -58,6 +58,7 @@ Via[(14 条消息) thebrain如何用 - 搜索结果 - 知乎](https://www.zhihu.
     - TheBrainVia[TheBrain - 知乎](https://www.zhihu.com/topic/19583518/hot) [[20210721]] 下午3:25
 - 使用技巧
     - the brain的编辑器非常难用，我需要一个好用的支持outliner功能的编辑器。最好是能够分享内部url,我觉得workflowy和checkvist都可以胜任。#[[软件联动]] 
+    - 新建orphan thought，在mac中ctrl+shift
     - 把mind node和knowledge database文件关联到其中，其实也相当于把他们当做了the brain的编辑器。#[[洞见]] #[[软件联动]]
     - 用默认的浏览器打开the brian中的网址附件
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMP1vV7kKik.png?alt=media&token=58d32b8e-8945-43c3-83c1-dc597fc23787)
