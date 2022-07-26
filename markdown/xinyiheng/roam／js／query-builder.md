@@ -1,5 +1,5 @@
 - Query Pages
     - queries/*
-- Query Pages
-    - queries/*
+- Default Page Size
+    - 10
 - Native Queries
