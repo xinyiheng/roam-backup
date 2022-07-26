@@ -155,7 +155,7 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
 [[20201228]] 下午5:12
 -  类似的软件
     - 可以参考别人列出的条目{{iframe: https://nano.page/page/roam}}
-    - [[remnote]]
+    - [[Remnote]]
     - [[kanopi]]
     - [[swrite]]
     - [[hypernote]]

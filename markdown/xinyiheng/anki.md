@@ -18,6 +18,6 @@
 - #[[参考资料]]
     - [个人使用anki经验合集](https://roamresearch.com/#/app/hjp_study/page/ej9GS-bFZ) 下午2:26@评论:这是一个人用roam research写的，看来对anki很有研究
 - 类似软件
-    - [[remnote]]
+    - [[Remnote]]
     - [[learnobit]]
     - [[polar]]

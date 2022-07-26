@@ -1,5 +1,5 @@
 - 感觉结合了概念图和[[scrivener]]的一些设计
-- 从文档和概念图结合很好的角度来看，有些像是[[remnote]]
+- 从文档和概念图结合很好的角度来看，有些像是[[Remnote]]
 - [介绍使用方法的youtube视频]([Qinaps](https://www.youtube.com/channel/UCWoIOxgor6dwspNEK13aVFA))
 - https://app.qinaps.com/map/view/1262/default/context/2545/
 - 从[[product hunt]]上看到的一些类似的协作文档软件
