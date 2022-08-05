@@ -58,7 +58,7 @@ div {
     --right-sidebar-bg: #EA9C9C(247 248 249);
     --right-sidebar-drag-bg: #337ac6;
     --masonry-bg: #F2FCF321;
-    --masonry-scrollbar-bg: rgba(49,227,127,0.48);
+    --masonry-scrollbar-bg: rgba(31,206,108,0.48);
     --masonry-resizer-color: rgb(10,188,23);
     --masonry-startWidth: 550px; /* DEFAULT: 550px; Use "unset" to prevent loading in grid like format */
     --masonry-minWidth: 440px;
@@ -372,7 +372,7 @@ span[data-link-title="Permanent Notes"]::after {
 - 彩虹条
     - ```css
 .rm-level-1 > .rm-multibar, .rm-level-19 > .rm-multibar, .rm-level-37 > .rm-multibar, .rm-inline-references > .rm-multibar {
-    border-right-color: var(--indent1) !important;春日獭祭鱼，东风解冻，桃花灼灼，柳絮作雪飞；夏日熏风长，雷雨阵阵，梅子金黄，满架蔷薇一院香；秋日寒蝉鸣，白露降，晴空一鹤排云上；冬日万物蛰伏，备下红泥小火炉，温三杯两盏淡酒，等待风雪夜归人……Via[电子书《跟熊逸一起读唐诗》的笔记](https://app.yinxiang.com/shard/s63/nl/13797828/1ab997fc-8610-480b-8e66-c150b6635c85/)
+    border-right-color: var(--indent1) !important;
     box-shadow: var(--box-shadow-values) var(--indent1) inset;
 }
 
