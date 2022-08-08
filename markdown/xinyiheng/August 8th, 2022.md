@@ -1,0 +1,6 @@
+- 昨日立秋
+    - 观看央视推出的二十四节气中的立秋
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FT8AYXO6nA-.png?alt=media&token=f2e33ea5-6f62-433d-a4c8-872ee81f77b6)
+- #[[工作]]《重返13岁的艺术思维课》封面打样，送外方审核
+- 找选题
+- 
