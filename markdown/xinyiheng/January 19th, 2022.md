@@ -28,7 +28,7 @@
         - 影响行为的六个方面
     - 卡片笔记写作
 - 叶峻峣：用 SuperMemo 打通阅读、理解与记忆Via[叶峻峣：用 SuperMemo 打通阅读、理解与记忆_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1jL411V7GD?p=1&share_medium=android&share_plat=android&share_session_id=52b9d7c8-e074-4dd0-9dd7-8fb71ffb2f1e&share_source=GENERIC&share_tag=s_i&timestamp=1642344650&unique_k=ulJYnGh#/) [[20220119]] 上午10:15#[[阅读]]
-    - 集智俱乐部 Via[【关于集智】](https://www.wolai.com/fHxGuDuNUvwqfq7mjHtLFe#/) [[20220119]] 上午10:19
+    - [[集智俱乐部]] Via[【关于集智】](https://www.wolai.com/fHxGuDuNUvwqfq7mjHtLFe#/) [[20220119]] 上午10:19
     - 什么是组织良好的卡片？
         - 间隔记忆的另一个关键点是要自己做卡片(自己的话，自己的理解)
         - 不要大段无意义的并列。![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FzC1MkW9SEb.png?alt=media&token=7de4cdd1-0a8e-454c-a8fa-33619a4ab809)
