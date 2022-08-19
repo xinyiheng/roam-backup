@@ -1,5 +1,11 @@
 - ```css
-.cm-line {color:black}
+
+/* 修改reference部分的背景颜色 */
+.rm-reference-item {
+    
+    background-color: rgba(255,255,255,0)
+}
+
 div
 {
   color: #021823;
