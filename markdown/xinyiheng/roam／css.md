@@ -1,4 +1,9 @@
 - ```css
+.cm-line {color:black}
+div
+{
+  color: white;
+}
 /* 解决block内部文字无法很接近右侧的问题 */
 .rm-block-separator {
     flex: 0 0 0px;
@@ -72,7 +77,7 @@ div {
     --block-widths: 1500px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
 }
 .rm-bullet__inner {
-  background-color:rgb(100,100,95);
+  background-color:#095071;
 }
 /*修改鼠标选中某个block时候的背景色
 .roam-block-container:hover {
