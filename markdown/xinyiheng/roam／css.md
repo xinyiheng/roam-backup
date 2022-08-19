@@ -2,7 +2,10 @@
 .cm-line {color:black}
 div
 {
-  color: white;
+  color: #021823;
+}
+span[data-link-title$="2022"] .rm-page-ref-link-color::before{
+    content: "🗓 ";
 }
 /* 解决block内部文字无法很接近右侧的问题 */
 .rm-block-separator {
@@ -98,7 +101,7 @@ a {
 /*修改最顶端栏目的背景*/
 .rm-topbar {
   background-size:100%;
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FBGSMQErPhM.jpeg?alt=media&token=e30b4fff-986b-4867-9a2f-fa32dc0071fa);
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FD8Hfjd76Af.jpeg?alt=media&token=957a8f6a-1447-4794-8927-365fd63b71a4);
 }
 /*修改unlinked references字体颜色*/
 strong {
@@ -131,7 +134,6 @@ strong {
 /*修改编辑中的文字字体*/
 textarea {
     font-family: 简宋;
-    color:white
 }
 /*修改选中后的文字颜色*/
 ::selection {
@@ -154,7 +156,7 @@ textarea {
 
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
      background-size:100% 100%;
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FBGSMQErPhM.jpeg?alt=media&token=e30b4fff-986b-4867-9a2f-fa32dc0071fa
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FD8Hfjd76Af.jpeg?alt=media&token=957a8f6a-1447-4794-8927-365fd63b71a4
   );
    
 }
