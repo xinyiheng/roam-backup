@@ -1,3 +1,0 @@
-- 
-- 对标管理——寻求超常绩效之行业最佳实践Via[标题](http://www.wenqujingdian.com/Public/editor/attached/file/20180807/20180807034942_90919.pdf)
-- Public Relations MetricsVia[得到APP - 知识就是力量，知识就在得到](https://www.dedao.cn/search/result?q=%E6%95%8F%E6%8D%B7%E6%B2%9F%E9%80%9A%20%20%E8%8D%B7%E5%85%B0)
