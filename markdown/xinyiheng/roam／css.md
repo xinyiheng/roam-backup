@@ -50,12 +50,12 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 /*修改笔记主题的字体*/
 div {
     font-family:简宋;
-  color：white;
+
 }
 
 
 :root {
-    --main-left-bg: white;
+    --main-left-bg: rgb(117,107,107);
     --right-sidebar-bg: #EA9C9C(247 248 249);
     --right-sidebar-drag-bg: #337ac6;
     --masonry-bg: #F2FCF321;
@@ -126,7 +126,7 @@ strong {
 /*修改编辑中的文字字体*/
 textarea {
     font-family: 简宋;
-    color:black
+    color:white
 }
 /*修改选中后的文字颜色*/
 ::selection {
@@ -155,7 +155,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
-    background-color: #EBF1F400;
+    background-color: #9B9FA2C4;
 }
 
 #roam-right-sidebar-content {
