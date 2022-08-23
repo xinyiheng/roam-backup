@@ -1,0 +1,11 @@
+- #[[工作]] 选题
+- [[wps]]技能  #[[办公软件]]
+    - 选中表格中某个单元格里的所有文字
+        - cmd+a并不行，因为会选中文档里的所有文字
+        - 正确的做法是把光标放在单元格左侧边栏附近，光标会变成向右上方的箭头，点击就可以选中该单元格的所有文字了。
+    - 调整单元格内段落文字的间距
+        - 点击下图的红色方框中的图标就可以了
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FmaI64YDHx9.png?alt=media&token=d2d41384-0c5a-4f33-ada5-805846deeac7)
+    - 清除文字的背景色
+        - 点击下图的红色方框中的图标就可以了
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fehf2pHISM8.png?alt=media&token=2cb7b075-4baf-43c4-bcc8-cd9cc27d623d)
