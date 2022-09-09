@@ -14,7 +14,7 @@
             - [科特](https://www.google.com/search?q=%E7%A7%91%E7%89%B9+the+heart+of+change&oq=%E7%A7%91%E7%89%B9++the+heart+of+change&aqs=chrome..69i57.16028j0j1&sourceid=chrome&ie=UTF-8)《[变革之心](https://www.google.com/search?q=%E7%A7%91%E7%89%B9+the+heart+of+change&oq=%E7%A7%91%E7%89%B9++the+heart+of+change&aqs=chrome..69i57.16028j0j1&sourceid=chrome&ie=UTF-8)》[ ](https://www.google.com/search?q=%E7%A7%91%E7%89%B9+the+heart+of+change&oq=%E7%A7%91%E7%89%B9++the+heart+of+change&aqs=chrome..69i57.16028j0j1&sourceid=chrome&ie=UTF-8)
             - [科特 accelerate](https://www.google.com/search?q=%E7%A7%91%E7%89%B9+accelerate&oq=%E7%A7%91%E7%89%B9+++accelerate&aqs=chrome..69i57.28371j0j4&sourceid=chrome&ie=UTF-8)
             - 变革领导力
-    - 格林里夫
+    - 格林利夫
         - 仆人式领导[理論](https://wiki.mbalib.com/zh-tw/%E6%A0%BC%E6%9E%97%E9%87%8C%E5%A4%AB%E7%9A%84%E4%BB%86%E4%BA%BA%E5%BC%8F%E9%A2%86%E5%AF%BC%E7%90%86%E8%AE%BA)
     - 拉撒路
         - [交易压力](https://www.google.com/search?sxsrf=ALeKk01ZgcnLno-38z8NIrkDmFT1AuueWg%3A1615345685549&ei=FThIYI7_IMHF0PEPy86doA0&q=%E6%8B%89%E6%92%92%E8%B7%AF+%E4%BA%A4%E6%98%93%E5%8E%8B%E5%8A%9B&oq=%E6%8B%89%E6%92%92%E8%B7%AF+%E4%BA%A4%E6%98%93%E5%8E%8B%E5%8A%9B&gs_lcp=Cgdnd3Mtd2l6EANQl9UBWM_jAWDg5wFoAXAAeACAAcQCiAGSEpIBBTItMi42mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=gws-wiz&ved=0ahUKEwjO3ZrO36TvAhXBIjQIHUtnB9QQ4dUDCA0&uact=5)
