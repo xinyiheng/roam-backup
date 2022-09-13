@@ -1,3 +1,5 @@
 - [Zwift宣布推出自己的智能自行车和直驱骑行台第2页 - 美骑网|Biketo.com](https://www.biketo.com/news/49018_2.html)
 - [不想买弄虚作假的产品，佳明Flux S能当入门骑行台吗？第3页|骑行装备与器材 - 美骑网|Biketo.com](https://www.biketo.com/product/48790_3.html)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FNecGz7m6Jb.png?alt=media&token=6adccfa9-f67e-43d7-b8e9-0873ec58689f)
+- ### 哪些自行车最快？
+    - [Speed Tests: Zwift’s Fastest Bike Frames for Flat/Rolling Races | Zwift Insider](https://zwiftinsider.com/fastest-frames/)
