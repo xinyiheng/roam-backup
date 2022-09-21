@@ -6,7 +6,3 @@
 - Windy-Transform every HTML element on any website to Tailwind CSSVia[Windy - Transform every HTML element on any website to Tailwind CSS | Product Hunt](https://www.producthunt.com/posts/windy-e2b6b3e7-08a8-4fb1-b14b-6b94e52f946d)[[20210104]] 下午8:36
 - 外框的阴影效果。用box-shadow
     - [93 Beautiful CSS box-shadow examples - CSS Scan](https://getcssscan.com/css-box-shadow-examples?ref=producthunt) @评论:这是个不错的拿来就用的网站
-- [[roam/comments]]
-    - [[September 21st, 2022]]
-        - [[Anonymous]]
-            - chrome插件 xpath css exploror,用它可以很方便地查看网页上的各种设置是通过哪些代码实现的。
