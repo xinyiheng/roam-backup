@@ -263,19 +263,6 @@ if (!existing) {
 }
 ```
   ```
-    - 选择多行
-        - {{[[roam/js]]}}
-            - ```javascript
-var existing = document.getElementById("roamjs-multi-select");
-if (!existing) {
-  var extension = document.createElement("script");
-  extension.src = "https://roamjs.com/multi-select.js";
-  extension.id = "roamjs-multi-select";
-  extension.async = true;
-  extension.type = "text/javascript";
-  document.getElementsByTagName("head")[0].appendChild(extension);
-}
-```
     - google calendar
         - {{[[roam/js]]}}
             - ```javascript
