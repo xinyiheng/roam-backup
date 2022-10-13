@@ -1,0 +1,1 @@
+- [GitHub Copilot：革命未竟，未来可期 ｜ 少数派会员 π+Prime](https://sspai.com/prime/story/on-copilot)
