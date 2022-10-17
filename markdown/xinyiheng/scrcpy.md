@@ -8,6 +8,7 @@
     - 可以使用vysor，付费版一年10美元，目前还没有付费，因为没有确定是否是刚需。
     - 目前找到的最佳方式是使用scrcpy，我目前很满意。具体实现方法保存在印象笔记当中了。[安装scrcpy的方法。](https://app.yinxiang.com/shard/s63/nl/13797828/2b04f36c-352a-475a-8366-e0abada15e96/)
     - 其中难点是安装homebrew，我当初差点因为安装这个软件而放弃。[安装方法见链接。](https://app.yinxiang.com/shard/s63/nl/13797828/a6e548b3-5f83-4a2a-8598-90de6637b640/)
+        - 2022年10月17日 好久没用，发现上面的失效了。按照这个重新安装成功https://www.jianshu.com/p/e0471aa6672d
     - 很长时间没用之后发现无法连接，提示错误。我按照指示操作发现了原因。原来是手机没有开启开发者模式中的usb调试。开启之后就好了，可能买了小米手机之后我就没用过这个功能。
         - wangxiaohuideMacBook-Pro:~ wangxiaohui$ scrcpy
 2021-08-15 20:13:23.764 scrcpy[27360:553358] INFO: scrcpy 1.16 <https://github.com/Genymobile/scrcpy>
