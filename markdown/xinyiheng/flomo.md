@@ -1,1 +1,2 @@
 - flomo gallery vol.002 - 生活需要一点波澜，要永远去探索新的事物Via[flomo gallery vol.002 - 生活需要一点波澜，要永远去探索新的事物](https://mp.weixin.qq.com/s/tlchJ-0SO9H8s2zgw0IINQ)[[20210104]] 下午8:39@评论:这种[[语录]]分享还挺有意思。
+- [邀你见证一本 flomo 小册的诞生 ——《知识资产：从一张卡片开始积累》](https://mp.weixin.qq.com/s?__biz=MzI0MDA3MjQ2Mg==&mid=2247486302&idx=1&sn=43566ec4d5541772861ca34f7348ddd3&chksm=e921293fde56a029fd8216e2273f77a2dd89d2af993f453bd218058973b00a87598f95df4567&mpshare=1&scene=1&srcid=0824lmKSNpuSfHjR0992dMBO&sharer_sharetime=1661303139506&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86#rd)

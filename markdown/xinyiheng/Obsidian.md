@@ -31,6 +31,8 @@ via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/I
         - https://sspai.com/search/post/obsidian
     - 常用 Obsidian 处理中文长文？试试这些这些大幅提升体验的插件和代码片段Via[常用 Obsidian 处理中文长文？试试这些这些大幅提升体验的插件和代码片段 - 少数派](https://sspai.com/post/69628) [[20211104]] 下午1:35
     - 如何修改obsidian的字体？
+        - [如何使用 CSS 改出一个令我满意的 Obsidian 外观？ - 少数派](https://sspai.com/post/75363)
+        - [Obsidian如何保存网页高亮和批注，我的自动化流程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1LF411G7US/?p=1&share_medium=android&share_plat=android&share_session_id=0b2073bd-dc40-453d-89ca-f6ad3f15d14c&share_source=GENERIC&share_tag=s_i&timestamp=1649983085&unique_k=yi6BhnQ&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
         - obsidian主题设置 - 少数派  https://sspai.com/post/66281 
             - @评论:下载了主题之后，可以在文件夹里找到css文件，然后找到字体字段修改就可以了。我使用的字体是从typora找到的"PT Serif"
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FeWU5Y7lapY.png?alt=media&token=8964683c-5314-4b94-b904-3418ae3cfb7b)
