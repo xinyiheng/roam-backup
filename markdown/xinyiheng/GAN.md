@@ -1,0 +1,4 @@
+- 即生成对抗网络
+- "上一代 AI 生成艺术的基于 GAN（生成对抗网络，参见 GAN 的发展简史），简单来说就是使用两个神经网络：一个作为生成器、一个作为判别器，生成器生成不同的图像让判别器去判断结果是否合格，二者互相对抗以此训练模型。"
+    - https://diigo.com/0qdp9r
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FjrGQ86YpBi.png?alt=media&token=d48cf6a1-a6ab-4613-a05c-ecc1501905b5)
