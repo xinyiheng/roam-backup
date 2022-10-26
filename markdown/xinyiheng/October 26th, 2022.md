@@ -9,4 +9,4 @@
         - [【テレビ番組「セブンルール」出演で話題沸騰！】美術教師·末永幸歩さんが教える、どうしても「自分なりの感想」が出てこない人に足りていないもの | 13歳からのアート思考 | ダイヤモンド·オンライン](https://diamond.jp/articles/-/293773)
         - [自分だけの答えを見つけるために｜読むらじる。｜NHKラジオ らじる★らじる](https://www.nhk.or.jp/radio/magazine/detail/gentobu20200424.html)
         - [じつは誰にも見えていない「絵画」の本当の姿 | 13歳からのアート思考 | ダイヤモンド·オンライン](https://diamond.jp/articles/-/236572)
-- 
+- #[[工作]] [smarter 文案](curio://$Projects/%E8%8D%89%E7%A8%BF%E7%AE%B1.curio?i=0lCZTXVzTaymmVN1sIxD3w)
