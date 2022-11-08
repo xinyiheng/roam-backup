@@ -1,2 +1,3 @@
 - #[[工作]] 完成《重返13岁的艺术思维课》新书资料
+- No Text in ClipboardVia[乱 (豆瓣)](https://movie.douban.com/subject/1296196/)Via[Friend  Foe When to Cooperate, When to Compete, and How to Succeed at Both (Adam Galinsky, Maurice Schweitzer) (z-lib.org)]([MarginNote 3.app](hook://application/QReader.MarginStudyMac))[[20221108]] 14:25
 - 
