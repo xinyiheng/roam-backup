@@ -1,3 +1,4 @@
-- #[[工作]] 完成《重返13岁的艺术思维课》新书资料
-- No Text in ClipboardVia[乱 (豆瓣)](https://movie.douban.com/subject/1296196/)Via[Friend  Foe When to Cooperate, When to Compete, and How to Succeed at Both (Adam Galinsky, Maurice Schweitzer) (z-lib.org)]([MarginNote 3.app](hook://application/QReader.MarginStudyMac))[[20221108]] 14:25
-- 
+- #[[工作]] 完成《重返13岁的艺术思维课》新书资料。继续阅读《朋友与敌人》
+- #[[家庭]] 和我爸商量一帆的事情。我爸提醒我要及时和民哥沟通。
+- #[[人际]] 怡良回复说报玉米中心希望不大
+- #[[阅读]] 睡觉前用文石看书，查找一些托人办事的注意事项。实际上，我最大的障碍还是不好意思开口。我感觉求人办事和考验我自己的英文水平一样，总是不想去测试。
