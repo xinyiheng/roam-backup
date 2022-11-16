@@ -5,7 +5,7 @@
         - ```javascript
 ```
 - [[roam extentions]]基本上都是以[[roam/js]]为开头的
-    - ExtensionsVia[RoamJS Extensions](https://roamjs.com/extensions) [[20220117]] 上午10:21 @评论:这是最全的一个寻找roam插件的地方。它还推出了一个叫做[[roam/js/marketplace]]的插件专门管理下载的插件，可以说层层嵌套了。
+    - ExtensionsVia[RoamJS Extensions](https://roamjs.com/extensions) [[20220117]] 上午10:21 @评论:这是最全的一个寻找roam插件的地方。它还推出了一个叫做、的插件专门管理下载的插件，可以说层层嵌套了。
     - [[roam42]]的最特别，它最早提出了SmartBlock的概念，后来被官方接纳，不过两者差别还不小。smartblock有些自带的功能非常隐蔽，比如我探索的block mention lists这个功能就很隐蔽。
     - unlink-finder
         - {{[[roam/js]]}}
