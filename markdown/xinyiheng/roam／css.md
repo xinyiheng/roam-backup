@@ -168,7 +168,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
-    background-color: #9B9FA2C4;
+    background-color: #FBF4F400;
 }
 
 #roam-right-sidebar-content {
