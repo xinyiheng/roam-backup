@@ -1,3 +1,5 @@
 - [[Inbox]]
     - [[xin]] at 13:44: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FlIIyiqTf9?alt=media&token=fae39083-0c11-4e60-8c38-4078fa6cdaa6)
+- #[[人际]] #[[工作]] 今天下定决心，把农业龙头企业的传承文章写完了。
+- 
