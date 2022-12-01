@@ -1,0 +1,4 @@
+- [New Digital Zettelkasten + Mind Mapping Note App | by Shu Omi | Shu Omi’s Blog | Medium](https://medium.com/my-learning-journal/new-digital-zettelkasten-mind-mapping-note-app-2272545d42d6) [[20221201]] 22:39
+- 感觉和[[heptabase]]很像。我获得了提前试用的资格，但是价格太贵，觉得性价比不高。
+- 感觉和[[orgpad]]也很相似
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FI21iLmHn-0.png?alt=media&token=dbf417d8-2506-4284-858f-cb31f9cabb29)

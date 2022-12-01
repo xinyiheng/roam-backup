@@ -25,7 +25,10 @@
         - [How to use Heptabase](https://www.notion.so/How-to-use-Heptabase-82fe296ef3544e549f51210c4a645613)Via[How to use Heptabase](https://alanchan1209.notion.site/How-to-use-Heptabase-82fe296ef3544e549f51210c4a645613#08e4e65570a5447c90bbb2afb708e91d) [[20211229]] 下午3:55
         - 开发路线图Via[Heptabase - Public Roadmap](https://heptaplatforms.notion.site/Heptabase-Public-Roadmap-3f4fa6e915b1419487514a268e0a26c5) [[20220413]] 09:54
 - 为什么不直接用mind map呢？hepta与mind node的区别
-    - 因为这里是以卡片为中心组织内容的。每一张卡片都可以反复利用。而思维导图中，每一个节点都是服从于整张思维导图的。
+    - 因为这里是以[[卡片]]为中心组织内容的。每一张卡片都可以反复利用。而思维导图中，每一个节点都是服从于整张思维导图的。
 - hepta与[[curio]]的区别
     - curio也可以实现白板的功能，并且还可以把内容整理成卡片，卡片也可以通过搜索来复用。
 - 很多时候，只是被一款工具的ui给吸引了，在大脑中脑补出一个使用之后创造力爆棚的表象而已。 #[[工具]] #[[知识管理]]
+- ### 相似软件
+    - [[氢图]]
+    - [[colube]]

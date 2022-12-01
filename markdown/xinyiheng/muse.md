@@ -1,9 +1,12 @@
 - 我之前没有系统测评过这款软件，但是它的理念真的非常不错。有很多深度思考的人提到过这款产品 。
 - 价格太贵了，只有ipad版本，每年726元，又很难成为最全面的笔记工具。目前有mac版本了。@评论:后来推出了中国特价版本，好像每月十几块钱，变得完全可以接收了。
 - 我对于手写体验不是很满意。
-- 像是ipad上的[[curio]]，弥补了curio没有ipad版本的问题。它也推出了mac版本，这样就可以实现mac和ipad一定程度上的联动了。
-- [设计、体验都出彩，白板工具的又一选择：Muse - 少数派](https://sspai.com/post/74009)
+- ipad和mac的同步。像是ipad上的[[curio]]，弥补了curio没有ipad版本的问题。它也推出了mac版本，这样就可以实现mac和ipad一定程度上的联动了。目前同步效果还有待提高。
 - muse在ipad这种触屏上的[[交互体验]]真的有很多独创之处
-- 可以看一下这篇文章https://www.inkandswitch.com/muse-studio-for-ideas.html
+- ### 相似软件
+    - [[prodrafts]]
+    - [[kosmik]]
+- ### 参考资料
+    - [设计、体验都出彩，白板工具的又一选择：Muse - 少数派](https://sspai.com/post/74009)
+    - 可以看一下这篇文章https://www.inkandswitch.com/muse-studio-for-ideas.html
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FBycqhLoJR6.png?alt=media&token=f7a52e77-c701-4b0d-8c91-0ec1c926f574)
-- 未读·探索家Via[食物信息图 (豆瓣)](https://book.douban.com/subject/26992853/)

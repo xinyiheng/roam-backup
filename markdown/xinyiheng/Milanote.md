@@ -9,5 +9,6 @@
     - [[kosmik]]
     - [[kinopio]]@评论:UI设计非常卡通
     - [[orgpad]]
+    - [[weje]]
     - [[makespace]]
     - [[kb(Knowledge database)]]
