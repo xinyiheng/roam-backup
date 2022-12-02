@@ -1,4 +1,4 @@
-- roam research 有可能用在哪些意想不到的方面？
+- # roam research 有可能用在哪些意想不到的方面？
     - [[出版]]行业  https://roamlibrary.com/library 好像运转的并不是很成功
     - [[知识服务]]https://twitter.com/Jimmy_JingLv/status/1338106648586379264?ref_src=twsrc%5Etfw
     - roam用于[[团队合作]]Roam for Teamwork
