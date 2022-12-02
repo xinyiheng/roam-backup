@@ -1,8 +1,7 @@
-- 可以在chrome浏览器中使用
-- 呈现比较清晰美观。
-- 没有付费，只能制作140张卡片
-- milanote中最让我感觉到满意的地方是无限层级，非常接近tinderbox的使用体验。这种体验全部是通过board可以在上一个层级只是显示为一个小的图标来实现的。这样，在board内部的文件也就无法和上一个层级的文件发生关联，这是缺点，而tinderbox好像可以通过parking 区域来解决这个问题。
-- [[scapple]]的backgroud其实也是可以看做milanote的board功能，只不过backgroud里面的文件也可以被完整看到。这样的优点是可以建立丰富的连接，缺点是感觉有些繁琐。在[[scapple]]当中，不太方便建立长文本。
+- 可以在chrome浏览器中使用,呈现比较清晰美观。没有付费，可以免费制作100张卡片，邀请好友注册每人可以增加20张，我目前可以制作160张卡片。
+- milanote中最让我感觉到满意的地方是[[无限层级]]，非常接近[[Tinderbox]]的使用体验。这种体验全部是通过board可以在上一个层级只是显示为一个小的图标来实现的。这样，在board内部的文件也就无法和上一个层级的文件发生关联，这是缺点，而tinderbox好像可以通过parking 区域来解决这个问题。[[scapple]]的backgroud其实也是可以看做milanote的board功能，只不过backgroud里面的文件也可以被完整看到。这样的优点是可以建立丰富的连接，缺点是感觉有些繁琐。在scapple当中，不太方便建立长文本。
+- 有chrome剪藏插件，可以很方便地把网页和内容剪藏到milanote中。我主要想用milanote整理roam research中的page，因此设置了一个快速把page名称和链接放到milanote中[[keyboard maestro]]。在ipad上的milanote中打开网页展示效果很像是一张卡片。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FdOO8-LIitu.jpeg?alt=media&token=b1feb201-3f5b-467c-a932-c79f30b6d37e)
 - 相似工具
     - [[miro]]
     - [[muse]]
