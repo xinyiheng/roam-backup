@@ -27,6 +27,8 @@
         - [[信息与我的关系]]
 - 滴答清单
     - {{iframe:https://dida365.com/webapp/#q/all/tasks}}
+- diagram
+    - {{[[diagram]]}}
 - 问题
     - #[[知识管理]] #[[标准模板]]
         - 你希望从这个领域收获什么？
@@ -39,6 +41,8 @@
         - 是否可以写作一篇相关主题的文章？
 - excalidraw
     - {{roam/render:((sketching))}}
+        - {{roam/render: ((ExcalDATA)) {:elements [], :appState {:currentItemFontFamily 1, :isBindingEnabled true, :currentItemRoughness 1, :zoom {:value 1, :translation {:x 0, :y 0}}, :zenModeEnabled false, :lastPointerDownWith "mouse", :isLibraryOpen false, :scrollX 0, :scrolledOutside false, :scrollY 0, :exportBackground true, :showStats false, :suggestedBindings [], :name "Untitled-2022-12-02-1436", :viewBackgroundColor "#ffffff", :currentItemFillStyle "hachure", :width 1152, :shouldCacheIgnoreZoom false, :currentItemStrokeSharpness "sharp", :selectedGroupIds {}, :isRotating false, :pasteDialog {:shown false, :data nil}, :offsetLeft 0, :currentItemStrokeWidth 1, :currentItemBackgroundColor "transparent", :elementType "selection", :offsetTop 0, :theme "light", :exportWithDarkMode false, :currentItemTextAlign "left", :currentItemLinearStrokeSharpness "round", :currentItemOpacity 100, :exportEmbedScene false, :currentItemStrokeColor "#000000", :isLoading false, :currentItemFontSize 20, :elementLocked false, :currentChartType "bar", :shouldAddWatermark false, :currentItemEndArrowhead "arrow", :previousSelectedElementIds {}, :viewModeEnabled false, :isResizing false, :showHelpDialog false, :height 689, :currentItemStrokeStyle "solid", :cursorButton "up"}, :roamExcalidraw {:version 1}} }}
+        - **Text nested here will appear on your drawing:**
 - 链接
     - {{table}}
         - The Brain链接
