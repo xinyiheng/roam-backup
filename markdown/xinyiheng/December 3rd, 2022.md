@@ -1,0 +1,2 @@
+- #[[软件联动]] 重新试用把[[tab outliner]]中的网页转变为[[mindnode]]思维导图的快捷应用，我设置的快捷键如下
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FW2E9oLWiJF.png?alt=media&token=ce0416c8-a83b-4b05-a52c-0bb7055ca155)
