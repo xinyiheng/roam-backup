@@ -193,3 +193,16 @@ This is fascinating…
 
 #happyweekend!
 Credit: PerthIsOK https://t.co/9DNqDXzafX ([View Tweet](https://twitter.com/pascal_bornet/status/1598580261054193665))
+- ### New highlights added [[December 5th, 2022]] at 11:24 PM
+    - @jose_edil: The 3 skills you need to thrive in the information age:
+
+1. Learning
+2. Unlearning
+3. Relearning 
+
+![](https://pbs.twimg.com/media/FjKfgyCWAAAKTSB.jpg) ([View Tweet](https://twitter.com/jose_edil/status/1599516207857688577))
+    - @plantegg: 学东西容易陷入细节、也容易泛泛而读读完就忘了。大多时候要抓住和你工作相关的部分。比如作为程序员学习 CPU你不需要了解太多的电路相关的东西，要抓住核心：成本、性能、超线程、NUMA，再结合你日常所用的top、perf来理解他们，这样就好懂了 
+
+![](https://pbs.twimg.com/media/FjMBX5LVsAAecUi.jpg) 
+
+![](https://pbs.twimg.com/media/FjMCEGiVUAAf51Z.jpg) ([View Tweet](https://twitter.com/plantegg/status/1599624583543676929))
