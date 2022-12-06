@@ -1,5 +1,6 @@
 - 我是如何使用keyboard maestro从mac电脑不同的位置向[[roam research]]搬运内容并自动生成链接的？@评论:受到[[john15263]]设计的little john的启发。
     - 实现了终极完美的阅读笔记功能，可以在浏览器阅读，把选中的内容直接复制到[[roam research]]中，然后还带着url链接。主要使用的软件是[[keyboard maestro]]，只使用了一点简单的[[applescript]]脚本。#[[软件联动]]用[[better touch tool]]设置了在[[触控板]]双指向左滑动就可以启动的#[[快捷方式]]然后还带着url链接。最困难的部分是怎样在roam research当中新建一个条目，最初的想法是用keyboard maestro当中的find image and click 的功能，这样准确率还可以，但是很难提高到100%。我后来想到可以查看roam resaerch当中的快捷键，发现有一个快捷方式可以快速跳转到最新的一个条目，一下豁然开朗。可以用模拟某个软件快捷按键的方式来实现很多功能。
+#[[阅读管理]]
         - 用法示例
             - 在[[得到电子书]]app网页版阅读书籍
                 - 生活中有很多小道理，你如果不满足于一次就事论事，能把这个道理给提炼出来，取个名字，就更容易推而广之，成为一个有力的工具。比如我一说“唇亡齿寒”、“酸葡萄”，你马上就知道是什么意思，这些名词相当于是把思维套路给封装起来，方便使用。#[[常识]]
@@ -33,7 +34,9 @@
 - 现在可以设置一些简单的宏来合并几个重复的动作。
 - [[Automator]]
 - ### 如何快速出'#[[]]'
-    - 在roam中打出这个符号需要用到shift+3 这两个键，我以前使用模拟按键的时候因为要使用到shift这个键，所以经常会让输入法在中英文之间切换。后来我想到可以直接把这个符号当作文字来输入就可以了。但是
+    - 在roam中打出这个符号需要用到shift+3 这两个键，我以前使用模拟按键的时候因为要使用到shift这个键，所以经常会让输入法在中英文之间切换。后来我想到可以直接把这个符号当作文字来输入就可以了。但是需要让光标在两个方括号中间，我在网上查看用%|%就可以代替光标的位置。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FBLBjBN_XsV.png?alt=media&token=47d7bb7c-a1b6-4d61-8240-4edf3ac89b6e)
+    - [Is there a way to have KM place the cursor within a pasted object?](https://forum.keyboardmaestro.com/t/is-there-a-way-to-have-km-place-the-cursor-within-a-pasted-object/9365)
 - #[[参考资料]]
     - Official Keyboard Maestro WikiVia[Home Page [Keyboard Maestro Wiki[[]](]]https://wiki.keyboardmaestro.com/Home_Page)[[20210106]] 下午5:15 
     - [Keyboard Maestro 入门指南 - 少数派](https://sspai.com/post/36442) 
@@ -79,7 +82,7 @@ via[Regular Expressions -Keyboard Maestro Wik](https://wiki.keyboardmaestro.com/
     - Automator 简单介绍及入门玩法 | Matrix 精选
 -via[Automator 简单介绍及入门玩法 | Matrix 精选 - 少数派](https://sspai.com/post/36667)
     - keyboard maestro
-        - [keyboard maestro - Google 搜索](https://www.google.com/search?q=keyboard+maestro&sxsrf=AOaemvJJ4ewVQPfHRjfVj2QrvDgGsX9zYQ:1630316034667&source=lnms&tbm=vid&sa=X&ved=2ahUKEwi_ofjAuNjyAhWTHTQIHfl3DrEQ_AUoAnoECAIQBA)
+        - 🦩[Latest topics - Keyboard Maestro Discourse](https://forum.keyboardmaestro.com/latest) @评论:官方论坛
         - [Keyboard Maestro 9.2: Work Faster with Macros for macOS](https://www.keyboardmaestro.com/main/#Pricing)
         - [Latest Tips & Tutorials topics - Keyboard Maestro Discourse](https://forum.keyboardmaestro.com/c/tips/14)
         - [MacSparky](https://www.macsparky.com/)
