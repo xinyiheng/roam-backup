@@ -32,6 +32,8 @@
 - 现在才知道[[keyboard maestro]]设置触发[[快捷方式]]的时候原来只使用字母也可以，不用非加上command、alt之类的功能键，这样，我设置快捷方式的空间又打了很多，不会冲突了。比如，我把印象笔记的启动方式从command+y变成了“YX”(小写的)，我现在没有办法直接连着打出这两个字母了，因为会直接启动印象笔记而不是显示这两个字母。解决办法就是分开输入，先打y然后再打出x。#[[进步]]
 - 现在可以设置一些简单的宏来合并几个重复的动作。
 - [[Automator]]
+- ### 如何快速出'#[[]]'
+    - 在roam中打出这个符号需要用到shift+3 这两个键，我以前使用模拟按键的时候因为要使用到shift这个键，所以经常会让输入法在中英文之间切换。后来我想到可以直接把这个符号当作文字来输入就可以了。但是
 - #[[参考资料]]
     - Official Keyboard Maestro WikiVia[Home Page [Keyboard Maestro Wiki[[]](]]https://wiki.keyboardmaestro.com/Home_Page)[[20210106]] 下午5:15 
     - [Keyboard Maestro 入门指南 - 少数派](https://sspai.com/post/36442) 
