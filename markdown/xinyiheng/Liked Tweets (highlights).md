@@ -206,3 +206,21 @@ Credit: PerthIsOK https://t.co/9DNqDXzafX ([View Tweet](https://twitter.com/pasc
 ![](https://pbs.twimg.com/media/FjMBX5LVsAAecUi.jpg) 
 
 ![](https://pbs.twimg.com/media/FjMCEGiVUAAf51Z.jpg) ([View Tweet](https://twitter.com/plantegg/status/1599624583543676929))
+- ### New highlights added [[December 6th, 2022]] at 9:18 AM
+    - @waylybaye: 真的假的，卖一辆车只赚几千块钱，汽车制造业的利润这么低吗…… 
+
+![](https://pbs.twimg.com/media/FjOauK8UcAAmemC.jpg) ([View Tweet](https://twitter.com/waylybaye/status/1599792512734199808))
+    - @kepano: Obsidian 1.1 is now available to insiders ✨
+
+The new Canvas view allows you to organize notes visually — an infinite space to brainstorm, diagram and lay out your ideas
+
+Works great for mind maps, flow charts, org charts, moodboards, family trees. You can even embed web pages 😊 
+
+![](https://pbs.twimg.com/media/FjPHyGuVQAEVeoW.jpg) ([View Tweet](https://twitter.com/kepano/status/1599842877533990912))
+    - @JohannesMutter: @kepano @obsdmd The 2nd most crucial view! Here’s the predecessor for spatial browsing by @DharamKapila  https://t.co/kwR5q5LD7p ([View Tweet](https://twitter.com/JohannesMutter/status/1599865665258541057))
+    - @kepano: @obsdmd https://t.co/V5ss8wurxi ([View Tweet](https://twitter.com/kepano/status/1599880530958221313))
+    - @zsviczian: I just released Labeled Arrows 🚀to @obsidian. For now, it's only available via @TfTHacker's wonderful BRAT.
+
+Known issue: Using "Cmd/Ctrl+double click" to enter the line editor will not work as expected if you add a link in the arrow text then. CTRL+click will navigate the link. https://t.co/LSAWXMNUls ([View Tweet](https://twitter.com/zsviczian/status/1599895687927193600))
+- ### New highlights added [[December 6th, 2022]] at 9:44 AM
+    - @mounika_2000: ![](https://pbs.twimg.com/media/FiKQqeMaUAAtruE.jpg) ([View Tweet](https://twitter.com/mounika_2000/status/1599606989625106436))
