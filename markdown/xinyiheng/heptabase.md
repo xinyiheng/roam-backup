@@ -29,6 +29,9 @@
 - hepta与[[curio]]的区别
     - curio也可以实现白板的功能，并且还可以把内容整理成卡片，卡片也可以通过搜索来复用。
 - 很多时候，只是被一款工具的ui给吸引了，在大脑中脑补出一个使用之后创造力爆棚的表象而已。 #[[工具]] #[[知识管理]]
+- 最近[[Obsidian]]出了一款白板插件，感觉可以取代heptabase
+    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fa9bjh5uG1k.mp4?alt=media&token=187afdd8-d908-494a-a794-0ad68f902360}}
+    - 
 - ### 相似软件
     - [[氢图]]
     - [[colube]]

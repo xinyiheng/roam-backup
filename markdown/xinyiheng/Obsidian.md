@@ -1,5 +1,5 @@
 - 通过john分享的各种快捷设置，可以把obsidian和the brain关联起来了，非常棒。#[[自动化]]#[[软件联动]]
-- 一个新的主题，可以用卡片的形式展示笔记，我还没时间折腾。
+- 一个新的主题，可以用卡片的形式展示笔记，我还没时间折腾。#[[卡片笔记]]
     - Via[kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) [[20220114]] 下午10:59
 - 改变graph节点的颜色原来很简单。
     - 节点设置颜色的方法如图所示，Ob在0.12版本后就出了“颜色组”这个功能。
@@ -37,5 +37,8 @@ via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/I
             - @评论:下载了主题之后，可以在文件夹里找到css文件，然后找到字体字段修改就可以了。我使用的字体是从typora找到的"PT Serif"
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FeWU5Y7lapY.png?alt=media&token=8964683c-5314-4b94-b904-3418ae3cfb7b)
 
-    - 如何修改obsidian 上excalidraw插件的字体？
+    - 如何修改obsidian 上[[excalidraw]]插件的字体？
         - Obsidian 的 Excalidraw 插件自定义中文字体Via[Obsidian 的 Excalidraw 插件自定义中文字体](https://www.uncoverman.com/excalidraw-plguin-in-obsidian-support-font-custom.html) [[20220413]] 17:11
+- ### 在[[ipad]]和mac同步obsidian
+    - 使用的下面这个仓库。有时候会因为icloud同步速度较慢而导致数据不同步。[笔记](hook://file/L0Q13iqY1?p=aUNsb3Vkfm1kfm9ic2lkaWFuL0RvY3VtZW50cw==&n=%E7%AC%94%E8%AE%B0)
+- #[[软件联动]] 把[[roam research]]中的文档通过[[github]]备份到本地，然后用[[hazel]]自动复制到另一个文件夹中，这个文件夹作为obsidian的仓库来使用。
