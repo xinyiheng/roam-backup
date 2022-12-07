@@ -1,9 +1,17 @@
 - #[[意识流笔记]]
     - 想要把mindnode创立的文件快速集成到其他软件进一步整理。
-    - 设置好了桌面端的telegram，这样可以把它当作roam research的信使了。
+    - 设置好了桌面端的telegram，这样可以把它当作roam research的信使了。但是不太稳定，不知道是不是今天网络的原因，以前都特别快。
+    - 去眼镜城配眼镜
+    - 帮妈设置理财
+    - 适用[[mymind]]
+    - 重新下载[[Devonthink]]
+- [JimmyLv/telegroam: Telegroam: a bridge between Roam and Telegram. 🤩 When Roam Research receives one message, it automatically returns a previously random note 😁, based on https://github.com/mbrock/telegroam](https://github.com/JimmyLv/telegroam) 
+#[[Telegram Bot]]
 - [[Inbox]]
     - 11:08 好的
     - 11:09 好像不太稳定
     - 11:09 好像可以了
     - 11:13 不错的工具
     - 13:29 记录
+    - 15:11 为什么
+    - 15:14 没有传递
