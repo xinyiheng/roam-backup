@@ -10,6 +10,7 @@
     - #[[人际]] 农业龙头企业传承的周六开会，我只答应发言5分钟，实在没兴趣。还拖延才写下了100字的自我介绍。
     - #[[育儿]] 想要忙自己的事情，后来想到在客厅和麻豆一起，他看书我用电脑。今天还继续和麻豆用[[goodnotes]]来制作他的酷炫赛车的图书。麻豆在看书的时候发现很多汽车的品牌都是用的创始人的名字。
     - #[[家庭]] 今天爸和老婆都有感冒症状，自测抗原没有感染新冠肺炎。从上周开始，新冠肺炎的防控政策终于逆转了，不再坚持动态清零了，转向全面放开。
+    - 想要在本地索引印象笔记里的文件。因为我用spotlight搜索的时候发现了.enspot结尾的文件。如果能有一站式搜索不同软件中的文件的方式就好了。
 - [JimmyLv/telegroam: Telegroam: a bridge between Roam and Telegram. 🤩 When Roam Research receives one message, it automatically returns a previously random note 😁, based on https://github.com/mbrock/telegroam](https://github.com/JimmyLv/telegroam) 
 #[[Telegram Bot]]
 - [[Inbox]]
