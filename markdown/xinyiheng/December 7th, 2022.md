@@ -5,6 +5,8 @@
     - 帮妈设置理财
     - 适用[[mymind]]
     - 重新下载[[Devonthink]]
+    - 设置keyboard maestro快捷方式，从[[Roam Research]]快速新建和查找[[mindnode]]文件，[[the brain]]的不太顺利。
+    - [[Obsidian]]有些文件名重复了，删除重复的
 - [JimmyLv/telegroam: Telegroam: a bridge between Roam and Telegram. 🤩 When Roam Research receives one message, it automatically returns a previously random note 😁, based on https://github.com/mbrock/telegroam](https://github.com/JimmyLv/telegroam) 
 #[[Telegram Bot]]
 - [[Inbox]]

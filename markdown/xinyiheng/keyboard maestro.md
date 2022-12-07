@@ -26,6 +26,10 @@
             - 现在还可以在[[Marginnote]]阅读
 - 有很多mac中目前使用的打开软件的#[[快捷方式]]
 - triger里选择palette也有好处，我之前很少使用这种功能。
+- ### 如何把双击control键作为触发条件？
+    - 为了方便唤起alfred，我把alfred搜索的触发键从双击control键转换为了 control+option+command+h，但是我又不像放弃原来的触发体验，所以用keiboard maestrol设置了一个快捷键，用双击contro触发control+option+command+h 🗒@评论:缺点是只能在外接键盘上使用，无法在内置键盘上使用。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FdQRcjJcHTC.png?alt=media&token=8f8614ae-a156-41ef-a701-61bf418bd0dc)
+    - [Double Tap Control - Macro Library - Keyboard Maestro Discourse](https://forum.keyboardmaestro.com/t/double-tap-control/202)
 - mac上的大部分常用的[[快捷方式]]都是通过这个软件创建的。
 - 这个软件可以帮助实现自动化。我快速打开一些网站的功能就是通过这一软件实现的。比如command+b打开toby。
 - Folder Trigger：这个触发器会关注某个特定文件夹，当这个文件夹添加了新文件，移除了文件，添加或移除了文件时，触发。 [sspai.com](https://sspai.com/post/36442)
@@ -88,4 +92,4 @@ via[Regular Expressions -Keyboard Maestro Wik](https://wiki.keyboardmaestro.com/
         - [MacSparky](https://www.macsparky.com/)
         - [Home Page [Keyboard Maestro Wiki](https://wiki.keyboardmaestro.com/doku.php)
         - [manual:Features [Keyboard Maestro Wiki](https://wiki.keyboardmaestro.com/manual/Features)
-        - [User Manual [Keyboard Maestro Wiki](https://wiki.keyboardmaestro.com/User_Manual)
+        - [User Manual [Keyboard Maestro Wiki](https://wiki.keyboardmaestro.com/User_Manual)[Double Tap Control - Macro Library - Keyboard Maestro Discourse](https://forum.keyboardmaestro.com/t/double-tap-control/202)

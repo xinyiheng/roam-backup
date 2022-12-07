@@ -58,7 +58,7 @@
 - 搜索出来的结果可以直接以卡片的形式popup，这样可以同时打开多条笔记，这个设计确实超出我的想象。
 - 大纲视图也很好，有些像是正常的bullet视图，但是它强大的地方在于，它的每一个条目都其实可以当做标题，再添加笔记。可以indent和undent，结合magic pad可以自由拖动调整位置。
 - 这款软件的map视图就是概念图。我觉得它可以取代[[scapple]]的位置了。
-- [概念图](hook://tbx/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB?view=outline+select=1611239814;?filepath=/Users/wangxiaohui/Library/Mobile%20Documents/com~apple~CloudDocs/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.tbx)@评论:tinderbox也可以使用[[hook]]来把某条笔记的链接地址放到[[Roam Research]]当中来。太棒了！
+- [概念图](hook://tbx/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB?view=outline+select=1611239814;?filepath=/Users/wangxiaohui/Library/Mobile%20Documents/com~apple~CloudDocs/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.tbx)@评论:tinderbox也可以使用[[Hook]]来把某条笔记的链接地址放到[[Roam Research]]当中来。太棒了！
 - ^^hyperbolic^^，这个视图有些可以赏玩概念图的意思，很不错，是一个设计亮点。
 - [[参考资料]] https://pan.baidu.com/s/1bvLe7r4TN-Uwzzb0ZnNzRQ
     - 使用方法的视频介绍https://forum.eastgate.com/c/videos-to-help-you-get-started/17
