@@ -1,0 +1,5 @@
+- 用妙趣pad手势控制非常棒
+- 也可以使用键盘来设置快捷方式，以前我只会使用[[keyboard maestro]]来设置键盘[[快捷方式]]。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FsiV8vXrPPd.png?alt=media&token=d0b37fb7-f01c-4f77-a787-da012bfdfa94)
+- 快速选中鼠标右键中的某个选项
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FXcSDH79ulG.png?alt=media&token=e70cf907-4795-4169-8d47-01b65b80c771)
