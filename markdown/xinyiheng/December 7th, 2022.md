@@ -7,6 +7,9 @@
     - 重新下载[[Devonthink]]
     - 设置keyboard maestro快捷方式，从[[Roam Research]]快速新建和查找[[mindnode]]文件，[[the brain]]的不太顺利。
     - [[Obsidian]]有些文件名重复了，删除重复的
+    - #[[人际]] 农业龙头企业传承的周六开会，我只答应发言5分钟，实在没兴趣。还拖延才写下了100字的自我介绍。
+    - #[[育儿]] 想要忙自己的事情，后来想到在客厅和麻豆一起，他看书我用电脑。今天还继续和麻豆用[[goodnotes]]来制作他的酷炫赛车的图书。麻豆在看书的时候发现很多汽车的品牌都是用的创始人的名字。
+    - #[[家庭]] 今天爸和老婆都有感冒症状，自测抗原没有感染新冠肺炎。从上周开始，新冠肺炎的防控政策终于逆转了，不再坚持动态清零了，转向全面放开。
 - [JimmyLv/telegroam: Telegroam: a bridge between Roam and Telegram. 🤩 When Roam Research receives one message, it automatically returns a previously random note 😁, based on https://github.com/mbrock/telegroam](https://github.com/JimmyLv/telegroam) 
 #[[Telegram Bot]]
 - [[Inbox]]
