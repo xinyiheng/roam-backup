@@ -6,7 +6,7 @@
 - ### 类似notion的首页#[[分列]]
     - [[Notion]]
     - [[印象笔记]]
-    - [[roam research]]
+    - [[Roam Research]]
     - [[LM曲线]]
     - [[笔记]]
     - [[笔记工具]]
@@ -26,7 +26,7 @@
     - 很好
     - 好玩
     - 有个bug
-- 实现了roam research的两个重要功能#[[roam research]]
+- 实现了roam research的两个重要功能#[[Roam Research]]
     - block的色彩rd
 - 和分列展示#[[分列]]
     - 使用下是这样的
@@ -40,7 +40,7 @@
     - 进行中
         - [[Notion]]
         - 可以
-        - [[roam research]]
+        - [[Roam Research]]
     - 等待
         - 可以结合这个使用
         - 概念图

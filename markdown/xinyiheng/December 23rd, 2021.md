@@ -63,7 +63,7 @@
     - 如何在roam research中模拟[[heptabase]]的使用？#[[洞见]]
         - {{diagram}}
             - [[heptabase]]
-            - [[roam research]]
+            - [[Roam Research]]
             - 缺点是在连接中间加入说明并不方便。
             - 用习惯了以后功能还是非常强大的。
             - 颜值略微低一点，用起来没有那么爽，但是基本功能不错。

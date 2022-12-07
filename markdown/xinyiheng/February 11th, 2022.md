@@ -28,7 +28,7 @@
     - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FqvWTDu_rb?alt=media&token=c94feb7c-e615-4546-a27d-15274aff9e75)
 - #[[知识管理]] #[[洞见]] 知识管理的核心就是把要整理的知识融入到自己的日程管理中。处理信息能力的带宽是很有限的，只有把材料放置到这个有限的区域之中，它才能够有可能成为有用的输出内容。
 - #[[知识管理]] #[[洞见]] 材料+思维模型=知识
-- #[[roam research]] #[[知识管理]] roam research或许也可以作为一个升级版本的diigo，汇总了很很多我要写作的素材和半成品，但总是感觉它无法承载最终的信息呈现。也就是不能作为一个很好的写作工具。 #[[知识表征]] 
+- #[[Roam Research]] #[[知识管理]] roam research或许也可以作为一个升级版本的diigo，汇总了很很多我要写作的素材和半成品，但总是感觉它无法承载最终的信息呈现。也就是不能作为一个很好的写作工具。 #[[知识表征]] 
 - 了解[[视觉笔记]]，并在diigo中添加了几个专注于视觉笔记的公众号
 - 想到利用[[幕布]]社区和其他拆书平台上别人整理的读书笔记来辅助自己建立知识体系。#[[知识管理]] 
 - {{roam/render: ```javascript
@@ -103,4 +103,4 @@ if (typeof window.ExcalidrawWrapper === 'undefined') {
     - {{roam/render: ```clojure
 undefined``` {:appState {:currentItemFontFamily 1, :isBindingEnabled true, :currentItemRoughness 1, :zoom {:value 1, :translation {:x 0, :y 0}}, :zenModeEnabled false, :lastPointerDownWith "mouse", :isLibraryOpen false, :scrollX 0, :scrolledOutside false, :scrollY 0, :exportBackground true, :showStats false, :suggestedBindings [], :name "Untitled-2021-08-17-1714", :viewBackgroundColor "#ffffff", :currentItemFillStyle "hachure", :width 1129.630615234375, :shouldCacheIgnoreZoom false, :currentItemStrokeSharpness "sharp", :selectedGroupIds {}, :isRotating false, :pasteDialog {:shown false, :data nil}, :offsetLeft 16.988636016845703, :currentItemStrokeWidth 1, :currentItemBackgroundColor "transparent", :elementType "selection", :offsetTop 8.991477012634277, :theme "light", :exportWithDarkMode false, :currentItemTextAlign "left", :currentItemLinearStrokeSharpness "round", :currentItemOpacity 100, :exportEmbedScene false, :currentItemStrokeColor "#000000", :isLoading false, :currentItemFontSize 20, :elementLocked false, :currentChartType "bar", :shouldAddWatermark false, :currentItemEndArrowhead "arrow", :previousSelectedElementIds {}, :viewModeEnabled false, :isResizing false, :showHelpDialog false, :height 601.9885864257812, :currentItemStrokeStyle "solid", :cursorButton "up"}, :roamExcalidraw {:version 1}, :elements []} }}
     - **Text nested here will appear on your drawing:**
-- #[[洞见]] #[[写作]] 我[[在roam research]]做的这些笔记更像是在维护一个维基百科页面，而不像是真正的写作。
+- #[[洞见]] #[[写作]] 我[[Roam Research]]做的这些笔记更像是在维护一个维基百科页面，而不像是真正的写作。

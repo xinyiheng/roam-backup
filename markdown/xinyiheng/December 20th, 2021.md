@@ -1,6 +1,6 @@
 - {{diagram}}
     - [[heptabase]]
-    - [[roam research]]
+    - [[Roam Research]]
     - [[diigo]]
     - 把参考资料拖进笔记
     - 优化graph图

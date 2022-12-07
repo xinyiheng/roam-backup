@@ -1,4 +1,4 @@
-- [[roam research]]
+- [[Roam Research]]
     - 初识roam research
         - 知道了一款新的应用
             - 和其他大纲类工具好像没有太大区别

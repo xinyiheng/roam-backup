@@ -1,2 +1,4 @@
 - mac端的telegram经常无法登录，解决方案参见这一篇文章：
     - 🦩[解决Mac下Telegram无法连接 / Telegram is connecting to Proxy的问题 - Justin写字的地方](https://zblogs.top/how-to-fix-telegram-for-mac-is-connecting-to-proxy/)
+- #[[软件联动]]
+    - 通过[[Telegram Bot]]可以发送消息到[[Roam Research]]

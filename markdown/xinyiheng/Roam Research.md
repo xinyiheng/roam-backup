@@ -110,14 +110,14 @@ Completed task            :done,    des1, 2014-01-06,2014-01-08
 Active task               :active,  des2, 2014-01-09, 3d
 Future task               :         des3, after des2, 5d
 Future task2               :         des4, after des3, 5d 
-    - [[roam research]]到底怎样整理？目前大多数都是标签概念的状态。整理成概念文档是否可以用[[query]]的方式。[[block reference]]之类的设计我算是彻底明白了原理。#[[概念区分]]
+    - [[Roam Research]]到底怎样整理？目前大多数都是标签概念的状态。整理成概念文档是否可以用[[query]]的方式。[[block reference]]之类的设计我算是彻底明白了原理。#[[概念区分]]
         - 复制一个block再粘贴到其他位置和[[block reference]]有什么区别？[[block reference]]和embed reference有什么区别？#[[概念区分]]
             - 复制block到一个新位置，如果block里有方括号括起来的概念，概念会和新位置page的标题建立关系，可以体现在#[[graph图]]中，而通过[[block reference]]而来的内容无法和新的page标题建立关系。比如下图中，蓝色字体部分是通过[[block reference]]方式建立的，红色方框框起来的概念没有体现在所在的page标题Inbox组成的图中。
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FQb1OpsYLbq.png?alt=media&token=9cd2330a-8eac-4ce1-ab9d-4e0df8d635d2)
             - 这么看起来，好像复制block更好，但是，block reference的好处是，双击reference可以跳转到block原来的地址，相当于一个快捷方式，是个分身，当原来内容变化的时候，分身也就变化了。不仅如此，block referenc可处理性更好，还可以转变为embed，或者是直接转变为文本，还可以选在带着子blcok。
         - block reference和embed的区别是embed可以带着子block，而reference原来是不能带子block，现在默认也是不带子block，不过现在也可以转变为带着子block的。
-    - 我其实也可在大纲工具中的任何地方新建文档，只需要标注出它是关于这个主题的文档级别文件即可，以后通过搜索实现，或者是方便的时候再迁移到合适的笔记本当中。我关注的几个主题其实相当于笔记本。--这种说法在我当初想在[[diigo]]当中建立自己的[[知识结构]]的时候是成立的，但是在roam research当中就不成立了。因为在[[roam research]]中，生成graph的依据就是寻找page 的标题和该标题下的带有"[[]]'符号的的内容，并把他们做成graph，这种自动识别方式是无法识别出传统大纲视图下的层级隶属关系的。要想使用roam research 当中的graph，在做笔记的时候就必须遵守这种严格机械的规则啊。
-    - 好像记录在[[roam research]]中的文档再进一步整理的时候会有些复杂#问题#[[DONE]]
+    - 我其实也可在大纲工具中的任何地方新建文档，只需要标注出它是关于这个主题的文档级别文件即可，以后通过搜索实现，或者是方便的时候再迁移到合适的笔记本当中。我关注的几个主题其实相当于笔记本。--这种说法在我当初想在[[diigo]]当中建立自己的[[知识结构]]的时候是成立的，但是在roam research当中就不成立了。因为在[[Roam Research]]中，生成graph的依据就是寻找page 的标题和该标题下的带有"[[]]'符号的的内容，并把他们做成graph，这种自动识别方式是无法识别出传统大纲视图下的层级隶属关系的。要想使用roam research 当中的graph，在做笔记的时候就必须遵守这种严格机械的规则啊。
+    - 好像记录在[[Roam Research]]中的文档再进一步整理的时候会有些复杂#问题#[[DONE]]
         - 我发现，在roam research中，如果想把一段文字移动到某个概念之下，只需要在这段文字中提到这个概念就可以了。这样，这段话肯定就可以通过link或者unlink的形式连接到这个概念之下了。如果想要移动到[[概念文档]]中也非常方便，只需要在这段话中提到这个概念并用双方括号括住这个概念，等概念变色之后，就说明连接已经建立，只需要shift+鼠标单击概念就可以在侧边栏打开概念文档，这样就可以把这段文字拖拽到概念文档中了。
     - [[块引用]]等于[[block reference]](c9nvg6Pgh)
         - 首先就是要找到blcok在哪里。可能有两种情况，一种是将当前的block引用到别的地方。这种情况下，先copy block reference，然后再在搜索框中找到要放到的地方，粘贴就可以。
@@ -125,7 +125,7 @@ Future task2               :         des4, after des3, 5d
             - 将您的光标放在一个块中，然后按Ctrl-Shift-9弹出搜索框
     - the brain和roam research的关系@评论:当the roam组织很好的时候，把二者关联起来，the brain就像是个非常好的概念图展示板，而展示的内容很多来自roam
     - 如何搜索和替换概念？
-        - 并没有这个功能，echnique begins [2:13](https://www.youtube.com/watch?v=78p6z2104AU&t=133s)1. create Page with name equal to existing text you want to change2. Unlinked References > Link All3. rename Page to whatever you want   -------   4. delete Page Find and Replace Technique [[roam research]] - YouTube](https://www.youtube.com/watch?v=78p6z2104AU) [[20210712]] 上午9:01
+        - 并没有这个功能，echnique begins [2:13](https://www.youtube.com/watch?v=78p6z2104AU&t=133s)1. create Page with name equal to existing text you want to change2. Unlinked References > Link All3. rename Page to whatever you want   -------   4. delete Page Find and Replace Technique [[Roam Research]] - YouTube](https://www.youtube.com/watch?v=78p6z2104AU) [[20210712]] 上午9:01
     - 修改tag的样式
         - https://www.redgregory.com/roam-content/2021/1/8/customize-tags-inside-roam-research-with-this-simple-css
     - 如何在roam research中直接标注pdf？
@@ -136,7 +136,7 @@ Future task2               :         des4, after des3, 5d
     - 在windows 系统中，查看上一个或下一个page的按键是alt+左右箭头
     - 快速跳转到daily note ctrl+shift+d
     - {{iframe:https://cat-income-b7c.notion.site/f626dab7d985490fa504b763ea6f3e3c}}
-    - 在[[roam research]]中打开开发者模式，ctrl+shift+=
+    - 在[[Roam Research]]中打开开发者模式，ctrl+shift+=
 - smart block是最近推出的杀手级的新功能，这让roam research有了更大的自定义的可能性。很多实现方式借助[[JavaScript]]
 - #[[参考资料]]
     - Mickey Mellen  roam research的最近更新

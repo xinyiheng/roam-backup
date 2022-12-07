@@ -10,7 +10,7 @@
     - 信息图制作工具
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F97XuKNLJh-.png?alt=media&token=280f854d-3527-4851-9770-f27c0809bd20)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FTsxCNV53vw.png?alt=media&token=d0adc575-b210-47a1-aa3d-40ada49de3e7)
-- #[[洞见]] #[[roam research]] roam的最大作用是通过双方括号快速建立一些想要长期关注的节点，并自动在roam的资料库里搜索和关联这些节点。[[概念文档]]这个级别的内容整理，在roam research中并没有特别的优势。我几乎没有在roam research中查看graph图，这是因为它呈现的信息还是缺乏结构化。这是因为，它不过是一个大纲文档而已，难以充分利用二维空间。[[diagram]]和[[excalidraw]]在一定程度上可以弥补这种缺陷，但是感觉并不是很好的入口。
+- #[[洞见]] #[[Roam Research]] roam的最大作用是通过双方括号快速建立一些想要长期关注的节点，并自动在roam的资料库里搜索和关联这些节点。[[概念文档]]这个级别的内容整理，在roam research中并没有特别的优势。我几乎没有在roam research中查看graph图，这是因为它呈现的信息还是缺乏结构化。这是因为，它不过是一个大纲文档而已，难以充分利用二维空间。[[diagram]]和[[excalidraw]]在一定程度上可以弥补这种缺陷，但是感觉并不是很好的入口。
 - #[[可视化]] 与[[信息图]] 的区别
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPL-3R6gut.png?alt=media&token=10147975-5562-4f29-991f-8e44eb9189a5)
 - #[[育儿]] 和麻豆拼了科学喵玩具，一个火星探测车一个液压手臂，比较简单，麻豆还算喜欢。玩具冰壶也到了，和麻豆玩了一会。英语小贴纸也到了，贴了几张。 最近几天没看旅游日历，今天和麻豆看了迪拜的帆船酒店。

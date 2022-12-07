@@ -24,5 +24,5 @@
 - 到年底了，不想复盘和规划，负面情绪开始有些冒头，这和自己的答应了不愿意写的东西还没交也有关系。
 - 早上来了以后又花了很多时间在网上闲逛。浪费时间。
 - 在微信群里问到了可以全局科学上网的工具，速蛙云，我之前不能使用的[[slidepad]]和helium，以及marginote的插件都可以使用了。#[[科学上网]]
-- 用chrome插件做了一个快速获取roam research中page名称和url链接的快捷键。shift+ctrl+t，用的插件叫做tab copier和tab copy。#[[快捷方式]]#[[roam research]]
+- 用chrome插件做了一个快速获取roam research中page名称和url链接的快捷键。shift+ctrl+t，用的插件叫做tab copier和tab copy。#[[快捷方式]]#[[Roam Research]]
 - [marginnote ](brain://api.thebrain.com/g7PXu0IyM0ucARb24SvxiA/92JkgOf1E0SRA0VgtXQbMQ/Marginnote)

@@ -18,7 +18,7 @@
 - [[可视化]]library
     - [[d3.js]]
 - 只需要一个浏览器就可以学习javascript，环境配置真是简单。
--  Roam JS Extensions#[[roam research]]
+-  Roam JS Extensions#[[Roam Research]]
 via[Roam JS Extensions](https://roam.davidvargas.me/)
 [[20201228]] 下午5:36
 - 开发框架

@@ -1,5 +1,9 @@
 - Inbox Name:: [[Inbox]]
-- API Key::5065494235:AAHaYKYCV_giTBN4lIOmNiakkHQsJ4JGoOs
+- API Key::5811813404:AAFv3v5zv-xy2TqGLsw581fBiCMlyIjNzqY
     - {{[[TODO]]}} update the Telegram API key above
-- Trusted Media Proxy:: [https://telegram-cors-proxy.herokuapp.com](https://telegram-cors-proxy.herokuapp.com/)
-- Latest Update ID:: 29221259
+- Chat Id::5019153523
+- Serendipity Page:: [[问题]]
+- Trusted Media Proxy:: https://telegroam-cors-proxy.herokuapp.com 
+- Latest Update ID:: 493136430
+- #[[参考资料]]
+    - [JimmyLv/telegroam: Telegroam: a bridge between Roam and Telegram. 🤩 When Roam Research receives one message, it automatically returns a previously random note 😁, based on https://github.com/mbrock/telegroam](https://github.com/JimmyLv/telegroam)

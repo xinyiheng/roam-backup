@@ -8,7 +8,7 @@
     - [[概念图]] 
         - the brain的思维导图可以画得特别大而总体不失控，就像一张复杂的网。我可以把the  brain当做一个^^建立关联^^的工具，当做 一个本地知识搜索引擎。就^^自由放任^^地用 吧。the brain是一张网，而[[kb(Knowledge database)]]用来建设局部思维地图。kb尽量保持秩序，但是一旦某一块知识地图失控也没事，我可以删除重建。非常方便。
     - the brain和roam research的关系@评论:当the roam组织很好的时候，把二者关联起来，the brain就像是个非常好的概念图展示板，而展示的内容很多来自roam
-        - 我喜欢的the brian的一个功能就是可以在思维导图上直接建立关联。[[roam research]]在[[sibling]]概念关联的时候不是很方便。这一点上，the brain和[[kb(Knowledge database)]]很像。
+        - 我喜欢的the brian的一个功能就是可以在思维导图上直接建立关联。[[Roam Research]]在[[sibling]]概念关联的时候不是很方便。这一点上，the brain和[[kb(Knowledge database)]]很像。
         - roam research更倾向于围绕一个核心概念写笔记。roam research中的一个page其实就像是用很多辅助理解的话语把一些node给粘到了一起，变成了一张饼。打个比喻，roam research的page就像是一大块撒了很多葡萄干的饼干，用’[[]]“括起来的内容就是葡萄干，散落在饼干表面。而the brain则就像是一串葡萄，主要在三维的空间(尽管展现形式只是平面的)巡视这串葡萄的结构。
         - 很多关键词汇我可以让两款软件联动#[[软件联动]]
     - [[本地文件管理]]

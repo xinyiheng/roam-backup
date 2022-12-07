@@ -24,5 +24,5 @@ via[ZotFile + Sci-Hub，巧妙玩转PDF下载！](https://iseex.github.io/2020-1
     - " https://diigo.com/0l4mz6
 - Zotero的好处是信息和文件可以分开存放，并借助第三方工具同步
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FqFFS7fjKUc.png?alt=media&token=e28183e0-ca7e-4630-8780-6e2f27004ff5)
-- 把文献导入到[[roam research]]
+- 把文献导入到[[Roam Research]]
     - https://twitter.com/wshuyi/status/1277068282512592897?ref_src=twsrc%5Etfw">June 28, 2020</a>

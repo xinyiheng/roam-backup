@@ -41,4 +41,4 @@ via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/I
         - Obsidian 的 Excalidraw 插件自定义中文字体Via[Obsidian 的 Excalidraw 插件自定义中文字体](https://www.uncoverman.com/excalidraw-plguin-in-obsidian-support-font-custom.html) [[20220413]] 17:11
 - ### 在[[ipad]]和mac同步obsidian
     - 使用的下面这个仓库。有时候会因为icloud同步速度较慢而导致数据不同步。[笔记](hook://file/L0Q13iqY1?p=aUNsb3Vkfm1kfm9ic2lkaWFuL0RvY3VtZW50cw==&n=%E7%AC%94%E8%AE%B0)
-- #[[软件联动]] 把[[roam research]]中的文档通过[[github]]备份到本地，然后用[[hazel]]自动复制到另一个文件夹中，这个文件夹作为obsidian的仓库来使用。
+- #[[软件联动]] 把[[Roam Research]]中的文档通过[[github]]备份到本地，然后用[[hazel]]自动复制到另一个文件夹中，这个文件夹作为obsidian的仓库来使用。

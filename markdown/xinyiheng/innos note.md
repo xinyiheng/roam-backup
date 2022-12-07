@@ -1,3 +1,3 @@
 - https://innos.io/space/492e7deb-e390-d187-f4ea-795fa36ec5cb?ps=492e7deb-e390-d187-f4ea-795fa36ec5cb,resource,a20d4bd4-3dc5-3b67-6599-c668141d5810,639270f0-c1e1-9057-7908-304d5008ceb4,772d7188-4749-d229-34d9-1ea3498bb7f1
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F24zYOJz7Ds.png?alt=media&token=4a10777c-6d35-47c5-863a-9c8ea82c8aff)
-- 最大的特点就是可以并列呈现2个笔记，虽然在Ui上有些可取之处，但是并没有太特别之处。这种并列查看多个笔记的功能[[roam research]]也可以做到
+- 最大的特点就是可以并列呈现2个笔记，虽然在Ui上有些可取之处，但是并没有太特别之处。这种并列查看多个笔记的功能[[Roam Research]]也可以做到

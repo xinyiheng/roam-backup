@@ -41,4 +41,4 @@
 - https://www.notion.so/xinyiheng/curio-73d5f92b7b4842218d4c5923ddbb7853
 - 隐藏所有的界面，整个表现为一个软木板
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWBxCSF1ZSh.png?alt=media&token=dec4dca7-68df-4f2d-81b5-3b4efd8d810e)
-- 以前，curio实现了所有参考资料的大一统，比如，关于一个项目所有要阅读的文章，包括pdf、epub、[[得到电子书]]、网页、本地保留的word，以及写作和整理要用到的mind node和scrivener软件的快捷跳转等等，把可以当做一个为了项目专门定制的包含各种数据和处理软件的工作流程。curio知道要阅读的文件在哪。roam research知道每一条标注，每一个想法(block)在哪。而[[roam research]]现在由于可以导入得到(通过印象笔记中转)、marginnote、网页内容(通过diigo中转)的内容，实现了所有标注内容的大一统。这两款软件实在是太棒了！！！！#[[洞见]]#[[文件管理]]#[[工作流]]#[[阅读管理]][[阅读批注]] @评论:没想到吧，后来在roam research的后面还添加了一个[[Devonthink]]
+- 以前，curio实现了所有参考资料的大一统，比如，关于一个项目所有要阅读的文章，包括pdf、epub、[[得到电子书]]、网页、本地保留的word，以及写作和整理要用到的mind node和scrivener软件的快捷跳转等等，把可以当做一个为了项目专门定制的包含各种数据和处理软件的工作流程。curio知道要阅读的文件在哪。roam research知道每一条标注，每一个想法(block)在哪。而[[Roam Research]]现在由于可以导入得到(通过印象笔记中转)、marginnote、网页内容(通过diigo中转)的内容，实现了所有标注内容的大一统。这两款软件实在是太棒了！！！！#[[洞见]]#[[文件管理]]#[[工作流]]#[[阅读管理]][[阅读批注]] @评论:没想到吧，后来在roam research的后面还添加了一个[[Devonthink]]

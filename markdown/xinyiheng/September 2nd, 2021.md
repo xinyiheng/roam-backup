@@ -6,7 +6,7 @@
         - 1.打开访达 > 菜单栏 - 显示 > 自定工具栏 > 将“显示简介”图标拖入工具栏
         - 2.设置完成后，每当需要对一个应用或文件添加注释，点击工具栏中对“显示简介”的图标按钮，在注释上输入就可以了。
         - 直接在文件上右键，按住option。选择“显示检查器”。这个方法的好处是，检查器窗口会随时根据文件变换。不用写完一个关一个。
-- [[roam research]]返回上一个page的#[[快捷方式]]cmd+[，以前总是没有找到。
+- [[Roam Research]]返回上一个page的#[[快捷方式]]cmd+[，以前总是没有找到。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FVNTcNDtwpz.png?alt=media&token=6bc56570-87be-48e2-9476-8e08891b2040)
 - 阅读[[Devonthink]]的使用文件
 - #问题{{[[TODO]]}}最近比较关注不同文件之间的格式转换，因为我使用的工具太多了，希望在不同的软件之间共享数据。

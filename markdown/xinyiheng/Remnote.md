@@ -3,7 +3,7 @@
     - Above, we see two types of Rem:: ____:::
     - Content that further describe Concepts, such as the decade DNA was discovered. In RemNote, we call these Descriptors because they *describe* a Concept.分为概念和描述，相当于思维导图中的node and description
     - Concepts that exist in the real world, such as DNA ,  | 5 Prime End and  | Transcription . These are real things - I could show you a piece of DNA or show you the process of  | Transcription . In RemNote, we call these  Concepts.
-- remnote已经支持[[graph图]]了，不仅如此，好像以后还会支持直接在graph图上修改。也支持pdf批注功能了。开发速度是在是快！在加上现在已经有的卡片记忆杀手锏，已经成为[[roam research]]的最大竞争对手。
+- remnote已经支持[[graph图]]了，不仅如此，好像以后还会支持直接在graph图上修改。也支持pdf批注功能了。开发速度是在是快！在加上现在已经有的卡片记忆杀手锏，已经成为[[Roam Research]]的最大竞争对手。
 - remnote的graph图真的有些超出我的设想，可以非常容易地自定义显示的元素。直接在graph上修改的功能使得一遍写作文档，一边用概念图来整理思想第一次成为了可能。remnote 在graph图的开发上真是后来居上。相比而言，roam research在的graph图真的就是摆设。远不如obsidian和remnote。
 - remnote的graph图像是用圆圈取代了方框的思维导图，它做的好的地方就是每个节点是展开还是收缩都悄无痕迹，让我一度没有看出它就是思维导图，还以为是概念图。它对我的启发是，只要[[the brain]]中的thought可以在不需要的时候收敛在某个节点一下，多放一些thought也不会overwhelming。#[[洞见]]#[[可视化]]
 - 在surface上使用remnote比在mac上还要好。
@@ -31,7 +31,7 @@
         - 复习的时候还可以编辑，甚至可以提醒以后再编辑。
         - 可以很方便地查看侧边栏文档里的闪卡，也就是只看某个文档里生成的闪卡，可以更专注于一个主题学习。
 - remnote和[[anki]]的区别是什么？
-    - remnote是结构化的，知识点之间是按照层级排列起来的。anki只是帮助记忆单个记忆点，记忆点之间的关系无法呈现出来。(我感觉学习骇客这个人做的从roam research转换为anki卡片的那个工具就有点像是在弥补anki的这个缺陷)。remnote的层级结构做的实在是太棒了，对于任何一个概念，它的从属关系表示得非常清晰，这一点，比[[roam research]]还要好很多，这真是我见过的体现层级结构最好的工具了。
+    - remnote是结构化的，知识点之间是按照层级排列起来的。anki只是帮助记忆单个记忆点，记忆点之间的关系无法呈现出来。(我感觉学习骇客这个人做的从roam research转换为anki卡片的那个工具就有点像是在弥补anki的这个缺陷)。remnote的层级结构做的实在是太棒了，对于任何一个概念，它的从属关系表示得非常清晰，这一点，比[[Roam Research]]还要好很多，这真是我见过的体现层级结构最好的工具了。
         - 具体看几个例子
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FfwL4lftMRA.png?alt=media&token=6784bfd0-530b-4228-9f07-0079a497c614)
             - 对于一个嵌套在大文档中的小文档，浮窗显示很人性化，可以帮助不点开链接就知道小文档中的内容![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F72HeCwWaN2.png?alt=media&token=110332c8-eb01-493d-9530-93dc0d69abbe)
@@ -45,7 +45,7 @@
 - remnote有一些类似[[Notion]]，就是文件可以**层层嵌套**，还有一点就是**色彩很丰富**，可以给每一行文字都换一种背景色。
 - 第三方插件
     - 最推荐的就是可视化关系图 叫做plugin graph view。可以为插件设置快捷方式(shortcut、hotkey)。我设置的打开这个插件的#[[快捷方式]]是alt+r
-- 和[[roam research]]比较
+- 和[[Roam Research]]比较
     - 有概念文档-概念标签-概念遗珠三种状态，分别对应着rem-reference-text reference
     - 层级显示非常清晰
 - API
