@@ -4,6 +4,6 @@
 - Chat Id::5019153523
 - Serendipity Page:: [[问题]]
 - Trusted Media Proxy:: https://telegroam-cors-proxy.herokuapp.com 
-- Latest Update ID:: 493136432
+- Latest Update ID:: 493136436
 - #[[参考资料]]
     - [JimmyLv/telegroam: Telegroam: a bridge between Roam and Telegram. 🤩 When Roam Research receives one message, it automatically returns a previously random note 😁, based on https://github.com/mbrock/telegroam](https://github.com/JimmyLv/telegroam)
