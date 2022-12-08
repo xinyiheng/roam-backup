@@ -241,3 +241,27 @@ https://t.co/SFFfaXtrVv
 I remember discussing each of these articles for hours over dinner with my wife when they first came out. Genuinely some of the most insightful ideas on freelancing, independent consulting, & entrepreneurship ever 
 
 ![](https://pbs.twimg.com/media/FjaRBSXVQAE2Y4B.jpg) ([View Tweet](https://twitter.com/fortelabs/status/1600626411714138112))
+- ### New highlights added [[December 8th, 2022]] at 5:34 PM
+    - @Ridderingand: Is it a blog? Is it a calendar?
+
+Idk but design like this makes me happy ❤️ https://t.co/vnTXI7Oxt9 ([View Tweet](https://twitter.com/Ridderingand/status/1600174758204559362))
+    - @mounika_2000: ![](https://pbs.twimg.com/media/FjbcQP4acAAAhbt.jpg) ([View Tweet](https://twitter.com/mounika_2000/status/1600708899770077184))
+    - @Heptabase: In the latest version, you can:
+
+- Open PDF in split mode.
+- Drag PDF directly into whiteboards.
+- Support East Asian text in PDF files. https://t.co/ODfMV2xjUW ([View Tweet](https://twitter.com/Heptabase/status/1600757345159553025))
+    - @Tisoga: 作者 @mattmochary  Mentor 过一路顶级公司的创始人：OpenAI, Notion, Reddit, Coinbase, Robinhood, YC, Sequoia 等等。
+
+另外这本书也是完全开源的，可以直接阅读这个 Google Doc。
+
+👇
+https://t.co/tGb8QmDmUH 
+
+![](https://pbs.twimg.com/media/FjcRe2mUAAAnXFA.jpg) ([View Tweet](https://twitter.com/Tisoga/status/1600767799969730560))
+    - @Rainmaker1973: Part of an overview of human history, this animation made with Blender shows how humans spread across the globe and their migration paths 
+
+[full video, History: In Context: https://t.co/QNSUk36x1T]
+https://t.co/p2svdpO0GD ([View Tweet](https://twitter.com/Rainmaker1973/status/1600768973033066496))
+- ### New highlights added [[December 8th, 2022]] at 5:54 PM
+    - @st7eveee: 确实猛 https://t.co/jQMhosTsyy ([View Tweet](https://twitter.com/st7eveee/status/1600719378621661184))
