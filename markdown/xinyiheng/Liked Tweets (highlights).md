@@ -224,3 +224,20 @@ Works great for mind maps, flow charts, org charts, moodboards, family trees. Yo
 Known issue: Using "Cmd/Ctrl+double click" to enter the line editor will not work as expected if you add a link in the arrow text then. CTRL+click will navigate the link. https://t.co/LSAWXMNUls ([View Tweet](https://twitter.com/zsviczian/status/1599895687927193600))
 - ### New highlights added [[December 6th, 2022]] at 9:44 AM
     - @mounika_2000: ![](https://pbs.twimg.com/media/FiKQqeMaUAAtruE.jpg) ([View Tweet](https://twitter.com/mounika_2000/status/1599606989625106436))
+- ### New highlights added [[December 8th, 2022]] at 3:34 PM
+    - @kosmik_app: A lot of you have asked for this, and we've listened! A sneak peak of what's coming to Kosmik next year... 🎮🎮 https://t.co/CULichDCxT ([View Tweet](https://twitter.com/kosmik_app/status/1600601778357211148))
+- ### New highlights added [[December 8th, 2022]] at 3:45 PM
+    - @Jackywine: 激动人心的时刻，#obsidian 支持了无限画布！！！
+这简直我的梦中功能！！
+https://t.co/SFFfaXtrVv 
+
+![](https://pbs.twimg.com/media/FjVlNzXaUAAo-Qr.jpg) ([View Tweet](https://twitter.com/Jackywine/status/1600296560528871424))
+    - @graphcommons: Network maps or graphs provide a common language that is both visual and analytical to make sense of relationships at scale. https://t.co/wJWe5jVGXq 2/5 
+
+![](https://pbs.twimg.com/media/FjY7xWgWAAAWkmE.jpg) ([View Tweet](https://twitter.com/graphcommons/status/1600533743458041862))
+- ### New highlights added [[December 8th, 2022]] at 4:14 PM
+    - @fortelabs: Just received my copies of The Art of Gig by @vgr 
+
+I remember discussing each of these articles for hours over dinner with my wife when they first came out. Genuinely some of the most insightful ideas on freelancing, independent consulting, & entrepreneurship ever 
+
+![](https://pbs.twimg.com/media/FjaRBSXVQAE2Y4B.jpg) ([View Tweet](https://twitter.com/fortelabs/status/1600626411714138112))
