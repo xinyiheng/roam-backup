@@ -265,3 +265,13 @@ https://t.co/tGb8QmDmUH
 https://t.co/p2svdpO0GD ([View Tweet](https://twitter.com/Rainmaker1973/status/1600768973033066496))
 - ### New highlights added [[December 8th, 2022]] at 5:54 PM
     - @st7eveee: 确实猛 https://t.co/jQMhosTsyy ([View Tweet](https://twitter.com/st7eveee/status/1600719378621661184))
+- ### New highlights added [[December 8th, 2022]] at 8:35 PM
+    - @juanbuis: sorry i can’t come tonight, i’m watching the rock paper scissors simulator season finale https://t.co/n4l5xZtVHV ([View Tweet](https://twitter.com/juanbuis/status/1600155605112496129))
+    - @TansuYegen: The display behind the truck shows the front so that you can decide to overtake it... https://t.co/GSYPsyZ53I ([View Tweet](https://twitter.com/TansuYegen/status/1600477883729793024))
+    - @ash_lmb: To share your weakness is to make yourself vulnerable.
+
+To make yourself vulnerable is to show your strength.
+
+ — Criss Jami 
+
+![](https://pbs.twimg.com/media/FjYViABVUAA2dej.jpg) ([View Tweet](https://twitter.com/ash_lmb/status/1600490395774984192))
