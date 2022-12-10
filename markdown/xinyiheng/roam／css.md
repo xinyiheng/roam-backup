@@ -1009,7 +1009,7 @@ span.rm-page-ref[data-tag="人际"] {
     font-weight: 500;
 }```
 - 数字花园[[hongse]] @评论:暂时暂停使用，因为和roam-tookit里面的功能冲突
-    - ```css
+    - ```typescript
 
 
 .roam-block-container {
@@ -1041,7 +1041,7 @@ span.rm-page-ref[data-tag="人际"] {
 
 /* Override image, iframe, pdf resize form abhay 1-30-21 */
 
-div[style*="width: 580px;"], div[style*="width: 720px;"] {
+/* div[style*="width: 580px;"], div[style*="width: 720px;"] {
     width: 100% !important;
     max-width: 1100px !important;
 }
@@ -1050,9 +1050,9 @@ div[style*="height: 720px;"] {
     height: 85vh !important;
 }
 
-/* Search bar wide when typing in it */
+Search bar wide when typing in it 
 
-/* These account for left sidebar being open and making sure search bar stays on top of it */
+
 .roam-sidebar-container.noselect:hover {
     z-index: 1001;
 }
@@ -1075,6 +1075,7 @@ div[style*="height: 720px;"] {
     list-style-type: none !important;
     margin-left: -35px;
 }
+*/
 
 /* Buttons / Icons in menu area by search bar */
 
@@ -1116,7 +1117,7 @@ div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-ch
 }
 
 ```
-    - ```css
+    - ```javascript
 
 div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 800px) / 2);"], div[style*="padding-right: calc((100% - 568px) / 2); padding-left: calc((100% - 1032px) / 2);"] {
     
@@ -1172,9 +1173,8 @@ div[style*="height: 720px;"] {
     height: 85vh !important;
 }
 
-/* Search bar wide when typing in it */
+/* Search bar wide when typing in it 
 
-/* These account for left sidebar being open and making sure search bar stays on top of it */
 .roam-sidebar-container.noselect:hover {
     z-index: 1001;
 }
@@ -1197,7 +1197,7 @@ div[style*="height: 720px;"] {
     list-style-type: none !important;
     margin-left: -35px;
 }
-
+*/
 /* Buttons / Icons in menu area by search bar */
 
 /* Filter button was kind of high and to the left */
