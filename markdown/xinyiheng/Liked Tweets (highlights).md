@@ -295,3 +295,75 @@ A step-by-step guide👇
 作者 @krahets 宇栋攥写的一本免费算法入门书《Hello 算法》，全书使用动画图解、提供可直接运行的源代码、可向作者提问与讨论，对于想要入门算法的同学非常友好。内容开源。 
 
 ![](https://pbs.twimg.com/media/FjyWnxYVIAAPXGI.jpg) ([View Tweet](https://twitter.com/decohack/status/1602321184120778754))
+- ### New highlights added [[December 13th, 2022]] at 10:50 AM
+    - @TechAmazing: A simple and genius lock https://t.co/dWIWh08vcM ([View Tweet](https://twitter.com/TechAmazing/status/1602148971136385026))
+    - @OTerrifying: Nature showing what terror looks like https://t.co/N0QNrD8c9B ([View Tweet](https://twitter.com/OTerrifying/status/1602164783200935937))
+    - @tingyun97: MVLogos Hope是全球规模最庞大的海上流动书店，由德国基督教慈善组织好书共享协会营运，船舶上驻守有约400名来自60个国家及地区的义工。到访过逾160个国家及地区，接待了近4,000万名访客登船。 
+
+![](https://pbs.twimg.com/media/FjxQgtZVEAA7uM_.jpg) 
+
+![](https://pbs.twimg.com/media/FjxQgtcUUAE5mwQ.jpg) 
+
+![](https://pbs.twimg.com/media/FjxQgwQUcAAKXVK.jpg) 
+
+![](https://pbs.twimg.com/media/FjxQgtaVUAAdziU.jpg) ([View Tweet](https://twitter.com/tingyun97/status/1602244102170431488))
+    - @ash_lmb: If you want to be incrementally better: Be competitive.
+
+If you want to be exponentially better: Be cooperative. 
+
+![](https://pbs.twimg.com/media/FjyFcsEVUAAS3e_.jpg) ([View Tweet](https://twitter.com/ash_lmb/status/1602302299111534592))
+    - @ianbicking: Inspired by @codexeditor's posts/RTs of #midjourney UI designs I thought I'd do a few... can't decide if I prefer the fantastical (escaping the physical bounds of devices) or the practical. Well... maybe the practical are a bit boring, but real life is a bit boring... 
+
+![](https://pbs.twimg.com/media/Fj0E3EGXwAAqMMt.jpg) 
+
+![](https://pbs.twimg.com/media/Fj0EcR5XEAEDe78.jpg) 
+
+![](https://pbs.twimg.com/media/Fj0EcR4WIAEBxga.jpg) 
+
+![](https://pbs.twimg.com/media/Fj0EcRzXwAIb8dd.jpg) ([View Tweet](https://twitter.com/ianbicking/status/1602442428715245569))
+    - @tingyun97: 图自朋友圈
+此刻在北京 
+
+![](https://pbs.twimg.com/media/FjwsamgVQAA3cX7.jpg) 
+
+![](https://pbs.twimg.com/media/FjwsameUUAAr7jc.jpg) 
+
+![](https://pbs.twimg.com/media/FjwsamdVQAAesC2.jpg) 
+
+![](https://pbs.twimg.com/media/FjwsamgVEAENacr.jpg) ([View Tweet](https://twitter.com/tingyun97/status/1602204615927246849))
+    - @FrRonconi: This is how #ChatGPT will change forever any form of knowledge
+
+1 picture
+2 ocr and copy
+3 paste
+4 enjoy
+
+#GPT3 #AI #Algorithms #MachineLearning #Learning @OpenAI
+@JolaBurnett @Hana_ElSayyed @CurieuxExplorer @anand_narang @kalydeoo @enilev @efipm @labordeolivier @mvollmer1 @AkwyZ https://t.co/EVODBni86D ([View Tweet](https://twitter.com/FrRonconi/status/1602213747015417858))
+    - @ggarlic: @loverty 本中年人表示，我就是不爽公司显示器，直接 jd 了一个 27 寸 4k 的 ([View Tweet](https://twitter.com/ggarlic/status/1602238403881623556))
+    - @Rainmaker1973: Some species of porcupine fish use a neurotoxin which is 1200 times stronger than cyanide, but they have a nice smile 
+
+[read more: https://t.co/kM08MOmXDJ]
+[📹 Gotzon Mantuliz: https://t.co/g10wITyVev]
+https://t.co/lyLXXwvsDr ([View Tweet](https://twitter.com/Rainmaker1973/status/1602386735962390540))
+- ### New highlights added [[December 13th, 2022]] at 11:12 AM
+    - @aweyenberg: 🎬 Making of Neo’s apartment with #blender3d https://t.co/x8fRNtW2zI ([View Tweet](https://twitter.com/aweyenberg/status/1601955968526565376))
+    - @patriciamou_: rearranged my room and created a new reading nook ☺️⛈️ 
+
+![](https://pbs.twimg.com/media/Fjv8ay6VsAAYZi_.jpg) ([View Tweet](https://twitter.com/patriciamou_/status/1602151634901291009))
+    - @80Level: Artist @minatop turned a stylized 2D illustration of a tree into a 3D model using Blender.
+
+See more: https://t.co/iXdN3VOJSb
+
+#blender #blender3d #b3d #blendercommunity #blenderart #blenderartist #BNPR #npr https://t.co/IOMQ4tmwuS ([View Tweet](https://twitter.com/80Level/status/1602249402638163968))
+    - @tingyun97: ![](https://pbs.twimg.com/media/FjyIMPaVsAA2Dsm.jpg) ([View Tweet](https://twitter.com/tingyun97/status/1602305320373481472))
+    - @clementmor1: Le Bosquet. 🌿🌳🍃 https://t.co/7CFUnw147D ([View Tweet](https://twitter.com/clementmor1/status/1602328824884170756))
+    - @charlesetc: @codexeditor Love it! I made these the other day using the phrase 'user interface design toolkit' 
+
+![](https://pbs.twimg.com/media/FjzmXQ9WIAAKe8c.jpg) 
+
+![](https://pbs.twimg.com/media/FjzmZ8hXEAUVmPq.jpg) 
+
+![](https://pbs.twimg.com/media/Fjzmc8pXoAATRZ1.jpg) 
+
+![](https://pbs.twimg.com/media/FjzmgrCXoAEQLRG.jpg) ([View Tweet](https://twitter.com/charlesetc/status/1602409025869594624))
