@@ -367,3 +367,7 @@ See more: https://t.co/iXdN3VOJSb
 ![](https://pbs.twimg.com/media/Fjzmc8pXoAATRZ1.jpg) 
 
 ![](https://pbs.twimg.com/media/FjzmgrCXoAEQLRG.jpg) ([View Tweet](https://twitter.com/charlesetc/status/1602409025869594624))
+- ### New highlights added [[December 13th, 2022]] at 1:35 PM
+    - @visualizevalue: "People don't remember books, they remember sentences." 
+
+![](https://pbs.twimg.com/media/Fjy0QV3XkAklAit.png) ([View Tweet](https://twitter.com/visualizevalue/status/1602353780611493888))
