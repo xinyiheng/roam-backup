@@ -371,3 +371,7 @@ See more: https://t.co/iXdN3VOJSb
     - @visualizevalue: "People don't remember books, they remember sentences." 
 
 ![](https://pbs.twimg.com/media/Fjy0QV3XkAklAit.png) ([View Tweet](https://twitter.com/visualizevalue/status/1602353780611493888))
+- ### New highlights added [[December 13th, 2022]] at 8:31 PM
+    - @Davistaylorbro: For #UI designers, #midjourney is a new way to find inspiration for layout and style. Is this plus #chatgpt3 the future of experience design? 
+
+![](https://pbs.twimg.com/media/FjtjXt6aMAAKt_U.jpg) ([View Tweet](https://twitter.com/Davistaylorbro/status/1601983354416795649))
