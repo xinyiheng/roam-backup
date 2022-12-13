@@ -275,3 +275,23 @@ To make yourself vulnerable is to show your strength.
  — Criss Jami 
 
 ![](https://pbs.twimg.com/media/FjYViABVUAA2dej.jpg) ([View Tweet](https://twitter.com/ash_lmb/status/1600490395774984192))
+- ### New highlights added [[December 13th, 2022]] at 10:10 AM
+    - @CatoMinor3: So I decided to become a supporter of Obsidian (Catalyst License) just to experiment with the new Canvas. My impressions: 
+1) For the first iteration, really good! Almost as good as Heptabase that is all built around this and updated already many times. /c 
+
+![](https://pbs.twimg.com/media/Fjm0h2XWIAMIIOG.png) ([View Tweet](https://twitter.com/CatoMinor3/status/1601510562797875200))
+    - @rdpalacio: Here's how to conduct a literature review using Google Scholar, @zotero, @RsrchRabbit , and @obsdmd .
+
+A step-by-step guide👇 
+
+![](https://pbs.twimg.com/media/Fjof7rzXkAEyn6O.jpg) ([View Tweet](https://twitter.com/rdpalacio/status/1601640985858957312))
+    - @vikingmute: 我做自由职业已经 1000 多天了，从没想到我能坚持这么久，最近花时间整理了一下整个过程我的成果/收入/经验教训，拍了视频/文章，如果感兴趣，大家可以看看，希望对想做自由职业的同学有所帮助。
+
+文字版：https://t.co/GKoArNIeMh
+
+视频版：https://t.co/Rn0LroHxoN ([View Tweet](https://twitter.com/vikingmute/status/1602134715120570368))
+    - @decohack: https://t.co/LRfeOfIrnr
+
+作者 @krahets 宇栋攥写的一本免费算法入门书《Hello 算法》，全书使用动画图解、提供可直接运行的源代码、可向作者提问与讨论，对于想要入门算法的同学非常友好。内容开源。 
+
+![](https://pbs.twimg.com/media/FjyWnxYVIAAPXGI.jpg) ([View Tweet](https://twitter.com/decohack/status/1602321184120778754))
