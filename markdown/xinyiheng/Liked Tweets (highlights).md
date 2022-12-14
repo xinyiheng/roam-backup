@@ -415,3 +415,7 @@ Christmas Dashboard
 ![](https://pbs.twimg.com/media/Fj5R7dbUUAExath.jpg) 
 
 ![](https://pbs.twimg.com/media/Fj5R93eVUAAkWph.jpg) ([View Tweet](https://twitter.com/Bsunter/status/1602812488537423872))
+- ### New highlights added [[December 14th, 2022]] at 5:09 PM
+    - @fortelabs: 1/ Want to know the 10 most popular highlights from my book Building a Second Brain?
+
+I've just shared them on @goodreads, plus my behind-the-scenes commentary on where those ideas came from, at the link below 👇 ([View Tweet](https://twitter.com/fortelabs/status/1602888468111056896))
