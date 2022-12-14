@@ -401,3 +401,17 @@ Thanks Ralph!
     - @tingyun97: 人何之为人，人生又何之为人生？《你想活出怎样的人生》，期待宫崎骏在最后一部收官之作给出他的回答。 
 
 ![](https://pbs.twimg.com/media/Fj53KZrUAAAoCGc.jpg) ([View Tweet](https://twitter.com/tingyun97/status/1602849547452968960))
+- ### New highlights added [[December 14th, 2022]] at 2:54 PM
+    - @Bsunter: Really liked some of the fantastical AI generated "@notion dashboards" posted by @codexeditor and others so tried making a few of them 😁
+
+More "dashboard" than "notion" in most cases, but kind of obsessed with the hyper-skeuomorphic app style
+
+Christmas Dashboard 
+
+![](https://pbs.twimg.com/media/Fj5Rn6IUUAANidl.jpg) 
+
+![](https://pbs.twimg.com/media/Fj5RwvlVQAANudZ.jpg) 
+
+![](https://pbs.twimg.com/media/Fj5R7dbUUAExath.jpg) 
+
+![](https://pbs.twimg.com/media/Fj5R93eVUAAkWph.jpg) ([View Tweet](https://twitter.com/Bsunter/status/1602812488537423872))
