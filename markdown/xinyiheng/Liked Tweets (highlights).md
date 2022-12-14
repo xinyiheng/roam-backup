@@ -375,3 +375,20 @@ See more: https://t.co/iXdN3VOJSb
     - @Davistaylorbro: For #UI designers, #midjourney is a new way to find inspiration for layout and style. Is this plus #chatgpt3 the future of experience design? 
 
 ![](https://pbs.twimg.com/media/FjtjXt6aMAAKt_U.jpg) ([View Tweet](https://twitter.com/Davistaylorbro/status/1601983354416795649))
+- ### New highlights added [[December 14th, 2022]] at 9:35 AM
+    - @pascal_bornet: Even Walt Disney will tell you that designing reusable components is the key to success
+
+Thanks Ralph!
+
+#inspiration #design #technology https://t.co/wMAEa1QLhQ ([View Tweet](https://twitter.com/pascal_bornet/status/1602543879848427523))
+    - @tingyun97: 看到这张图不免感叹，苏轼来来回回，真是把北宋这点疆域极限丈量了个遍。 
+
+![](https://pbs.twimg.com/media/Fj16xxyUoAAhWFy.jpg) ([View Tweet](https://twitter.com/tingyun97/status/1602572054158606336))
+    - @waylybaye: 这本书写的不错，终于明白荆州的战略意义了。读了一章后立马下单了同系列的《透过地理看历史：大航海时代》，我玩游戏最喜欢的就是在世界各地建立殖民地，建造横跨欧亚非的铁路。可是现有游戏总感觉缺点什么，不够爽，我一定要自己做一款游戏…… 
+
+![](https://pbs.twimg.com/media/Fj3GOonVsAAn795.jpg) ([View Tweet](https://twitter.com/waylybaye/status/1602655009325268997))
+- ### New highlights added [[December 14th, 2022]] at 10:15 AM
+    - @mainroadly: 徕芬的这个广告创意不错，生活化、用卖点打动人心。 https://t.co/QLg2f72KVv ([View Tweet](https://twitter.com/mainroadly/status/1602505807869771781))
+    - @paulg: My office at this moment. The papers on the desk are notes for a new essay. After dropping 10 yo off at school, I go for a walk and think about what to write next. I bring a piece of paper to scribble down notes that I never read, and probably couldn't. 
+
+![](https://pbs.twimg.com/media/Fj3-jXBWIAAEmDB.jpg) ([View Tweet](https://twitter.com/paulg/status/1602717511274958850))
