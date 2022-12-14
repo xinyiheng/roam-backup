@@ -392,3 +392,12 @@ Thanks Ralph!
     - @paulg: My office at this moment. The papers on the desk are notes for a new essay. After dropping 10 yo off at school, I go for a walk and think about what to write next. I bring a piece of paper to scribble down notes that I never read, and probably couldn't. 
 
 ![](https://pbs.twimg.com/media/Fj3-jXBWIAAEmDB.jpg) ([View Tweet](https://twitter.com/paulg/status/1602717511274958850))
+- ### New highlights added [[December 14th, 2022]] at 11:14 AM
+    - @ClassicalMyths: 🫒Temple of Concordia in Agrigento on Sicily🫒
+
+📷Alfio Finocchiaro/Shutterstock 
+
+![](https://pbs.twimg.com/media/Fjyw5PFXoAEfArZ.jpg) ([View Tweet](https://twitter.com/ClassicalMyths/status/1602350069373607936))
+    - @tingyun97: 人何之为人，人生又何之为人生？《你想活出怎样的人生》，期待宫崎骏在最后一部收官之作给出他的回答。 
+
+![](https://pbs.twimg.com/media/Fj53KZrUAAAoCGc.jpg) ([View Tweet](https://twitter.com/tingyun97/status/1602849547452968960))
