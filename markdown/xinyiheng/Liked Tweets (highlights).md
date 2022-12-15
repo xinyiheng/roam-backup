@@ -419,3 +419,31 @@ Christmas Dashboard
     - @fortelabs: 1/ Want to know the 10 most popular highlights from my book Building a Second Brain?
 
 I've just shared them on @goodreads, plus my behind-the-scenes commentary on where those ideas came from, at the link below 👇 ([View Tweet](https://twitter.com/fortelabs/status/1602888468111056896))
+- ### New highlights added [[December 15th, 2022]] at 11:12 AM
+    - @Artifexx: Note Taking with @obsdmd is pure bliss. Over years I developed my own system for academic notes and today finally I wrote on the ideas.
+
+Check out the long version, or follow the thread
+
+ https://t.co/YIbpRLuhcm ([View Tweet](https://twitter.com/Artifexx/status/1602904072952381441))
+    - @librarymindset: 7 Books That Will Make You Calmer
+
+1) 
+
+![](https://pbs.twimg.com/media/Fj7TwKgVUAAJJwx.jpg) ([View Tweet](https://twitter.com/librarymindset/status/1602953485082718209))
+    - @OzolinsJanis: Good work comes from a lot of bad work. 
+
+![](https://pbs.twimg.com/media/Fj79AhjXgAALpdq.png) ([View Tweet](https://twitter.com/OzolinsJanis/status/1602996833642504199))
+    - @AdamMGrant: Building strong relationships is not about arguing less. It's about arguing more constructively.
+
+The goal is not to reach consensus on all your opinions or share all your values.
+
+It's to understand each other's opinions and respect each other's values.
+
+https://t.co/7DCpmk9GBy 
+
+![](https://pbs.twimg.com/media/Fj88SDCWIAUDlXJ.png) ([View Tweet](https://twitter.com/AdamMGrant/status/1603066871821074434))
+    - @seanwei001: 猫有一种精确的行走方式，称为直接记录。他们的后爪会没有误差地落在前爪的位置内，最大限度地减少噪音和可见的足迹，同时确保更稳定的立足点。 https://t.co/KdvzDs5nUx ([View Tweet](https://twitter.com/seanwei001/status/1603123196714024960))
+    - @ayuan1000: #每日一图 数据的可视化是门学问，这张图把人类这个物种的历史全概括了，真赞。 
+
+![](https://pbs.twimg.com/media/Fj99DphXEAEN65o.jpg) ([View Tweet](https://twitter.com/ayuan1000/status/1603137496971345920))
+    - @Paul_Rony: Kill all the tabs! The web browser needs to work like your desktop: objects stay where they are spatially and are visually recognizable! https://t.co/oawVZ3zHL4 ([View Tweet](https://twitter.com/Paul_Rony/status/1603142700282384385))
