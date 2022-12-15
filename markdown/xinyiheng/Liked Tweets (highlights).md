@@ -447,3 +447,25 @@ https://t.co/7DCpmk9GBy
 
 ![](https://pbs.twimg.com/media/Fj99DphXEAEN65o.jpg) ([View Tweet](https://twitter.com/ayuan1000/status/1603137496971345920))
     - @Paul_Rony: Kill all the tabs! The web browser needs to work like your desktop: objects stay where they are spatially and are visually recognizable! https://t.co/oawVZ3zHL4 ([View Tweet](https://twitter.com/Paul_Rony/status/1603142700282384385))
+- ### New highlights added [[December 15th, 2022]] at 3:49 PM
+    - @homsiT: Huge news: after 1.5 years of private beta, thousands of testers, and a looot of incredible work by the team...
+
+@ReadwiseReader is finally in public beta!
+
+Save everything to one place, highlight like a pro, and replace several apps with one.
+
+https://t.co/xsbJnS0U5t ([View Tweet](https://twitter.com/homsiT/status/1603143634047705089))
+- ### New highlights added [[December 15th, 2022]] at 4:13 PM
+    - @runwayml: With new AI Magic Tools dropping every week, we figured you might have missed a few.
+
+All 30 available now: https://t.co/P463JDW34S https://t.co/lcbdGM8p1B ([View Tweet](https://twitter.com/runwayml/status/1603038545765187584))
+    - @SachinRamje: 12 powerful psychological tips to avoid bad decisions:
+
+h/t @_alexbrogan 
+
+![](https://pbs.twimg.com/media/Fj9RSCBX0AYjfr1.jpg) ([View Tweet](https://twitter.com/SachinRamje/status/1603089369405046784))
+    - @hahahahohohe: #ChatGPT model is instructed to generate text in Github Flavored Markdown style, which is then rendered as HTML
+
+This means that its replies can contain not only plain text, but code blocks, tables, links, lists, footnotes, quotes, etc. And yes, you can also embed images and gifs 
+
+![](https://pbs.twimg.com/media/Fj9Q6wLWYAQToUu.png) ([View Tweet](https://twitter.com/hahahahohohe/status/1603089452720594945))
