@@ -1,0 +1,7 @@
+- Author:: [[Daniel Doyon]]
+- Full Title:: Getting Started With Reader
+- Category:: #articles
+- URL:: https://blog.readwise.io/p/bf87944f-b0fe-4f08-a461-f75ab8aded6a/
+- ### Highlights first synced by #Readwise [[December 16th, 2022]]
+    - Welcome to the public beta of Reader! Walkthrough guides can be really boring so we've laced ours with spicy memes to keep those dopamine receptors firing while we subliminally demonstrate the basics of our software. We hope you don't mind a little fun. ([View Highlight](https://read.readwise.io/read/01gmae5mjectw5frxgb5y4b554))
+    - First, although we generally prefer our clean, distraction-free reading experience, there are some exceptions where the original site is more pleasing. In these cases, you can honor the OP and read as they intended. ([View Highlight](https://read.readwise.io/read/01gmaed7eyzy53httxr21jeese))

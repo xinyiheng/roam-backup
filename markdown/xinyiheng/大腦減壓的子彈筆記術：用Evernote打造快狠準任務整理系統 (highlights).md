@@ -1,0 +1,6 @@
+- Author:: [[電腦玩物站長Esor]]
+- Full Title:: 大腦減壓的子彈筆記術：用Evernote打造快狠準任務整理系統
+- Category:: #books
+- ### Highlights first synced by #Readwise [[December 16th, 2022]]
+    - 不过里面更多的是我的创造、我的修正，目的是希望创建一个真正能够去实践的改 变。然后，这个系统架构在我自己最爱用，也最擅用的Evernote上。 ([View Highlight](https://read.readwise.io/read/01gmafd4fndxhmj25em6r4yv7f))
+    - ![](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/16036092/id_59-Image00012.jpg) ([View Highlight](https://read.readwise.io/read/01gmc9zg006p61364sdq4gsy5q))

@@ -469,3 +469,8 @@ h/t @_alexbrogan
 This means that its replies can contain not only plain text, but code blocks, tables, links, lists, footnotes, quotes, etc. And yes, you can also embed images and gifs 
 
 ![](https://pbs.twimg.com/media/Fj9Q6wLWYAQToUu.png) ([View Tweet](https://twitter.com/hahahahohohe/status/1603089452720594945))
+- ### New highlights added [[December 16th, 2022]] at 10:14 AM
+    - @TechAmazing: This is not a concept or fake. This is real technology. Right now! Nimo Planet wants to make today's laptop history with their state-of-the-art smart glasses. Beta was earlier this year. Expected to ship in early 2023
+Source @pascal_bornet https://t.co/R1t2ZgXiFC ([View Tweet](https://twitter.com/TechAmazing/status/1603429686138310658))
+    - @HiTw93: #奇妙效果 第五期推荐一个这周看到的很高级的人物卡片效果展示「Profile Card Hover Effect」，比较适合放到类似设计师官网人物介绍模块，整体通过纯 CSS 来实现，很简单使用的 transition，动画完全不拖泥带水，爱好交互设计的小伙伴可以去玩玩。
+🤖 https://t.co/t2IsEf2L9U https://t.co/2tlO7HAqPl ([View Tweet](https://twitter.com/HiTw93/status/1603541163415412737))
