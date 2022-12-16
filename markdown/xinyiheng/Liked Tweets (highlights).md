@@ -474,3 +474,5 @@ This means that its replies can contain not only plain text, but code blocks, ta
 Source @pascal_bornet https://t.co/R1t2ZgXiFC ([View Tweet](https://twitter.com/TechAmazing/status/1603429686138310658))
     - @HiTw93: #奇妙效果 第五期推荐一个这周看到的很高级的人物卡片效果展示「Profile Card Hover Effect」，比较适合放到类似设计师官网人物介绍模块，整体通过纯 CSS 来实现，很简单使用的 transition，动画完全不拖泥带水，爱好交互设计的小伙伴可以去玩玩。
 🤖 https://t.co/t2IsEf2L9U https://t.co/2tlO7HAqPl ([View Tweet](https://twitter.com/HiTw93/status/1603541163415412737))
+- ### New highlights added [[December 16th, 2022]] at 2:14 PM
+    - @Rainmaker1973: This device made by Chinesec company Zhenjia allows an easy and intuitive visualization of a model created with interior design software, giving the customer a near VR perspective [find more: https://t.co/AB86HkDPW3] https://t.co/qYXA7SP2Eb ([View Tweet](https://twitter.com/Rainmaker1973/status/1603373051512750080))
