@@ -26,3 +26,5 @@
     - 这时候我们需要创建的是一套以少驭多的系统，我们不要在那一群混乱的 杂事上面去执行，而是把他们先归结到、关联到、聚焦到那些最终的专案目标上来做整理。 ([View Highlight](https://read.readwise.io/read/01gmd36em1q0k3rs40mb76fkw0))
     - 行动完成就划掉，背后也没有关联到其他行动，这个就是单一次的行动。这种行动做完了，没有办法在未来继续为我延伸出更多价值，或是慢慢累积成为某个更大的成果。那么，这 种行动应该要少作为好。因为这就是我们常常觉得自己瞎忙的原因：都是在做一些单一的行动。 ([View Highlight](https://read.readwise.io/read/01gmd39hr1js7evz5pckytr0t8))
     - 去把很多行动关联在一起，让这些原本看似平淡、无聊、琐碎的事情，最后 串联出一个对自己来讲很有价值的目标，这是可能的吗？当他这样思考的时候，他发现既然他每天都必须买菜，那么与其平淡无奇的买菜，不如帮自己设定一个目标，这个目标叫做“帮助家人尝试健康又美味的蔬食晚餐”。 ([View Highlight](https://read.readwise.io/read/01gmd3bjycmps7wts751gp5aj9))
+- ### New highlights added [[December 17th, 2022]] at 6:00 PM
+    - 知道每一个当下做什么最有效率的系统 ([View Highlight](https://read.readwise.io/read/01gmfjnp2p7s8js0ey9zdwcsvc))
