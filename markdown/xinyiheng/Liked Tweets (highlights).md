@@ -476,3 +476,8 @@ Source @pascal_bornet https://t.co/R1t2ZgXiFC ([View Tweet](https://twitter.com/
 🤖 https://t.co/t2IsEf2L9U https://t.co/2tlO7HAqPl ([View Tweet](https://twitter.com/HiTw93/status/1603541163415412737))
 - ### New highlights added [[December 16th, 2022]] at 2:14 PM
     - @Rainmaker1973: This device made by Chinesec company Zhenjia allows an easy and intuitive visualization of a model created with interior design software, giving the customer a near VR perspective [find more: https://t.co/AB86HkDPW3] https://t.co/qYXA7SP2Eb ([View Tweet](https://twitter.com/Rainmaker1973/status/1603373051512750080))
+- ### New highlights added [[December 19th, 2022]] at 2:34 PM
+    - @ekzhang1: I got cross-browser and desktop/mobile agnostic one-finger, two-finger, and multi-finger zoom, pan, and pinch gestures working on Dispict!
+
+How long did it take? 5 hours. Was it worth it? Hell yeah, it feels so great when it works. ❤️‍🩹 https://t.co/HEP9dwGMNb ([View Tweet](https://twitter.com/ekzhang1/status/1604308746582208512))
+    - @mounika_2000: ![](https://pbs.twimg.com/media/FiKRQkyaMAAGZAS.jpg) ([View Tweet](https://twitter.com/mounika_2000/status/1604680421425520642))
