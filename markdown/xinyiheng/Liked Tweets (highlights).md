@@ -481,3 +481,11 @@ Source @pascal_bornet https://t.co/R1t2ZgXiFC ([View Tweet](https://twitter.com/
 
 How long did it take? 5 hours. Was it worth it? Hell yeah, it feels so great when it works. ❤️‍🩹 https://t.co/HEP9dwGMNb ([View Tweet](https://twitter.com/ekzhang1/status/1604308746582208512))
     - @mounika_2000: ![](https://pbs.twimg.com/media/FiKRQkyaMAAGZAS.jpg) ([View Tweet](https://twitter.com/mounika_2000/status/1604680421425520642))
+- ### New highlights added [[December 19th, 2022]] at 9:49 PM
+    - @pascal_bornet: Is this the future of Christmas shopping?
+
+Credit: Nike
+#innovation #AR # VR #AugmentedReality https://t.co/5rXCsMXExj ([View Tweet](https://twitter.com/pascal_bornet/status/1604754709000200193))
+    - @tingyun97: 这张图片里，北京像极了沿海城市！ 
+
+![](https://pbs.twimg.com/media/FkU8OiiUcAE-uaM.jpg) ([View Tweet](https://twitter.com/tingyun97/status/1604755070834290688))
