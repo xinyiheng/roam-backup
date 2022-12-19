@@ -489,3 +489,7 @@ Credit: Nike
     - @tingyun97: 这张图片里，北京像极了沿海城市！ 
 
 ![](https://pbs.twimg.com/media/FkU8OiiUcAE-uaM.jpg) ([View Tweet](https://twitter.com/tingyun97/status/1604755070834290688))
+- ### New highlights added [[December 19th, 2022]] at 10:13 PM
+    - @fortelabs: PSA: We have a BASB podcast 📣
+
+In under 10 min per episode, it gives you the tools to thrive in our digital, hyper-connected world. ([View Tweet](https://twitter.com/fortelabs/status/1604480905019621376))
