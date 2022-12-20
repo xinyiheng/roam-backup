@@ -493,3 +493,17 @@ Credit: Nike
     - @fortelabs: PSA: We have a BASB podcast 📣
 
 In under 10 min per episode, it gives you the tools to thrive in our digital, hyper-connected world. ([View Tweet](https://twitter.com/fortelabs/status/1604480905019621376))
+- ### New highlights added [[December 20th, 2022]] at 10:12 PM
+    - @AlbertoCairo: New post: The joy of infographics and the value of subjectivity https://t.co/ZKu8wPdumo
+
+About @ChristiansenJen's and @nigelblue's new books.
+
+#dataviz #infographics #dataJournalism 
+
+![](https://pbs.twimg.com/media/FkW0ol2XECsJHRk.jpg) ([View Tweet](https://twitter.com/AlbertoCairo/status/1604887510215172097))
+- ### New highlights added [[December 20th, 2022]] at 10:32 PM
+    - @culturaltutor: Why does Argentina wear a pale blue and white football kit?
+
+It's a story that involves the Byzantine Empire, Renaissance painters, Napoleon, and a revolution... 
+
+![](https://pbs.twimg.com/media/FkUXAz4XoAIx29Z.jpg) ([View Tweet](https://twitter.com/culturaltutor/status/1604716512954171393))
