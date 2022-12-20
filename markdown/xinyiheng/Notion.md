@@ -60,6 +60,6 @@ via[Super — From Notion to Website in minutes](https://super.so/)
     - Charts for Notion databasesVia[Chart Nerd](https://chart-nerd.now.sh/) 上午12:02
 - 类似软件
     - [[airtable]]
-    - [[coda]]
+    - [[Coda]]
     - [[tables]]也是谷歌出品的
     - [[google sheet]]

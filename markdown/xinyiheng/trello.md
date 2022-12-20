@@ -30,7 +30,7 @@
     - [[Notion]]
     - [[taskade]]
     - [[Clickup]]
-    - [[coda]]
+    - [[Coda]]
     - [[滴答清单]]
     - 其实[[Roam Research]]和[[Obsidian]]也都具有看板功能
     - [[workflowy]]

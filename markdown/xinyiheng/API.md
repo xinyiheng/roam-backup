@@ -1,6 +1,6 @@
 - 通过调用API在不同的软件之间传递数据
 - 使用示例：
-    - 使用 Google App Script 每天定时将[[exist.io]] 的数据同步到 [[coda]]。下面提供一段示例代码，把 Coda token，Exist token，doc id，table id 替换即可（由于笔者并没学过 JavaScript，代码难免写的不符合规范，而且仅在笔者自己的测试中通过，还希望各位大佬指导改进）。
+    - 使用 Google App Script 每天定时将[[exist.io]] 的数据同步到 [[Coda]]。下面提供一段示例代码，把 Coda token，Exist token，doc id，table id 替换即可（由于笔者并没学过 JavaScript，代码难免写的不符合规范，而且仅在笔者自己的测试中通过，还希望各位大佬指导改进）。
 
 CodaAPI.authenticate('[your Coda token]');function exist2coda()
 {  var existUrl='http://exist.io/api/1/users/$self/today/';  

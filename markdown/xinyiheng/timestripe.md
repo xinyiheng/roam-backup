@@ -1,8 +1,0 @@
-- https://timestripe.com/?ref=producthunt
-- 在#[[交互体验]]方面有很有趣的地方
-- {{[[video]]: https://youtu.be/EtJ6sDMCylo}}
-- [[roam/comments]]
-    - [[February 10th, 2022]]
-        - [[Anonymous]]
-            - {{[[video]]: https://youtu.be/EtJ6sDMCylo}}
-                - {{[[video-timestamp]]: 00:01:23}}
