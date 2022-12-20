@@ -24,6 +24,8 @@
     - [[the brain]]可以把网页的链接保存到brain box里，我很少使用
     - [[workona]]
     - [[qlearly]]
+    - 我用了两个插件快速获取某个网页的名称和url
+        - 分别是tab copy和tab link copier，这样比使用apple script和keyboard maestro更快。
 - ### 浏览记录管理
     - 回顾自己在chrome的浏览记录
         - 查看在chrome浏览器中可视化浏览记录的插件。我发现这类插件记录的往往都是访问次数，并不等同于访问时长。比如，谷歌地图看一小会儿就会显示很多次访问，在使用时长方面，web timer感觉更准确。因为我大部分时间都是在chrome浏览器中花费的，所以浏览记录的可视化非常重要。通常在chrome插件商城里搜索history就可以找到很多管理浏览历史的插件
