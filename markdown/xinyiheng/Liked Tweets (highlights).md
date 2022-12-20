@@ -507,3 +507,11 @@ About @ChristiansenJen's and @nigelblue's new books.
 It's a story that involves the Byzantine Empire, Renaissance painters, Napoleon, and a revolution... 
 
 ![](https://pbs.twimg.com/media/FkUXAz4XoAIx29Z.jpg) ([View Tweet](https://twitter.com/culturaltutor/status/1604716512954171393))
+- ### New highlights added [[December 21st, 2022]] at 12:48 AM
+    - @kepano: Obsidian Canvas is now available for free ✨🎅
+
+You can now lay out your notes in an infinite canvas alongside images, PDFs, videos, audio, and even fully interactive web pages
+
+I have been using it to perfect my chocolate chip cookie recipe 
+
+![](https://pbs.twimg.com/media/FkbhezwUUAELJfS.jpg) ([View Tweet](https://twitter.com/kepano/status/1605222781045526528))
