@@ -1,3 +1,4 @@
 - 像查看卡片一样，感觉非常好的照片阅览软件，利用chrome插件可以批量保存图片
 - 只需要把eagle的data base保存在同步云盘里，就可以在不同的电脑上同步查看eagle内容 。
+- [图库上云-随时随地任何设备查看Eagle图库 - 简书](https://www.jianshu.com/p/32f77e08f62e)
 - The Brain链接[☎️](brain://api.thebrain.com/g7PXu0IyM0ucARb24SvxiA/zUPxZFxLdUq7Zoo2TxZ3Ng/Eagles)🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀[[hongse]]
