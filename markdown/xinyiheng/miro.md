@@ -1,6 +1,6 @@
 - 有ipad版本的网页版本，比较接近[[Milanote]]，可以部分取代[[noteboard]]
 - 感觉比[[orgpad]]更好用，也可以实现orgpad的主要功能。
-- 有些像是网页版的[[curio]]
+- 有些像是网页版的[[Curio]]
 - 比较接近的还有[[clover]]
 - 好像还有一款类似的叫做[[kosmik]]
 - [miro.kdb](hook://file/tITw0rkIJ?p=Y29tfmFwcGxlfkNsb3VkRG9jcy9Lbm93bGVkZ2UgZGF0YWJhc2UgYnVpbGRlcg==&n=miro.kdb)

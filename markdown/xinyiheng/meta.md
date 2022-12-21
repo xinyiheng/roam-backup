@@ -1,4 +1,4 @@
 - 一个正在开发中的软件
 - https://projectmeta.netlify.app/
 - 我用gmail注册了账号，目前在waitlist阶段
-- 就是现在的[[heptabase]]
+- 就是现在的[[Heptabase]]

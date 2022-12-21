@@ -8,7 +8,7 @@ via[VS Code 代码编辑器入门指南下篇：场景化应用介绍 - 少数�
 via[VS Code 代码编辑器入门指南下篇：场景化应用介绍 - 少数派](https://sspai.com/post/60117)
 [[20201216]] 下午8:47
     - 项目管理
-        - 在 VS Code 中使用 [[trello]]
+        - 在 VS Code 中使用 [[Trello]]
 如果你的团队正在使用 Trello， 那么你也可以在 VS Code 借助插件 Trello Viewer 及时查看大家的 Trello 动态。
 完成 token 配置后，在侧边栏将会出现一个 Trello Viewer 组件，Trello boards 下会显示所有看板，你还可以把某个常用的 list 添加到 favorite list。
 via[VS Code 代码编辑器入门指南下篇：场景化应用介绍 - 少数派](https://sspai.com/post/60117)

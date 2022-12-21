@@ -1,4 +1,4 @@
-- #[[软件联动]] 重新试用把[[tab outliner]]中的网页转变为[[mindnode]]思维导图的快捷应用，我设置的快捷键如下
+- #[[软件联动]] 重新试用把[[Tab outliner]]中的网页转变为[[mindnode]]思维导图的快捷应用，我设置的快捷键如下
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FW2E9oLWiJF.png?alt=media&token=ce0416c8-a83b-4b05-a52c-0bb7055ca155)
 - #[[育儿]] 带着麻豆去雁栖湖步道，租了一辆双人自行车和麻豆一起骑行。外边特别冷，在车里吃了自热米饭。在泰莲庭外面的停车场吃的，泰莲庭也因为疫情关门了，门口的流水感觉非常不错。
 - #[[健康]] 骑行42公里。

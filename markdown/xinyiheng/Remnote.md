@@ -5,7 +5,7 @@
     - Concepts that exist in the real world, such as DNA ,  | 5 Prime End and  | Transcription . These are real things - I could show you a piece of DNA or show you the process of  | Transcription . In RemNote, we call these  Concepts.
 - remnote已经支持[[graph图]]了，不仅如此，好像以后还会支持直接在graph图上修改。也支持pdf批注功能了。开发速度是在是快！在加上现在已经有的卡片记忆杀手锏，已经成为[[Roam Research]]的最大竞争对手。
 - remnote的graph图真的有些超出我的设想，可以非常容易地自定义显示的元素。直接在graph上修改的功能使得一遍写作文档，一边用概念图来整理思想第一次成为了可能。remnote 在graph图的开发上真是后来居上。相比而言，roam research在的graph图真的就是摆设。远不如obsidian和remnote。
-- remnote的graph图像是用圆圈取代了方框的思维导图，它做的好的地方就是每个节点是展开还是收缩都悄无痕迹，让我一度没有看出它就是思维导图，还以为是概念图。它对我的启发是，只要[[the brain]]中的thought可以在不需要的时候收敛在某个节点一下，多放一些thought也不会overwhelming。#[[洞见]]#[[可视化]]
+- remnote的graph图像是用圆圈取代了方框的思维导图，它做的好的地方就是每个节点是展开还是收缩都悄无痕迹，让我一度没有看出它就是思维导图，还以为是概念图。它对我的启发是，只要[[The Brain]]中的thought可以在不需要的时候收敛在某个节点一下，多放一些thought也不会overwhelming。#[[洞见]]#[[可视化]]
 - 在surface上使用remnote比在mac上还要好。
 - 关于使用graph图的一些使用技巧
     - {{iframe: https://www.youtube.com/watch?app=desktop&v=KyfXoTvpngA&t=194s}}

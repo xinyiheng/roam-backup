@@ -176,7 +176,7 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
 链接：https://zhuanlan.zhihu.com/p/267451435
 via[(15 封私信 / 32 条消息) 威廉 obsidian - [[搜索]]结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
 [[20201230]] 下午11:38
-    - 因为笔者的时间认知有限有很多笔记只简单使用过如：[[Infranodus]]、[[xanadu]] space、wuli wiki、[[gource]]、notion、Athens Research、葫芦笔记、印象笔记、dynalist、thebrain、tiddlywiki、[[workflowy]]、雅典、Craft、marginnote、[[MyBase]]、[[swrite]]、trilium、gingko、WikiLinks、[[connected papers]]、tagspaces等。D3.js、neo4j、PowerBI、Charticulator、R语言、Phyone、Nvivo这些专业的大工具更是只有肤浅的了解，都还未进行深度使用所以不好进行排行和对比解读，也就没进行测评排行，更多的双向链笔记软件可能连名字都不知道，所以就未出现在此文。-
+    - 因为笔者的时间认知有限有很多笔记只简单使用过如：[[Infranodus]]、[[xanadu]] space、wuli wiki、[[gource]]、notion、Athens Research、葫芦笔记、印象笔记、dynalist、thebrain、tiddlywiki、[[Workflowy]]、雅典、Craft、marginnote、[[MyBase]]、[[swrite]]、trilium、gingko、WikiLinks、[[connected papers]]、tagspaces等。D3.js、neo4j、PowerBI、Charticulator、R语言、Phyone、Nvivo这些专业的大工具更是只有肤浅的了解，都还未进行深度使用所以不好进行排行和对比解读，也就没进行测评排行，更多的双向链笔记软件可能连名字都不知道，所以就未出现在此文。-
 
 作者：[[威廉]]
 链接：https://zhuanlan.zhihu.com/p/267451435
@@ -184,7 +184,7 @@ via[(15 封私信 / 32 条消息) 威廉 obsidian - [[搜索]]结果 - 知乎](h
 via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
 [[20201230]] 下午11:38
 - #[[软件联动]]
-    - 如何用roam research模拟使用[[heptabase]]的体验？
+    - 如何用roam research模拟使用[[Heptabase]]的体验？
         - 用到两个功能，一个是插件[masonry-vanilla](https://github.com/GitMurf/masonry-vanilla)，另一个是roam自带diagram。在diagram中绘制一些想要关联的内容，用双方括号包裹起来，想要打开的时候就用shift点击，右侧就可以出现一张卡片。这样，既有卡片视图，也有卡片之间的联系。更为重要的是，卡片内部写的每个blcok也都可以被引用，所以，处理信息的颗粒度可以更小。
     - [Getting Started – Hook](https://hookproductivity.com/help/general/getting-started/#launch) 用这个软件可以把一些mac电脑中的其他文件以链接的形式添加到roam research中，这样可以完善它作为一元化笔记系统的核心处理器功能。#[[软件联动]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMGOqbSgeQz.png?alt=media&token=8f895f65-b871-4b36-98e1-6fdf44df2dfd)

@@ -3,6 +3,6 @@
 - Roam Research是另一个关联的笔记记录应用程序，它比Thinktool更精致。Roam像Thinktool一样支持双向链接，但是它不支持多个父级。Via[Thinktool，一个关联的笔记应用程序。](https://thinktool.io/) [[20210112]] 上午11:22
 - 目前中文支持也不好。
 - [[交互体验]]方面，链接以下面这种方式展示，点击黄色的播放按钮，参考的page就直接显示出来了。还有，一个page的多个父级节点都直接显示在上方，绿色的像标签的就是。
-- 对于节点之间关系的处理很像是[[the brain]]，parent、sibling、child
+- 对于节点之间关系的处理很像是[[The Brain]]，parent、sibling、child
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FJBcVdnmbEI.png?alt=media&token=dd9bd0bb-04dd-4a84-862a-ffdd154a22b0)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FHBbWCRIZ0c.png?alt=media&token=8b090457-fcc1-490a-9fc7-d109377181de)

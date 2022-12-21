@@ -1,5 +1,5 @@
 - {{diagram}}
-    - [[heptabase]]
+    - [[Heptabase]]
     - [[Roam Research]]
     - [[diigo]]
     - 把参考资料拖进笔记

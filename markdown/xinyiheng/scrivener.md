@@ -74,7 +74,7 @@
         - 导出为思维导图和outliner格式，思维导图调整顺序更为方便，但是阅读起来感觉有些内容太多了。outliner看起来很舒服，但是不太方便调整格式。
         - 三款软件的格式转变
             - scrivener也可以导入[[mindnode]]文件，全部整理成为卡片的模式。导入效果最好的格式是[[opml]]，也就是说mindnode先转变成为opml，这样，每一个节点都变成一张卡片的题目，而节点的注释则会变成卡片的正文。
-            - mindnode文件也可转变成为[[freemind]]文件，拓展名为mm。freemind文件可以直接导入到[[the brain]]中，层级关系可以得到完整保留。每一个freemind的节点都可以变成一个the brain中的节点，而节点的注释也会变成the brian的note。
+            - mindnode文件也可转变成为[[freemind]]文件，拓展名为mm。freemind文件可以直接导入到[[The Brain]]中，层级关系可以得到完整保留。每一个freemind的节点都可以变成一个the brain中的节点，而节点的注释也会变成the brian的note。
             - 这样，我就完全打通了scrivener、mindnode、the brain三个软件。
 - #[[参考资料]]
     - 😀😀[[吉豆]]Via[吉豆](https://sinkinact.lofter.com/?page=2&t=1397201293988) [[20210110]] 下午5:31@评论:这个人对scrivener这款软件研究比较深入

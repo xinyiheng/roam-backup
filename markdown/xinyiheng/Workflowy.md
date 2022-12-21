@@ -1,0 +1,7 @@
+- 大纲工具的鼻祖,以前觉得没有太大的特点，增加了类似[[Trello]]的功能之后使用体验真是太惊艳了。
+- 目前也支持双向链接了，还可以支持调整颜色了。
+    - 我终于明白我为什么特别喜欢[[Roam Research]]建立链接的方式了，双方括号除了可以建立关联以外，还可以新建页面。这是幕布没有的功能。现在workflowy也有这个功能了。Internal links just received a big upgrade! You can now create new items at the same time you create a link.In other words, you can quickly create a link to a new item and continue writing - no more forgetting important items or having to break your train of thought. This addition opens the door to more possibilities and use-cases, be sure to check out the blog post for the full details!
+- 居然会发邮件 daily update。提醒今天编辑了什么内容。
+- #[[参考资料]]
+    - https://workflowy.com/#/9809dd4f6807@评论:我的注册
+    - 这篇文章后面的几个[链接文章](https://sspai.com/post/64531)值得一读

@@ -7,7 +7,7 @@
 - notion也可以看作一个无限层级的软件。page里面套page，就像是[[Tinderbox]]，我追求的很多使用体验每款软件其实都差不多可以找到类似的替代方案，只不过有的界面更好一点，使用的感觉也更好一点，这样，就容易把使用体验好的软件当作使用某种体验的首选入口。
 - 模块支持的类型超过了我的想象，可以添加文件和网页，视频以及很多软件类型文件
 - notion是一款我作为[[知识输出]]的展示窗口。可以很好地展示一些结构化的知识体系，不像roam research有那么多私人化的东西，并且呈现方式也并不是很整齐美观。
-- 目前支持[[双向链接]]但是好像只能到page级别，不支持block链接，但是有一个插件可以实现block引用的效果。不过，操作比较复杂，并且这种引用的block也没有特殊标识，难以识别。插件名称是[[notion global block]]
+- 目前支持[[双向链接]]，建立方式也很方便，用两个[就可以。
 - HTTISHERE Notion WidgetsVia[httishere widgets](https://httishere.github.io/widgets-site/#/) [[20220117]] 上午9:46 @评论:notion组建，非常漂亮。
 - Notion组件库｜更新：支持暗黑模式｜组件库获取方法Via[Notion组件库｜更新：支持暗黑模式｜组件库获取方法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fP4y1E7s6) [[20220117]] 上午9:46
 - #[[tricks]]
@@ -36,18 +36,18 @@ via[Super — From Notion to Website in minutes](https://super.so/)
     - [[evergreen notes]]这款插件很不错，可以为notion提供类似[[Roam Research]]右侧边栏的视图，可以看出目前正在看的page有没有被提到过。搜索功能也而很好，建立连接比原装的搜索好很多。建立双向链接很方便
     - 插件notion+标记管理器。可以把在notion中高亮的内容整体集中显示出来，这非常适合在notion中快速把重点内容集中起来，也可以方便地把标记内容复制到其他工具中。
 - #[[软件联动]]
-    - notion和[[Roam Research]]的联动
+    - Notion和[[Roam Research]]的联动
         - notion的结构化做的非常好，roam更加自由灵动，我希望在notion中整理一些长久来看价值更高的内容。感觉notion更适合做任务管理，也就是一些资料或者进度的跟踪，不太适合做一个笔记工具。@评论:这只是一时的感受而已。
-    - notion居然可以直接导入思维导图文件的内容，并且保留原始的结构，amazing
-    - notion与[[scrivener]]
+    - Notion居然可以直接导入思维导图文件的内容，并且保留原始的结构，amazing
+    - Notion与[[scrivener]]
         - scrivener/mindnode/幕布/notion/ulyssess这几个软件居然可以非常方便的相互转换，真是太棒了！！！！#[[软件联动]]
         - 我用scrivener写作的文章先是导出为opml，然后导入到了notion中编辑
-    - notion与[[mindnode]]是非常强大的文件类型转换工具，利用notion，我实现了把diigo大纲完美转换为mindnode思维导图的方式
+    - Notion与[[mindnode]]是非常强大的文件类型转换工具，利用notion，我实现了把diigo大纲完美转换为mindnode思维导图的方式
         - 方法如下
             - 点击[[diigo]]大纲中的export，复制出内容，粘贴在随便新建的一个notion文档中
             - 在notion中点击export，存储为markdown格式，下载之后就可以用mindnode打开了
             - 效果：完美保留了diigo中的层级结构以及原始链接的可用性和美观
-    - notion也有可以支持[[JavaScript]]和[[python]]的插件！！！
+    - Notion也有可以支持[[JavaScript]]和[[python]]的插件！！！
         - Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面Via[Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av90931560/?spm_id_from=trigger_reload) 下午10:53
 - #[[参考资料]]
     - Notion • theBlockVia[Notion • theBlock - 少数派](https://sspai.com/column/312) [[20220106]] 上午8:53

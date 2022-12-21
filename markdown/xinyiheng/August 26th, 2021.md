@@ -10,5 +10,5 @@
     - {{[[query]]: {and:{and:[[笔记]] 问题}}}}
 - {{[[DONE]]}}如何把roam research中的笔记二次加工，比如做成概念图，带着链接。#问题#[[DONE]]
     - 可以使用roam的diagram这个组件。
-    - 如何在roam research中模拟[[heptabase]]的使用？#[[洞见]]
+    - 如何在roam research中模拟[[Heptabase]]的使用？#[[洞见]]
 - {{[[query]]: {and:[[插件]] {or:[[视频]]}}}}

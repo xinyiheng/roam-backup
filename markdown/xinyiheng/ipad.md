@@ -1,5 +1,5 @@
 - ipad最好的体验是可以手写和drag and drop。
-- 现在看来，还是应该用起一些在ipad上有版本的笔记工具，比如[[kb(Knowledge database)]]、[[mindnode]]、[[幕布]]、[[the brain]]和[[滴答清单]]
+- 现在看来，还是应该用起一些在ipad上有版本的笔记工具，比如[[kb(Knowledge database)]]、[[mindnode]]、[[幕布]]、[[The Brain]]和[[滴答清单]]
 - 我安装的美区的[[scrivener]]非常不错
 - [[cardflow]]也有mac版本，在mac上阅读收集摘抄的语句，在ipad上随意拖拽整理也是很好的使用体验。
 - 我目前在ipad上有三种感觉不错的[[阅读批注]]的方式#[[阅读]]
