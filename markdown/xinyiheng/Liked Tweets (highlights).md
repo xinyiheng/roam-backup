@@ -515,3 +515,11 @@ You can now lay out your notes in an infinite canvas alongside images, PDFs, vid
 I have been using it to perfect my chocolate chip cookie recipe 
 
 ![](https://pbs.twimg.com/media/FkbhezwUUAELJfS.jpg) ([View Tweet](https://twitter.com/kepano/status/1605222781045526528))
+- ### New highlights added [[December 21st, 2022]] at 8:12 PM
+    - @fortelabs: I have 7,000+ notes saved in @evernote
+
+But, I have only 66 notes in my current projects folder
+
+And that's where my attention goes right now
+
+You shouldn't have all your focus on all of your notes all of the time ([View Tweet](https://twitter.com/fortelabs/status/1605503401118367745))
