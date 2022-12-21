@@ -227,7 +227,7 @@ Known issue: Using "Cmd/Ctrl+double click" to enter the line editor will not wor
 - ### New highlights added [[December 8th, 2022]] at 3:34 PM
     - @kosmik_app: A lot of you have asked for this, and we've listened! A sneak peak of what's coming to Kosmik next year... 🎮🎮 https://t.co/CULichDCxT ([View Tweet](https://twitter.com/kosmik_app/status/1600601778357211148))
 - ### New highlights added [[December 8th, 2022]] at 3:45 PM
-    - @Jackywine: 激动人心的时刻，#obsidian 支持了无限画布！！！
+    - @Jackywine: 激动人心的时刻，#Obsidian 支持了无限画布！！！
 这简直我的梦中功能！！
 https://t.co/SFFfaXtrVv 
 

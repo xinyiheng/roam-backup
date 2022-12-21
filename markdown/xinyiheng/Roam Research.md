@@ -110,7 +110,8 @@ Completed task            :done,    des1, 2014-01-06,2014-01-08
 Active task               :active,  des2, 2014-01-09, 3d
 Future task               :         des3, after des2, 5d
 Future task2               :         des4, after des3, 5d 
-    - [[Roam Research]]到底怎样整理？目前大多数都是标签概念的状态。整理成概念文档是否可以用[[query]]的方式。[[block reference]]之类的设计我算是彻底明白了原理。#[[概念区分]]
+    - [[Roam Research]]到底怎样整理？目前大多数都是标签概念的状态。整理成概念文档是否可以用[[query]]的方式。[[block reference]]之类的设计我算是彻底明白了原理。
+#[[概念区分]]
         - 复制一个block再粘贴到其他位置和[[block reference]]有什么区别？[[block reference]]和embed reference有什么区别？#[[概念区分]]
             - 复制block到一个新位置，如果block里有方括号括起来的概念，概念会和新位置page的标题建立关系，可以体现在#[[graph图]]中，而通过[[block reference]]而来的内容无法和新的page标题建立关系。比如下图中，蓝色字体部分是通过[[block reference]]方式建立的，红色方框框起来的概念没有体现在所在的page标题Inbox组成的图中。
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FQb1OpsYLbq.png?alt=media&token=9cd2330a-8eac-4ce1-ab9d-4e0df8d635d2)
@@ -169,7 +170,7 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
     - [[scrapbox]]
     - [[thinktool]]
     - [[innos note]]
-- [[roam插件]]
+- [[Roam插件]]
 - roam research有哪些功能吸引了我？
     - 大网图、小网图（大纲/缩略式脑图）、大小粒度块引用、双向链接，是笔者认为的必备的四个双向链软件经典特征，其它就是附加插件功能，读者也可以从这四个经典元素对各种软件进行考察得出自己心中的排行，其实也就是Roam Research的核心功能。-20201027
 作者：[[威廉]]

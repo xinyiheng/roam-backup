@@ -36,6 +36,7 @@ via[Super — From Notion to Website in minutes](https://super.so/)
     - [[evergreen notes]]这款插件很不错，可以为notion提供类似[[Roam Research]]右侧边栏的视图，可以看出目前正在看的page有没有被提到过。搜索功能也而很好，建立连接比原装的搜索好很多。建立双向链接很方便
     - 插件notion+标记管理器。可以把在notion中高亮的内容整体集中显示出来，这非常适合在notion中快速把重点内容集中起来，也可以方便地把标记内容复制到其他工具中。
 - #[[软件联动]]
+    - 以前下载了很多，但实际想不起来用，最常用的也就[[evergreen notes]]这一个。其他插件见[链接](https://xinyiheng.notion.site/Notion-015bd2c216d4478e911332622001435a)。
     - Notion和[[Roam Research]]的联动
         - notion的结构化做的非常好，roam更加自由灵动，我希望在notion中整理一些长久来看价值更高的内容。感觉notion更适合做任务管理，也就是一些资料或者进度的跟踪，不太适合做一个笔记工具。@评论:这只是一时的感受而已。
     - Notion居然可以直接导入思维导图文件的内容，并且保留原始的结构，amazing

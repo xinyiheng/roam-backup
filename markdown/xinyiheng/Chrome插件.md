@@ -15,15 +15,15 @@
         - 要么就是觉得虽然文章一般，但是由于和自己正在研究的一个主题相关，出于信息完备性的考虑，还是把它收藏起来。这时候就要搜集大量的网页。
     - [[Toby]]推荐指数五颗星
     - [[Tab outliner]]
-    - [[my mind]]
+    - [[My Mind]]
     - [[The Brain]]
-    - [[pinbox]]
-    - [[pocket]]
-    - [[infinity]]
-    - [[onetab]]
+    - [[Pinbox]]
+    - [[Pocket]]
+    - [[Infinity]]
+    - [[Onetab]]
     - [[The Brain]]可以把网页的链接保存到brain box里，我很少使用
-    - [[workona]]
-    - [[qlearly]]
+    - [[Workona]]
+    - [[Qlearly]]
     - 我用了两个插件快速获取某个网页的名称和url
         - 分别是tab copy和tab link copier，这样比使用apple script和keyboard maestro更快。
 - ### 浏览记录管理
@@ -84,6 +84,9 @@
 - [[Notion]]辅助插件
     - 以前下载了很多，但实际想不起来用，最常用的也就[[evergreen notes]]这一个。其他插件见[链接](https://xinyiheng.notion.site/Notion-015bd2c216d4478e911332622001435a)。
 - [[Trello]]辅助插件
+    - Trello插件
+- [[Roam Research]]辅助插件
+    - [[Roam插件]]
 - 如何快速打开一些chrome插件？
     - 可以为一些插件设置键盘快捷方式。
     - 我最近发现了一个新的方法，就是把一些插件保存为web app，然后通过alfed就可以打开了。

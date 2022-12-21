@@ -8,6 +8,7 @@
     - 关系图谱Via[关系图谱 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%B1) [[20220114]] 下午11:51@评论:关系图谱中的线的颜色也可以改变，但是官方并没有给出说明，参考这个就可以修改了。
 - Obsidian 分栏-重新设计Via[Obsidian 分栏-重新设计_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qL4y147iU?p=1&share_medium=android&share_plat=android&share_session_id=e6fb1db1-228d-4cd2-aeba-99c33a863c69&share_source=GENERIC&share_tag=s_i&timestamp=1642344305&unique_k=400MQus) [[20220117]] 上午9:35@评论:这个也有分栏效果，看起来太像notion了，不错。不过这位up主还没有说明怎样实现，以后跟进吧。
 - [WebGL ](brain://api.thebrain.com/g7PXu0IyM0ucARb24SvxiA/wi2B8K0hK0aP6-YksheQVA/WebGL)
+- 新增了canvas功能，非常接近[[Heptabase]]的使用体验了。
 - [从卡片链接到大脑联想，基于 Obsidian 的卡片盒笔记法实践 - 少数派](https://sspai.com/post/60802) #[[Roam-Highlights]
     - 简单来说，Zettelkasten 是一种比标签更高级的卡片笔记方法，开智部落王浚宇在《卡片大法的神奇之处》提到：
     - <h2>Zettelkasten 卡片盒笔记法是什么？</h2>

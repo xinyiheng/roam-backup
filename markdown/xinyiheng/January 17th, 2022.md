@@ -50,7 +50,7 @@
     - 我目前在ipad上有三种感觉不错的[[阅读批注]]的方式#[[阅读]]
     - 先[[搜索]]再[[阅读]] {{[[∆]]:1+2}}
 - 整理roam插件之间的关系{{presentation}}
-    - 我把所有的增强插件都集合整理在[[roam插件]]这个page下了
+    - 我把所有的增强插件都集合整理在[[Roam插件]]这个page下了
     - Hymn 30 - [[Isaac Watts]]
         - Prayer for deliverance answered.
 
