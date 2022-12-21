@@ -92,7 +92,7 @@ Why not call it "knowledge science"?
     - @SteveStuWill: What eye rubbing looks like through an MRI scanner…
 
 Credit: Damien Gatinel https://t.co/EKUa35hV3i ([View Tweet](https://twitter.com/SteveStuWill/status/1596632023485255681))
-    - @HiTw93: #工程师工具   推荐一个将你所有微博打包成 PDF 下载的 Chrome 扩展「Speechless 微博备份」，试了试很好用❤️，无论是自己的微博，还是别人的都支持，内容上文本、长文、图片、转发均支持保存。
+    - @HiTw93: #工程师工具   推荐一个将你所有[[微博]]打包成 PDF 下载的 Chrome 扩展「Speechless 微博备份」，试了试很好用❤️，无论是自己的微博，还是别人的都支持，内容上文本、长文、图片、转发均支持保存。
 🤖 安装地址：https://t.co/PpDhP6VWCg https://t.co/nVT8lgQ43b ([View Tweet](https://twitter.com/HiTw93/status/1596720112492371969))
     - @milanicreative: How to leverage your focus for deeper value. 
 

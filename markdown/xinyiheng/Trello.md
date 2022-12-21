@@ -24,7 +24,7 @@
         - [The ONE Trello Setting You Should Change NOW! - YouTube](https://www.youtube.com/watch?v=96uaO6ShyuY)
         - [(79) 3 NewFeatures You Didn't Know Existed! - YouTube](https://www.youtube.com/watch?v=uAcU_msmplg)
 - 其他提供[[看板视图]]的一些软件
-    - [[walling]]
+    - [[Walling]]
     - [[Notion]]
     - [[Taskade]]
     - [[Clickup]]

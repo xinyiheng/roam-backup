@@ -4,7 +4,7 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FdOO8-LIitu.jpeg?alt=media&token=b1feb201-3f5b-467c-a932-c79f30b6d37e)
 - 相似工具
     - [[miro]]
-    - [[muse]]
+    - [[Muse]]
     - [[kosmik]]
     - [[kinopio]]@评论:UI设计非常卡通
     - [[orgpad]]

@@ -14,7 +14,7 @@
     - 搜索本网站：ctrl+shift+s
     - tab outliner：alt+t
     - 一个定时提醒插件remi：ctrl+shift+r
-    - [[toggle]]记录时间：ctrl+t #[[时间管理]]
+    - [[Toggle]]记录时间：ctrl+t #[[时间管理]]
         - 给它设置成了一个app，打开方式是command+alt+t
         - toggle居然可以自动和trello、notion、谷歌日历、[[Gingko]]、ticktick(可惜不能和滴答清单整合)整合，在这几个软件里非常轻松地开始记录时间，特别棒！！！#[[软件联动]]
         - 虽然不支持roam research计时，但是在网页里也很方便记录正在看什么文档。

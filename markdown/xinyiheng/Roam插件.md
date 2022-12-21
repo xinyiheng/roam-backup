@@ -1,7 +1,7 @@
 - chrome插件商店中的插件
     - [[roam portal]]可以展示概念之间的立体图，非常棒，我设置了
 #[[快捷方式]]ctrl+p
-    - [[roam highlighter]]
+    - [[Roam Highlighter]]
     - [[roam toolkit]]很早就安装了，但是很少使用，最近知道了它可以把卡片以思维导图的方式展示出来，感觉很惊艳，可以使用。我设置了调出这个插件的#[[快捷方式]]ctrl+i
         - ```javascript
 ```
