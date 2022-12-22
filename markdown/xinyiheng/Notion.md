@@ -11,6 +11,8 @@
 - HTTISHERE Notion WidgetsVia[httishere widgets](https://httishere.github.io/widgets-site/#/) [[20220117]] 上午9:46 @评论:notion组建，非常漂亮。
 - Notion组件库｜更新：支持暗黑模式｜组件库获取方法Via[Notion组件库｜更新：支持暗黑模式｜组件库获取方法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fP4y1E7s6) [[20220117]] 上午9:46
 - #[[tricks]]
+    - [安卓手机使用NOTION助手小程序剪藏文档](https://www.bilibili.com/video/BV1nS4y1w7YC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
+🗒@评论:我估计不会使用，做个备忘吧
     - 把notion变成网站
         - {{iframe: https://thenordicweb.com/}}
         - 是通过这个网站实现的From Notion to Website in minutes
