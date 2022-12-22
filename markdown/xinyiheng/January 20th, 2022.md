@@ -4,6 +4,7 @@
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FVTIKUuH0V?alt=media&token=af2fc3b6-4817-40bb-8cda-cde4ffcb17d9)
     - [[xin]] at 24:29: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWnwtnxIdz?alt=media&token=7612b41d-df44-4655-8859-f2c38b2029d3)
+        - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FtuOXALMYD?alt=media&token=f42f4382-4d7c-4ca9-ae88-4bdefa3a32f7)
     - [[xin]] at 09:33: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FoZwab4Dkn?alt=media&token=35519ae2-fe6c-45d0-9d21-f92791000f96)
     - [[xin]] at 23:02: #Photo
