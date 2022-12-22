@@ -523,3 +523,9 @@ But, I have only 66 notes in my current projects folder
 And that's where my attention goes right now
 
 You shouldn't have all your focus on all of your notes all of the time ([View Tweet](https://twitter.com/fortelabs/status/1605503401118367745))
+- ### New highlights added [[December 22nd, 2022]] at 11:20 PM
+    - @HirokiSayama: #ComplexSystems folks:
+After more than a decade, I am planning to update this diagram. What kind of keywords, concepts, topics, and/or research areas should be added? Let me know
+https://t.co/OjSuRjG14X 
+
+![](https://pbs.twimg.com/media/Fkh3fv7XEAMwk-v.jpg) ([View Tweet](https://twitter.com/HirokiSayama/status/1605664684962619394))

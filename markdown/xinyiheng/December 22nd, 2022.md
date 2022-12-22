@@ -13,3 +13,7 @@
     - backup notion和the brain
     - 洗澡，给麻豆洗澡
     - 了解obsidian的新用法
+    - 我转发到twitter的内容收到了几个点赞，很开心
+    - 研究如何在roam research 中添加评论
+    - 以前没有好好梳理过自己使用obsidian的方法，现在用roam 来梳理obsidian这个page中的内容，感觉不错。
+    - 研究notion的自动化方式

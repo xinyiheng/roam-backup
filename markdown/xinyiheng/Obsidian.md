@@ -24,6 +24,8 @@
     10. 如何修改obsidian 上[[excalidraw]]插件的字体？
         - Obsidian 的 Excalidraw 插件自定义中文字体Via[Obsidian 的 Excalidraw 插件自定义中文字体](https://www.uncoverman.com/excalidraw-plguin-in-obsidian-support-font-custom.html) [[20220413]] 17:11
     11. 建立并发布个人网站。[[Obsidian]]也可以，我看[[指导员吴刚]]就自己建立了一个网站
+    12. 想到把roam research当作记录[[literature note]]的工具，把flomo之类当作[[Fleeting Notes]]的工具，把obsidian当作[[Permanent Notes]]的工具。
+    13. 
 - ### 插件及功能
     - 看板视图：其实[[Roam Research]]和[[Obsidian]]也都具有看板功能
     - The Brain视图：[[Obsidian]]有一款插件，大体实现了the brain的效果，叫做[[Juggl]]
