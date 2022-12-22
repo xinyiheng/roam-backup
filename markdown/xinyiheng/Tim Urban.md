@@ -1,0 +1,3 @@
+- 拖延症的演讲
+    - [Tim Urban: Inside the mind of a master procrastinator | TED - YouTube](https://www.youtube.com/watch?v=arj7oStGLkU)
+- [Wait But Why](https://waitbutwhy.com/)
