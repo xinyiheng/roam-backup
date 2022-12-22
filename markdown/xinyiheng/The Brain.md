@@ -47,6 +47,7 @@
         - 直接把思维导图导入 the brian对于启发思考效果并不好。
 - 相关软件
     - [[Obsidian]]有一款插件，大体实现了the brain的效果，叫做[[Juggl]]
+    - [Export TheBrain to Obsidian, a small script - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/export-thebrain-to-obsidian-a-small-script/6641/3) #[[软件联动]]
     - [[TiddlyMap]]
 - #[[参考资料]]
     - 官方网站使用说明

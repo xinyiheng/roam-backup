@@ -70,8 +70,8 @@ Steve Russell，也是历史上第一个电脑游戏的作者，1962年他写了
 -via[黑客与画家 - 得到APP](https://www.dedao.cn/reader?id=exGM6Evn5byxq2PnXBz71AjZaol6R8WJDawOKpGkd4gmMLEJrYNQe9VvD8P4jLkK)
 - obsidian的关系图谱要怎么用
 -via[obsidian的关系图谱要怎么用 - 知乎](https://zhuanlan.zhihu.com/p/237351391)
-    - 有一款叫思源笔记的，可在某个笔记内鼠标点击不同被链接的内容，在笔记不变的情况下图谱在节点与节点间动画切换。obsidian 0.8.13版只能做到点击图谱或某个被链接标题，同时切换。
--via[obsidian的关系图谱要怎么用 - 知乎](https://zhuanlan.zhihu.com/p/237351391)
+    - 有一款叫思源笔记的，可在某个笔记内鼠标点击不同被链接的内容，在笔记不变的情况下图谱在节点与节点间动画切换。[[Obsidian]] 0.8.13版只能做到点击图谱或某个被链接标题，同时切换。
+-via[Obsidian]]的关系图谱要怎么用 - 知乎](https://zhuanlan.zhihu.com/p/237351391)
     - 用小关系图读书收集（小关系图谱的拓展运用）
 因软件bug此节待开发者修复后再更新···
 实际就是固定住图谱使图谱不变，让某个节点为中心主题，围绕着这个中心主题来进行读书、收集和笔记。（目前0.9.0版还存在这个缺陷）
@@ -90,4 +90,3 @@ Steve Russell，也是历史上第一个电脑游戏的作者，1962年他写了
 -via[obsidian的关系图谱要怎么用 - 知乎](https://zhuanlan.zhihu.com/p/237351391)
 - 巧用Obsidian把“思维导图”变成“双向链思维导图”
 -via[巧用Obsidian把“思维导图”变成“双向链思维导图” - 知乎](https://zhuanlan.zhihu.com/p/269279110)
-- 

@@ -25,7 +25,8 @@
         - Obsidian 的 Excalidraw 插件自定义中文字体Via[Obsidian 的 Excalidraw 插件自定义中文字体](https://www.uncoverman.com/excalidraw-plguin-in-obsidian-support-font-custom.html) [[20220413]] 17:11
     11. 建立并发布个人网站。[[Obsidian]]也可以，我看[[指导员吴刚]]就自己建立了一个网站
     12. 想到把roam research当作记录[[literature note]]的工具，把flomo之类当作[[Fleeting Notes]]的工具，把obsidian当作[[Permanent Notes]]的工具。
-    13. 
+    13. 如何处理pdf？用marginnote阅读pdf的一个缺点是，这些笔记就保留在了里面的思维导图中，难以和[[Roam Research]]里面的内容产生关联。
+    14. [Export TheBrain to Obsidian, a small script - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/export-thebrain-to-obsidian-a-small-script/6641/3) #[[软件联动]]
 - ### 插件及功能
     - 看板视图：其实[[Roam Research]]和[[Obsidian]]也都具有看板功能
     - The Brain视图：[[Obsidian]]有一款插件，大体实现了the brain的效果，叫做[[Juggl]]
@@ -34,6 +35,7 @@
     - 我的 Obsidian 工作流：模板+QuickAdd+Dataview 快速创建和自动索引 - 少数派 (https://sspai.com/post/68350)
     - 常用 Obsidian 处理中文长文？试试这些这些大幅提升体验的插件和代码片段Via[常用 Obsidian 处理中文长文？试试这些这些大幅提升体验的插件和代码片段 - 少数派](https://sspai.com/post/69628) [[20211104]] 下午1:35
     - [拒绝折腾伪需求，我最爱用的 Obsidian 实用插件推荐。 - 少数派](https://sspai.com/post/72426)
+    - 幕布最近(2021年02月18日)又更新了一些功能https://mubu.com/doc/explore/40981，新增加了文档引用功能，可以生成类似graph图的视图。但是这一功能还比较初级，只是看起来像obsidian而已。
 - #[[参考资料]]
     - obsidian@评论:官方参考资料，用graph图展示
 via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/Index)
