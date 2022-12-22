@@ -1,2 +1,2 @@
 - https://app.integrately.com/explore-automations
-- 类似[[zapier]]
+- 类似[[Zapier]]

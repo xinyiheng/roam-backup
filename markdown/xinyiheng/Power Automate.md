@@ -4,3 +4,4 @@ via[手把手教你使用 Power Automate 建立一个 Rss 邮件订阅服务 - �
 - "
     - Windows 自动化初探：利用 Power Automate 联通应用
 - " https://diigo.com/0n41zn
+- [Power Automate](https://asia.flow.microsoft.com/zh-cn/)

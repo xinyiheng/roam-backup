@@ -53,7 +53,7 @@ via[Super — From Notion to Website in minutes](https://super.so/)
             - 点击[[diigo]]大纲中的export，复制出内容，粘贴在随便新建的一个notion文档中
             - 在notion中点击export，存储为markdown格式，下载之后就可以用mindnode打开了
             - 效果：完美保留了diigo中的层级结构以及原始链接的可用性和美观
-    - Notion也有可以支持[[JavaScript]]和[[python]]的插件！！！
+    - Notion也有可以支持[[JavaScript]]和[[Python]]的插件！！！
         - Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面Via[Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av90931560/?spm_id_from=trigger_reload) 下午10:53
 - #[[参考资料]]
     - Notion • theBlockVia[Notion • theBlock - 少数派](https://sspai.com/column/312) [[20220106]] 上午8:53

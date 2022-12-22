@@ -1,7 +1,7 @@
 -  GUI（Graphical User Interface，即图形用户界面）
 - [[GUI script]]
     - 怎样获取一款软件的所有按键的编号？
-    - 用[[applescript]]获取某个区域内所有 UI 元素只需两个单词 entire contents。
+    - 用[[Applescript]]获取某个区域内所有 UI 元素只需两个单词 entire contents。
 例如，利用
 tell application "System Events"
     tell process "Money Pro" -- 告诉 Money Pro

@@ -1,1 +1,1 @@
-- 学习[[applescript]]
+- 学习[[Applescript]]

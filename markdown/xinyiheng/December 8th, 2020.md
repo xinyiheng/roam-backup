@@ -1,4 +1,4 @@
-- [[python]]
+- [[Python]]
 - #问题
     - {{[[DONE]]}}knowledgebase builder快捷确认和缩放文本@评论:不要追求完美。基本能用了。
 - 画家与黑客#[[读书笔记]]
