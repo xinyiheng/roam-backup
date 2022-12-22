@@ -1,7 +1,7 @@
 - {{diagram}}
     - [[Heptabase]]
     - [[Roam Research]]
-    - [[diigo]]
+    - [[Diigo]]
     - 把参考资料拖进笔记
     - 优化graph图
     - [[Gingko]]

@@ -1,5 +1,5 @@
 - #[[软件联动]]
-    - 如何把[[diigo]]搜集的摘要复制到[[Roam Research]]等整理类笔记
+    - 如何把[[Diigo]]搜集的摘要复制到[[Roam Research]]等整理类笔记
         - [Jim Collins’s Secret Formula for Highly Productive Creative Work | by August Birch | The Book Mechanic | Medium](https://medium.com/the-book-mechanic/jim-collins-secret-formula-for-high-productivity-in-creative-work-f09349b07cd1)
         - https://medium.com/the-book-mechanic/jim-collins-secret-formula-for-high-productivity-in-creative-work-f09349b07cd1
             - Jim Collins, former Stanford professor, rock climber, and the author of the business classic, __Good to Great — __is also a polymath and data nerd. For years he’s tracked his daily productivity, sleep, and mood. I recently heard a fantastic interview of Collins on Tim Ferriss’s podcast, and I though it important to share what I learned.

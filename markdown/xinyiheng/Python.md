@@ -33,7 +33,6 @@ via[爬虫专题 - 专题 - 简书](https://www.jianshu.com/c/3e3636c40c41)
         - 把课程表做成通用日历，灵活安排学习计划
 via[把课程表做成通用日历，灵活安排学习计划 - 少数派](https://sspai.com/post/59694)
 [[20201224]] 下午2:03
-        - 
     - 记账工具
         - 记账神器 Beancount 教程
 via[记账神器 Beancount 教程 - 少数派](https://sspai.com/post/59777)

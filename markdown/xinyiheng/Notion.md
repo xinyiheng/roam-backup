@@ -11,7 +11,8 @@
 - HTTISHERE Notion WidgetsVia[httishere widgets](https://httishere.github.io/widgets-site/#/) [[20220117]] 上午9:46 @评论:notion组建，非常漂亮。
 - Notion组件库｜更新：支持暗黑模式｜组件库获取方法Via[Notion组件库｜更新：支持暗黑模式｜组件库获取方法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fP4y1E7s6) [[20220117]] 上午9:46
 - #[[tricks]]
-    - 标签
+    - [Notion 优质资源汇总 - 少数派](https://sspai.com/post/71893)
+🗒@评论:这篇文章介绍的非常好
     - [使用集简云构建Notion的自动化工作流体系](https://www.bilibili.com/video/BV1Ve4y1Z7ob/?spm_id_from=333.788.recommend_more_video.2&vd_source=3d8ccab137cc879b5f9cbc14d68843ab) 
 
 #[[软件联动]] 和[[滴答清单]]联动
@@ -45,23 +46,23 @@ via[Super — From Notion to Website in minutes](https://super.so/)
     - Notion和[[Roam Research]]的联动
         - notion的结构化做的非常好，roam更加自由灵动，我希望在notion中整理一些长久来看价值更高的内容。感觉notion更适合做任务管理，也就是一些资料或者进度的跟踪，不太适合做一个笔记工具。@评论:这只是一时的感受而已。
     - Notion居然可以直接导入思维导图文件的内容，并且保留原始的结构，amazing
-    - Notion与[[scrivener]]
+    - Notion与[[Scrivener]]
         - scrivener/mindnode/幕布/notion/ulyssess这几个软件居然可以非常方便的相互转换，真是太棒了！！！！#[[软件联动]]
         - 我用scrivener写作的文章先是导出为opml，然后导入到了notion中编辑
-    - Notion与[[mindnode]]是非常强大的文件类型转换工具，利用notion，我实现了把diigo大纲完美转换为mindnode思维导图的方式
+    - Notion与[[Mindnode]]是非常强大的文件类型转换工具，利用notion，我实现了把diigo大纲完美转换为mindnode思维导图的方式
         - 方法如下
-            - 点击[[diigo]]大纲中的export，复制出内容，粘贴在随便新建的一个notion文档中
+            - 点击[[Diigo]]大纲中的export，复制出内容，粘贴在随便新建的一个notion文档中
             - 在notion中点击export，存储为markdown格式，下载之后就可以用mindnode打开了
             - 效果：完美保留了diigo中的层级结构以及原始链接的可用性和美观
     - Notion也有可以支持[[JavaScript]]和[[Python]]的插件！！！
         - Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面Via[Notion - 用 NotionPlus 1.0 创建和同步豆瓣读书收藏到个人书库页面_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av90931560/?spm_id_from=trigger_reload) 下午10:53
 - #[[参考资料]]
     - Notion • theBlockVia[Notion • theBlock - 少数派](https://sspai.com/column/312) [[20220106]] 上午8:53
-    - [177_bilibili的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/152842171?spm_id_from=333.788.b_765f7570696e666f.2) [[20210126]] 上午8:50@评论:这个up主对notion很有研究。
-    - Via[Linmi - 探索未知，迭代新知，沉淀认知。](https://linmi.cc/) 下午1:28
+    - [177_bilibili的个人空间](https://space.bilibili.com/152842171?spm_id_from=333.788.b_765f7570696e666f.2) [[20210126]] 上午8:50@评论:这个up主对notion很有研究。
+    - [Linmi](https://linmi.cc/) 下午1:28
     - 5 款 Notion 模板推荐 & Notion 团队专访 [sspai.com](https://sspai.com/post/57092)
-    - Notion 模板里有一篇「Blog Post」的模板， [[sspai.com]]https://sspai.com/post/57110)
-    - Notion 小技巧 | Notion 如何快速记录？主作者 Power+ 用户 了解详情 > OSEN 联合作者 [[sspai.com]](https://sspai.com/post/57340)
+    - Notion 模板里有一篇「Blog Post」的模板 [sspai.com](https://sspai.com/post/57110)
+    - Notion 小技巧 | Notion 如何快速记录？主作者 Power+ 用户 了解详情 > OSEN 联合作者 [sspai.com](https://sspai.com/post/57340)
     - [一个关于notion插件的网站](https://radreads.co/notion-integrations/)
     - Charts for Notion databasesVia[Chart Nerd](https://chart-nerd.now.sh/) 上午12:02
 - 类似软件

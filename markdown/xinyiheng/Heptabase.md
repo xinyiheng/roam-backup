@@ -1,8 +1,8 @@
 - hepatabase的五种视图
     - card
         - 这是最基本的构成部分。这是所有笔记软件都具有的基本功能，它相当于[[Roam Research]]的page，相当于[[印象笔记]]中的一篇note。heptabase可以在白板中双击新建一张card，这是交互方式的一个亮点。在写card内容的时候，是一个支持markdown的编辑器。
-        - 还有一个亮点是在白板中，card可以折叠起来，而不是像[[scapple]]那样，所有的内容都展现在一张平面上。这种体验更像是[[mindnode]]节点添加了注释。
-        - 一张卡片可以出现在多个白板中，甚至还可以在白板中把一些现有的卡片直接拖拽过来，这一点非常棒。这有些类似[[diigo]]的使用体验。但从本质上看，roam research之类的软件也可以实现这一功能。每一个linked reference相当于体现了这张卡片出现在哪个白板上。这是因为，roam research当中page，既可以理解为一张卡片，也可以理解为一张白板。只不过这张白板是bullet形式展示的。可能用diagram来展示更像是传统理解上的白板。
+        - 还有一个亮点是在白板中，card可以折叠起来，而不是像[[scapple]]那样，所有的内容都展现在一张平面上。这种体验更像是[[Mindnode]]节点添加了注释。
+        - 一张卡片可以出现在多个白板中，甚至还可以在白板中把一些现有的卡片直接拖拽过来，这一点非常棒。这有些类似[[Diigo]]的使用体验。但从本质上看，roam research之类的软件也可以实现这一功能。每一个linked reference相当于体现了这张卡片出现在哪个白板上。这是因为，roam research当中page，既可以理解为一张卡片，也可以理解为一张白板。只不过这张白板是bullet形式展示的。可能用diagram来展示更像是传统理解上的白板。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FocAN21VG8L.png?alt=media&token=deeca24e-c302-45c9-97de-a426002f3f45)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FuLaRq26ynh.png?alt=media&token=71dfe86f-8d58-4d07-9549-11cd05b1eae9)
     - ^^白板(whiteboard，卡片的思维导图)^^

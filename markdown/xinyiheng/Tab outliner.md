@@ -19,7 +19,7 @@
 - tab outliner的  #[[软件联动]]
     - tab outliner整理好的文件可以复制到[[Roam Research]]或者其他[[大纲工具]]当中，非常方便
     - 购买了tab outliner付费版，果然没有让我失望，在其中整理的网页可以完美拷贝到diigo
-    - tab outliner整理的内容复制思维导图中也可以完美保留原来的格式，我发现，直接复制到mindnode只是保留了原来的层级结构，但是链接是直接显示出来的，并不美观，改善方法是先复制到[[Notion]]，然后导出为md文档，用mindnode打开就是完美的思维导图模式@标签：tab outliner 和[[mindnode]]联动，真的要保存为mindnode的话也不用这么麻烦，方法同下
+    - tab outliner整理的内容复制思维导图中也可以完美保留原来的格式，我发现，直接复制到mindnode只是保留了原来的层级结构，但是链接是直接显示出来的，并不美观，改善方法是先复制到[[Notion]]，然后导出为md文档，用mindnode打开就是完美的思维导图模式@标签：tab outliner 和[[Mindnode]]联动，真的要保存为mindnode的话也不用这么麻烦，方法同下
         - diigo大纲文件转换为mindnode思维导图的方法#[[软件联动]]
-    - tab outliner更像是在仔细阅读文章之前梳理要阅读哪些，这些文献之间有什么关系，而diigo则像是先读完一篇文章，然后在梳理和其他文章有什么关系 @标签：taboutliner和[[diigo]]联动
+    - tab outliner更像是在仔细阅读文章之前梳理要阅读哪些，这些文献之间有什么关系，而diigo则像是先读完一篇文章，然后在梳理和其他文章有什么关系 @标签：taboutliner和[[Diigo]]联动
     - tab outliner的链接格式可以复制到[[kb(Knowledge database)]]中，继续阅读和展示，效果非常好

@@ -4,7 +4,7 @@
     - graph图(obsidian roam 自带)
     - 白板概念图(curio)
     - 卡片思维导图(heptabase)
-    - [[mindnode]]
+    - [[Mindnode]]
     - 网状思维导图(the brain)
     - 整理成线性结构化的内容以后还可以整理成一个page
     - 这类图如果整理不好，更像是对于page的索引，更像是一种索引卡片

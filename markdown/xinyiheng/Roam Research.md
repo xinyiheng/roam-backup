@@ -117,7 +117,7 @@ Future task2               :         des4, after des3, 5d
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FQb1OpsYLbq.png?alt=media&token=9cd2330a-8eac-4ce1-ab9d-4e0df8d635d2)
             - 这么看起来，好像复制block更好，但是，block reference的好处是，双击reference可以跳转到block原来的地址，相当于一个快捷方式，是个分身，当原来内容变化的时候，分身也就变化了。不仅如此，block referenc可处理性更好，还可以转变为embed，或者是直接转变为文本，还可以选在带着子blcok。
         - block reference和embed的区别是embed可以带着子block，而reference原来是不能带子block，现在默认也是不带子block，不过现在也可以转变为带着子block的。
-    - 我其实也可在大纲工具中的任何地方新建文档，只需要标注出它是关于这个主题的文档级别文件即可，以后通过搜索实现，或者是方便的时候再迁移到合适的笔记本当中。我关注的几个主题其实相当于笔记本。--这种说法在我当初想在[[diigo]]当中建立自己的[[知识结构]]的时候是成立的，但是在roam research当中就不成立了。因为在[[Roam Research]]中，生成graph的依据就是寻找page 的标题和该标题下的带有"[[]]'符号的的内容，并把他们做成graph，这种自动识别方式是无法识别出传统大纲视图下的层级隶属关系的。要想使用roam research 当中的graph，在做笔记的时候就必须遵守这种严格机械的规则啊。
+    - 我其实也可在大纲工具中的任何地方新建文档，只需要标注出它是关于这个主题的文档级别文件即可，以后通过搜索实现，或者是方便的时候再迁移到合适的笔记本当中。我关注的几个主题其实相当于笔记本。--这种说法在我当初想在[[Diigo]]当中建立自己的[[知识结构]]的时候是成立的，但是在roam research当中就不成立了。因为在[[Roam Research]]中，生成graph的依据就是寻找page 的标题和该标题下的带有"[[]]'符号的的内容，并把他们做成graph，这种自动识别方式是无法识别出传统大纲视图下的层级隶属关系的。要想使用roam research 当中的graph，在做笔记的时候就必须遵守这种严格机械的规则啊。
     - 好像记录在[[Roam Research]]中的文档再进一步整理的时候会有些复杂#问题#[[DONE]]
         - 我发现，在roam research中，如果想把一段文字移动到某个概念之下，只需要在这段文字中提到这个概念就可以了。这样，这段话肯定就可以通过link或者unlink的形式连接到这个概念之下了。如果想要移动到[[概念文档]]中也非常方便，只需要在这段话中提到这个概念并用双方括号括住这个概念，等概念变色之后，就说明连接已经建立，只需要shift+鼠标单击概念就可以在侧边栏打开概念文档，这样就可以把这段文字拖拽到概念文档中了。
     - [[块引用]]等于[[block reference]](c9nvg6Pgh)

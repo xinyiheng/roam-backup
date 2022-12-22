@@ -12,7 +12,7 @@
         - 渐进式阅读
             - 下图中内容出自「TIAGO FORTE」的那篇著名的《Progressive Summarization: A Practical Technique for Designing Discoverable Notes》，翻译过来：「渐进式总结。设计可发现笔记的实用技术」。 [[sspai.com]][🔗](https://sspai.com/post/68492)
             - 其实我们应该分层次的阅读内容，有一些层次略读，有一些层次精读，有一些层次和别的知识进行连接。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzI0MDA3MjQ2Mg==&mid=2247484513&idx=1&sn=a56b6571710147dc792d0fac60eeefe2&ascene=1&devicetype=android-29&version=2800063d&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AdbO0jy7phwKhAjR2CQ73fo%3D&pass_ticket=1ohmrG6%2BQFwGgRQHXBcXe9jrXOAwuGmapBbuEBWJourMjZin%2BU2ZKj%2FQsoLvdJCO&wx_header=1)
-            - 我的渐进阅读是这样的，先用[[diigo]]高亮内容，然后再用其自带的outliner整理成有体系的内容。之后整体拷贝到roam research的daily note中，之后再分别转运到响应的page中去。
+            - 我的渐进阅读是这样的，先用[[Diigo]]高亮内容，然后再用其自带的outliner整理成有体系的内容。之后整体拷贝到roam research的daily note中，之后再分别转运到响应的page中去。
         - 房地产 黄奇帆
             - 公积金
                 - 看公积金的受益比例，就明白，大部分人一辈子都轮不到用公积金买房。 [[mp.weixin.qq.com]][🔗](https://mp.weixin.qq.com/s?__biz=MzIzOTA3NTA5Mg==&mid=2652482646&idx=1&sn=24c55bb2838aea6c6b724f9736be1d8a&chksm=f2c2a62dc5b52f3bf60b703f9e09fc22667fcc71968e1a901a03a9a1f13e00d180d3a1548ffe)
