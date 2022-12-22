@@ -46,7 +46,7 @@
         - 但是点开每个 thought的编辑器就可以发现一个 unlinked mentions，里面的内容是有链接的。这样就可以很方便地打开链接。名字不能太长，是因为这个unlinked mentions是靠the brian软件自动匹配的，如果名字太长，很容易匹配不上。不过，这个名字下一级的能thought够识别出来，也可以在那里看到它的mention。
         - 直接把思维导图导入 the brian对于启发思考效果并不好。
 - 相关软件
-    - [[Obsidian]]有一款插件，大体实现了the brain的效果，叫做[[juggl]]
+    - [[Obsidian]]有一款插件，大体实现了the brain的效果，叫做[[Juggl]]
     - [[TiddlyMap]]
 - #[[参考资料]]
     - 官方网站使用说明

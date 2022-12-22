@@ -1,3 +1,3 @@
 - https://app.relanote.com/platform/note-credit?p=aWQ9MjUxNDg=
-- 类似于[[logseq]]等
+- 类似于[[Logseq]]等
 - [[foam]]

@@ -164,7 +164,7 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
     - [[hulunote]]
     - [[thinktool]]
     - [[tiddlywiki]]
-    - [[logseq]]
+    - [[Logseq]]
     - [[wolai]]
     - [[roam edit]]
     - [[scrapbox]]
@@ -177,7 +177,7 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
 链接：https://zhuanlan.zhihu.com/p/267451435
 via[(15 封私信 / 32 条消息) 威廉 obsidian - [[搜索]]结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
 [[20201230]] 下午11:38
-    - 因为笔者的时间认知有限有很多笔记只简单使用过如：[[Infranodus]]、[[xanadu]] space、wuli wiki、[[gource]]、notion、Athens Research、葫芦笔记、印象笔记、dynalist、thebrain、tiddlywiki、[[Workflowy]]、雅典、Craft、marginnote、[[MyBase]]、[[swrite]]、trilium、gingko、WikiLinks、[[connected papers]]、tagspaces等。D3.js、neo4j、PowerBI、Charticulator、R语言、Phyone、Nvivo这些专业的大工具更是只有肤浅的了解，都还未进行深度使用所以不好进行排行和对比解读，也就没进行测评排行，更多的双向链笔记软件可能连名字都不知道，所以就未出现在此文。-
+    - 因为笔者的时间认知有限有很多笔记只简单使用过如：[[Infranodus]]、[[xanadu]] space、wuli wiki、[[gource]]、notion、Athens Research、葫芦笔记、印象笔记、dynalist、thebrain、tiddlywiki、[[Workflowy]]、雅典、Craft、marginnote、[[MyBase]]、[[swrite]]、trilium、gingko、WikiLinks、[[connected papers]]、tagspaces等。D3.js、neo4j、PowerBI、Charticulator、R语言、Phyone、Nvivo这些专业的大工具更是只有肤浅的了解，都还未进行深度使用所以不好进行排行和对比解读，也就没进行测评排行，更多的双向链笔记软件可能连名字都不知道，所以就未出现在此文。
 
 作者：[[威廉]]
 链接：https://zhuanlan.zhihu.com/p/267451435
@@ -191,10 +191,6 @@ via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMGOqbSgeQz.png?alt=media&token=8f895f65-b871-4b36-98e1-6fdf44df2dfd)
     - roam research如何与[[Obsidian]]同步？#[[软件联动]]#[[自创]]
         - 我自己也已经通过快捷方式可以让二者同步，也并不复杂，有空的时候再看看别人介绍的这个方法，好像[[github]]确实可以帮助完成很多事情。
-        - @宽治：目前我就是 Roam Research（Web） 与 Obsidian （本地）两款软件并行的状况，这样做主要是想兼顾易用性和通用性：Roam Research 的交互方式用起来更加舒适，而以 markdown 文件为基础的 Obsidian 的通用性会更好。
-目前，我在这两款工具的使用上，主要是做了一个内容方面的区分：偏研究性的内容会放在 Roam Research 上，偏写作类的内容会放在 Obsidian 上，而作为素材的笔记是用 Github 从 Roam Research 自动备份 再同步给 Obsidian 的。
-via[Matrix 圆桌 | 网状结构笔记工具是一阵风吗？ - 少数派](https://sspai.com/post/61886)
-[[20201213]] 上午7:52
         - Automatic RoamResearch backupVia[MatthieuBizien/roam-to-git: Automatic RoamResearch backup to Git](https://github.com/MatthieuBizien/roam-to-git) [[20211230]] 下午10:52
     - 如何用roam research看中观图景？
         - 其实我用obsidian就可以实现查看中观图景，因为obsidian的graph图呈现方式比roam research要好得多。好像[[王树义]]老师的方法也就是通过obsidian来优化的。最后好像也是通过[[github]]来同步。我目前的方法只能实现从roam research到obsidian的单项同步，如果能够实现双向同步就完美了。以下方法也只能实现单项同步，目前来看，我自己想到的把roam research和[[Obsidian]]联动起来的方法最好。[[软件联动]]
