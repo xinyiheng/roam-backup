@@ -11,6 +11,10 @@
 - HTTISHERE Notion WidgetsVia[httishere widgets](https://httishere.github.io/widgets-site/#/) [[20220117]] 上午9:46 @评论:notion组建，非常漂亮。
 - Notion组件库｜更新：支持暗黑模式｜组件库获取方法Via[Notion组件库｜更新：支持暗黑模式｜组件库获取方法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fP4y1E7s6) [[20220117]] 上午9:46
 - #[[tricks]]
+    - 标签
+    - [使用集简云构建Notion的自动化工作流体系](https://www.bilibili.com/video/BV1Ve4y1Z7ob/?spm_id_from=333.788.recommend_more_video.2&vd_source=3d8ccab137cc879b5f9cbc14d68843ab) 
+
+#[[软件联动]] 和[[滴答清单]]联动
     - [安卓手机使用NOTION助手小程序剪藏文档](https://www.bilibili.com/video/BV1nS4y1w7YC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
 🗒@评论:我估计不会使用，做个备忘吧
     - 把notion变成网站
@@ -27,7 +31,6 @@ via[Super — From Notion to Website in minutes](https://super.so/)
     - Notion + GatsbyJs + Netlify 极致的博客体验Via[Notion + GatsbyJs + Netlify 极致的博客体验 | 陈惠超的博客](https://chenhuichao.com/c32f80ee1ca84d45aaf63ee170e3c267)#[[前端程序员]] 下午6:31
     - command+shift+M可以给内容添加评论
     - notion也可以把不同的视图方式单独摆放成一个widget的感觉
-    - 标签
 - 使用方法
     - 用notion记录自己一天的行为非常方便。具体用法如下#[[时间管理]]
         - 以看板的模式把一天的工作分为阅读、写作、家庭等等
