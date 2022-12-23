@@ -61,4 +61,4 @@ www.dida365.com
 - 骑车一小时，33公里左右
 - 在微信读书阅读了一会。
 - 打开滴答清单回归今天的任务
-- {{[[TODO]]}}晚上想要把notion和github关联起来，其实就是想把notion中的内容自动索引到devonthinkhub中，没有成功#问题#[[软件联动]]
+- 晚上想要把notion和github关联起来，其实就是想把notion中的内容自动索引到devonthinkhub中，没有成功#问题#[[软件联动]]

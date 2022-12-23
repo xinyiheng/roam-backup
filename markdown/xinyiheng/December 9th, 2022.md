@@ -1,6 +1,4 @@
 - [[roam/sr/review]]
-    - CRAAP#[[sr]]
-
 - [[Inbox]]
     - 16:35 为什么
     - 16:47 为啥

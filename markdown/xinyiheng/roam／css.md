@@ -638,38 +638,6 @@ span[data-link-title="lvse"] {
 span[data-link-title="huangse"] { 
     display: none !important; 
 }```
-- 思维导图模式
-    - ```css
-/* Created by: @Calhistorian (Mark Robertson) */
-
-.blockmap {
-  display: flex;
-  align-items: left;
-  flex-direction: row;
-  align-items: baseline; /* allows Azlan's path finder to not go "up" */
-  justify-content: baseline;
-
-}
- 
-.blockmap div {
- border:none;
-
-} 
-
-.blockmap .rm-block__self  {
-  width: 400px; /* Adjust this value for block width */
-  padding: 10px 10px;
-}
-
-.blockmap .rm-block__children {
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-
-/* Horizontal Scrolling */
-.roam-body-main > div  {
-  overflow-x: scroll !important;
-}```
 - 美化youtube时间戳的按钮分享一个Andy Mode的CSS和几个js插件https://github.com/GitMurf/masonry-vanilla#masonry-vanilla
     - ```css
 .timestamp-control{

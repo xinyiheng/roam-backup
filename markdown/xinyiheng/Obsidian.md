@@ -26,7 +26,7 @@
     11. 建立并发布个人网站。[[Obsidian]]也可以，我看[[指导员吴刚]]就自己建立了一个网站
     12. 想到把roam research当作记录[[literature note]]的工具，把flomo之类当作[[Fleeting Notes]]的工具，把obsidian当作[[Permanent Notes]]的工具。
     13. 如何处理pdf？用marginnote阅读pdf的一个缺点是，这些笔记就保留在了里面的思维导图中，难以和[[Roam Research]]里面的内容产生关联。
-    14. [Export TheBrain to Obsidian, a small script - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/export-thebrain-to-obsidian-a-small-script/6641/3) #[[软件联动]]
+    14. {{[[TODO]]}} [Export TheBrain to Obsidian, a small script - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/export-thebrain-to-obsidian-a-small-script/6641/3) #[[软件联动]]
 - ### 插件及功能
     - 看板视图：其实[[Roam Research]]和[[Obsidian]]也都具有看板功能
     - The Brain视图：[[Obsidian]]有一款插件，大体实现了the brain的效果，叫做[[Juggl]]

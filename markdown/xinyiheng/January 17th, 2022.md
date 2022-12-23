@@ -104,15 +104,15 @@ Stretches its soft and shady wings.
     - jj伴随着《集合啦！动物森友会》的热销，快速推动Switch销量攀升，目前包括Target，BestBuy，Walmart，GameStop和Amazon在内的主流零售渠道均已售罄。不过任天堂表示，如果你愿意支付更高的金额，可以从亚马逊或者沃尔玛的第三方进行购买，但最便宜的价格为460美元，远远高于建议零售价299美元。（cnBeta）
 - {{emoji}}http://getemoji.com/
 - [[TODO]]
-    - [[TODO]]
-    - {{[[TODO]]}} 19年の新エネ車の乗用車の販売台数は前年比4%増の110万台。BYDは3.9%減の22万台に落ち込んだが、国内シェアは20%を維持した。 [nikkei.com](https://www.nikkei.com/article/DGXMZO55846060Z10C20A2XR1000)
+    - TODO
+    - {{[[DONE]]}} 19年の新エネ車の乗用車の販売台数は前年比4%増の110万台。BYDは3.9%減の22万台に落ち込んだが、国内シェアは20%を維持した。 [nikkei.com](https://www.nikkei.com/article/DGXMZO55846060Z10C20A2XR1000)
     - {{[[TODO]]}} 阅读豆瓣上关于日本的书籍的书评，也是了解读者心理的直观方法，我之前为什么就没有想到这个方法呢？
     - {{[[TODO]]}} 整合经常浏览的各大网站对于我感兴趣的事件的标签#问题
     - {{[[TODO]]}} This is a todo
     - {{[[TODO]]}} This is a todo
     - {{[[TODO]]}} This is a todo
     - {{[[TODO]]}} update the Telegram API key above
-    - {{[[TODO]]}}电脑本地文件[[全文搜索]]#问题 @评论:spotlight就可以，不过，我真正想要搜索的内容都用devonthink来搜索了。
+    - {{[[DONE]]}}电脑本地文件[[全文搜索]]#问题 @评论:spotlight就可以，不过，我真正想要搜索的内容都用devonthink来搜索了。
 - block
     - [[稍后阅读]]
     - [[Checkvist]]可能也是一个比较好的整理[[稍后阅读]]信息的方式。

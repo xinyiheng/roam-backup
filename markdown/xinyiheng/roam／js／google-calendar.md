@@ -1,6 +1,0 @@
-- import
-    - calendars
-        - kmlueva2rttgpt34m67vf27otk1d28ns@import.calendar.google.com
-            - wangxiaohui19880214@gmail.com
-    - format
-        - {summary} ({start:hh:mm a} - {end:hh:mm a}){confLink}
