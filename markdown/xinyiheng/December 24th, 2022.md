@@ -1,6 +1,6 @@
 - 
 - Imported Quick Capture items:
-    - 独家 | 许小年最新演讲：创新是一种自我表达，企业家不要盯着宏观经济 | CEIBS
+    1. 独家 | 许小年最新演讲：创新是一种自我表达，企业家不要盯着宏观经济 | CEIBS
         - Annotations:
 
 *   * ## 许小年最新演讲：创新是一种自我表达，企业家不要盯着宏观经济
@@ -9,14 +9,12 @@
 
 * 海底捞总结出一套行之有效的自己培养店长的方法：用师徒制方法，店长可以带徒弟，徒弟学成之后可以出去自己开店，徒弟开的店的收益店长可以分享，这是它非常独特的地方。
 
-
-
 https://cn.ceibs.edu/people-stories/21701 [Email Body](https://files.todoist.com/ZzyoENTzB9FgRjMnPKV482Fq_FEuRJcFO3IdaMt1Eccvj96eboYEw8w1GyIery2F/by/21878347/as/file.html)
-    - 为什么骑自行车学会就忘不掉，可弹琴需要天天练？
+    2. 为什么骑自行车学会就忘不掉，可弹琴需要天天练？
         - Tags: 记忆
 
 https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652090683&idx=1&sn=e7479ccde24d6e3b6fd989e1eed60ae2&chksm=5dbf95a96ac81cbfed4b89470f58708d0261fdc052048b40e3ee812c5c55dad385b7572779b7&scene=132 [Email Body](https://files.todoist.com/zhE1lOGlkIIEh87CqZXPvkP2Yh1N54aqsKaXr8_tt-iAkzKnvZAqNOn6hKREc39q/by/21878347/as/file.html)
-    - 设计、体验都出彩，白板工具的又一选择：Muse - 少数派
+    3. 设计、体验都出彩，白板工具的又一选择：Muse - 少数派
         - Annotations:
 
 * 在 Muse 中，最基础的概念是「卡片」(Card)，它可以是一段文字、一张图片、GIF、一个网页链接，甚至是一段视频。
@@ -40,13 +38,13 @@ Tags: Muse
 
 
 https://sspai.com/post/74009 [Email Body](https://files.todoist.com/fq6LlpZSHRFFZIJkyY8jwIvrMIXf54n9UbRDJLvMHwnngErdE-myelcfwGDXrWbX/by/21878347/as/file.html)
-    - 宝马背后的百年家族：一部德意志财富神话史-虎嗅网
+    4. 宝马背后的百年家族：一部德意志财富神话史-虎嗅网
         - Tags: 家族企业 传承
 
 
 
 https://m.huxiu.com/article/546286.html [Email Body](https://files.todoist.com/_JqNtLw8vxm3sF5kJTa9p3ydhXy_tiwMQ-CZXjPpmBaEkiTFmm7A-SJEG3u8L6cd/by/21878347/as/file.html)
-    - 数字化监狱，现代人如何抵抗同质化暴力？ - 少数派
+    5. 数字化监狱，现代人如何抵抗同质化暴力？ - 少数派
         - Annotations:
 
 * 「知晓」并不等于「知道」，我们收藏的未消化的信息越多，内心的压力也就越大，而去主动学习和消化的动力就越小，直到曾费心收藏的内容被遗忘掉。而不断地切换和遗忘，造成了时间的徒然浪费。这还是文字，更遑论视频。
@@ -84,7 +82,7 @@ https://m.huxiu.com/article/546286.html [Email Body](https://files.todoist.com/_
 
 
 https://sspai.com/post/77017 [Email Body](https://files.todoist.com/9TQ1sphh3nSb4KF-QNkob_cHw976rNPhy-YXLZkp2RPT_TZIqhneelJthrsan5bS/by/21878347/as/file.html)
-    - Inoreader - 世界杯，一门大生意
+    6. Inoreader - 世界杯，一门大生意
         - Annotations:
 
 * 2022年卡塔尔世界杯要正式开赛了。北京时间11月21日00:00，由东道主卡塔尔对阵来自南美的厄瓜多尔的比赛，将拉开“史上最贵世界杯”的序幕。 
@@ -92,7 +90,7 @@ https://sspai.com/post/77017 [Email Body](https://files.todoist.com/9TQ1sphh3nSb
 
 
 https://www.inoreader.com/article/3a9c6e75870d13a5- [Email Body](https://files.todoist.com/Lw938ZofD09imy4BgavZERO8dDj8umtIGgsBP6lVgw0vf0DcWCRcZWSuaBsBFa6w/by/21878347/as/file.html)
-    - 选对插件，让简悦也可以重器轻用 - 少数派
+    7. 选对插件，让简悦也可以重器轻用 - 少数派
         - Annotations:
 
 *     * 我到底需要保存文章全文还是重点的标记？我后续会怎样利用这些文章和标记？卡片模式和page 模式各有什么优劣？
@@ -100,7 +98,7 @@ https://www.inoreader.com/article/3a9c6e75870d13a5- [Email Body](https://files.t
 
 
 https://sspai.com/post/75567 [Email Body](https://files.todoist.com/WMstwP_uRhpdysTLtLtM9oek3OzCWzH2IURvADkQHSC2Uf55812GmKdHOtpBLxki/by/21878347/as/file.html)
-    - Statistics | Readwise
+    8. Statistics | Readwise
         - Annotations:
 
 * the most
@@ -108,7 +106,7 @@ https://sspai.com/post/75567 [Email Body](https://files.todoist.com/WMstwP_uRhpd
 
 
 https://readwise.io/stats [Email Body](https://files.todoist.com/UF1mZ4e2aYCBQsbhfN2V_GQbJb4gIXj6Oxf-CD0aOHmZzOxu57isVXJg1pbsBt_H/by/21878347/as/file.html)
-    - 众口难调的笔记，各取所需的工具 - #Untag
+    9. 众口难调的笔记，各取所需的工具 - #Untag
         - "Digital paper: A manual for research and writing with library and internet
 materials"
 
@@ -117,13 +115,13 @@ Tags: 知识管理 笔记
 
 
 https://utgd.net/article/9388 [Email Body](https://files.todoist.com/cIYoZxvtpQCHOQDVbgfWP-R8QQGgfyEwfDxny2566Djj27jyD4dptNUASwgbUJa4/by/21878347/as/file.html)
-    - 从高亮到输出：如何用 Readwise 一站式优化你的阅读笔记流程？ - 少数派
+    10. 从高亮到输出：如何用 Readwise 一站式优化你的阅读笔记流程？ - 少数派
         - Tags: 阅读 工具 readwise
 
 
 
 https://sspai.com/post/76574 [Email Body](https://files.todoist.com/b7CNV2cWu8TWUp1Tgbtqh1PlEC3hNd-e7hkhS2GycpGEbZdlAClBNG2O_Mez0gym/by/21878347/as/file.html)
-    - 独家 | 许小年最新演讲：创新是一种自我表达，企业家不要盯着宏观经济 | CEIBS
+    11. 独家 | 许小年最新演讲：创新是一种自我表达，企业家不要盯着宏观经济 | CEIBS
         - Annotations:
 
 *   * ## 许小年最新演讲：创新是一种自我表达，企业家不要盯着宏观经济
@@ -135,7 +133,7 @@ https://sspai.com/post/76574 [Email Body](https://files.todoist.com/b7CNV2cWu8TW
 
 
 https://cn.ceibs.edu/people-stories/21701 [Email Body](https://files.todoist.com/w8XlodKwdws7uHZ4iOuNNELSQHnW2FQp2xi1nrMQ0sEUSJkyiLiahgbJJTPpa1YD/by/21878347/as/file.html)
-    - 家族企业 长青之树 - 财富中文网
+    12. 家族企业 长青之树 - 财富中文网
         - Annotations:
 
 * 意大利工业史家安德里•考利（Andrea Colli）在 2003 年出版的《1850 年－ 2000 年家族企业史》当中，用系统的历史和理论框架分析了家族企业的兴起及延续。无论是交易成本学说还是代理人理论，都确认家族企业在那些珍视信任度和可靠性等要素的国家环境中能够繁荣兴旺。与家庭制度息息相关的信任度等要素，指向的是一种坚实的信誉，能显著地减少由于信息的不对称、承诺的不确定和道德风险所产生的高成本。很多实证研究都表明，家族企业能够在领先工业化国家的先进而复杂的制度安排下良好地生存。即使并不存在一个有关家族企业的简单定义，我们也仍然能够看到，
@@ -145,13 +143,13 @@ Tags: 家族企业 传承
 
 
 https://www.fortunechina.com/magazine/c/2004-10/01/content_1082.htm [Email Body](https://files.todoist.com/8nb0BVSO1Oe-k_nkGVQH08WlFWjj-JFiBGOTC8T_KvGt8ip4MtXigBtfwNELXay5/by/21878347/as/file.html)
-    - 从高亮到输出：如何用 Readwise 一站式优化你的阅读笔记流程？ - 少数派
+    13. 从高亮到输出：如何用 Readwise 一站式优化你的阅读笔记流程？ - 少数派
         - Tags: 阅读 工具 readwise
 
 
 
 https://sspai.com/post/76574 [Email Body](https://files.todoist.com/Vrrcu93giIMfHzyUZZCPSdQVQT18PI6TUOqWPcuci5ssd9PCbE_taTAMam2CRogC/by/21878347/as/file.html)
-    - 众口难调的笔记，各取所需的工具 - #Untag
+    14. 众口难调的笔记，各取所需的工具 - #Untag
         - "Digital paper: A manual for research and writing with library and internet
 materials"
 
@@ -160,7 +158,7 @@ Tags: 知识管理 笔记
 
 
 https://utgd.net/article/9388 [Email Body](https://files.todoist.com/9_4E0ujP-Fu8_HOfamCPTM9s25FSPHD89tK3zp1msY_19RSI0tv1azwaTraNcoRm/by/21878347/as/file.html)
-    - Statistics | Readwise
+    15. Statistics | Readwise
         - Annotations:
 
 * the most
@@ -168,7 +166,7 @@ https://utgd.net/article/9388 [Email Body](https://files.todoist.com/9_4E0ujP-Fu
 
 
 https://readwise.io/stats [Email Body](https://files.todoist.com/uRHJc7vMXbDSiNNJs9c0hGbKPCIN5ysWsbpZGVGHRNukqwAiqFW9wN2BfgwaOEEJ/by/21878347/as/file.html)
-    - 超大城市更有范儿！“三线”“三生”助力北京可持续发展（解读总规第四集）_政策解读_北京市规划和自然资源委员会
+    16. 超大城市更有范儿！“三线”“三生”助力北京可持续发展（解读总规第四集）_政策解读_北京市规划和自然资源委员会
         - Annotations:
 
 * 第一条红线是人口规模上限。北京是一座特别缺水的城市，我们要根据可供水资源量和人均水资源量来严格控制常住人口规模。
@@ -182,7 +180,7 @@ https://readwise.io/stats [Email Body](https://files.todoist.com/uRHJc7vMXbDSiNN
 
 
 http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166639.html [Email Body](https://files.todoist.com/lTZfmRSo8g60_4CF88f8PBWcw5xpBhEwN5xYlwNSzzTWNhi46b92514mHccRlWck/by/21878347/as/file.html)
-    - 数字化监狱，现代人如何抵抗同质化暴力？ - 少数派
+    17. 数字化监狱，现代人如何抵抗同质化暴力？ - 少数派
         - Annotations:
 
 * 「知晓」并不等于「知道」，我们收藏的未消化的信息越多，内心的压力也就越大，而去主动学习和消化的动力就越小，直到曾费心收藏的内容被遗忘掉。而不断地切换和遗忘，造成了时间的徒然浪费。这还是文字，更遑论视频。
@@ -220,7 +218,7 @@ http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166639.ht
 
 
 https://sspai.com/post/77017 [Email Body](https://files.todoist.com/jS5Rr0bCzUexbgA9DGQhvmIGuTYvgwb3tVqtMkFHLADiicDKMO4eR0_9p18bqeJn/by/21878347/as/file.html)
-    - 家族企业有五种模式 传承家业靠四大秘诀|界面新闻
+    18. 家族企业有五种模式 传承家业靠四大秘诀|界面新闻
         - Annotations:
 
 * ### 家族企业的类型
@@ -263,13 +261,13 @@ Tags: 家族企业 传承
 
 
 https://www.jiemian.com/article/1445229.html [Email Body](https://files.todoist.com/3jh_0VWJ7u2lqz6n70LJAi_ICON-jH5LAQbLVP4qPfqnIXBvUQInxsaalCCx0WbV/by/21878347/as/file.html)
-    - 为什么骑自行车学会就忘不掉，可弹琴需要天天练？
+    19. 为什么骑自行车学会就忘不掉，可弹琴需要天天练？
         - Tags: 记忆
 
 
 
 https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652090683&idx=1&sn=e7479ccde24d6e3b6fd989e1eed60ae2&chksm=5dbf95a96ac81cbfed4b89470f58708d0261fdc052048b40e3ee812c5c55dad385b7572779b7&scene=132 [Email Body](https://files.todoist.com/8UXteZ3tAsNbgRGbQnvz2ECzVZMH-hriJmP7Qk8PxTEZVBqEqxm1nctY5Oohghpr/by/21878347/as/file.html)
-    - 未来北京什么样？一部动画带您了解总体规划（解读总规第一集）_政策解读_北京市规划和自然资源委员会
+    20. 未来北京什么样？一部动画带您了解总体规划（解读总规第一集）_政策解读_北京市规划和自然资源委员会
         - Annotations:
 
 * 新总规明确了北京的战略定位是：全国政治中心、文化中心、国际交往中心、科技创新中心！突出“四个中心”，彰显首都风范！
@@ -312,19 +310,19 @@ https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652090683&idx=1&sn=e7479c
 
 
 http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166743.html [Email Body](https://files.todoist.com/r_IAzj8zLYp_zyrTfi59uM7RsemrCcaD42GsQ7FDwpCcdXe0s7m5npYW9wtoq69p/by/21878347/as/file.html)
-    - AI数字绘画：何时从AIGC迈向AIAD？ - 少数派
+    21. AI数字绘画：何时从AIGC迈向AIAD？ - 少数派
         - Tags: 人工智能画画
 
 
 
 https://sspai.com/post/77005 [Email Body](https://files.todoist.com/g5ejH9r3Hef4YJaBhicuZt4bMYzSrh33Z8uK5YxzzO7hfZQ-TZfl5ij34T5R_e0s/by/21878347/as/file.html)
-    - 宝马背后的百年家族：一部德意志财富神话史-虎嗅网
+    22. 宝马背后的百年家族：一部德意志财富神话史-虎嗅网
         - Tags: 家族企业 传承
 
 
 
 https://m.huxiu.com/article/546286.html [Email Body](https://files.todoist.com/vhMBXm9tMde9pR6FqCmTkrYfyoIibbBEgxbX6JQEqP2FQg3yUfgw0l_Ce4wpJrsS/by/21878347/as/file.html)
-    - 蔡昉：应对人口负增长时代_新浪财经_新浪网
+    23. 蔡昉：应对人口负增长时代_新浪财经_新浪网
         - Annotations:
 
 * 长期以来，我们对于生育率的估计是有偏差的。从总和生育率来看，一对夫妻或者一个妇女终生生育的孩子数量在2.1以上，人口长期就是正增长的；如果低于2.1，短期内人口由于惯性还会正增长，但若干年后就会到达峰值转入负增长。
@@ -370,7 +368,7 @@ Tags: 人口 老龄化
 
 
 http://finance.sina.com.cn/zl/china/2022-12-01/zl-imqqsmrp8177470.shtml [Email Body](https://files.todoist.com/Flip-J8cSwk9A-0hfCngGgGyCMe4jjk6UiGhnSqtEPp5vB3rEMb9yt6nBAIMvuZ_/by/21878347/as/file.html)
-    - 家族企业 长青之树 - 财富中文网
+    24. 家族企业 长青之树 - 财富中文网
         - Annotations:
 
 * 意大利工业史家安德里•考利（Andrea Colli）在 2003 年出版的《1850 年－ 2000 年家族企业史》当中，用系统的历史和理论框架分析了家族企业的兴起及延续。无论是交易成本学说还是代理人理论，都确认家族企业在那些珍视信任度和可靠性等要素的国家环境中能够繁荣兴旺。与家庭制度息息相关的信任度等要素，指向的是一种坚实的信誉，能显著地减少由于信息的不对称、承诺的不确定和道德风险所产生的高成本。很多实证研究都表明，家族企业能够在领先工业化国家的先进而复杂的制度安排下良好地生存。即使并不存在一个有关家族企业的简单定义，我们也仍然能够看到，
@@ -380,7 +378,7 @@ Tags: 家族企业 传承
 
 
 https://www.fortunechina.com/magazine/c/2004-10/01/content_1082.htm [Email Body](https://files.todoist.com/Y2XktKc79MTwg3bjx4Mu3oxxNa_7KDDZ5pt_vLyLJ5cgarg1s_Xw1b_fpiqbTCFr/by/21878347/as/file.html)
-    - 选对插件，让简悦也可以重器轻用 - 少数派
+    25. 选对插件，让简悦也可以重器轻用 - 少数派
         - Annotations:
 
 *     * 我到底需要保存文章全文还是重点的标记？我后续会怎样利用这些文章和标记？卡片模式和page 模式各有什么优劣？
@@ -388,7 +386,7 @@ https://www.fortunechina.com/magazine/c/2004-10/01/content_1082.htm [Email Body]
 
 
 https://sspai.com/post/75567 [Email Body](https://files.todoist.com/0tjzOPJ1fymg-01ITWXmJzfzhChfXqONyQ63-AEmckhOaY4uFkYnuh3eK4PxAMkX/by/21878347/as/file.html)
-    - Statistics | Readwise
+    26. Statistics | Readwise
         - Annotations:
 
 * the most
@@ -396,13 +394,13 @@ https://sspai.com/post/75567 [Email Body](https://files.todoist.com/0tjzOPJ1fymg
 
 
 https://readwise.io/stats [Email Body](https://files.todoist.com/BANdFrc2hSkgdN2XtymgrREfDrxu4tHqUHEEMMTmuyQjkueQAiORlavtcaCM-97H/by/21878347/as/file.html)
-    - 从高亮到输出：如何用 Readwise 一站式优化你的阅读笔记流程？ - 少数派
+    27. 从高亮到输出：如何用 Readwise 一站式优化你的阅读笔记流程？ - 少数派
         - Tags: 阅读 工具 readwise
 
 
 
 https://sspai.com/post/76574 [Email Body](https://files.todoist.com/nO7CN7BcnbUJBhPctwriX-exjwchx3wTBdUglN0bQYW5322OizPoJQh4PuAqx-Mj/by/21878347/as/file.html)
-    - 蔡昉：应对人口负增长时代_新浪财经_新浪网
+    28. 蔡昉：应对人口负增长时代_新浪财经_新浪网
         - Annotations:
 
 * 长期以来，我们对于生育率的估计是有偏差的。从总和生育率来看，一对夫妻或者一个妇女终生生育的孩子数量在2.1以上，人口长期就是正增长的；如果低于2.1，短期内人口由于惯性还会正增长，但若干年后就会到达峰值转入负增长。
@@ -448,7 +446,7 @@ Tags: 人口 老龄化
 
 
 http://finance.sina.com.cn/zl/china/2022-12-01/zl-imqqsmrp8177470.shtml [Email Body](https://files.todoist.com/IYTJ8WWBWkRgqd8efLxomXTb4vaIVIze8FgruF6lkYNlzJlnowRaDlY9XUDdb6QU/by/21878347/as/file.html)
-    - 设计、体验都出彩，白板工具的又一选择：Muse - 少数派
+    29. 设计、体验都出彩，白板工具的又一选择：Muse - 少数派
         - Annotations:
 
 * 在 Muse 中，最基础的概念是「卡片」(Card)，它可以是一段文字、一张图片、GIF、一个网页链接，甚至是一段视频。
@@ -472,7 +470,7 @@ Tags: Muse
 
 
 https://sspai.com/post/74009 [Email Body](https://files.todoist.com/T8mLSKt-0FRqzhl10mJ1ETchFAS5NRNKQZVYmS3ZWlBaMOl7ozyNw3WDyVWN60Od/by/21878347/as/file.html)
-    - 超大城市更有范儿！“三线”“三生”助力北京可持续发展（解读总规第四集）_政策解读_北京市规划和自然资源委员会
+    30. 超大城市更有范儿！“三线”“三生”助力北京可持续发展（解读总规第四集）_政策解读_北京市规划和自然资源委员会
         - Annotations:
 
 * 第一条红线是人口规模上限。北京是一座特别缺水的城市，我们要根据可供水资源量和人均水资源量来严格控制常住人口规模。
@@ -486,13 +484,13 @@ https://sspai.com/post/74009 [Email Body](https://files.todoist.com/T8mLSKt-0FRq
 
 
 http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166639.html [Email Body](https://files.todoist.com/UMhr-bmdpeszyXdMmRW6PAgJr1xsCCttrJJiARjv1TCIoWyyGMpmh5wQOFwpJdHg/by/21878347/as/file.html)
-    - 宝马背后的百年家族：一部德意志财富神话史-虎嗅网
+    31. 宝马背后的百年家族：一部德意志财富神话史-虎嗅网
         - Tags: 家族企业 传承
 
 
 
 https://m.huxiu.com/article/546286.html [Email Body](https://files.todoist.com/Vdw-sDav559r-zvi5Oe9ULB8qK24R0hCbET6wsqmDzLMNwrmyqXMXOqoBeyhWfSy/by/21878347/as/file.html)
-    - Inoreader - 世界杯，一门大生意
+    32. Inoreader - 世界杯，一门大生意
         - Annotations:
 
 * 2022年卡塔尔世界杯要正式开赛了。北京时间11月21日00:00，由东道主卡塔尔对阵来自南美的厄瓜多尔的比赛，将拉开“史上最贵世界杯”的序幕。 
@@ -500,7 +498,7 @@ https://m.huxiu.com/article/546286.html [Email Body](https://files.todoist.com/V
 
 
 https://www.inoreader.com/article/3a9c6e75870d13a5- [Email Body](https://files.todoist.com/4dc4lAZH0Nxb9Hn99lMFGp5SEAyWgsj1oMrEr2qtyJ-kzeFjsGtjbF-jPejj0st-/by/21878347/as/file.html)
-    - 家族企业 长青之树 - 财富中文网
+    33. 家族企业 长青之树 - 财富中文网
         - Annotations:
 
 * 意大利工业史家安德里•考利（Andrea Colli）在 2003 年出版的《1850 年－ 2000 年家族企业史》当中，用系统的历史和理论框架分析了家族企业的兴起及延续。无论是交易成本学说还是代理人理论，都确认家族企业在那些珍视信任度和可靠性等要素的国家环境中能够繁荣兴旺。与家庭制度息息相关的信任度等要素，指向的是一种坚实的信誉，能显著地减少由于信息的不对称、承诺的不确定和道德风险所产生的高成本。很多实证研究都表明，家族企业能够在领先工业化国家的先进而复杂的制度安排下良好地生存。即使并不存在一个有关家族企业的简单定义，我们也仍然能够看到，
@@ -510,19 +508,19 @@ Tags: 家族企业 传承
 
 
 https://www.fortunechina.com/magazine/c/2004-10/01/content_1082.htm [Email Body](https://files.todoist.com/So05yHivct-lvhBtj0AgQEG0m_uS51cX3FVFoiOcGphigk93hSbjh8cjMCZVpAZK/by/21878347/as/file.html)
-    - AI数字绘画：何时从AIGC迈向AIAD？ - 少数派
+    34. AI数字绘画：何时从AIGC迈向AIAD？ - 少数派
         - Tags: 人工智能画画
 
 
 
 https://sspai.com/post/77005 [Email Body](https://files.todoist.com/KzEra_LMqG0Xz4tJ85Tc4TapLJR-gQSuQwwqIdTZcJSqoqqFZ1geZdiqS0qL6uga/by/21878347/as/file.html)
-    - 正则表达式速查表_脚本之家
+    35. 正则表达式速查表_脚本之家
         - Tags: 编程 正则表达式
 
 
 
 https://www.jb51.net/tools/regexsc.htm [Email Body](https://files.todoist.com/KjyWkg1DmOXhooFb1YC9gvxjIX4HF8Q9cRA8YVZ5xpxsZReQ9sGPp7WJsSLLXdos/by/21878347/as/file.html)
-    - 让链接无处不在——《泛在链接宣言》的理论与理想 - 少数派
+    36. 让链接无处不在——《泛在链接宣言》的理论与理想 - 少数派
         - Annotations:
 
 *   * 则 「微信更新外链规则」 的新闻在国内引发了不小的涟漪。在《关于〈微信外部链接内容管理规范〉的更新说明》中，微信宣布，将在点对点聊天中允许直接访问外部链接，而在群聊中试行允许直接访问电商类链接。
@@ -564,7 +562,7 @@ Tags: 自动化
 
 
 https://sspai.com/post/70648 [Email Body](https://files.todoist.com/G1IfttrMtR8KjrVyzAqR-kSUN9fyr5U0RL8BHNvCQeL0R7aT0N7d07bvPtsdYdyj/by/21878347/as/file.html)
-    - 蔡昉：应对人口负增长时代_新浪财经_新浪网
+    37. 蔡昉：应对人口负增长时代_新浪财经_新浪网
         - Annotations:
 
 * 长期以来，我们对于生育率的估计是有偏差的。从总和生育率来看，一对夫妻或者一个妇女终生生育的孩子数量在2.1以上，人口长期就是正增长的；如果低于2.1，短期内人口由于惯性还会正增长，但若干年后就会到达峰值转入负增长。
@@ -610,7 +608,7 @@ Tags: 人口 老龄化
 
 
 http://finance.sina.com.cn/zl/china/2022-12-01/zl-imqqsmrp8177470.shtml [Email Body](https://files.todoist.com/wLu6UZsB74q6NvdIFdiSZkAExFnHKSmGNWBnvzn-3L0LUv8KeO11aZ_956rtWEiS/by/21878347/as/file.html)
-    - 地产二代进退之间-36氪
+    38. 地产二代进退之间-36氪
         - "纪凯婷"
 
 Tags: 家族企业 传承 房地产
@@ -618,7 +616,7 @@ Tags: 家族企业 传承 房地产
 
 
 https://36kr.com/p/2016333917192707 [Email Body](https://files.todoist.com/wnrgmsjNE2w0lFyLB180l34sOMF33vMRoxnWxDUE7lK6Qh8dH6hOFc6ENOu9duj4/by/21878347/as/file.html)
-    - 让链接无处不在——《泛在链接宣言》的理论与理想 - 少数派
+    39. 让链接无处不在——《泛在链接宣言》的理论与理想 - 少数派
         - Annotations:
 
 *   * 则 「微信更新外链规则」 的新闻在国内引发了不小的涟漪。在《关于〈微信外部链接内容管理规范〉的更新说明》中，微信宣布，将在点对点聊天中允许直接访问外部链接，而在群聊中试行允许直接访问电商类链接。
@@ -660,13 +658,13 @@ Tags: 自动化
 
 
 https://sspai.com/post/70648 [Email Body](https://files.todoist.com/kylN4mU6l2YlCTlp6YKhqaSFT39xF5H1e6EeJatTOOxhbPCyt5VjbnFxdMDcPuso/by/21878347/as/file.html)
-    - AI数字绘画：何时从AIGC迈向AIAD？ - 少数派
+    40. AI数字绘画：何时从AIGC迈向AIAD？ - 少数派
         - Tags: 人工智能画画
 
 
 
 https://sspai.com/post/77005 [Email Body](https://files.todoist.com/N01jEfYO8SzTNFB-plZzsm3V2C8KA6C6RiTp4NxF-vSlBkuIKKaXtAlkGnyTTP4C/by/21878347/as/file.html)
-    - 数字化监狱，现代人如何抵抗同质化暴力？ - 少数派
+    41. 数字化监狱，现代人如何抵抗同质化暴力？ - 少数派
         - Annotations:
 
 * 「知晓」并不等于「知道」，我们收藏的未消化的信息越多，内心的压力也就越大，而去主动学习和消化的动力就越小，直到曾费心收藏的内容被遗忘掉。而不断地切换和遗忘，造成了时间的徒然浪费。这还是文字，更遑论视频。
@@ -704,7 +702,7 @@ https://sspai.com/post/77005 [Email Body](https://files.todoist.com/N01jEfYO8SzT
 
 
 https://sspai.com/post/77017 [Email Body](https://files.todoist.com/3W-1KddpNCQtuwlPKnD763-bu-7xv8FSDmTdA-EYSwVO41cltgB6R6LENQXU6V0a/by/21878347/as/file.html)
-    - 让链接无处不在——《泛在链接宣言》的理论与理想 - 少数派
+    42. 让链接无处不在——《泛在链接宣言》的理论与理想 - 少数派
         - Annotations:
 
 *   * 则 「微信更新外链规则」 的新闻在国内引发了不小的涟漪。在《关于〈微信外部链接内容管理规范〉的更新说明》中，微信宣布，将在点对点聊天中允许直接访问外部链接，而在群聊中试行允许直接访问电商类链接。
@@ -746,18 +744,18 @@ Tags: 自动化
 
 
 https://sspai.com/post/70648 [Email Body](https://files.todoist.com/PiHv90fWIAo6N-688jteJPRID9GY5ZJiGHRUxEb9u4zOS9s6MEJ4IbE6P_xVNWM0/by/21878347/as/file.html)
-    - 众口难调的笔记，各取所需的工具 - #Untag
+    43. 众口难调的笔记，各取所需的工具 - #Untag
         - "Digital paper: A manual for research and writing with library and internet
 materials"
 
 Tags: 知识管理 笔记
 
 https://utgd.net/article/9388 [Email Body](https://files.todoist.com/sHKuG-ZzD_G0Z9UzxmT-Gt1IdwIfBhnomWSy3dUnwM5y9ag7mUPQwMiK4QA2peNa/by/21878347/as/file.html)
-    - 如何在工作中学习 | plantegg
+    44. 如何在工作中学习 | plantegg
         - Tags: 学习
 
 https://plantegg.github.io/2018/05/23/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%AD%A6%E4%B9%A0/ [Email Body](https://files.todoist.com/bfGKyXij2WPe-TQ1ItzCsYTElR6iRLWwfrVkF0ta_H2idxyiEVK6A-VMRMERgPjm/by/21878347/as/file.html)
-    - 超大城市更有范儿！“三线”“三生”助力北京可持续发展（解读总规第四集）_政策解读_北京市规划和自然资源委员会
+    45. 超大城市更有范儿！“三线”“三生”助力北京可持续发展（解读总规第四集）_政策解读_北京市规划和自然资源委员会
         - Annotations:
 
 * 第一条红线是人口规模上限。北京是一座特别缺水的城市，我们要根据可供水资源量和人均水资源量来严格控制常住人口规模。
@@ -769,7 +767,7 @@ https://plantegg.github.io/2018/05/23/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B7%A5%E4%BD
 * 到2035年全市森林覆盖率达到45%，人均公园绿地面积提高到17平方米，建成绿道超过2000公里。不仅要建设漂亮的大公园，还会努力增加小微绿地、活动广场，让每个人都能就近享受绿荫，健康生活。
 
 http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166639.html [Email Body](https://files.todoist.com/zjnQqr1p2Wr-SKq1s9HnsSIoBHMu3apM75yCENUHed-E3dV6B7MVVUKBkwIk9hXE/by/21878347/as/file.html)
-    - 未来北京什么样？一部动画带您了解总体规划（解读总规第一集）_政策解读_北京市规划和自然资源委员会
+    46. 未来北京什么样？一部动画带您了解总体规划（解读总规第一集）_政策解读_北京市规划和自然资源委员会
         - Annotations:
         - 新总规明确了北京的战略定位是：全国政治中心、文化中心、国际交往中心、科技创新中心！突出“四个中心”，彰显首都风范！
         - 未来的北京，还将是一座人民的城市，我们的发展目标就是：建设国际一流的和谐宜居之都！
@@ -791,14 +789,14 @@ http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166639.ht
         - 第七，深入推进京津冀协同发展，建设以首都为核心的世界级城市群。
         - 第八，坚决维护总体规划的严肃性和权威性，实现一张蓝图绘到底。
         - http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166743.html [Email Body](https://files.todoist.com/puiezwm7VChOeoEuFJk8WDw6euhyHLp0As4XgYR-xqVwE1CuD95srsU56iC5noqc/by/21878347/as/file.html)
-    - 选对插件，让简悦也可以重器轻用 - 少数派
+    47. 选对插件，让简悦也可以重器轻用 - 少数派
         - Annotations:
 
 *     * 我到底需要保存文章全文还是重点的标记？我后续会怎样利用这些文章和标记？卡片模式和page 模式各有什么优劣？
 
 
 https://sspai.com/post/75567 [Email Body](https://files.todoist.com/QlXI0BLCmT_TeR5FrxxQm3paxf7WCWoNXziF8nBLaNe6xDT8SiVibXXn-JrmKYK4/by/21878347/as/file.html)
-    - 设计、体验都出彩，白板工具的又一选择：Muse - 少数派
+    48. 设计、体验都出彩，白板工具的又一选择：Muse - 少数派
         - Annotations:
 
 * 在 Muse 中，最基础的概念是「卡片」(Card)，它可以是一段文字、一张图片、GIF、一个网页链接，甚至是一段视频。
@@ -822,7 +820,7 @@ Tags: Muse
 
 
 https://sspai.com/post/74009 [Email Body](https://files.todoist.com/IvRVuOWPZYLXWKb6ByQFZdOq8Skd6kwr2C_TcXAWxl2EtLr3ZKjwSpcCiAWMD7Wb/by/21878347/as/file.html)
-    - 正则表达式速查表_脚本之家
+    49. 正则表达式速查表_脚本之家
         - Tags: 编程 正则表达式
 
 
