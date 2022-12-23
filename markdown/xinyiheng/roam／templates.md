@@ -41,7 +41,7 @@
         - 是否可以写作一篇相关主题的文章？
 - excalidraw
     - {{roam/render:((sketching))}}
-        - {{roam/render: ((ExcalDATA)) {:elements [], :appState {:currentItemFontFamily 1, :isBindingEnabled true, :currentItemRoughness 1, :zoom {:value 1, :translation {:x 0, :y 0}}, :zenModeEnabled false, :lastPointerDownWith "mouse", :isLibraryOpen false, :scrollX 0, :scrolledOutside false, :scrollY 0, :exportBackground true, :showStats false, :suggestedBindings [], :name "Untitled-2022-12-02-1436", :viewBackgroundColor "#ffffff", :currentItemFillStyle "hachure", :width 1152, :shouldCacheIgnoreZoom false, :currentItemStrokeSharpness "sharp", :selectedGroupIds {}, :isRotating false, :pasteDialog {:shown false, :data nil}, :offsetLeft 0, :currentItemStrokeWidth 1, :currentItemBackgroundColor "transparent", :elementType "selection", :offsetTop 0, :theme "light", :exportWithDarkMode false, :currentItemTextAlign "left", :currentItemLinearStrokeSharpness "round", :currentItemOpacity 100, :exportEmbedScene false, :currentItemStrokeColor "#000000", :isLoading false, :currentItemFontSize 20, :elementLocked false, :currentChartType "bar", :shouldAddWatermark false, :currentItemEndArrowhead "arrow", :previousSelectedElementIds {}, :viewModeEnabled false, :isResizing false, :showHelpDialog false, :height 689, :currentItemStrokeStyle "solid", :cursorButton "up"}, :roamExcalidraw {:version 1}} }}
+        - {{roam/render: ((ExcalDATA)) {:elements [], :appState {:currentItemFontFamily 1, :isBindingEnabled true, :currentItemRoughness 1, :zoom {:value 1, :translation {:x 0, :y 0}}, :zenModeEnabled false, :lastPointerDownWith "mouse", :isLibraryOpen false, :scrollX 0, :scrolledOutside false, :scrollY 0, :exportBackground true, :showStats false, :suggestedBindings [], :name "Untitled-2022-12-02-1436", :viewBackgroundColor "#ffffff", :currentItemFillStyle "hachure", :width 2094.54541015625, :shouldCacheIgnoreZoom false, :currentItemStrokeSharpness "sharp", :selectedGroupIds {}, :isRotating false, :pasteDialog {:shown false, :data nil}, :offsetLeft 0, :currentItemStrokeWidth 1, :currentItemBackgroundColor "transparent", :elementType "selection", :offsetTop 0, :theme "light", :exportWithDarkMode false, :currentItemTextAlign "left", :currentItemLinearStrokeSharpness "round", :currentItemOpacity 100, :exportEmbedScene false, :currentItemStrokeColor "#000000", :isLoading false, :currentItemFontSize 20, :elementLocked false, :currentChartType "bar", :shouldAddWatermark false, :currentItemEndArrowhead "arrow", :previousSelectedElementIds {:I7vFm1s4McFVylR_gDS-x true}, :viewModeEnabled false, :isResizing false, :showHelpDialog false, :height 1142.9970703125, :currentItemStrokeStyle "solid", :cursorButton "up"}, :roamExcalidraw {:version 1}} }}
         - **Text nested here will appear on your drawing:**
 - 链接
     - {{table}}
@@ -147,5 +147,5 @@
             - 
         - **How 怎样 **
             - 
-- TODO
-    - {{[[query]]: {and:[[TODO]]}}}
+- 待办
+    - {{[[query]]: {and:[[问题]]}}}

@@ -69,7 +69,7 @@ div {
 
 
 :root {
-    --main-left-bg: rgb(117,107,107);
+    --main-left-bg: rgb(210,157,157);
     --right-sidebar-bg: #EA9C9C(247 248 249);
     --right-sidebar-drag-bg: #337ac6;
     --masonry-bg: #F2FCF321;
@@ -154,7 +154,7 @@ textarea {
     cursor: pointer;
     font-size: 16px;
     padding: 4px 0px 4px 4px;
-    color: #1C0321;
+    color: #B72ED2;
 }
 
 /*设置笔记主题的背景色和背景图片*/
@@ -168,7 +168,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
-    background-color: #FBF4F400;
+    background-color: #03A9F47A;
 }
 
 #roam-right-sidebar-content {
