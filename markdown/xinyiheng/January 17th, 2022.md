@@ -106,7 +106,7 @@ Stretches its soft and shady wings.
 - [[TODO]]
     - TODO
     - {{[[DONE]]}} 19年の新エネ車の乗用車の販売台数は前年比4%増の110万台。BYDは3.9%減の22万台に落ち込んだが、国内シェアは20%を維持した。 [nikkei.com](https://www.nikkei.com/article/DGXMZO55846060Z10C20A2XR1000)
-    - {{[[TODO]]}} 阅读豆瓣上关于日本的书籍的书评，也是了解读者心理的直观方法，我之前为什么就没有想到这个方法呢？
+    - {{[[DONE]]}} 阅读豆瓣上关于日本的书籍的书评，也是了解读者心理的直观方法，我之前为什么就没有想到这个方法呢？
     - {{[[TODO]]}} 整合经常浏览的各大网站对于我感兴趣的事件的标签#问题
     - {{[[TODO]]}} This is a todo
     - {{[[TODO]]}} This is a todo

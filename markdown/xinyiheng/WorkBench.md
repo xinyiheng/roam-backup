@@ -1,0 +1,21 @@
+- [Workbench](https://roamjs.com/extensions/workbench) 🗒@评论:具体使用方法参见这一个官方文档。
+    - Overview
+    - Features：All of the features below are enabled by default. To disable, simply open your Roam Depot settings for each feature and toggle the switch for the given feature. More information about each feature could be found within the links below.
+        - Command Palette+ - Adds an extensive set of user generated and prebuilt commands to help users push Roam to new places. Navigate and manipulate your Roam environment with a bunch of handy commands, all without losing context.
+        - ^^**Daily Note Popup** ^^- Daily note popup is a second window that you can toggle open and close quickly to get at your daily notes page. It can be referred to as the "Roam within your Roam." 🗒@评论:我觉得挺好用
+        - Deep Nav - Advanced keyboard navigation of Roam using the keyboard, used to jump to any block in a page or sidebar.
+        - Dictionary - Rich dictionary at your fingertips right inside of Roam without having to leave Roam.
+        - **^^Format Converter^^** - Outputs the current page to various formats.
+        - **Hot Keys** - Keyboard shortcuts for interacting with the Roam user interface, for example copying the block reference for the current block, expanding and collapsing the page outline and many many more.
+        - Live Preview - See live and editable previews of page links underneath your mouse cursor. Allows you to stay in the context of your work without having to navigate to another page to see its content.
+        - Privacy Mode - This feature Redacts confidential information when showing your Roam database to others or while working in an area with prying "eyes".
+        - Tutorials - Learn how to use extensions and Roam basics right from within Roam.
+    - All of the features below are disbled by default, as they were merged in from other RoamJS extensions. To enable, simply open your Roam Depot settings for each feature and toggle the switch for the given feature. More information about each feature could be found within the links below.
+        - Alert - Allows users to schedule alerts within their graphs.
+        - Decorated Blocks - Decorates blocks with various configurable features for quick actions.
+        - Image OCR - Extract the text from an image and add it as child blocks! 🗒@评论:可以是尝试
+        - ^^**Import Article**^^ - Add commands to import web articles directly into Roam. 🗒@评论:比较实用
+        - Mindmap - Visualize pieces of your Roam graph as a mindmap!
+        - Tag Cycle - Define custom tag cycles tied to a keyboard shortcut!
+        - Tally - Introduces a tally button component to use directly in your Roam graph.
+        - Weekly Notes - Enabling workflows surrounding weekly note pages.

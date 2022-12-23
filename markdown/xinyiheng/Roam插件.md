@@ -105,6 +105,9 @@ document.getElementsByTagName("head")[0].appendChild(mms);```
         - 来源：https://roamresearch.com/#/app/Zsolt-Blog/page/6uptQqZEV  
         - @评论:还有一个版本，我用着无效。[Roam-Excalidraw Plugin MVP Release](https://www.zsolt.blog/2021/03/roam-excalidraw-plugin-mvp-release.html) 之前画的图都失效了。
 - # Roam Depot
+    - 如何查看和管理从roam depot安装的插件？在设置中进行
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWIxL8t52A0.png?alt=media&token=66f4f85d-763c-43fc-8e58-2235e3d87a70)
+    - [[WorkBench]] ，🗒@评论:就是原来的roam42，还算是一个最重要的插件，有很多功能。
     - RANDOM BLOCK，会在左侧边栏生成一个图标，点击就会获得一个随机block，很不错的小玩具。
     - Memo 🗒@评论:这是一款[[间隔记忆]]工具，以前使用一款叫做js/sr的插件，但这款官方推出的界面更好看，是卡片的样式
     - {{[[TODO]]}} [[SmartBlock]] 🗒@评论:虽说很重要，但我并不太会用，以前的旧版本也很少使用
@@ -118,12 +121,18 @@ document.getElementsByTagName("head")[0].appendChild(mms);```
     - Show Favicon，可以让roam中的网址前面带上一个该网址的小图标，安装之后网址美观了不少。
     - Export Fomatter，导出roam 中的block的时候可以设置格式，去除一些特殊格式，让导出的文件看起来更好看。注意，不能导出整个page，只能用于导出某个节点。用右键中的plugins来选择。
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FD1Dw3Lw-R0.png?alt=media&token=75151243-7600-4992-898e-875942b35fb0)
+有一个类似的Workbench Format Converter，ctr+m换出，可以支持导出整个page。
     - Image Generator，也是右键plugins中选择，可以根据一段英语来自动生成一幅[[人工智能画画]]产生的图片
     - Toggle Text Uppercase/Lowercase，也是右键plugins中选择，可以把一行的英语全变成大写或者小写。但是不能只首字母大写。
     - [[roam/comments]]，很早就安装了，但没有用过。今天才发现用法是按住cmd键，右侧会出现一个加号，点击加号就可以添加评论了。我以前总是在行内用特殊符号加评论，比如🗒@评论: 我就是这样评论的。
-- [[roam/comments]]
-    - [[December 23rd, 2022]]
-        - [[Anonymous]]
-            - [[roam/comments]]，很早就安装了，但没有用过。今天才发现用法是按住cmd键，右侧会出现一个加号，点击加号就可以添加评论了。我以前总是在行内用特殊符号加评论，比如🗒@评论: 我就是这样评论的。
-                - 这是用这种插件方式的评论
-- Image Zoom,使用鼠标或者触控板收拾来缩放图片。
+    - [[roam/comments]]
+        - [[December 23rd, 2022]]
+            - [[Anonymous]]
+                - [[roam/comments]]，很早就安装了，但没有用过。今天才发现用法是按住cmd键，右侧会出现一个加号，点击加号就可以添加评论了。我以前总是在行内用特殊符号加评论，比如🗒@评论: 我就是这样评论的。
+                    - 这是用这种插件方式的评论
+    - Sticky Headings，开启后，roam page中的标题在向下滑动页面的时候会冻结在页面可视范围的上方。这样看内容的时候总是可以看到标题。
+    - Table of Contents，用cmd+p打开控制面板，然后找到toc，就可以为当前页面生成一个目录。
+    - [todo-teleport](https://github.com/mlava/todo-teleport)，可以把没有完成的todo转移到别的日期。🗒@评论:用法可以参见链接。感觉可以完成[[子弹笔记]]的要求。 首先要把多个todo任务都选中，选中的方法是cmd+m，按下之后roam会自动隐藏起来，没事，再打开就会发现每个block的右侧都有一个小方框，点击方框就可以选中。在控制面板中选择todo-teleport就可以把未完成的任务转移到指定日期了。
+        - {{[[DONE]]}} 实验1
+        - {{[[TODO]]}} 实验2
+        - {{[[TODO]]}} 实验3
