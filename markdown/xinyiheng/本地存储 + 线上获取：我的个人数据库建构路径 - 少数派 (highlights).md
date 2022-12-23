@@ -1,0 +1,6 @@
+- Author:: [[Wangxiaohui19880214's Favorite Links from Diigo]]
+- Full Title:: 本地存储 + 线上获取：我的个人数据库建构路径 - 少数派
+- Category:: #articles
+- URL:: https://sspai.com/post/69972
+- ### Highlights first synced by #Readwise [[December 23rd, 2022]]
+    - 举例而言，在个人数据库的管理上，基于本地系统的 Obsidian、Logseq 等工具，由于其并没有官方提供的剪藏工具（本地化服务的剪藏能力先天不足），无法从手机端便利地导入本地，而第三方的剪藏工具的效果也参差不齐。为了弥补这一点，简悦增加了这几个功能： ([View Highlight](https://read.readwise.io/read/01gmydt4aazwsvcyntfhhdrjcf))

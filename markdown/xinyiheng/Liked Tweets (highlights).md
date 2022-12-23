@@ -529,3 +529,9 @@ After more than a decade, I am planning to update this diagram. What kind of key
 https://t.co/OjSuRjG14X 
 
 ![](https://pbs.twimg.com/media/Fkh3fv7XEAMwk-v.jpg) ([View Tweet](https://twitter.com/HirokiSayama/status/1605664684962619394))
+- ### New highlights added [[December 23rd, 2022]] at 11:11 AM
+    - @pascal_bornet: Merry #Christmas to all, and I wish 2023 will bring us many more lovely innovations!
+
+Such as this cute cycling self-balanced #robot. Invented a few years ago by robot hobbyist Dr Guero, it can even keep put its tiny foot down when stopped!
+
+#innovation #artificialintelligence https://t.co/zkecMzREzW ([View Tweet](https://twitter.com/pascal_bornet/status/1605825515482488832))

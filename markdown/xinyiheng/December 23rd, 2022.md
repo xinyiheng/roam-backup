@@ -9,5 +9,5 @@ devonthink是一个终极的搜索利器。定期增量导出印象笔记，然�
 还有一种思考区的设想是使用方便在ipad上用的软件。把diigo和roam作为卡片资料源，然后用截图或者其他方式在muse、mindnode、milanote或者kosmik中标记(概念画板和liquidtext等可以自由书写的工具也是备选)，这是工作区，并不善于构建知识结构。在思考结束以后，最后就删除掉。
     - 卡片的思考和记忆。还是需要经常以卡片的形式屏蔽过多信息，anki和remnote是备选项。也可以尝试在roam research和obsidian中使用插件来完成。看情况吧。
     - 询问telegroam不稳定的问题。有人回答了，但是还是不可以。
-    - 试用readwise reader，想要看看阅读rss的体验，由于该软件也支持发送一个邮箱地址来同步文件，看看能不能结合inoreader的自动化规则把diigo中的标记同步到readwise中，但实际上不成功。
+    - 试用readwise reader，想要看看阅读rss的体验，由于该软件也支持发送一个邮箱地址来同步文件，看看能不能结合inoreader的自动化规则把diigo中的标记同步到readwise中，但实际上不成功。试验了很久，都没有成功，心情很糟糕。
 - [[Inbox]]
