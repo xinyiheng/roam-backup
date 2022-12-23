@@ -105,5 +105,25 @@ document.getElementsByTagName("head")[0].appendChild(mms);```
         - 来源：https://roamresearch.com/#/app/Zsolt-Blog/page/6uptQqZEV  
         - @评论:还有一个版本，我用着无效。[Roam-Excalidraw Plugin MVP Release](https://www.zsolt.blog/2021/03/roam-excalidraw-plugin-mvp-release.html) 之前画的图都失效了。
 - # Roam Depot
-    - random block
-    - memo 🗒@评论:这是一款[[间隔记忆]]工具，以前使用一款sr
+    - RANDOM BLOCK，会在左侧边栏生成一个图标，点击就会获得一个随机block，很不错的小玩具。
+    - Memo 🗒@评论:这是一款[[间隔记忆]]工具，以前使用一款叫做js/sr的插件，但这款官方推出的界面更好看，是卡片的样式
+    - {{[[TODO]]}} [[SmartBlock]] 🗒@评论:虽说很重要，但我并不太会用，以前的旧版本也很少使用
+    - [[Universal Quick Capture]] 🗒@评论: 和[[Todolist]]联动，通过todolist这款软件向roam research添加笔记。这是今天最重要的发现。
+    - {{[[TODO]]}} Query Builder，以前也有一款，新的这款功能更全，但看起来很复杂，我还不会用。
+    - [[Toggle Track]]
+    - Reference Path，可以展示当前block的路径，以前也有一款类似的，不过我用了卡片视图以后就失效了。这款好像有效。
+    - Roam Studio，一款设置roam research外观的插件，我安装之后感觉使用体验好了很多。我之前自己调整了很多css，一些细节看起来不太好，用上这款以后感觉耳目一新。我开始更多地在笔记中使用markdown标题了，这样可以让笔记看起来更整齐。
+    - Elapsed Time Calculator，一款在roam中辅助进行时间管理的工具，属于锦上添花的类型
+    - {{[[TODO]]}} [[Twitter]] 🗒@评论:同名插件可以在roam中直接发送twitter信息，也可以把twitter动态导入到roam中。
+    - Show Favicon，可以让roam中的网址前面带上一个该网址的小图标，安装之后网址美观了不少。
+    - Export Fomatter，导出roam 中的block的时候可以设置格式，去除一些特殊格式，让导出的文件看起来更好看。注意，不能导出整个page，只能用于导出某个节点。用右键中的plugins来选择。
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FD1Dw3Lw-R0.png?alt=media&token=75151243-7600-4992-898e-875942b35fb0)
+    - Image Generator，也是右键plugins中选择，可以根据一段英语来自动生成一幅[[人工智能画画]]产生的图片
+    - Toggle Text Uppercase/Lowercase，也是右键plugins中选择，可以把一行的英语全变成大写或者小写。但是不能只首字母大写。
+    - [[roam/comments]]，很早就安装了，但没有用过。今天才发现用法是按住cmd键，右侧会出现一个加号，点击加号就可以添加评论了。我以前总是在行内用特殊符号加评论，比如🗒@评论: 我就是这样评论的。
+- [[roam/comments]]
+    - [[December 23rd, 2022]]
+        - [[Anonymous]]
+            - [[roam/comments]]，很早就安装了，但没有用过。今天才发现用法是按住cmd键，右侧会出现一个加号，点击加号就可以添加评论了。我以前总是在行内用特殊符号加评论，比如🗒@评论: 我就是这样评论的。
+                - 这是用这种插件方式的评论
+- Image Zoom,使用鼠标或者触控板收拾来缩放图片。

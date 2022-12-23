@@ -149,7 +149,7 @@ via[roam 中文社区 ⛏🚀](https://roamresearchfan.com/)
     - Roam Newsletter 漫游研究所周报2020W51
 via[](https://mp.weixin.qq.com/s/gxhCS42F981VzSb2-P9HZA)
 [[20201228]] 下午4:34
-    - [[twitter]]也是一种网状的组织结构
+    - [[Twitter]]也是一种网状的组织结构
     - Roam中文站
 via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/599106362?spm_id_from=333.905.b_7570496e666f.3)
 [[20201228]] 下午5:12
