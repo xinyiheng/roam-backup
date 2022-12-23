@@ -138,7 +138,6 @@ Future task2               :         des4, after des3, 5d
     - 快速跳转到daily note ctrl+shift+d
     - {{iframe:https://cat-income-b7c.notion.site/f626dab7d985490fa504b763ea6f3e3c}}
     - 在[[Roam Research]]中打开开发者模式，ctrl+shift+=
-- smart block是最近推出的杀手级的新功能，这让roam research有了更大的自定义的可能性。很多实现方式借助[[JavaScript]]
 - #[[参考资料]]
     - Mickey Mellen  roam research的最近更新
 -via[(880) Mickey Mellen - YouTube](https://www.youtube.com/c/mickmel/videos)
