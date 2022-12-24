@@ -345,14 +345,9 @@ Tags: 人口 老龄化
 http://finance.sina.com.cn/zl/china/2022-12-01/zl-imqqsmrp8177470.shtml [Email Body](https://files.todoist.com/Flip-J8cSwk9A-0hfCngGgGyCMe4jjk6UiGhnSqtEPp5vB3rEMb9yt6nBAIMvuZ_/by/21878347/as/file.html)
     - 家族企业 长青之树 - 财富中文网
         - Annotations:
-
-* 意大利工业史家安德里•考利（Andrea Colli）在 2003 年出版的《1850 年－ 2000 年家族企业史》当中，用系统的历史和理论框架分析了家族企业的兴起及延续。无论是交易成本学说还是代理人理论，都确认家族企业在那些珍视信任度和可靠性等要素的国家环境中能够繁荣兴旺。与家庭制度息息相关的信任度等要素，指向的是一种坚实的信誉，能显著地减少由于信息的不对称、承诺的不确定和道德风险所产生的高成本。很多实证研究都表明，家族企业能够在领先工业化国家的先进而复杂的制度安排下良好地生存。即使并不存在一个有关家族企业的简单定义，我们也仍然能够看到，
-
-Tags: 家族企业 传承
-
-
-
-https://www.fortunechina.com/magazine/c/2004-10/01/content_1082.htm [Email Body](https://files.todoist.com/Y2XktKc79MTwg3bjx4Mu3oxxNa_7KDDZ5pt_vLyLJ5cgarg1s_Xw1b_fpiqbTCFr/by/21878347/as/file.html)
+        - 意大利工业史家安德里•考利（Andrea Colli）在 2003 年出版的《1850 年－ 2000 年家族企业史》当中，用系统的历史和理论框架分析了家族企业的兴起及延续。无论是交易成本学说还是代理人理论，都确认家族企业在那些珍视信任度和可靠性等要素的国家环境中能够繁荣兴旺。与家庭制度息息相关的信任度等要素，指向的是一种坚实的信誉，能显著地减少由于信息的不对称、承诺的不确定和道德风险所产生的高成本。很多实证研究都表明，家族企业能够在领先工业化国家的先进而复杂的制度安排下良好地生存。即使并不存在一个有关家族企业的简单定义，我们也仍然能够看到，
+        - Tags: 家族企业 传承
+        - https://www.fortunechina.com/magazine/c/2004-10/01/content_1082.htm [Email Body](https://files.todoist.com/Y2XktKc79MTwg3bjx4Mu3oxxNa_7KDDZ5pt_vLyLJ5cgarg1s_Xw1b_fpiqbTCFr/by/21878347/as/file.html)
     - 选对插件，让简悦也可以重器轻用 - 少数派
         - Annotations:
 
@@ -447,18 +442,11 @@ Tags: Muse
 https://sspai.com/post/74009 [Email Body](https://files.todoist.com/T8mLSKt-0FRqzhl10mJ1ETchFAS5NRNKQZVYmS3ZWlBaMOl7ozyNw3WDyVWN60Od/by/21878347/as/file.html)
     - 超大城市更有范儿！“三线”“三生”助力北京可持续发展（解读总规第四集）_政策解读_北京市规划和自然资源委员会
         - Annotations:
-
-* 第一条红线是人口规模上限。北京是一座特别缺水的城市，我们要根据可供水资源量和人均水资源量来严格控制常住人口规模。
-
-* 第三条红线是城市开发边界
-
-* 到2035年，北京全市城乡建设用地规模要减量到2760平方公里左右。
-
-* 到2035年全市森林覆盖率达到45%，人均公园绿地面积提高到17平方米，建成绿道超过2000公里。不仅要建设漂亮的大公园，还会努力增加小微绿地、活动广场，让每个人都能就近享受绿荫，健康生活。
-
-
-
-http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166639.html [Email Body](https://files.todoist.com/UMhr-bmdpeszyXdMmRW6PAgJr1xsCCttrJJiARjv1TCIoWyyGMpmh5wQOFwpJdHg/by/21878347/as/file.html)
+        - 第一条红线是人口规模上限。北京是一座特别缺水的城市，我们要根据可供水资源量和人均水资源量来严格控制常住人口规模。
+        - 第三条红线是城市开发边界
+        - 到2035年，北京全市城乡建设用地规模要减量到2760平方公里左右。
+        - 到2035年全市森林覆盖率达到45%，人均公园绿地面积提高到17平方米，建成绿道超过2000公里。不仅要建设漂亮的大公园，还会努力增加小微绿地、活动广场，让每个人都能就近享受绿荫，健康生活。
+        - http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166639.html [Email Body](https://files.todoist.com/UMhr-bmdpeszyXdMmRW6PAgJr1xsCCttrJJiARjv1TCIoWyyGMpmh5wQOFwpJdHg/by/21878347/as/file.html)
     - 宝马背后的百年家族：一部德意志财富神话史-虎嗅网
         - Tags: 家族企业 传承
 
@@ -580,46 +568,27 @@ Tags: 家族企业 传承 房地产
 https://36kr.com/p/2016333917192707 [Email Body](https://files.todoist.com/wnrgmsjNE2w0lFyLB180l34sOMF33vMRoxnWxDUE7lK6Qh8dH6hOFc6ENOu9duj4/by/21878347/as/file.html)
     - 让链接无处不在——《泛在链接宣言》的理论与理想 - 少数派
         - Annotations:
-
-*   * 则 「微信更新外链规则」 的新闻在国内引发了不小的涟漪。在《关于〈微信外部链接内容管理规范〉的更新说明》中，微信宣布，将在点对点聊天中允许直接访问外部链接，而在群聊中试行允许直接访问电商类链接。
-
-* 而同一时间，国外也有一群人在为「链接」的未来发出呼吁。不过，他们想得要更远一些。
-
-* 一份名为 《泛在链接宣言》（Manifesto for Ubiquitous Linking）的文档出现在互联网上。简而言之，这份《宣言》（正文翻译见文末附录）向开发者呼吁：通过调整界面设计、提供 API 等方式，让用户能方便地通过链接访问应用内资源，从而提高工作效率、维持专注。
-
-* 起到组织者和联系人作用的是 Luc P. Beaudoin 博士，他是一位身兼学术和行业背景的开发者。
-
-* 他的主要研究兴趣是「认知效率」（cognitive productivity），即利用知识解决问题、创造产出和提高自我的效率和效果。他认为，对于效率的讨论不应局限于技术，还应当引入动机、情绪和自我调节等心理学的方法和概念。
-
-* 应当允许学习者为任意信息创建双向链接。后来，他将这一理念从学习场景泛化到一般用途，开发了 macOS 应用 Hook，其主要功能就是帮助用户在各类应用内资源之间创建和管理双向链接。
-
-* 我们习以为常的超链接就可以起到这种「任意门」的功能。
-
-* 「超链接」（hyperlink）就是「网址」的同义词，链接的另一头就是一个网页；但实际上，超链接的触角所及远超出万维网的范围，可以指向任何可识别的资源——无论其位于远程还是本机、存放在网页上还是应用内、性质是开放还是私有、形态是数字还是实体。
-
-从技术角度看，链接的现代定义见于标准组织 IETF（互联网工程任务组）的《统一资源识别符（URI）：标准语法》（RFC 3986）。根据该标准，URI
-是「识别抽象或实体资源的简洁文本序列」；URL（网址）则是 URI 的形式之一。一个通用的 URI 格式是：
-
-
-[协议名]://[用户名]:[密码]@[主机名]:[端口]/[路径]?[查询参数]#[片段 ID]
-
-* 用这种格式，我们可以给电脑上任何应用内的任何资源编排一个地址。例如：
-
-* 硬盘「下载」文件夹里的一个 PDF 文件：`file:///Users/JohnAppleseed/Downloads/helloworld.pdf`
-* 「备忘录」应用里的一条记事：`notes://shownote?identifier=56049685-cb9c-54f0-a717-63afea0f3cc9`
-* 「邮件」应用里的一封电子邮件：`message://<24873dbedad041118a3cf0b5f47cd6f0.20211231124933@no-reply.example.com>`
-
-当一个链接不只是简单地打开一个网站、启动一个应用，而是直指网页、应用内部的特定内容时，这样的链接就成为了「深度链接」（deep link）。
-
-历史上，Memex、NLS 和 Project Xanadu 先后折戟，共同原因都是曲高和寡、未成气候。近年来，开发者和用户社区也做过类似尝试。例如在
-2011 年，iOS 笔记应用 Drafts 的开发者就主持编写过 x-callback-url
-规范；支持这种规范的应用可以用一套标准的链接语法相互调用和传递信息。同样地，这些规范获得了一定规模的支持，但总体看还是偏向小众，远称不上普及。
-
-Tags: 自动化
-
-
-
-https://sspai.com/post/70648 [Email Body](https://files.todoist.com/kylN4mU6l2YlCTlp6YKhqaSFT39xF5H1e6EeJatTOOxhbPCyt5VjbnFxdMDcPuso/by/21878347/as/file.html)
+        - * 则 「微信更新外链规则」 的新闻在国内引发了不小的涟漪。在《关于〈微信外部链接内容管理规范〉的更新说明》中，微信宣布，将在点对点聊天中允许直接访问外部链接，而在群聊中试行允许直接访问电商类链接。
+        - 而同一时间，国外也有一群人在为「链接」的未来发出呼吁。不过，他们想得要更远一些。
+        - 一份名为 《泛在链接宣言》（Manifesto for Ubiquitous Linking）的文档出现在互联网上。简而言之，这份《宣言》（正文翻译见文末附录）向开发者呼吁：通过调整界面设计、提供 API 等方式，让用户能方便地通过链接访问应用内资源，从而提高工作效率、维持专注。
+        - 起到组织者和联系人作用的是 Luc P. Beaudoin 博士，他是一位身兼学术和行业背景的开发者。
+        - 他的主要研究兴趣是「认知效率」（cognitive productivity），即利用知识解决问题、创造产出和提高自我的效率和效果。他认为，对于效率的讨论不应局限于技术，还应当引入动机、情绪和自我调节等心理学的方法和概念。
+        - 应当允许学习者为任意信息创建双向链接。后来，他将这一理念从学习场景泛化到一般用途，开发了 macOS 应用 Hook，其主要功能就是帮助用户在各类应用内资源之间创建和管理双向链接。
+        - 我们习以为常的超链接就可以起到这种「任意门」的功能。
+        - 「超链接」（hyperlink）就是「网址」的同义词，链接的另一头就是一个网页；但实际上，超链接的触角所及远超出万维网的范围，可以指向任何可识别的资源——无论其位于远程还是本机、存放在网页上还是应用内、性质是开放还是私有、形态是数字还是实体。
+        - 从技术角度看，链接的现代定义见于标准组织 IETF（互联网工程任务组）的《统一资源识别符（URI）：标准语法》（RFC 3986）。根据该标准，URI
+        - 是「识别抽象或实体资源的简洁文本序列」；URL（网址）则是 URI 的形式之一。一个通用的 URI 格式是：
+        - [协议名]://[用户名]:[密码]@[主机名]:[端口]/[路径]?[查询参数]#[片段 ID]
+        - 用这种格式，我们可以给电脑上任何应用内的任何资源编排一个地址。例如：
+        - 硬盘「下载」文件夹里的一个 PDF 文件：`file:///Users/JohnAppleseed/Downloads/helloworld.pdf`
+        - 「备忘录」应用里的一条记事：`notes://shownote?identifier=56049685-cb9c-54f0-a717-63afea0f3cc9`
+        - 「邮件」应用里的一封电子邮件：`message://<24873dbedad041118a3cf0b5f47cd6f0.20211231124933@no-reply.example.com>`
+        - 当一个链接不只是简单地打开一个网站、启动一个应用，而是直指网页、应用内部的特定内容时，这样的链接就成为了「深度链接」（deep link）。
+        - 历史上，Memex、NLS 和 Project Xanadu 先后折戟，共同原因都是曲高和寡、未成气候。近年来，开发者和用户社区也做过类似尝试。例如在
+        - 2011 年，iOS 笔记应用 Drafts 的开发者就主持编写过 x-callback-url
+        - 规范；支持这种规范的应用可以用一套标准的链接语法相互调用和传递信息。同样地，这些规范获得了一定规模的支持，但总体看还是偏向小众，远称不上普及。
+        - Tags: 自动化
+        - https://sspai.com/post/70648 [Email Body](https://files.todoist.com/kylN4mU6l2YlCTlp6YKhqaSFT39xF5H1e6EeJatTOOxhbPCyt5VjbnFxdMDcPuso/by/21878347/as/file.html)
     - AI数字绘画：何时从AIGC迈向AIAD？ - 少数派
         - Tags: 人工智能画画
 
@@ -911,12 +880,8 @@ https://www.jiemian.com/article/1445229.html [Email Body](https://files.todoist.
     - [如何将 Flomo 卡片自动导入 Roam Research？刚做了个 Flomo2Roam 的小示例，后边准备开发一些好玩儿的东西_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JY41147sc/?vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
     - [Notion on Twitter](https://twitter.com/notionhq/status/1211733358809477120)
         - Annotations:
-
-* Keep an eye on this page? 
-
-
-
-https://twitter.com/notionhq/status/1211733358809477120 [Email Body](https://files.todoist.com/qyhtarSZH7v2CDSKaGX5ogLBjGRAAN5NDP8X0au59kCOH12ePl0rVL8fEGwlfur5/by/21878347/as/file.html)
+        - Keep an eye on this page? 
+        - https://twitter.com/notionhq/status/1211733358809477120 [Email Body](https://files.todoist.com/qyhtarSZH7v2CDSKaGX5ogLBjGRAAN5NDP8X0au59kCOH12ePl0rVL8fEGwlfur5/by/21878347/as/file.html)
     - Notification欺诈游戏-哔哩哔哩 Bilibili
         - https://search.bilibili.com/all?keyword=%E6%AC%BA%E8%AF%88%E6%B8%B8%E6%88%8F&search_source=1
 12/24/2022 6:51:00 AM
@@ -926,8 +891,18 @@ https://twitter.com/notionhq/status/1211733358809477120 [Email Body](https://fil
 【高效学习02】如何在 Roam 里面实践渐进学习？轻松使用Roam
 Research，渐进阅读流程_哔哩哔哩_bilibilihttps://www.notion.so/02-Roam-Roam-Research-_-_bilibili-85d8a869f307496cbdc40b077b17fbe5
 [Sent with bardeen.ai] [Email Body](https://files.todoist.com/VDOBC-CoqOgmQIhIH-vLHI0MpacvJZSD0yjosBMknO5QSd0euoL-rSQrS1J-oT1Z/by/21878347/as/file.txt)
+    - Notification-【高效学习02】如何在 Roam 里面实践渐进学习？轻松使用Roam Research，渐进阅读流程 哔哩哔哩 bilibili
+        - 【高效学习02】如何在 Roam 里面实践渐进学习？轻松使用Roam Research，渐进阅读流程_哔哩哔哩_bilibilihttps://
+www.bilibili.com/video/BV1m44y1V7EG/?spm_id_from=333.788.recommend_more_video.12&vd_source=3d8ccab137cc879b5f9cbc14d68843ab
+12/24/2022 7:08:00 AM
+实验内容
+{{921312_properties.F{G\}}
+{{921312_properties.{{921312_properties.}k}j}}
+{{921312_properties.jksk}} [Email Body](https://files.todoist.com/a0AO2mSKcK-iL9csrtpsPRRnDC99kxSAaUhtsZcxoEBqsQInh5N8_lSFAxH2a14S/by/21878347/as/file.html)
 - #[[意识流笔记]]
     - 早上起来就设置软件联动，希望把flomo中的得到电子书标记自动发送到roam中，用到的工具是[[集简云]]和[[Todolist]]，成品参见链接：https://apps.jijyun.cn/data-pipeline。 豆瓣阅读来自豆瓣的标注，flomo来自得到标注，虽然已经实现了，但由于只能发送标题名称，内容不全。感觉不是很好用。
 #[[工作流]] #[[阅读管理]]
     - 今天是圣诞前夜，老婆忙活着做法，辅助做饭，出去买了一趟东西。
     - 继续完善工作流。
+    - 发现[[极简云]]来同步不太稳定，用[[Integrately]]和[[Bardeen]]来把[[Notion]]豆瓣阅读中的新增内容发送邮件到印象笔记邮箱和[[Todolist]]邮箱，这样，我可以把Notion中新增加的内容和印象笔记与roam research联系起来了。
+    - 中午吃的圣诞大餐，拍了照片修改了一阵子。
