@@ -908,6 +908,15 @@ https://www.jiemian.com/article/1445229.html [Email Body](https://files.todoist.
         - * 由于 Integrately 每一个付费计划里支持的任务运行次数都是 Zapier 的翻倍。所以对于付费用户而言，Integrately 的性价比可能更高。
         - Tags: 自动化 软件联动
         - https://sspai.com/post/68627 [Email Body](https://files.todoist.com/EPxXhEcJR3bvDW33YYntWbd3P7DS6EVroo4NonvbJunTnLPmjkeAG3-AMdMX7B6e/by/21878347/as/file.html)
+    - [如何将 Flomo 卡片自动导入 Roam Research？刚做了个 Flomo2Roam 的小示例，后边准备开发一些好玩儿的东西_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JY41147sc/?vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
+    - [Notion on Twitter](https://twitter.com/notionhq/status/1211733358809477120)
+        - Annotations:
+
+* Keep an eye on this page? 
+
+
+
+https://twitter.com/notionhq/status/1211733358809477120 [Email Body](https://files.todoist.com/qyhtarSZH7v2CDSKaGX5ogLBjGRAAN5NDP8X0au59kCOH12ePl0rVL8fEGwlfur5/by/21878347/as/file.html)
 - #[[意识流笔记]]
     - 早上起来就设置软件联动，希望把flomo中的得到电子书标记自动发送到roam中，用到的工具是[[集简云]]和[[Todolist]]，成品参见链接：https://apps.jijyun.cn/data-pipeline。 豆瓣阅读来自豆瓣的标注，flomo来自得到标注，虽然已经实现了，但由于只能发送标题名称，内容不全。感觉不是很好用。
 #[[工作流]] #[[阅读管理]]
