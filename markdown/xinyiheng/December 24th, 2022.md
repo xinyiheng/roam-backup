@@ -785,26 +785,11 @@ https://www.jb51.net/tools/regexsc.htm [Email Body](https://files.todoist.com/CO
 - Imported Quick Capture items:
     - 正则表达式速查表_脚本之家
         - Tags: 编程 正则表达式
-
-
-
-https://www.jb51.net/tools/regexsc.htm [Email Body](https://files.todoist.com/i3puia2Chz2OlFOxrETqDaDBYSgDTTOQqoDHyhMyGArM3-5wbNWrUwHYqUAiQq2c/by/21878347/as/file.html)
+        - https://www.jb51.net/tools/regexsc.htm [Email Body](https://files.todoist.com/i3puia2Chz2OlFOxrETqDaDBYSgDTTOQqoDHyhMyGArM3-5wbNWrUwHYqUAiQq2c/by/21878347/as/file.html)
     - 地产二代进退之间-36氪
         - "纪凯婷"
-
-Tags: 家族企业 传承 房地产
-
-
-
-https://36kr.com/p/2016333917192707 [Email Body](https://files.todoist.com/gKw_8oGYMPB8AuUVykrdixhJiHOy_ZSwUtLGhdmiwP4mLldZeTnMYkASVS6Upo8x/by/21878347/as/file.html)
-    - 地产二代进退之间-36氪
-        - "纪凯婷"
-
-Tags: 家族企业 传承 房地产
-
-
-
-https://36kr.com/p/2016333917192707 [Email Body](https://files.todoist.com/YFwp2UWNKhzCKQnUU5xPQtIn_j-CZ2dU6IgumMMw4zQXV8Qk57QR7MMmdAqXx0kt/by/21878347/as/file.html)
+        - Tags: 家族企业 传承 房地产
+        - https://36kr.com/p/2016333917192707 [Email Body](https://files.todoist.com/YFwp2UWNKhzCKQnUU5xPQtIn_j-CZ2dU6IgumMMw4zQXV8Qk57QR7MMmdAqXx0kt/by/21878347/as/file.html)
     - 如何在工作中学习 | plantegg
         - Tags: 学习
 
@@ -813,61 +798,34 @@ https://36kr.com/p/2016333917192707 [Email Body](https://files.todoist.com/YFwp2
 https://plantegg.github.io/2018/05/23/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%AD%A6%E4%B9%A0/ [Email Body](https://files.todoist.com/E5zESLyrgoIiiy3sYmVPTH6NfQjj-6QeHdQ5qsDTSaT-r4sI5hmGVZrgXud3IbYk/by/21878347/as/file.html)
     - 如何在工作中学习 | plantegg
         - Tags: 学习
-
-
-
-https://plantegg.github.io/2018/05/23/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%AD%A6%E4%B9%A0/ [Email Body](https://files.todoist.com/cbZ0bP5LmJHGpcvX_GXugJpzS9t1tYQlF6ytSLYZvh4BU_YVscWjZqCcLplIUtBz/by/21878347/as/file.html)
+        - https://plantegg.github.io/2018/05/23/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%AD%A6%E4%B9%A0/ [Email Body](https://files.todoist.com/cbZ0bP5LmJHGpcvX_GXugJpzS9t1tYQlF6ytSLYZvh4BU_YVscWjZqCcLplIUtBz/by/21878347/as/file.html)
     - 家族企业有五种模式 传承家业靠四大秘诀|界面新闻
         - Annotations:
-
-* ### 家族企业的类型
-
-家族企业有着不同的类型。第一种是工匠家族，其特点是独家秘诀，从小培养，且技艺日臻完美。例如我访问过一家意大利的家族企业，专门生产一种单簧管乐器，父亲创办了企业，孩子们则是学徒。后来这家企业就交给子一代的三兄弟，到第三代仍然由三位堂兄弟一起来管理这个企业。这样的企业，是不关心自身规模的，其要点在于如何如何把产品的技术优势和质量保持在同行的前列乃至最好。
-
-第二类是在工匠的基础上做品牌的家族。品牌意味着生产的产品可能会发生变化，比如法国的家乐福连锁超市，其背后的家族非常庞大。这种家族变成了一种品牌，做什么都可以与时俱进。但是该品牌依然用家族的名字命名，也依然在家族的手里，并延续很长时间，例如化妆品行业的常青树——雅诗兰�
-��。
-
-第三种叫做隐形冠军，也可以叫创新者，其特点是生产的产品并不是最终产品，而是中间产品。但是这种中间产品，在他的同行里面享受冠军美誉。在一个完整的市场中，既有小池塘里的大鱼，也有大海里的小鱼，而隐形冠军往往就是小池塘里的大鱼。再比如YKK，主要是生产拉链的，而且它是作为高端服装的供货商而存在的。对于服装产业来说，拉链一般赚不了太多钱，但是高端服装的生产商愿意为这样的辅料支付比别人高一倍或者两倍的价格。换言之，其虽是辅料，但是利润率并不低，这就是隐形冠军的特点。
-
-第四种类型是独特的商业模式，像沃尔玛、香港利丰集团都是赫赫有名的，以独特的商业模式横空出世以后，逐渐成为一个长寿的家族企业。
-
-第五种模式是金融家族，这样的家族把他们的主要精力放到了投资�
-�金融等领域，进行大量的资本运作。比如欧洲历史上大名鼎鼎的罗斯柴尔德家族，至今也仍然是金融家族的典范。曾经掌控美国经济命脉的摩根家族也属于这一类。
-
-* ### 家族企业基业长青的秘诀
-
-上面，我分析了五种家族企业的类型，而他们的家族之所以能够基业常青，是有着很多类似的原因的。具体来说有四点：
-
-1、专业的领导。
-
-企业的领导都是专业的人，领导权的交接是基于能力而不是血缘关系，尽管家族企业的CEO很多都是家族成员，但是也必然会强调专业的能力，以防止能力平平的人担任公司决策人。
-
-2、非家族成员专业人士入监事会。
-
-从而可以保证企业始终有着较为公正的原则，并能够保证这些原则被正确执行。这既是不可或缺的制约与平衡，也是创新思维的源泉。
-
-3、风险管控。
-
-一个好办法就是产品多样化，分散经营风险。同时还会专注于轻资产业务，以解决家族企业普遍缺乏融资渠道的问
-题。再者就是实施谨慎的财务政策，特别是在投资和并购方面。
-
-4、家族凝聚力。
-
-营造团结、有责任感和归属感的文化。正如家族影响企业一样，企业也可以是将家族凝聚在一起的有力纽带。对于家族外的合伙人，则需要更多的情感维护，通过成就感和经济回报来把他们留在企业。
-
-Tags: 家族企业 传承
-
-
-
-https://www.jiemian.com/article/1445229.html [Email Body](https://files.todoist.com/vWAX9vQXEECRJhMv7svVRt_8jD_gfUxaFms-uWn_MWLVyI7_aLNxUSKg-A8yx5Yn/by/21878347/as/file.html)
+        - ### 家族企业的类型
+        - 家族企业有着不同的类型。第一种是工匠家族，其特点是独家秘诀，从小培养，且技艺日臻完美。例如我访问过一家意大利的家族企业，专门生产一种单簧管乐器，父亲创办了企业，孩子们则是学徒。后来这家企业就交给子一代的三兄弟，到第三代仍然由三位堂兄弟一起来管理这个企业。这样的企业，是不关心自身规模的，其要点在于如何如何把产品的技术优势和质量保持在同行的前列乃至最好。
+        - 第二类是在工匠的基础上做品牌的家族。品牌意味着生产的产品可能会发生变化，比如法国的家乐福连锁超市，其背后的家族非常庞大。这种家族变成了一种品牌，做什么都可以与时俱进。但是该品牌依然用家族的名字命名，也依然在家族的手里，并延续很长时间，例如化妆品行业的常青树——雅诗兰�
+        - ��。
+        - 第三种叫做隐形冠军，也可以叫创新者，其特点是生产的产品并不是最终产品，而是中间产品。但是这种中间产品，在他的同行里面享受冠军美誉。在一个完整的市场中，既有小池塘里的大鱼，也有大海里的小鱼，而隐形冠军往往就是小池塘里的大鱼。再比如YKK，主要是生产拉链的，而且它是作为高端服装的供货商而存在的。对于服装产业来说，拉链一般赚不了太多钱，但是高端服装的生产商愿意为这样的辅料支付比别人高一倍或者两倍的价格。换言之，其虽是辅料，但是利润率并不低，这就是隐形冠军的特点。
+        - 第四种类型是独特的商业模式，像沃尔玛、香港利丰集团都是赫赫有名的，以独特的商业模式横空出世以后，逐渐成为一个长寿的家族企业。
+        - 第五种模式是金融家族，这样的家族把他们的主要精力放到了投资�
+        - �金融等领域，进行大量的资本运作。比如欧洲历史上大名鼎鼎的罗斯柴尔德家族，至今也仍然是金融家族的典范。曾经掌控美国经济命脉的摩根家族也属于这一类。
+        - ### 家族企业基业长青的秘诀
+        - 上面，我分析了五种家族企业的类型，而他们的家族之所以能够基业常青，是有着很多类似的原因的。具体来说有四点：
+        - 1、专业的领导。
+        - 企业的领导都是专业的人，领导权的交接是基于能力而不是血缘关系，尽管家族企业的CEO很多都是家族成员，但是也必然会强调专业的能力，以防止能力平平的人担任公司决策人。
+        - 2、非家族成员专业人士入监事会。
+        - 从而可以保证企业始终有着较为公正的原则，并能够保证这些原则被正确执行。这既是不可或缺的制约与平衡，也是创新思维的源泉。
+        - 3、风险管控。
+        - 一个好办法就是产品多样化，分散经营风险。同时还会专注于轻资产业务，以解决家族企业普遍缺乏融资渠道的问
+        - 题。再者就是实施谨慎的财务政策，特别是在投资和并购方面。
+        - 4、家族凝聚力。
+        - 营造团结、有责任感和归属感的文化。正如家族影响企业一样，企业也可以是将家族凝聚在一起的有力纽带。对于家族外的合伙人，则需要更多的情感维护，通过成就感和经济回报来把他们留在企业。
+        - Tags: 家族企业 传承
+        - https://www.jiemian.com/article/1445229.html [Email Body](https://files.todoist.com/vWAX9vQXEECRJhMv7svVRt_8jD_gfUxaFms-uWn_MWLVyI7_aLNxUSKg-A8yx5Yn/by/21878347/as/file.html)
     - Inoreader - 世界杯，一门大生意
         - Annotations:
-
-* 2022年卡塔尔世界杯要正式开赛了。北京时间11月21日00:00，由东道主卡塔尔对阵来自南美的厄瓜多尔的比赛，将拉开“史上最贵世界杯”的序幕。 
-
-
-
-https://www.inoreader.com/article/3a9c6e75870d13a5- [Email Body](https://files.todoist.com/D_B0F-_m4EOMwj5E0f1mfcf5wmnqzF_02d27RMzngox19iP4MmVW9tTcO3FCcWkE/by/21878347/as/file.html)
+        - 2022年卡塔尔世界杯要正式开赛了。北京时间11月21日00:00，由东道主卡塔尔对阵来自南美的厄瓜多尔的比赛，将拉开“史上最贵世界杯”的序幕。 
+        - https://www.inoreader.com/article/3a9c6e75870d13a5- [Email Body](https://files.todoist.com/D_B0F-_m4EOMwj5E0f1mfcf5wmnqzF_02d27RMzngox19iP4MmVW9tTcO3FCcWkE/by/21878347/as/file.html)
     - 家族企业有五种模式 传承家业靠四大秘诀|界面新闻
         - Annotations:
 
@@ -913,72 +871,44 @@ Tags: 家族企业 传承
 https://www.jiemian.com/article/1445229.html [Email Body](https://files.todoist.com/wnGmDjO8fvGoi5HhpKpP_YVSchBquinytxJno9iv4G1yEtmUry3-HJKCSwsavhnf/by/21878347/as/file.html)
     - 未来北京什么样？一部动画带您了解总体规划（解读总规第一集）_政策解读_北京市规划和自然资源委员会
         - Annotations:
-
-* 新总规明确了北京的战略定位是：全国政治中心、文化中心、国际交往中心、科技创新中心！突出“四个中心”，彰显首都风范！
-
-* 未来的北京，还将是一座人民的城市，我们的发展目标就是：建设国际一流的和谐宜居之都！
-
-* 到2035年
-
-公共交通更快更完善
-
-轨道交通里程是现在的4倍那么长！
-
-住有所居，未来5� �就要供应新房150万套以上！
-
-教育资源会更均衡
-
-医疗养老会更贴心
-
-一刻钟生活服务圈，让你买菜、上学再也不用走远，出门不远就是�
-�园绿道，北京城天蓝水清森林环绕，胡同里有鸟鸣声绿荫环抱，中轴线大运河展示千年古都的骄傲，想想都觉得首都特别美妙！
-
-* 新总规部署了八大行动路线图。
-
-* 第一，优化城市空间布局，构建“一核一主一副、两轴多点一区”的空间结构。
-
-* 第二，有序疏解非首都功能，坚持疏解整治促提升。
-
-* 第三，严守人口总量上限、生态控制线和城市开发边界“三条红线”，协调生产、生活、生态空间关系，实现集约减量发展。
-
-* 第四，加强历史文化名城保护，强化首都风范、古都风韵、时代风貌的城市特色。
-
-第五，以解决“大城市病”为突破口，提高城市治理水平，把超大城市治理得井井有条。
-
-第六，加强城乡统筹，实现城乡发展一体化
-
-* 第七，深入推进京津冀协同发展，建设以首都为核心的世界级城市群。
-
-第八，坚决维护总体规划的严肃性和权威性，实现一张蓝图绘到底。
-
-
-
-http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166743.html [Email Body](https://files.todoist.com/O19ntvqGiCzK4Ev3d7J57IB91Az9J9vhn9UnRUicikFVVQTX9FlPuOH76OcGE5Tk/by/21878347/as/file.html)
+        - 新总规明确了北京的战略定位是：全国政治中心、文化中心、国际交往中心、科技创新中心！突出“四个中心”，彰显首都风范！
+        - 未来的北京，还将是一座人民的城市，我们的发展目标就是：建设国际一流的和谐宜居之都！
+        - 到2035年
+        - 公共交通更快更完善
+        - 轨道交通里程是现在的4倍那么长！
+        - 住有所居，未来5� �就要供应新房150万套以上！
+        - 教育资源会更均衡
+        - 医疗养老会更贴心
+        - 一刻钟生活服务圈，让你买菜、上学再也不用走远，出门不远就是�
+        - �园绿道，北京城天蓝水清森林环绕，胡同里有鸟鸣声绿荫环抱，中轴线大运河展示千年古都的骄傲，想想都觉得首都特别美妙！
+        - 新总规部署了八大行动路线图。
+        - 第一，优化城市空间布局，构建“一核一主一副、两轴多点一区”的空间结构。
+        - 第二，有序疏解非首都功能，坚持疏解整治促提升。
+        - 第三，严守人口总量上限、生态控制线和城市开发边界“三条红线”，协调生产、生活、生态空间关系，实现集约减量发展。
+        - 第四，加强历史文化名城保护，强化首都风范、古都风韵、时代风貌的城市特色。
+        - 第五，以解决“大城市病”为突破口，提高城市治理水平，把超大城市治理得井井有条。
+        - 第六，加强城乡统筹，实现城乡发展一体化
+        - 第七，深入推进京津冀协同发展，建设以首都为核心的世界级城市群。
+        - 第八，坚决维护总体规划的严肃性和权威性，实现一张蓝图绘到底。
+        - http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166743.html [Email Body](https://files.todoist.com/O19ntvqGiCzK4Ev3d7J57IB91Az9J9vhn9UnRUicikFVVQTX9FlPuOH76OcGE5Tk/by/21878347/as/file.html)
     - 为什么骑自行车学会就忘不掉，可弹琴需要天天练？
         - Tags: 记忆
-
-
-
-https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652090683&idx=1&sn=e7479ccde24d6e3b6fd989e1eed60ae2&chksm=5dbf95a96ac81cbfed4b89470f58708d0261fdc052048b40e3ee812c5c55dad385b7572779b7&scene=132 [Email Body](https://files.todoist.com/RSjZgiRtSNcQ_GCVzJkbincsXk5IcMpOZnHXpNTH2graeEkyY9POQgjH3TVRFjNu/by/21878347/as/file.html)
+        - https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652090683&idx=1&sn=e7479ccde24d6e3b6fd989e1eed60ae2&chksm=5dbf95a96ac81cbfed4b89470f58708d0261fdc052048b40e3ee812c5c55dad385b7572779b7&scene=132 [Email Body](https://files.todoist.com/RSjZgiRtSNcQ_GCVzJkbincsXk5IcMpOZnHXpNTH2graeEkyY9POQgjH3TVRFjNu/by/21878347/as/file.html)
     - 独家 | 许小年最新演讲：创新是一种自我表达，企业家不要盯着宏观经济 | CEIBS
         - Annotations:
-
-*   * ## 许小年最新演讲：创新是一种自我表达，企业家不要盯着宏观经济
-
-* 创新并不是以高科技为前提的，有，当然很好，但不是唯一条件。世界上创新分两类，一类是颠覆式创新，一类是改进式创新，颠覆式创新多来自于新型科技公司，而改进式创新大部分来自大公司。这两类创新都对企业效率的提高有着巨大作用。
-
-* 海底捞总结出一套行之有效的自己培养店长的方法：用师徒制方法，店长可以带徒弟，徒弟学成之后可以出去自己开店，徒弟开的店的收益店长可以分享，这是它非常独特的地方。
-
-
-
-https://cn.ceibs.edu/people-stories/21701 [Email Body](https://files.todoist.com/HZaZvRR3Mc82NTCOFAmyhnAgfH014GXSEFyyuPbvOPhRGH9guFm7dhQolSsStGkj/by/21878347/as/file.html)
+        - * ## 许小年最新演讲：创新是一种自我表达，企业家不要盯着宏观经济
+        - 创新并不是以高科技为前提的，有，当然很好，但不是唯一条件。世界上创新分两类，一类是颠覆式创新，一类是改进式创新，颠覆式创新多来自于新型科技公司，而改进式创新大部分来自大公司。这两类创新都对企业效率的提高有着巨大作用。
+        - 海底捞总结出一套行之有效的自己培养店长的方法：用师徒制方法，店长可以带徒弟，徒弟学成之后可以出去自己开店，徒弟开的店的收益店长可以分享，这是它非常独特的地方。
+        - https://cn.ceibs.edu/people-stories/21701 [Email Body](https://files.todoist.com/HZaZvRR3Mc82NTCOFAmyhnAgfH014GXSEFyyuPbvOPhRGH9guFm7dhQolSsStGkj/by/21878347/as/file.html)
     - [Roaming through contexts with Roam: How I use it - strategic structures](https://www.strategicstructures.com/?p=2357)
     - 2022-12-21T14:41:00.000Z
         - ["我公司食堂比较小，正常有80人左右吃饭。刚开业的时候大家都是下班就去吃饭，经常排长队。后来慢慢就各自"]https://www.notion.so/80-392cbafbcd8a4c118beb37368fbd3794 [Email Body](https://files.todoist.com/I4L8xVTOZhhbEwudOpHd0RCqCTQumkMy6v2aZVNgu6s6rF1kApDNvmnpbs9hq4iN/by/21878347/as/file.txt)
     - 用 Integrately 玩转 Cubox 和 Flomo API - 少数派
         - Annotations:
-
-*   * 由于 Integrately 每一个付费计划里支持的任务运行次数都是 Zapier 的翻倍。所以对于付费用户而言，Integrately 的性价比可能更高。
-
-Tags: 自动化 软件联动
-https://sspai.com/post/68627 [Email Body](https://files.todoist.com/EPxXhEcJR3bvDW33YYntWbd3P7DS6EVroo4NonvbJunTnLPmjkeAG3-AMdMX7B6e/by/21878347/as/file.html)
+        - * 由于 Integrately 每一个付费计划里支持的任务运行次数都是 Zapier 的翻倍。所以对于付费用户而言，Integrately 的性价比可能更高。
+        - Tags: 自动化 软件联动
+        - https://sspai.com/post/68627 [Email Body](https://files.todoist.com/EPxXhEcJR3bvDW33YYntWbd3P7DS6EVroo4NonvbJunTnLPmjkeAG3-AMdMX7B6e/by/21878347/as/file.html)
+- #[[意识流笔记]]
+    - 早上起来就设置软件联动，希望把flomo中的得到电子书标记自动发送到roam中，
+    - https://dida365.com/webapp/#p/5cb9e4c2e4b09c27020d72b6/tasks/63a5d9b651c951027b7d5c2a
+    - 
