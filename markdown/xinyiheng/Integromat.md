@@ -1,0 +1,2 @@
+- 现在改名为 make了，可以免费用1 000条自动化操作。注意区分[[Integrately]]，名字很像，但不是一家。还有一个名为[[Automate]]的，确实很像。
+- [My Lab | Make](https://eu1.make.com/organization/403640/dashboard)

@@ -1,0 +1,2 @@
+- 我实现了notion和谷歌日历同步，这样其实也打通了notion和滴答清单。#[[软件联动]]
+- [关闭 Automate.io - Automate.io 博客](https://automate.io/blog/closing-down-automate-io/) 🗒@评论:原来这是一个和bardeen很像的自动化平台工具，被notion收购以后就专注于为notion服务了。

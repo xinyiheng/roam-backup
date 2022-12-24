@@ -909,6 +909,7 @@ https://www.jiemian.com/article/1445229.html [Email Body](https://files.todoist.
         - Tags: 自动化 软件联动
         - https://sspai.com/post/68627 [Email Body](https://files.todoist.com/EPxXhEcJR3bvDW33YYntWbd3P7DS6EVroo4NonvbJunTnLPmjkeAG3-AMdMX7B6e/by/21878347/as/file.html)
 - #[[意识流笔记]]
-    - 早上起来就设置软件联动，希望把flomo中的得到电子书标记自动发送到roam中，
-    - https://dida365.com/webapp/#p/5cb9e4c2e4b09c27020d72b6/tasks/63a5d9b651c951027b7d5c2a
-    - 
+    - 早上起来就设置软件联动，希望把flomo中的得到电子书标记自动发送到roam中，用到的工具是[[集简云]]和[[Todolist]]，成品参见链接：https://apps.jijyun.cn/data-pipeline。 豆瓣阅读来自豆瓣的标注，flomo来自得到标注，虽然已经实现了，但由于只能发送标题名称，内容不全。感觉不是很好用。
+#[[工作流]] #[[阅读管理]]
+    - 今天是圣诞前夜，老婆忙活着做法，辅助做饭，出去买了一趟东西。
+    - 继续完善工作流。
