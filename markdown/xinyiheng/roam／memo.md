@@ -1,4 +1,18 @@
 - ### data
+    - [[为什么]]要做知识管理？#[[memo]]
+        - [[December 24th, 2022]] 🟢
+            - nextDueDate:: [[December 25th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - [[Notion]]的各种自动化好像只支持把表格中的元素提取出来，比如，tag，创建时间，链接地址或者简要的评论等。写在笔记^^正文^^中的内容是提取不出来的。所以，notion中从flomo同步过来的笔记只能显示标题，无法提取笔记全文。#[[自动化]] #[[memo]]
+        - [[December 24th, 2022]] 🟢
+            - nextDueDate:: [[December 25th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
     - 知识管理的根本目的是发布一个可以公开的^^最小^^产品。也就是说，知识管理是为了输出内容，获取影响力。#[[影响力]] #[[memo]]
         - [[December 24th, 2022]] 🟢
             - nextDueDate:: [[December 30th, 2022]]
