@@ -917,6 +917,15 @@ https://www.jiemian.com/article/1445229.html [Email Body](https://files.todoist.
 
 
 https://twitter.com/notionhq/status/1211733358809477120 [Email Body](https://files.todoist.com/qyhtarSZH7v2CDSKaGX5ogLBjGRAAN5NDP8X0au59kCOH12ePl0rVL8fEGwlfur5/by/21878347/as/file.html)
+    - Notification欺诈游戏-哔哩哔哩 Bilibili
+        - https://search.bilibili.com/all?keyword=%E6%AC%BA%E8%AF%88%E6%B8%B8%E6%88%8F&search_source=1
+12/24/2022 6:51:00 AM
+12/24/2022 6:51:00 AM [Email Body](https://files.todoist.com/A5zyr2aBoH6okflsyYYHS7UMFdkDLI3Nykdkp0UWHujrKMLt11pX4NfBV_SETfKp/by/21878347/as/file.html)
+    - A Notion page has been updated.
+        - ℹ️ Notion Notification. A page in your Notion page has been updated.
+【高效学习02】如何在 Roam 里面实践渐进学习？轻松使用Roam
+Research，渐进阅读流程_哔哩哔哩_bilibilihttps://www.notion.so/02-Roam-Roam-Research-_-_bilibili-85d8a869f307496cbdc40b077b17fbe5
+[Sent with bardeen.ai] [Email Body](https://files.todoist.com/VDOBC-CoqOgmQIhIH-vLHI0MpacvJZSD0yjosBMknO5QSd0euoL-rSQrS1J-oT1Z/by/21878347/as/file.txt)
 - #[[意识流笔记]]
     - 早上起来就设置软件联动，希望把flomo中的得到电子书标记自动发送到roam中，用到的工具是[[集简云]]和[[Todolist]]，成品参见链接：https://apps.jijyun.cn/data-pipeline。 豆瓣阅读来自豆瓣的标注，flomo来自得到标注，虽然已经实现了，但由于只能发送标题名称，内容不全。感觉不是很好用。
 #[[工作流]] #[[阅读管理]]
