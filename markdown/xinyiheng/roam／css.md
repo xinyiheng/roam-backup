@@ -143,7 +143,7 @@ textarea {
 }
 /*修改选中后的文字颜色*/
 ::selection {
-    background: #DC676793;
+    background: #357DF493;
 }
 ::hover {
     background: #DC676777;
@@ -168,7 +168,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
-    background-color: #03A9F47A;
+    background-color: #F1F6F87A;
 }
 
 #roam-right-sidebar-content {
