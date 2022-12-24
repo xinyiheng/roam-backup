@@ -1,2 +1,3 @@
 - https://app.integrately.com/explore-automations
+- [My Automations](https://app.integrately.com/my-automations) 🗒@评论:我用来把notion中豆瓣阅读中新增加的内容发送到印象笔记和todolist的工具。
 - 类似[[Zapier]]
