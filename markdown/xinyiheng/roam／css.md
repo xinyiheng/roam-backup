@@ -821,7 +821,15 @@ span[data-link-title^="软件联动"] .rm-page-ref {
         - ```css
 
 /* Custom data tags */
-
+span.rm-page-ref[data-tag="memo"]:before {
+    content: '📝'}
+span.rm-page-ref[data-tag="memo"] {
+    background: #9769FF8E !important;
+    color: white !important;
+    padding: 3px 7px;
+    font-weight: 500;
+    line-height: 2em;
+}
 span.rm-page-ref[data-tag="参考资料"] {
     background: #9769FF8E !important;
     color: white !important;
