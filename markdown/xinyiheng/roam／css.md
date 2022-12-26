@@ -107,7 +107,8 @@ a {
 /*修改最顶端栏目的背景*/
 .rm-topbar {
   background-size:100%;
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FD8Hfjd76Af.jpeg?alt=media&token=957a8f6a-1447-4794-8927-365fd63b71a4);
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fnpp-ngHHQl.jpg?alt=media&token=f6ea3f2c-2c6f-4288-8371-627d9d99bc68
+    );
 }
 /*修改unlinked references字体颜色*/
 strong {
@@ -162,7 +163,7 @@ textarea {
 
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
      background-size:100% 100%;
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FD8Hfjd76Af.jpeg?alt=media&token=957a8f6a-1447-4794-8927-365fd63b71a4
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fnpp-ngHHQl.jpg?alt=media&token=f6ea3f2c-2c6f-4288-8371-627d9d99bc68
   );
    
 }
@@ -189,7 +190,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     width: 370px;
     height: 200px;
     margin: 20px;
-    box-shadow: 8px 8px 16px 0 rgb(29 0 0 / 76%);
+    box-shadow: 8px 8px 16px 0 #CE3D3D(29 0 0 / 76%);
     border-radius: 8px;
     background: hsl(132,29%,97%);
     background-size: 100% 100%;

@@ -165,103 +165,38 @@
     - 卢曼卡片盒写作法通过新增加的这个盒子,能够更好地对“元认知”的内容进行保存和加工。一个盒子用于保存内容本身;一个盒子用于监控内容。
 - #[[意识流笔记]]
     - 今天睡觉又晚了
-    - {{[[TODO]]}} 发现snipaste按照目标形状来快速截图的方法，截取卡片就方便多了。
+    - {{[[DONE]]}} 发现snipaste按照目标形状来快速截图的方法，截取卡片就方便多了。
     - 想要设置批量从印象笔记中复制内容到roam的keyboard maestro方式，结果由于某些功能不完善卡了半天
     - 11:45 早上起来就开始从印象笔记一篇一篇低导出笔记到roam research，终于把得到app中的标注全部导出了。这样，以后每周定期更新就可以了。
+        - #[[阅读管理]] 今天全天都在思考自己的读书笔记整理流程。#[[memo]]
+            - 今天把所有以前在得到上和微信读书上的标注都复制到roam research中了，这是一个重大的进步。
+            - 以前读书笔记没有纳入到roam research的管理中来，以后就依托印象笔记来辅助roam做好读书笔记管理。[[印象笔记]]中可以同步得到电子书，marginnote中的笔记也可以手动同步到印象笔记中。
+            - 微信读书并没有系统性地管理。现在也可以把标注同步到印象笔记来统一管理了。我购买了klib，可以定期把所有微信读书中的标注同步到印象笔记中。[[微信读书]]同步到roam还有一种方式，就是依托[[Readwise]]和微信读书插件。打开微信读书网页版之后，利用读书插件可以把当前打开的书籍的标注同步到readwise中，readwise又可以同步到roam中。
+我在印象笔记中保存了一个搜索，可以快速查看过去七天微信读书、[[得到电子书]]和[[Marginnote]]的变化。虽然需要手动复制，但并不复杂。每周其实最多也就更新十几条，用不了半小时就能整理完。得到的笔记我设置了一个快捷方式，可以快速复制一条出来。klib的笔记则用不了这个设置，因为klib导出的内容不支持编辑。marginnote导出的笔记有些因为太大，复制起来也不方便，以后干脆就保留一个链接到roam中就可以了。真要搜索的话用之前设置的从roam中快速搜索margninnote的快捷方式就可以了。这样，我基本实现了[[一元笔记]]，即所有书籍标注的内容都可以在roam中查询到。以后，roam research中只保留我做过笔记的书籍。借助roam的[[间隔记忆]]插件，可以把重点要看的句子做成记忆卡片。用起来非常顺手。如果再配合snipaste快速截图，还可以用隔空投送快速发送到ipad中自由拖拽，辅助思考创造。
+            - margninnote中的笔记有时候也可以借助吕立青开发的插件一条一条地导入到roam中，但不太稳定，有时候点击一下没反应，有时点击一次导入好几条。可以作为备用。marginote导入到印象笔记之后，可以利用我之前设置的快捷方式快速地把链接发送到roam research中，如下。印象笔记中的链接有两种，一种是evernote开头的，一种是https开头的，前者是本地链接，后者是网络链接。
+                - [图书馆情报学](https://app.yinxiang.com/shard/s63/nl/13797828/be8bb88b-33e7-4126-9831-454f35f7d5c9/)
+            - 对于希望阅读的书籍的管理，我现在更改为用滴答清单。这是一个重要的流程变更。以前我都是把要读的书在[[豆瓣]]主页中标注，同时剪藏到[[Notion]]中。但这两种做法都没有办法帮助我安排阅读。我从来没有想要找书读的时候去notion和豆瓣的想读清单中查找过。notion看上去搜集了所有想读的和读过的书，但里面没有我自己写的内容，只不过是看上去很不错的表格而已。再说，notion中我的阅读清单中的内容也无法同步到roam中，如果真的记录内容也会造成读书笔记分散。我目前还没有决定好要不要继续委会豆瓣主页和notion，但以后肯定会用滴答清单来管理阅读。豆瓣中的书籍标题和链接可以很方便地用我设置的快捷方式发送到滴答清单。微信读书的书籍也是如此，得到app网页版要用发送roam research标题和网址的方式发送到滴答清单。我在滴答清单中设置了一个智能清单(即条件筛选)，可以把带有dedao，weread，douban 字样的任务收集起来，就自动整理出我我的阅读愿望单，具体设置方法见下图。然后，我可以把它们都转移到阅读计划中，用展板的方式来安排和展示。这样查看阅读清单的频率就高了很多。
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F8rvdve-P6C.png?alt=media&token=d2100ba4-9707-42c3-b2d3-ecdbfb33f502)
+            - the brain还是用来建立书与书以及和其他的关联。
+            - 这样，用滴答清单来安排阅读，用roam research来后续整理阅读内容。阅读管理的流程清晰而简洁。
+    - 又开始更换roam的背景图片，花了很长时间。
 - Imported Quick Capture items:
-    - 2022-12-26T05:11:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 家元制： 自18世纪起，日本以家族集团为单位，金字塔形地']https://www.notion.so/18-b92af78742554d948f54b77367ad6c4e [Email Body](https://files.todoist.com/5BBi87rxjhngxhgfCJK7W0pcX_WJJ1KUYrfA3nGrGoCbMDDeKfFAQ4BP-xSluYup/by/21878347/as/file.txt)
-    - 2022-12-26T05:10:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 日式美学基础一 侘寂Wabi-Sabi   来源：htt']https://www.notion.so/Wabi-Sabi-htt-92b78f35220744bbbcfc51b6cb4b542d [Email Body](https://files.todoist.com/L1xMFb5C8N_rfqpl-SxQw1vNH-xyuNVcz3Rl4UBDIuECab_07WXz8h481_ZnWvRT/by/21878347/as/file.txt)
-    - 2022-12-26T05:10:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 日式美学基础一 侘寂Wabi-Sabi   来源：htt']https://www.notion.so/Wabi-Sabi-htt-92b78f35220744bbbcfc51b6cb4b542d [Email Body](https://files.todoist.com/5ARL1EnUKKfttz1YOs5RAlPKO3rHV6hz-_hqXvSLMtJ8qXnORHPZzYP_ALgv41qo/by/21878347/as/file.txt)
-    - 2022-12-26T05:11:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 侘寂 (Wabi-Sabi)： 这实际上是一个复合词，拆']https://www.notion.so/Wabi-Sabi-4f8a2f69c99746c78ee0391f192b86b6 [Email Body](https://files.todoist.com/RwBKV3FzA66ZwlFQBilZBnb_JwlZefLxcjj5cBQB8hgcbJYlQe6AHppeersp1vEi/by/21878347/as/file.txt)
-    - 2022-12-26T05:11:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 千利休 (1522-1591) 被誉为“日本茶圣”，与今']https://www.notion.so/1522-1591-cabfdec6897942bc9013c77a8079e70e [Email Body](https://files.todoist.com/Butfc6S61zeSk5YT6KY0HvE-VileZ17r9cqb0s8rSGzmVLRWZBCJh_xFYXeOA0J8/by/21878347/as/file.txt)
-    - 2022-12-26T05:12:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 浮世绘 “浮世”，即“现世”，是指当时人们所处的社会环境']https://www.notion.so/6f1346c9f9e44a0aa9e9a5b32c2befbf [Email Body](https://files.todoist.com/wQ_6liLNlF-fxci5pmuZe2NDV_CviuKW0qYKSXhpkcniBDAo2iwr1hkjU8-L--Bl/by/21878347/as/file.txt)
-    - 2022-12-26T05:09:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 直到1980年代初，日本已经成为世界最重要的设计大国之一']https://www.notion.so/1980-a0eaa7bfddb24918901b70713a7cb26b [Email Body](https://files.todoist.com/P_eZ1Xjyd75MMx9d6fGbNljAECM88D1aA4nSVeiIU4JihZbTCth-mmpRnvAA2h8S/by/21878347/as/file.txt)
-    - 2022-12-26T05:12:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 浮世绘 “浮世”，即“现世”，是指当时人们所处的社会环境']https://www.notion.so/6f1346c9f9e44a0aa9e9a5b32c2befbf [Email Body](https://files.todoist.com/130MoEWLGUkJLoWubZHF3i9sSL2J3Y6RxPlhog_oqCLCezb8mQzQ4BohtDcNKO7L/by/21878347/as/file.txt)
-    - 2022-12-26T05:11:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 家元制： 自18世纪起，日本以家族集团为单位，金字塔形地']https://www.notion.so/18-b92af78742554d948f54b77367ad6c4e [Email Body](https://files.todoist.com/bTsjbo9ccBQm4XQNny0or9JWHI70dxB43rKQWbzWkMjGb9HFI56jkBg9cYWm651B/by/21878347/as/file.txt)
-    - 2022-12-26T05:11:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 千利休 (1522-1591) 被誉为“日本茶圣”，与今']https://www.notion.so/1522-1591-cabfdec6897942bc9013c77a8079e70e [Email Body](https://files.todoist.com/_mGvT3cjelBuasQgOIYH3iVzoM4zjIa_XLAx9PU9cOrVhWzyTkLYsrnf08_5WvTQ/by/21878347/as/file.txt)
-    - 2022-12-26T05:09:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 直到1980年代初，日本已经成为世界最重要的设计大国之一']https://www.notion.so/1980-a0eaa7bfddb24918901b70713a7cb26b [Email Body](https://files.todoist.com/br8YFK3yIK9oL89soQJMczcqR_ti3WDWOhOaXS1vk-b0ZDW9BpsJdeF0_BYc8WM4/by/21878347/as/file.txt)
-    - 2022-12-26T05:11:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 侘寂 (Wabi-Sabi)： 这实际上是一个复合词，拆']https://www.notion.so/Wabi-Sabi-4f8a2f69c99746c78ee0391f192b86b6 [Email Body](https://files.todoist.com/p7h0Ipg8eQ1Xbw6ctW9EsqyGb7-k0zsPyXFaqeLlCYwRlFWftFPNBDU00n0J8s0t/by/21878347/as/file.txt)
-    - 2022-12-26T05:18:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 到了18世纪(江户时代)，在德川幕府的统治下，日本国内政']https://www.notion.so/18-64cb36d710124599af0007a4fec396c4 [Email Body](https://files.todoist.com/Ha3D-AQ8TlLAuCc80FIPiJ28Svvgo7ePuHZ4942naye564asDi9LF8QmBI8LqF1w/by/21878347/as/file.txt)
-    - 2022-12-26T05:16:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 印象派晚期的代表画家梵高可能是著名画家中受浮世绘影响最深']https://www.notion.so/b15e361f212f4c05af83833b62375ea0 [Email Body](https://files.todoist.com/dVhbrszmH84dTrXz9AF4ypT16IS1Qs7kpMGoOxl8P8dacQRNJ_YFJgSh4miKl9AI/by/21878347/as/file.txt)
-    - 2022-12-26T05:17:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 根据史籍记载，日本以观赏为目的的绘画最初衍生自中国唐朝(']https://www.notion.so/8e629e4d697e43488a01b73c93eb275b [Email Body](https://files.todoist.com/aCelk-bGEmMxv-RTjQ9QJTRC3mbd0wcijUsbH45dxL7h6ShI6N3GC10464iTuf-f/by/21878347/as/file.txt)
-    - 2022-12-26T05:16:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 19世纪中期，欧洲从日本进口茶叶，由于日本茶叶的包装纸印']https://www.notion.so/19-01270addfed54cea960eef2aa16ae3e8 [Email Body](https://files.todoist.com/0y3Iuy6exdxUTQ1WxXGQuHIBs_NVEnYwkUfTauqa2thcnp7bU4rgpBHlWCjdMOiw/by/21878347/as/file.txt)
-    - 2022-12-26T05:16:00.000Z
-        - ['#得到/电子书/极简之道：日本平面设计美学 日式美学基础二 绘画（日本传统绘画 现代漫画）   日本']https://www.notion.so/c4f34819c018499280089c44a32dab80 [Email Body](https://files.todoist.com/ZkTcfL0Z67pl9ji0LeqeMC2DDybbdXIKTlPX0fm5Jji87N2hKZMTP82iZmFg7bML/by/21878347/as/file.txt)
-    - 2022-12-26T05:33:00.000Z
-        - ['北方人口继续流出，未来南北人口差距将进一步扩大。仅是由于南方下游工业对耕地的挤占，北方就已成为中国粮']https://www.notion.so/d935abe1aa5f4c6fbbb04fa7a00a0415 [Email Body](https://files.todoist.com/zlH2DcBhOfa9yH8mYzOGlDSxqxOLYSYW4e2XuTi7ie189LO9pjFLfd8uBQ_rKr9u/by/21878347/as/file.txt)
-    - A Notion page has been updated.
-        - ℹ️ Notion Notification. A page in your Notion page has been updated.
-经典之门 (豆瓣)https://www.notion.so/ac02f072c88f43a3976591294b533e1f
-[Sent with bardeen.ai] [Email Body](https://files.todoist.com/lWJLssxmIoblW3nfzeAsUSpirYoqfKBZfPBDfZCHbPmDcMq6VgvZY1fKhOYbZl_A/by/21878347/as/file.txt)
-    - Notification-民粹主义大爆炸
-        - 民粹主义大爆炸https://book.douban.com/subject/30264643/
-12/6/2022 2:58:00 AM
+    - 如何利用印象笔记高效管理书籍 - 少数派
+        - Annotations:
+
+ 1. 创建读书档案
+
+在《麦肯锡精英高效阅读法》一书中，作者赤羽雄二为了管理「主动阅读」中的一系列行动，提出运用「读书档案」这一工具（具体内容参考拙作《麦肯锡精英的高效阅读法》）。
+
+3\. 用「见感思行」卡片对笔记进行深度加工
+
+「见感思行」卡片的创作逻辑和实例，《在印象笔记中打造写作闭环》和《如何打造写作知识库：「见感思行」卡片创作实例》两篇笔记中有提到，感兴趣的同学可以移步一阅。
+
+创作卡片看似简单，若要长期坚持也不是一件容易的事情，尤其是「思行」两部分内容，需要开动脑筋好好思考。但只要你能把它坚持下去，哪怕每天只写一张，一个月后就会发现，对书中内容的理解水平以及思考深度较之前「核爆炸式」的提高。
+
+Tags: 读书笔记 阅读管理
 
 
 
-[美] 约翰·朱迪斯
-2018/11/1 [Email Body](https://files.todoist.com/_kEYhWiCMMiMORTyoP7cmQrUEk8mV9vSyTuPlzlDZ66uRynww_XwlBkxEVokZcRn/by/21878347/as/file.html)
-    - Notification-50堂经典哲学思维课
-        - 50堂经典哲学思维课https://book.douban.com/subject/35634474/
-12/6/2022 2:58:00 AM
-
-
-
-郁喆隽
-2021/10 [Email Body](https://files.todoist.com/x93fNxeCZJAw0Wz2Qa-8gShu3nmdMuly1jZ_xACC3955GCqHC0FtjlL06bRLYJ-7/by/21878347/as/file.html)
-    - Notification-解决冲突的关键技巧
-        - 解决冲突的关键技巧https://book.douban.com/subject/26782094/
-12/6/2022 2:58:00 AM
-
-
-
-[美] 达纳·卡斯帕森
-2016/7 [Email Body](https://files.todoist.com/IO8TK_uGT68a9vU2zuL0YQjJzQYQKHTKMai2_MpVQUPKjno0MxN5CQv095G2GM2J/by/21878347/as/file.html)
-    - Notification-大势研判
-        - 大势研判https://book.douban.com/subject/26840503/
-12/6/2022 2:58:00 AM
-
-
-
-任泽平
-2016/7/1 [Email Body](https://files.todoist.com/GhxPdo5mo6hcDm-qeHfkoNidoW1np-SJkODGxxUUtA72O3aUxFVSoQzgOVdwXXbw/by/21878347/as/file.html)
-    - Notification-汽车是怎样设计制造的
-        - 汽车是怎样设计制造的https://book.douban.com/subject/21362102/
-12/6/2022 2:58:00 AM
-
-
-
-陈新亚
-2013/2 [Email Body](https://files.todoist.com/TR94ysCjudT7zFcnP1NBb49Ecwrf6231xnAt4yMMMk1vo2zizRPBUeUb0ALa694N/by/21878347/as/file.html)
-    - Notification-历史
-        - 历史https://book.douban.com/subject/35168106/
-12/6/2022 2:58:00 AM
-
-
-
-[澳] 杰弗里·瓦夫罗
-2020/8 [Email Body](https://files.todoist.com/uvooPCTsfyWV6qlUDXFbEqQWB1a6J6xC_QnLtTWV30-xHOSQOJk2I4JGo-i9hofR/by/21878347/as/file.html)
-    - Notification-政治经济学原理（上、下）
-        - 政治经济学原理（上、下）https://book.douban.com/subject/4051470/
-12/6/2022 2:58:00 AM
-
-
-
-约翰·穆勒
-2009/8/1 [Email Body](https://files.todoist.com/ZBAhy1OCBCnlf7jxRBLqI3TzDrlbmdWcezs1_rG7Zycf30N9Tvjolh99S4y0watp/by/21878347/as/file.html)
+https://sspai.com/post/59468 [Email Body](https://files.todoist.com/6PBfUmYDPSDr6amCuYuvjH5TRd71qk1KxO7Ul5boGuW1x5FNX_sh73WucKp2dUti/by/21878347/as/file.html)
+- [[Inbox]]

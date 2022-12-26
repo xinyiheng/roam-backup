@@ -115,7 +115,7 @@ Stretches its soft and shady wings.
     - {{[[DONE]]}}电脑本地文件[[全文搜索]]#问题 @评论:spotlight就可以，不过，我真正想要搜索的内容都用devonthink来搜索了。
 - block
     - [[稍后阅读]]
-    - [[Checkvist]]可能也是一个比较好的整理[[稍后阅读]]信息的方式。
+    - 
 - #[[分列]]内容gr
     - 好的
     - 可以
