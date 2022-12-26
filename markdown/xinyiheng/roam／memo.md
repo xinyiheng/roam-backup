@@ -35,6 +35,12 @@
             - repetitions:: 1
             - grade:: 5
     - 南锣鼓巷从外形看好似一条蜈蚣，据说以前在南锣鼓巷的最北处有两眼古井，恰好成了蜈蚣的两只眼睛，故称“蜈蚣街”“蜈蚣巷”。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[January 1st, 2023]]
+            - eFactor:: 2.7
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 5
         - [[December 25th, 2022]] 🟢
             - nextDueDate:: [[December 26th, 2022]]
             - eFactor:: 2.6
@@ -42,6 +48,12 @@
             - repetitions:: 1
             - grade:: 5
     - 并非是过去决定“现在”，而是你的“现在”决定着过去。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[January 1st, 2023]]
+            - eFactor:: 2.7
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 5
         - [[December 25th, 2022]] 🟢
             - nextDueDate:: [[December 26th, 2022]]
             - eFactor:: 2.6
@@ -49,6 +61,12 @@
             - repetitions:: 1
             - grade:: 5
     - 公司存在是因为公司比个人更能赚钱。个人直接或者间接地把他们的储蓄投资于能够制造利润的商业中，作为回报，他们希望获得利息或股息。在这种知识框架内的经济学家不能预见的情况是，尽管是零利率，公司不仅停止借贷，实际上开始偿还现有债务。这就是为什么这种情况没有出现在任何商业类书籍或经济学课本中。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[January 1st, 2023]]
+            - eFactor:: 2.6
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 5
         - [[December 25th, 2022]] 🔵
             - nextDueDate:: [[December 26th, 2022]]
             - eFactor:: 2.5
@@ -57,6 +75,12 @@
             - grade:: 4
     - 鲜明特征，也是强调他们与其余阶级相区分的条件。在《有闲阶级论》一书中，凡勃伦指出在强调阶级划分时“炫耀性消费”与“炫耀性休闲”的用处。他写道：“不用工作是财富的直接证据，因而是社会地位的传统象征；这种对财富崇拜的经久不衰造就了对休闲活动愈发执着的追求。
 所以休闲本身不是最终目的。与休闲活动相联系的特定技能也可以作为向上层社会流动的方式。对女儿来说，成功主要由好的婚姻来衡量。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[January 1st, 2023]]
+            - eFactor:: 2.7
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 5
         - [[December 25th, 2022]] 🟢
             - nextDueDate:: [[December 26th, 2022]]
             - eFactor:: 2.6
