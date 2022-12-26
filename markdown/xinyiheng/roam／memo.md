@@ -1,5 +1,327 @@
 - ### data
+    - “代谢率随体重的约3/4次幂发生变化”。我将在后文中详细解释，但在这里，我想通俗、简单地解释下它的意思。大象的体重差不多是老鼠的10 000（104）倍。相应地，大象的细胞数也是老鼠的10 000倍。3/4次幂规模法则（3/4 powerscaling law）认为，尽管要为10 000倍的细胞提供支持，但大象的代谢率（即保持大象存活所需的能量）只是老鼠的1 000（103）倍。3∶4是指10的三次方和10的4次方的指数比例。这是伴随着体积的增大而取得规模经济的绝佳例子，这表明大象细胞的代谢率是老鼠细胞的1/10。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 所有的拖延过程都存在一个共同的模式：一项复杂的工作开始了，而时间很充裕，你沉溺于弹性时间制的怀抱中。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 为什么日本人都往东京涌，人口一直在增长，但是房价却下跌了呢？#[[memo]]
+其实问题的核心并不是人口，而是^^收入^^。来自日本统计省总务局的数据，1990年日本家庭的可支配收入是44万日元，这在当时达到了一个很多年以来都不曾企及的高峰。但是时间来到2005年，这个数据竟然原地踏步，还是44万日元的可支配收入。到了2012年，他们竟然开了历史的倒车，家庭可支配收入降到了42万日元
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 当你有了达成某个目标的行动直觉时，你就要5，4，3，2，1，动起来，不然，大脑就会绑住你的手脚。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 自立既不是经济方面的问题也不是就业方面的问题，而是对待人生的态度、生活方式的问题……今后你也一定会下定决心去爱某个人，那时候就能告别孩童时代的生活方式，实现真正的自立。因为，我们通过爱他人能渐渐成熟起来。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 为什么写作要取悦自己？太对了。我们必须抛弃“面向特定群体”“想要吸引读者”“想当写手、想出名”这样的错误想法，首先树立“只要觉得自己写的文章有趣，那就是幸福的”的意识。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 雷姆·库哈斯（Rem Koolhaas）可以说是21世纪建筑界最具影响力的建筑师，他和扎哈是前卫艺术家辈出的伦敦名校——建筑联盟学院（AASchool）的同学。以他们两人为中心，他们在1975年成立了OMA （Officefor MetropolitanArchitecture，大都会建筑事务所），不过扎哈很快就独立了出来，成立了自己的事务所。大都会建筑这一事务所名称来自雷姆和扎哈对经济危机之前的那种激进设计，也就是装饰艺术风格建筑的关心。雷姆于1978年出版了论述那个时代的建筑群的著作《癫狂的纽约》（日文版收录在筑摩学艺文库中），吸引了整个建筑界的关注。雷姆凭借这本书才真正出道。扎哈曾经在某次访谈中被问到：如果只能带一本书去岛上，会带哪本书？她的回答就是《癫狂的纽约》。从这件轶事可以看出两人的关系有多么密切，纽约的建筑对两人具有多么重大的意义。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 有很多人，当他们做一份工作时，感到不爽，如同玩牌时抓了一手烂牌，他们就会想：这局不玩了，再抓一把牌重新开始吧。他们似乎没想过，再抓一把牌，有可能对家不干，也有可能新的牌更烂，换句话说，如果盲目地辞职、换工作、转行，就有可能吃闭门羹——别的公司不要你，也有可能越换越差。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 感觉麻烦”的心理是要先于这些产生的，也就是说，大部分人在变得抑郁之前，是先有“感觉麻烦”的想法。他们为了逃避麻烦的事情，结果却使事态变得更糟，最后被逼得走投无路，才表现出接近“抑郁”的状态。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 怎样号召大家一起改进问题？ #[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 我很羡慕家里有多余房间的同事。书房优雅宜人，书架上整整齐齐地摆着书，房子里有一个大书桌，书桌上有台灯，旁边是舒服的椅子，窗外是美丽的风景——简直跟我梦想中的一样。但是，我渐渐意识到，不管装修得多漂亮，这些写作室很少真正用起来，与我的写作室没什么两样。#[[memo]] 
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 不要光想着写作，还要想着运营。如果准备做个人品牌，拼命写是不够的，还得理解多平台卡位的思维。在今天一个人要做个人品牌，首先就要建立全局思维。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 恩格斯曾形象地说，这个时期的重商主义，“就像守财奴一样，双手抱住他心爱的钱袋，用妒忌猜疑的眼光打量着自己的邻居。”说得真是惟妙惟肖。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 分散专注力的事物包括两大类：感觉干扰和情绪干扰。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 加州大学伯克利分校的黛安娜·鲍姆林德（Diana Baumrind）对发展心理学中的教养方式理论作出了开创性贡献。鲍姆林德识别了三种主要的教养方式：专断型（authoritarian）、放任型（permissive）和权威型（authoritative）。我们接下来将简要介绍这三种教养方式。
+#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 杭州后来能变得这样美丽，完全是靠人力创造 #[[memo]]
+七世纪初隋炀帝开凿大运河，通达杭州，使杭州一下子成了一个重要城市。由于居民增多，这个城市的用水必须取用西湖的淡水，便在八世纪挖通了连接西湖水源的“六井”，使杭州这座城市与西湖更加相依为命。
+九世纪二十年代，大诗人白居易任杭州刺史。但他不是来写诗，而是来做事的。他遇到的问题是，西湖边上有很多农田等待西湖灌溉，而西湖中间已出现大片苇草地，蓄水量已经大为减少。于是，他认真地研究了“蓄”和“泄”之间的关系，先是挖深湖底，修筑一道高于原来湖面的堤坝，大大增加西湖的蓄水量。然后，再根据灌溉的需要定量泄水。此外，他还把民用的“六井”疏浚了一下。
+白居易在这里展现的，完全是一个水利学家和城建专家的风姿。
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 动起来学数学，这确实是我以前没有想到过的。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 这就是所谓的钝感力？肉毒杆菌阻碍了无论从表面还是内心人们对他们所阅读到的消极情境的体验。
+#[[memo]]
+肉毒杆菌的作用并不是一种安慰剂效应。
+一个最近在德国和瑞士进行的研究进一步证实了肉毒杆菌在缓解抑郁症状方面的能力。研究人员从当地心理诊所招募了患有重度抑郁症的男性和女性，在16周的时间内，他们在这些患者的脸部（眉间和额头）进行了一系列的注射。志愿者们知道他们可能会被注射肉毒杆菌或安慰剂，但是并不知道自己得到的是哪一种。这个研究的权威性在于这是一次双盲测试，也就是说不管是负责注射的医生还是患者自己，都不知道他们得到的是肉毒杆菌还是生理盐水。装有肉毒杆菌和安慰剂的注射器无法区分。实验结果是令人震惊的。在第一次治疗后6周，那些接受肉毒杆菌注射的人的抑郁症状（如悲伤、绝望、负罪感）的程度平均减少了47%，而且在整个实验过程中，这种积极的效果一直持续。而那组接受安慰剂注射的患者并没有表现出同样显著的改善，他们的抑郁程度在整个研究的过程中都保持平稳
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 这样来看，像前文中提到的会计做3年，销售做3年，人事做3年……只是慢慢地在不同领域积累经验，这就是所谓的“多面手”在人才市场上不被认可的理由。如果是会计职位，比起采用积累多年毫无相关业务经验的人，做过9年会计的人更受青睐，这应该很容易想象得到吧。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 公元前1045年。因此人们估算北京如今（2019年）已经3064岁，就是这么来的。燕，就是北京作为城市最早的名字，在当时应该属于侯国。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 伟人存在的意义并不是他们说了什么，而是我们如何让他们说的契合今天我们想说的。实用主义始终是现代人的灵魂。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 明清时，自运河漕运来的粮食抵达通州后，多“舍舟遵陆”，改用车辆，运进朝阳门内的粮仓，原来荒凉的小路逐渐热闹了起来。因车马长年累月的“轮蹄络织”，这条路变得破旧不堪。每逢雨雪，路上“积涔成洼，经潦作泞”。为方便通州到京师运粮及行走之需，清雍正七年（1729年），皇帝诏令修建朝阳门外石路。由于工程浩大，众多工匠只能在路边住宿。石路沿线由此形成一些村庄，其中一村落距朝阳门十里，故名“十里堡”。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 转行的本质是要完成职场身份认同的转变。职业身份的重塑，意味着你要把 “你过去是什么人”和“你将成为什么人”联系起来。从审计员变为会计师，面临的可不仅仅是技能的变化，我们只有从心底理解和认可自己转换职业的意义所在，才能真正接纳和促成自己的转型。
+#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 我们可以用“博弈论”的见解思考费用分摊的问题。博弈论是一门研究人类集体行为的学问，由冯·诺依曼（John von Neumann）和摩根斯特恩（Oskar Morgenstern）于 1944 年出版的大作《博弈论和经济行为》（Theory of Games and Economic Behavior）奠定了基础。费用分摊是它的一种应用。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 为什么通常受低利率诱惑而贷款的私企反而会在利率跌至零或者接近于零时选择还款？它们的回答是，用贷来的钱购买的资产的价格在泡沫破裂后经历了灾难性地下降，严重地削弱了它们的资产负债表。
+#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 最大的花是一种名叫大花草的植物。奇怪的是此草无茎无叶，是一种寄生植物，常生长在热带雨林中一种属于葡萄科的藤本植物的根上，而且只开一朵花，花就像从葡萄藤上长出来的，紧贴着地面开放。有人用尺子量了一下，其花直径超过1米，最大的达到1.4米，重7公斤。这真是世界上最大的花了。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 其实，温度是有最低值的。人们早就发现了一个怪事，就是0摄氏度的气体，温度每降低一度，它的体积就会缩小1/273，如果这样推理的话，当温度下降到零下273摄氏度的时候，这些气体就会消失。当然，气体是不会凭空消失的，它们只是会凝固成固体，这个温度是理论上宇宙的最低温度，不能真正达到只能无限接近。科学家把这个温度叫做“绝对零度”。不过，虽说这个温度只能无限接近，到目前为止，人类在实验室里制造出来的最低温度，仅仅比绝对零度高一百亿分之一摄氏度。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - │从记知识点到记关键词 #[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 知识不只是抽象的，更是具体的，与特定场景紧密相连。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 黑客精神——系统化和实验性的个人主义理性态度 #[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 我一直这么做。从跟踪趋势到跟踪行业 #[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 如果把自己当作正式员工，你的陈述就会自动变为，咱们公司的业务……咱们公司的岗位……试想，作为面试官——HR，或者是你未来的上司，他是喜欢听到“贵公司”，还是更喜欢听到“咱们公司”？#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 少子化日趋严重的日本，自从2003年起，狗猫总数一直超过十五岁以下儿童的人口。以2014年为例，全国约有两千万只狗猫，相比之下，儿童人口只有一千六百万而已。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 房产税会推高房价吗？#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 一旦选择就释怀其实是很好的机制。结果再一次显示，一旦某个决定是不可挽回的，人们便会竭力让自己为所作出的选择感到高兴。由此可见，一旦人们感到已经无能为力，他们便会更加确信自己作出了明智的决定。
+#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 我们学习的大多数方法和技能，在日常工作中需要使用到的部分，往往只是最基本的核心内容和功能。这些核心内容和功能学习起来耗费的时间不多，反而是各种细节和特殊情况的处理会耗费你大量的时间和精力。
+#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 所谓的整理就是对过去的整理。 #[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 真正把杭州当作永恒的家，以天然大当家的身份把这座城市系统整治了的，是十世纪的吴越王钱镠。这是一个应该记住的名字，因为他是中国历史上少有的城市建筑大师。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 这倒是一个有趣的小偏方。#[[memo]]
+手指直觉能够在我们闭着眼睛时告诉我们别人碰了哪根手指，在5岁的时候，这是一种能够预测几年之后在上小学时的数学表现的指标。这种指标在预测数学成就方面甚至比一般的智商测试还要准。
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 每一个大脑半球有4个叶：额叶、顶骨叶、颞叶和枕叶。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 唐代诗人白居易的《采地黄者》一诗，道出了那时人民生活之苦境。诗曰：“麦死春不雨，禾损秋早霜。岁晏无口食，田中采地黄。采之将何用？持以易糇粮。凌晨荷锄去，薄暮不盈筐。携来朱门家，卖与白面郎。‘与君啖老马，可使照地光。愿易马残粟，救此苦饥肠。’#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 很多事都是这样，不是技术，而是态度，态度则来自愿望。做书重要的不是技术，唯一关键的只有“想要做一本书的强烈念头”。
+#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
+    - 知识和信息的沉淀有两种基本状态：① 知识仓库，就像一个粮仓一样，在一个防水防潮的地方妥善保存着；② 知识体系，不像知识仓库储存“粮食”，而是将这些“粮食”变着花样给吃了，转化成自己所需要的能量和营养。
+因此，没有知识仓库不行，没有知识仓库就没地方存储粮食，知识体系也就构建不出来；光有知识仓库也不行，如果不会将粮食加工成食物，哪怕粮食堆成山，也会被活活饿死。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[December 27th, 2022]]
+            - eFactor:: 2.6
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
     - 家长的选择也能够帮助学校树立竞争原则。教育券项目如果能够得到恰当的实施，学生就能够用脚投票，从而避免较差的学校阻碍有天分的贫困学生的发展。特许学校制度也能够起到一定作用。这些准公立学校比公立学校受到的监管约束更少，拥有更大的自由，同时也承担更大的责任。它们得到的经费拨款与其吸引到的学生数量成正比。证据表明这样的学校能够得到大幅的改进，特别是相对于那些几乎没有破产风险的公立学校来说。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[January 1st, 2023]]
+            - eFactor:: 2.7
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 5
         - [[December 25th, 2022]] 🟢
             - nextDueDate:: [[December 26th, 2022]]
             - eFactor:: 2.6
@@ -7,6 +329,12 @@
             - repetitions:: 1
             - grade:: 5
     - 文案销售产品有且只有4步：#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[January 1st, 2023]]
+            - eFactor:: 2.7
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 5
         - [[December 25th, 2022]] 🟢
             - nextDueDate:: [[December 26th, 2022]]
             - eFactor:: 2.6
@@ -14,6 +342,12 @@
             - repetitions:: 1
             - grade:: 5
     - 如意门是四合院中最常见、最普遍的一种屋宇式大门。如意门与蛮子门一样，大的占据一间房的面积，小的只有半间屋的宽度；大门前没有门洞，大门后有一间完整的门洞。如意门供人出入的门扉较小，如意门的门扉安装在前檐柱两柱之间，但如意门门框左右没有带束腰形式的门板，而是以砖墙代替#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[January 1st, 2023]]
+            - eFactor:: 2.7
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 5
         - [[December 25th, 2022]] 🟢
             - nextDueDate:: [[December 26th, 2022]]
             - eFactor:: 2.6
@@ -21,6 +355,12 @@
             - repetitions:: 1
             - grade:: 5
     - 最高等级的殿堂——比如紫禁城的三大殿——的脊兽达11个之多，从前到后是：仙人骑鸡、龙、凤、狮、天马、海马、狻猊、押鱼（海中异兽）、獬豸、斗牛、行什（猴面人像带翅动物）。这些是垂脊上的兽，正脊上的叫吻兽。”“太和殿的大吻由13块琉璃件构成，总高3.4米，重4.3吨。”真叹为观止。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[January 1st, 2023]]
+            - eFactor:: 2.7
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 5
         - [[December 25th, 2022]] 🟢
             - nextDueDate:: [[December 26th, 2022]]
             - eFactor:: 2.6
@@ -28,6 +368,12 @@
             - repetitions:: 1
             - grade:: 5
     - 罗斯大胆地提出了需要将疫情背后的过程定量化的想法，他在1911年写道：“流行病学实际上是一门数学学科，如果能将更多的精力投入到流行病的数学研究中去，我们会少犯很多幼稚的错误，对疟疾的研究便是如此。#[[memo]]
+        - [[December 26th, 2022]] 🟢
+            - nextDueDate:: [[January 1st, 2023]]
+            - eFactor:: 2.7
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 5
         - [[December 25th, 2022]] 🟢
             - nextDueDate:: [[December 26th, 2022]]
             - eFactor:: 2.6
