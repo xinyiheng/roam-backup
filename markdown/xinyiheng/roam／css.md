@@ -2,10 +2,17 @@
 
 /* 修改reference部分的背景颜色 */
 .rm-reference-item {
-    
     background-color: rgba(255,255,255,0)
 }
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue){
+  margin:10px 20px 10px 10px;
+}
 
+
+.rm-mentions .rm-ref-page-view .rm-title-arrow-wrapper {border-style:outset;    
+border-width:2px;
+Background-color:#FFC10754;
+                                                       }
 div
 {
   color: #021823;
@@ -27,9 +34,10 @@ span[data-link-title$="2022"] .rm-page-ref-link-color::before{
 }
 /* card-list-mode 卡片之间设置空隙 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
-    background-color: #72DE7721;
+    background-color: #F2E9E96D;
     border-radius:10px;
-    margin: 10px 200px 10px 0;
+  box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0!important;
+    margin: 10px 20px 10px 20px;
     padding: 10px 0 10px 0;
 }
 
@@ -53,7 +61,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     border: 1px solid #bfccd6;
    align-items: center;
     border-bottom: none;
-    background: #f2f4f8;
+    background: #F2F4F800;
     position: relative;
     top: 50px;
     overflow-x: scroll;
@@ -90,7 +98,7 @@ div {
 }
 /*修改鼠标选中某个block时候的背景色
 .roam-block-container:hover {
-  background-color: #ECF4F4;
+  background-color: #37E9E9A5;
 }*/
 /*修改url链接的文字颜色*/
 a {
@@ -107,7 +115,8 @@ a {
 /*修改最顶端栏目的背景*/
 .rm-topbar {
   background-size:100%;
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fnpp-ngHHQl.jpg?alt=media&token=f6ea3f2c-2c6f-4288-8371-627d9d99bc68
+  
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9d28jUaTRF.jpg?alt=media&token=d238cc32-e9a5-4263-a24e-e1b5d1e9f178
     );
 }
 /*修改unlinked references字体颜色*/
@@ -125,9 +134,9 @@ strong {
 }
 /*修改大卡片的样式*/
 .card-mode .rm-block__children.rm-level-0>.roam-block-container, .card-mode [style="margin-left: -20px;"]>.roam-block-container, .presentation-card-mode .rm-block__children.rm-level-0>.roam-block-container, .presentation-card-mode [style="margin-left: -20px;"]>.roam-block-container {
-    box-shadow: 8px 8px 16px 0 rgb(0 0 0 / 6%);
+    box-shadow: 8px 8px 16px 0 rgb(0 0 0 / 22%), -8px -8px 16px 0 rgb(16 22 26 / 0%)!important;
     border-radius: 8px;
-    background: #f2f4f8;
+     background-color;white
     padding: 10px 16px 10px 0;
     margin: 16px;
     min-height: 200px;
@@ -144,18 +153,18 @@ textarea {
 }
 /*修改选中后的文字颜色*/
 ::selection {
-    background: #357DF493;
+    background: #4C52EE82;
 }
 ::hover {
-    background: #DC676777;
+    background: #A94B4B77;
 }
 /*修改左侧边栏文字颜色*/
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
     text-decoration: none;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 14px;
     padding: 4px 0px 4px 4px;
-    color: #B72ED2;
+    color: #111418;
 }
 
 /*设置笔记主题的背景色和背景图片*/
@@ -163,7 +172,8 @@ textarea {
 
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
      background-size:100% 100%;
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fnpp-ngHHQl.jpg?alt=media&token=f6ea3f2c-2c6f-4288-8371-627d9d99bc68
+     
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9d28jUaTRF.jpg?alt=media&token=d238cc32-e9a5-4263-a24e-e1b5d1e9f178
   );
    
 }
@@ -190,12 +200,12 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     width: 370px;
     height: 200px;
     margin: 20px;
-    box-shadow: 8px 8px 16px 0 #CE3D3D(29 0 0 / 76%);
+    box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0!important;
     border-radius: 8px;
-    background: hsl(132,29%,97%);
     background-size: 100% 100%;
     background-position: 0px 2px;
-    background-image: url("");
+    background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9d28jUaTRF.jpg?alt=media&token=d238cc32-e9a5-4263-a24e-e1b5d1e9f178
+  )!important;
     padding: 20px 16px 16px 0;
 }
 

@@ -1,0 +1,52 @@
+- 
+- [Luc P. Beaudoin](https://www.amazon.cn/s/ref=as_li_ss_tl?_encoding=UTF8&camp=536&creative=3132&field-keywords=Cognitive%20Productivity%20with%20macOS%C2%AE&linkCode=ur2&tag=llll1-23&url=search-alias%3Dbooks)
+- 30 条标注，15 条笔记
+- ## Table of Contents
+    - Note-taking in the app of your choice with Hook
+    - Instilling Concepts: Concept Template
+- ## Introduction
+    - This entire book can be read as a modernization of the mental aspect of the late Steven Covey’s seventh habit of highly effective people. (If you haven’t read Seven Habits of Highly Effective People yet, start by reading the
+    - This entire book can be read as a modernization of the mental aspect of the late Steven Covey’s seventh habit of highly effective people. (If you haven’t read Seven Habits of Highly Effective People yet, start by reading the
+        - 高效能人士的七个习惯现代版
+    - regularly read and learn.
+    - regularly read and learn.
+        - 很简单但很难做到
+    - Mortimer Adler’s How to Read a Book remains one of the most popular and helpful books to teach adults how to read better. However, that book was published in the early 1970s. It doesn’t deal with information technology nor the world wide web.
+    - Mortimer Adler’s How to Read a Book remains one of the most popular and helpful books to teach adults how to read better. However, that book was published in the early 1970s. It doesn’t deal with information technology nor the world wide web.
+        - 现代版的如何阅读一本书
+    - The current book is unique in that it is the first extensive screencast-rich book to help knowledge workers use macOS and knowledge resources to become smarter
+    - The current book is unique in that it is the first extensive screencast-rich book to help knowledge workers use macOS and knowledge resources to become smarter
+        - 使用了大量截图
+- ## Principle 1: Lead Yourself with Knowledge
+    - This requires executing your responsibility to use knowledge to solve problems effectively, to build great products, and to improve yourself.
+    - This requires executing your responsibility to use knowledge to solve problems effectively, to build great products, and to improve yourself.
+        - 知识是为了解决某种问题。
+    - Habit 2: Align your activities, indeed your whole life, in the direction in which you want to head. In the context of this book, this habit implies directing your information processing choices in relation to your values.
+        - 将自己每天做的事和某种有意义的事情联系起来，我主要在滴答清单做这件事，每件事都可以划入工作，家庭等清单
+    - Habit 3: Prioritize your information processing time. With today’s information technology, it is far too easy to be interrupt-driven.
+    - Habit 3: Prioritize your information processing time. With today’s information technology, it is far too easy to be interrupt-driven.
+        - 专注对自己最有意义的信息处理
+    - You Are an Information Process
+    - You Are an Information Process
+        - 我也独自做过同样的比喻。
+    - knowledge work is not merely, or even primarily, about ‘getting things done.’ It’s largely about using knowledge to create products, solve problems, and transform ourselves.
+    - knowledge work is not merely, or even primarily, about ‘getting things done.’ It’s largely about using knowledge to create products, solve problems, and transform ourselves.
+        - 重要的是用知识来做出改变。
+    - [插图]
+        - 全书逻辑
+- ## Principle 4: Surf Strategically
+    - Consider what Hans Selye, Hungarian Canadian author of 1,700 research papers, 15 monographs, and 7 popular books, wrote:I use my reading largely as a scaffolding for meditation on research and the planning of experiments. It is very difficult to sit down and tell yourself, “Now think about an interesting experiment,” but ideas come automatically as you mix someone else’s thoughts with your own by reading his text at leisure. Hans Selye (1964, p. 331 of From Dream to Discovery)
+    - Consider what Hans Selye, Hungarian Canadian author of 1,700 research papers, 15 monographs, and 7 popular books, wrote: I use my reading largely as a scaffolding for meditation on research and the planning of experiments. It is very difficult to sit down and tell yourself, “Now think about an interesting experiment,” but ideas come automatically as you mix someone else’s thoughts with your own by reading his text at leisure. Hans Selye (1964, p. 331 of From Dream to Discovery)
+        - 从别人的思想中自发映射出自己的想法
+    - While surfing, one must strike a balance between being goal-directed and being open to serendipity.
+    - While surfing, one must strike a balance between being goal-directed and being open to serendipity.
+        - 和我想的差不多，都是取长补短的做法。
+    - Working with masses of information
+    - Working with masses of information
+        - 这个说法好
+    - converting web pages to PDF.
+    - converting web pages to PDF.
+        - 作者为什么这么喜欢用pdf?
+    - With apologies to enthusiasts of the “Getting Things Done” movement, the conditions, purposes, constraints and tools of productivity are too diverse for specific workflows.
+        - 为什么分享自己的工作流只是一个供别人参考的想法而已？
+    - Consider adding the book to one of your reading lists (e.g., using
