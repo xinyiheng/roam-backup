@@ -1,0 +1,36 @@
+- #[[意识流笔记]]
+    - 早上七点多一点起床，开始整理自己的阅读流程。
+    - 记录下自己想要改进的任务。
+    - 阅读了滴答清单中阅读清单中的两篇文章。做了一些标记。
+    - 发现roam research和obsidian的同步有点问题。
+    - 从滴答清单中的读书计划中找到一本书读了一会，《深度学习》
+    - 还是想要解决用github 同步roam research的问题。查了一圈也没弄明白怎么回事。好像是最近roam中的内容变动太多，同步的时候出现了错误。我干脆把本地github仓库删除了，然后重新从github下载仓库。好像问题就解决了。
+- Imported Quick Capture items:
+    - 构建高质量的信息输入渠道 · 构建我的被动收入
+        - Annotations:
+        - ## 什么是信息输入
+        - 我对信息输入的理解是人对某个外界事件的反应行动，这定义包含三个要素：人、外界事件、反应行动。外界事件可以是一个客观物体的存在事件，也可以是对某个事物与人的评价或一个抽象的概念。总之人接触到这些事件后会产生一些反应行动。这些行动可能是经过大脑思考的交流，可能是一个收藏行为，也可能是一个待办任务的制定，但重要的是一定要有反应行动。如果某个外界事件对人毫无反应行动的产生，那就不能算是信息输入。
+        - 什么是信息输入？没有反应就不算是信息输入。
+        - 另外写作是破圈的利器，写作也是高质量的社交方式，作者很容易通过一篇文章破圈。 
+        - 写作还有这一种功能。
+        - 信息质量反馈机制
+        - 如何获得信息反馈？注意全面获取，区分事实与观点正视偏见信息输出与交流。
+        - https://www.bmpi.dev/self/my-info-input-channel/ [Email Body](https://files.todoist.com/2ZdHi8wXiTQO73y5UnFtQ5qkKzu-h1XSNVMdj_ST2soKIPj84O6igzGf2Flkliud/by/21878347/as/file.html)
+    - 2022-12-27T01:53:00.000Z
+        - ['#得到/电子书/深度学习：智能时代的核心驱动力量 。美国已经为“BRAIN计划”（英文全称为Brai']https://www.notion.so/BRAIN-Brai-0c29424b1f484b43b7f179045e260610 [Email Body](https://files.todoist.com/gj1YwQpOvjYaCaC8MSK7L7031gSEGuOEMUBNQBr5NMqhfnGsSSSjZbjNDkdXRVn5/by/21878347/as/file.txt)
+    - 2022-12-27T01:51:00.000Z
+        - ['#得到/电子书/深度学习：智能时代的核心驱动力量 本书讲述了20世纪80年代一小群研究人员的故事，他']https://www.notion.so/20-80-718be0faa0cb490c826e00b619a4a4bd [Email Body](https://files.todoist.com/Y7fRWrWIKOcY-eyV8r373Q9CuTAAGd0dUIx7CBq6iLWWEEjJnq_WWPXoETFRZs4C/by/21878347/as/file.txt)
+    - 2022-12-27T01:52:00.000Z
+        - ['#得到/电子书/深度学习：智能时代的核心驱动力量 大自然有数亿年的时间通过进化找到解决方案，对这些解']https://www.notion.so/a943f44f0557456cb5863e9046245f60 [Email Body](https://files.todoist.com/s7VvoG5uQxlT3DkuM_SU_f2gaM7A8Te2VNkJsxan5w6-LN8Vanlrb--7yiuPccf4/by/21878347/as/file.txt)
+    - 2022-12-27T01:49:00.000Z
+        - ['#得到/电子书/深度学习：智能时代的核心驱动力量 • 选择权的困扰： 一辆无人驾驶汽车行驶在道路上，']https://www.notion.so/51d644a12899414382e4ec82f716f8c0 [Email Body](https://files.todoist.com/Mra1iMsnnBwETKrk8LW5X9HmmfOe4eBCGtlNt8KgAI6YTQEqcrDU-aEnH3Eu2Kj6/by/21878347/as/file.txt)
+    - 2022-12-27T01:55:00.000Z
+        - ['#得到/电子书/深度学习：智能时代的核心驱动力量 这本书讲了一个一小群研究人员挑战AI研究建制派的故']https://www.notion.so/AI-e4f559dbb3af4ee98142af94a9e0e35a [Email Body](https://files.todoist.com/Qc7izCg8FkJPfhTruEv8wqip0YjCBUbvwK8LhZuDmJJz9NBJiN7wXhbYBNH32nWW/by/21878347/as/file.txt)
+    - 2022-12-27T01:50:00.000Z
+        - ['#得到/电子书/深度学习：智能时代的核心驱动力量 深度学习是数据密集型的，通过实例来学习如何解决难题']https://www.notion.so/3e75e35e941c48049866df98c5f66b9d [Email Body](https://files.todoist.com/fhsdtbNwogMzBmReLi2o1_sApJ7OsNwn31okXTFWPDOUIu86VPwCLWhePNXoHGyh/by/21878347/as/file.txt)
+    - 2022-12-27T01:46:00.000Z
+        - ['#得到/电子书/深度学习：智能时代的核心驱动力量 现在看起来好像已经不震撼了。  微软首席研究官里克']https://www.notion.so/194b0a1cef4a470796611f8236e9f1b7 [Email Body](https://files.todoist.com/zwMPY3uq67XK4bL6Ds6bWWeeuxyES12RJd9tE1XuS26TVE3tB1Wre7cX41ND6AWh/by/21878347/as/file.txt)
+    - 2022-12-27T01:59:00.000Z
+        - ['#得到/电子书/深度学习：智能时代的核心驱动力量 本书的第一部分提供了深度学习的动机和理解其起源所需']https://www.notion.so/32f385489c4b4ec0ae0ffd13a942a14c [Email Body](https://files.todoist.com/_bxuXorg4th3g_GcPdlrOTjtkdcpMe7lplcXpKAspHBzTxJ1z-lr6taMbBFii8gf/by/21878347/as/file.txt)
+    - 2022-12-27T02:13:00.000Z
+        - ['#得到/电子书/深度学习：智能时代的核心驱动力量 治·布尔的《思维规律的研究》以研究思维的基础——逻']https://www.notion.so/c4416f2f7abe49c6a2c65017373244ed [Email Body](https://files.todoist.com/yXxfsxyl9aE-D7yydYcIpJe-a6wG6Iagf5QzwxFFOqLD-fLsGwRVfKAx5h4yNXji/by/21878347/as/file.txt)
