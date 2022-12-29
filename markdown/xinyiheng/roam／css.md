@@ -237,8 +237,21 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
   )!important;
     padding: 20px 16px 16px 0;
 }
-
-```
+/*
+.flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self.rm-focused.block-view,
+.flow-mode .roam-article>div:first- .rm-block-main.rm-block__self.rm-not-focused.block-view:focus-within {
+    width:12.7cm;
+    height: 7.6cm;
+    margin: 20px;
+    box-shadow:8px 28px 16px 0 #BF1717(16 22 26 / 50%), -8px -28px 16px 0 #E112120!important;
+    border-radius: 0px;
+    background-size: 100% 100%;
+    background-position: 0px 2px;
+    background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9d28jUaTRF.jpg?alt=media&token=d238cc32-e9a5-4263-a24e-e1b5d1e9f178
+  )!important;
+    padding: 20px 16px 16px 0;
+}
+*/```
 - 分列效果
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPcxSe5o-k.png?alt=media&token=d3ab6a1d-503a-4633-ad8e-c8a5f09f5d06)
     - ```css

@@ -1,5 +1,5 @@
 - #[[意识流笔记]]
-    - 今天六点半就醒了，躺了一会，起来开始整理思路。把今天要做的事情列个清单。
+    - 
     - roam memo加入的内容太多的话确实会roam变得很卡顿。如果每天复习的内容超过100个，那么daily note打开速度明显就会变慢。虽然很舍不得，但我还是把它删除了。间隔复习还是要做，看看怎么实现吧。先开始做起来再改进。这个插件还可以使用，但要注意每天添加的内容不能太多。#[[memo]] 
     - 发现显示当前bullit path的功能又正常了。
     - 只要打开笔记软件，总是想到要修改调整的地方，确实有些本末倒置。
@@ -56,15 +56,22 @@
         - 快速创建任务便签
         - 快速把一个任务变成另一个任务的子任务
             - 方法1：利用快速把任务变成便签和快速复制任务链接两个快捷方式组合，先把主任务设置成便签并固定，然后复制子任务链接到主任务中。
-            - 方法2：在同一清单内，如果采用列表视图，那么就可以通过拖拽来把一个任务放到另一任务下面;如果采用的是看板视图，那么最好把主任务和子任务放到同一个colume，这样就可以直接拖拽，如果不在同一个colume中，那么就要先拖到一个colume再进行二次拖拽，比较麻烦。我主要是希望用滴答清单来跟踪工作中的任务，可以把一些近期频繁添加子任务的主任务放到工作计划的收件箱中，这样新增的子任务就可以和
+            - 方法2：在同一清单内，如果采用列表视图，那么就可以通过拖拽来把一个任务放到另一任务下面;如果采用的是看板视图，那么最好把主任务和子任务放到同一个colume，这样就可以直接拖拽，如果不在同一个colume中，那么就要先拖到一个colume再进行二次拖拽，比较麻烦。我主要是希望用滴答清单来跟踪工作中的任务，可以把一些近期频繁添加子任务的主任务放到工作计划的收件箱中，这样新增的子任务就可以和主任务关联起来了。
         - 怎样快速向滴答清单指定清单添加任务
-            - ~清单名称+两个空格+任务名称，这样就可以直接在新建任务的时候就放到指定清单中。🗒@评论:后续还有继续完善的空间。
+            - ~清单名称+两个空格+任务名称，这样就可以直接在新建任务的时候就放到指定清单中。🗒@评论:已经完善了，我设置了keyboard maestro快捷方式，可以快速地向指定清单内添加任务。
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fa86Ky8lwZp.png?alt=media&token=9cc4a901-c854-46cd-80a7-29e45ee11aba)
         - 快速导出当日摘要
         - 快速使用番茄时间
         - 快速搜索滴答清单任务
         - 
-- 
+    - 优化roam research使用体验
+        - 卡片模式下让当前选中的卡片在样式上区别于别的卡片
+        - 优化切换视图的快捷键
+            - 优化在卡片模式下浏览卡片导航的使用体验
+                - zoom in
+                - zoom out
+                - 上一层级
+                - 下一层级
 - Imported Quick Capture items:
     - Spaced Repetition in Roam Research | David Bieber
         - Annotations:
@@ -79,9 +86,5 @@ https://davidbieber.com/snippets/2021-01-02-spaced-repetition-in-roam-
 research/ [Email Body](https://files.todoist.com/feKgkhjqgNLTo3pzXpMZ89FuaebWlYzgcrAVNFARG6GZj1UXRXpVD2RFH67NMLk9/by/21878347/as/file.html)
     - How to Memorize Fast with Roam and Spaced Repetition - YouTube
         - Annotations:
-
 * Hey Shu, great video! What are your thoughts on the spaced repetition feature from the Roam Toolkit (Chrome extension) versus roam/sr?
-
-
-
 https://www.youtube.com/watch?v=vcYvFZTodbI [Email Body](https://files.todoist.com/PcpiCQ0EkuqZaizsYKBT-DA21NNeqEEbSTMHwsxdUuhCKm44LTafmxOYDVXyuuJr/by/21878347/as/file.html)
