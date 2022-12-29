@@ -8,7 +8,7 @@
     - [Sönke Ahrens - Google 搜索](https://www.google.com/search?q=S%C3%B6nke%20Ahrens）
 - anki
     - 解决难题
-        - 重新学习[[anki]]的使用方法#[[anki记忆]]
+        - 重新学习[[Anki]]的使用方法#[[anki记忆]] 
             - 更改卡片的样式
                 - anki应用的就是html和css，我学习了相关的课程以后虽然还不算太明白，但是这类内容已经不影响我使用了，我还可以按照自己的喜好进行简易的格式修改。
             - 如何把roam research笔记转化成anki卡片？

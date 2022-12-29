@@ -223,7 +223,7 @@ via[如何交互可视化 Roam Research 局部笔记网络？ - 少数派](https
     - 在群里问，有人告诉我方法了。非常好。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FPdXPY9obGs.png?alt=media&token=bbe91f32-d2aa-4fe3-bb28-09ee17f80368)
 - [[间隔记忆]]
-    - roam research的内容转换成为[[anki]]？
+    - roam research的内容转换成为[[Anki]]？
         - 学习骇客制作了一个工具，可以把按照一定格式组织起来的roam research内容批量生成卡片。我使用过，但是它制作的是问题-答案这种形式的卡片。我最近喜欢制作close形式的卡片，觉得更适合我。
     - 目前roam research的插件也可以使用了，具体可以参考以下网页
         - https://roamstack.com/kb/extensions/roam-sr/#installing-roam-sr

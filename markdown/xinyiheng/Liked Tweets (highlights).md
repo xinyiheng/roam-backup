@@ -535,3 +535,41 @@ https://t.co/OjSuRjG14X
 Such as this cute cycling self-balanced #robot. Invented a few years ago by robot hobbyist Dr Guero, it can even keep put its tiny foot down when stopped!
 
 #innovation #artificialintelligence https://t.co/zkecMzREzW ([View Tweet](https://twitter.com/pascal_bornet/status/1605825515482488832))
+- ### New highlights added [[December 28th, 2022]] at 9:12 PM
+    - @Artifexx: Overwhelmed with 100s of papers for your research and literature review, #AcademicTwitter ? 
+
+Here is my solution: A Visual Reference Manager made with @obsdmd brand new canvas feature.
+
+Your 🧠 is not a database - it's a network. #Academicchatter 
+
+Follow the 🧵 to learn how. https://t.co/utld9IdDwr ([View Tweet](https://twitter.com/Artifexx/status/1607728321663475713))
+    - @HiTw93: #工程师学习  看到一个通过可视化的方式来学习统计学的网站「看见统计」，包含概率论、概率分布、统计推断、回归分析等内容。整体很是生动形象，可以很好的补充遗漏知识点，对于工作中常见分析思路有不少帮助作用。
+🤖 https://t.co/LadJ8Y0yfB 
+
+![](https://pbs.twimg.com/media/Fk-W9MzakAAYW-8.jpg) 
+
+![](https://pbs.twimg.com/media/Fk-W9MwaYAAPrWi.jpg) 
+
+![](https://pbs.twimg.com/media/Fk-W9MzacAIpAYU.jpg) 
+
+![](https://pbs.twimg.com/media/Fk-W9MvaMAESzUZ.jpg) ([View Tweet](https://twitter.com/HiTw93/status/1607890069121077258))
+- ### New highlights added [[December 28th, 2022]] at 9:32 PM
+    - @oran_ge: 看了推油 @wshuyi 做的关于 Obsidian 新的白板功能的视频介绍，看完发现这个白板的完成度太高了，不仅能放各种笔记图片视频，连箭头都支持改颜色加文字，还有shift2的缩放快捷键极其顺手。再看看 @Apple 做的无边记，连箭头连接都没做好。差距太大了。
+https://t.co/KRxfiVRnRk ([View Tweet](https://twitter.com/oran_ge/status/1607383677667016705))
+    - @xyz98: 母语非英语者如何快速写一篇满意的英文文章？可尝试用如下pipeline：
+1. 用母语写下梗概，用  #ChatGPT 扩充
+2. 用 #DeepL 译成英文
+3. 将英文用 #quillbot 润色加工
+4. 最后用 #grammerly 定稿 ([View Tweet](https://twitter.com/xyz98/status/1607731247987433473))
+    - @raunofreiberg: 2022 · https://t.co/lAFhOyjREo https://t.co/UScaHHZ8Ea ([View Tweet](https://twitter.com/raunofreiberg/status/1607733956123955201))
+    - @severo_dev: The best way to discover alternatives to a tool is https://t.co/DQRar4JU7p by @anvaka.
+
+Essential for me! Works a lot better than https://t.co/Iig2lT0ww7 and similar sites. 
+
+![](https://pbs.twimg.com/media/Fk_0UhVXoAEr5_1.jpg) ([View Tweet](https://twitter.com/severo_dev/status/1607772234667401216))
+    - @MarcBuchardt: @obsdmd's canvas feature awesome for Maps of Content! 
+
+![](https://pbs.twimg.com/media/FlAXpj1WAAQ1Y2I.jpg) ([View Tweet](https://twitter.com/MarcBuchardt/status/1607811352030060544))
+    - @Minja_Rin: 文章发布：《Keyboard Maestro x OCR，在多语言环境中轻松抓取文字》
+OCR 文字识别功能已不再新鲜，但鲜有游刃于多语言环境者。本文利用 #keyboard_maestro Palette 特性，轻松切换不同的 #OCR 语种，适应多语环境。
+免费阅读 👉 https://t.co/JszDfSDQ6e https://t.co/1mCah7fa26 ([View Tweet](https://twitter.com/Minja_Rin/status/1608063023440355329))

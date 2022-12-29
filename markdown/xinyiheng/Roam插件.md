@@ -124,11 +124,11 @@ document.getElementsByTagName("head")[0].appendChild(mms);```
 有一个类似的Workbench Format Converter，ctr+m换出，可以支持导出整个page。
     - Image Generator，也是右键plugins中选择，可以根据一段英语来自动生成一幅[[人工智能画画]]产生的图片
     - Toggle Text Uppercase/Lowercase，也是右键plugins中选择，可以把一行的英语全变成大写或者小写。但是不能只首字母大写。
-    - [[roam/comments]]，很早就安装了，但没有用过。今天才发现用法是按住cmd键，右侧会出现一个加号，点击加号就可以添加评论了。我以前总是在行内用特殊符号加评论，比如🗒@评论: 我就是这样评论的。
-    - [[roam/comments]]
+    - roam/comments，很早就安装了，但没有用过。今天才发现用法是按住cmd键，右侧会出现一个加号，点击加号就可以添加评论了。我以前总是在行内用特殊符号加评论，比如🗒@评论: 我就是这样评论的。
+    - [[roam/comments] 🗒@评论:
         - [[December 23rd, 2022]]
             - [[Anonymous]]
-                - [[roam/comments]]，很早就安装了，但没有用过。今天才发现用法是按住cmd键，右侧会出现一个加号，点击加号就可以添加评论了。我以前总是在行内用特殊符号加评论，比如🗒@评论: 我就是这样评论的。
+                - roam/comments，很早就安装了，但没有用过。今天才发现用法是按住cmd键，右侧会出现一个加号，点击加号就可以添加评论了。我以前总是在行内用特殊符号加评论，比如🗒@评论: 我就是这样评论的。
                     - 这是用这种插件方式的评论
     - Sticky Headings，开启后，roam page中的标题在向下滑动页面的时候会冻结在页面可视范围的上方。这样看内容的时候总是可以看到标题。
     - Table of Contents，用cmd+p打开控制面板，然后找到toc，就可以为当前页面生成一个目录。

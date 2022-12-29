@@ -8,11 +8,24 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
   margin:10px 20px 10px 10px;
 }
 
-
+/*修改referenc标题样式*/
 .rm-mentions .rm-ref-page-view .rm-title-arrow-wrapper {border-style:outset;    
 border-width:2px;
-Background-color:#FFC10754;
+Background-color:#FFC1072D;
                                                        }
+/*修改referenc卡片样式*/
+.flex-align-start {
+    align-items: flex-start;
+    background-color:#F2E9E96D; !important;
+    margin: 10px;
+    border-radius: 10px;
+     box-shadow: 8px 8px 16px 0 rgb(0 0 0 / 22%), -8px -8px 16px 0 rgb(16 22 26 / 0%)!important;
+}
+/*修改右侧边栏背景样式*/
+.sidebar-content {
+  background:#F99F8328
+}
+
 div
 {
   color: #021823;
@@ -26,7 +39,7 @@ span[data-link-title$="2022"] .rm-page-ref-link-color::before{
     min-width: 0px;
 }
 /* card-flow-mode 文字溢出卡片修复 */
- .roam-block-container .rm-block-main {
+ .flow-mode .roam-block-container .rm-block-main {
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
@@ -48,7 +61,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
   position: relative;   
   top:0;
 }
-*.roam-toolkit-spatial-mode{
+#.roam-toolkit-spatial-mode{
   position:static;
 } 
 /* card-list-mode 文字重合的问题*/ 
@@ -71,10 +84,8 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 }
 /*修改笔记主题的字体*/
 div {
-    font-family:简宋;
-
+    font-family:简宋!important;
 }
-
 
 :root {
     --main-left-bg: rgb(210,157,157);
@@ -96,11 +107,12 @@ div {
 .rm-bullet__inner {
   background-color:#095071;
 }
-/*修改鼠标选中某个block时候的背景色
-.roam-block-container:hover {
+/*修改鼠标选中某个block时候的背景色*/
+/*.roam-block-container:hover {
   background-color: #37E9E9A5;
 }*/
-/*修改url链接的文字颜色*/
+
+修改url链接的文字颜色*/
 a {
   color:#9708AEB5 !important;
 }
@@ -149,7 +161,7 @@ strong {
 }
 /*修改编辑中的文字字体*/
 textarea {
-    font-family: 简宋;
+   font-family:简宋!important;
 }
 /*修改选中后的文字颜色*/
 ::selection {
@@ -179,7 +191,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
-    background-color: #F1F6F87A;
+     background-color: #F2E9E96D;
 }
 
 #roam-right-sidebar-content {
@@ -195,20 +207,36 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     height: 99%;
     align-content: flex-start;
 }
+/* 笔记处于行选中状态时，卡片呈现的样式 */
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
+background-color:#EF1529A3;
+  border-radius: 10px;
+ margin: 10px 20px 10px 20px;
+  padding: 10px 0 10px 0;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+} 
+/* 笔记中包含光标时，卡片的样式*/
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
+  background-color: #F2E9E96D;
+ border-radius:10px;
+  box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0!important;
+    margin: 10px 20px 10px 20px;
+    padding: 10px 0 10px 0;
+}
 /*设置卡片模式下卡片的颜色和背景阴影的颜色，我花了很多时间才学会*/
 .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self {
-    width: 370px;
-    height: 200px;
+    width:12.7cm;
+    height: 7.6cm;
     margin: 20px;
     box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0!important;
-    border-radius: 8px;
+    border-radius: 0px;
     background-size: 100% 100%;
     background-position: 0px 2px;
     background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9d28jUaTRF.jpg?alt=media&token=d238cc32-e9a5-4263-a24e-e1b5d1e9f178
   )!important;
     padding: 20px 16px 16px 0;
 }
-
 
 ```
 - 分列效果

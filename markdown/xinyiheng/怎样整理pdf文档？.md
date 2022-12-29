@@ -15,7 +15,7 @@
     - 目前并没有通过阅读电子书积累大量的素材。
     - 以前尝试过把pdf电子书放到[[印象笔记]]中，这样可以通过全文搜索监测到书中的内容。当时我对这一发现感到非常高兴。我当时看中了在印象笔记中也可以使用wps打开pdf文档，很方便的做批注、查看目录、删除一些书籍内容等。但是实际在阅读过程中，并没有这么去做。
     - 用marginnote阅读pdf的一个缺点是，这些笔记就保留在了里面的思维导图中，难以和[[Roam Research]]里面的内容产生关联。
-        - 我有一个想法就是把marginnote里的标注导出为[[anki]]卡片，这样来记忆。
+        - 我有一个想法就是把marginnote里的标注导出为[[Anki]]卡片，这样来记忆。
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FF36TyP_Qe3.png?alt=media&token=80be7580-2359-42bd-a998-3d87c0e7c35c)
         - 还有一种办法就是直接把pdf放到roam researh中来标注，但这样一来会占用大量空间，二来使用的体验也并不好。
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FJ02zpumpJI.png?alt=media&token=43c3ab59-a284-4adb-ba51-ae2ef659541d)

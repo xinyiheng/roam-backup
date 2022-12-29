@@ -38,7 +38,7 @@ via[Super — From Notion to Website in minutes](https://super.so/)
         - 可以之间在各板块下新增任务，自由度接近流水账
         - 可以以卡片和列表的模式展现。在列表中给今天的任务评分，这样可以取代原来石墨文档的功能。
         - 简要记录一下周末的事情也挺好，因为可以在每件事情上都添加照片，当以卡片的形式显示这些记录的事情的时候非常美观。
-    - 学到了一个非常重要的用法，在database之间建立链接，就像是我之前发现可以在[[airtable]]中做到的那样。[relation&rollup](https://www.notion.so/Relations-rollups-fd56bfc6a3f0471a9f0cc3110ff19a79)，比如，我创建一个图书列表，输入书名、作者、主题之类的基础信息，再创建一个笔记列表，记录对于某本书的一些评论和书摘，这样就可以把两个列表联系起来。
+    - 学到了一个非常重要的用法，在database之间建立链接，就像是我之前发现可以在[[Airtable]]中做到的那样。[relation&rollup](https://www.notion.so/Relations-rollups-fd56bfc6a3f0471a9f0cc3110ff19a79)，比如，我创建一个图书列表，输入书名、作者、主题之类的基础信息，再创建一个笔记列表，记录对于某本书的一些评论和书摘，这样就可以把两个列表联系起来。
     - [[evergreen notes]]这款插件很不错，可以为notion提供类似[[Roam Research]]右侧边栏的视图，可以看出目前正在看的page有没有被提到过。搜索功能也而很好，建立连接比原装的搜索好很多。建立双向链接很方便
     - 插件notion+标记管理器。可以把在notion中高亮的内容整体集中显示出来，这非常适合在notion中快速把重点内容集中起来，也可以方便地把标记内容复制到其他工具中。
 - #[[软件联动]]
@@ -66,7 +66,7 @@ via[Super — From Notion to Website in minutes](https://super.so/)
     - [一个关于notion插件的网站](https://radreads.co/notion-integrations/)
     - Charts for Notion databasesVia[Chart Nerd](https://chart-nerd.now.sh/) 上午12:02
 - 类似软件
-    - [[airtable]]
+    - [[Airtable]]
     - [[Coda]]
     - [[tables]]也是谷歌出品的
     - [[google sheet]]

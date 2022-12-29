@@ -1,0 +1,23 @@
+- 重新学习[[Anki]]的使用方法#[[anki记忆]] 
+- 将学习理论落地的工具，使用艾宾浩斯遗忘曲线
+- 记忆=学习的过程。
+- 记住再忘记就是内化的过程。
+- 记忆不是死记硬背，那样没有用。
+- 记忆需要训练。
+- 记忆的关键是要拆解成最小记忆单元。
+- 使用图床功能之后，添加截图就方便多了。
+- 你所记住的东西决定你成为怎样的人
+- 问题要拆解成为最简单的单一问题
+- 把所有的卡片放在一起，尽量不要分类。🗒@评论:这是一种说法。
+- 不要有孤立的问题，不方便[[记忆]]
+- 我知道的最好的介绍anki的人——公众号[学习骇客](https://mp.weixin.qq.com/mp/publictag?action=get&tag_id=7929779980957908993#wechat_redirect)的主理人，LEO
+- 在手机端使用anki来查看记忆资料
+    - 不要更新app版本，使用9.2的版本就可以，进入10以后的版本就不再支持http开头的图床链接地址了。🗒@评论:我设置了新的图床，用的github，可以生成https开头的图床链接。
+    - https://ankiweb.net/shared/info/1293255374 看看能否解决anki添加图片的问题@评论:目前我没有研究这个方法，现在直接复制图片进去，还没有体验到同步速度太慢
+- [Ankify Anything - Anki Is Not Just For Raw Facts - YouTube](https://www.diigo.com/outliner/diigo_items/904019/12128769/558931919?key=34d57b46e1)
+- #[[参考资料]]
+    - [个人使用anki经验合集](https://roamresearch.com/#/app/hjp_study/page/ej9GS-bFZ) 下午2:26@评论:这是一个人用roam research写的，看来对anki很有研究
+- 类似软件
+    - [[Remnote]]
+    - [[Learnobit]]
+    - [[Polar]]

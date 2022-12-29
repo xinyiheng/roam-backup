@@ -1,0 +1,3 @@
+- 一款类似[[Anki]]和[[Remnote]]的整理笔记和间隔记忆的工具，可以支持多个窗口。
+- 这是youtube上的介绍视频Sungho YahngVia[(44) Sungho Yahng - YouTube](https://www.youtube.com/channel/UCwVOZMFkrYVeUdlxDT2lwaw) [[20210116]] 下午7:36
+- 

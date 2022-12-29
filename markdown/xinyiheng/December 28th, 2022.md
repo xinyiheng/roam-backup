@@ -1,0 +1,26 @@
+- Imported Quick Capture items:l
+    - 索引卡介绍_解释_什么意思-什么值得买
+        - Annotations:
+        - 国际通用的索引卡片大小为7.6cm*12.7cm，跟图书馆目录卡片一样大。卡片虽小，用处却大。
+        - https://wiki.smzdm.com/n/nounsnl9qe2/ [Email Body](https://files.todoist.com/eoTJdrTZV21qYwKallAotS_ETnREkWQkCagY-Uec93hmTy6mE2Mw7mL-jLlmJYh5/by/21878347/as/file.html)
+- #[[意识流笔记]]
+    - 早上六点半就醒了，设置了手机的一些显示，比如小部件和快速搜索，我发现手机的搜索框还可以直接搜索印象笔记的内容，不错。记录了一些想要改进的roam界面显示。七点半起床。
+    - 在document模式下，zoom in 以后显示卡片模式我感觉用css无法完成。一个折中的办法是先zoom in，然后切换到卡片模式或者列表模式。这样显示起来就是卡片了。我还想再roam中以卡片的界面浏览block，除了roam depot的random block和memo这两款插件以外，如果想要查看某个page中的所有block，还可以用目前正在使用的可以切换document、cardflow和cardlist以及focus mode的吕立青开发的这款插件。要熟练使用，还需要多掌握快捷键。
+    - 还是想要把得到的电子书标注自动同步到roam research中，想到一种方法就是flomo自动到notion之后自动发布notion的网页，然后用rss抓取网页，没有成功。使用roam memo复习制作的记忆卡片，发现特别卡顿。roam网页版基本上已经无法使用。以前从来没有发生过这种情况。但是app版本却可以正常使用，很奇怪。
+    - 原来昨天群里已经通知今天开始复工了。我没有看到。明天就要去上班了，感觉还是不太开心。
+    - 由于用memo制作记忆卡片不顺利，想尝试使用remnote。感觉自己有点太折腾了。不过看到一种别人的说法，就是用remnote作文献笔记，用roam来整理思考。我总是在使用多个app和汇总数据之间来回摇摆。我在大群里问别人用的时候卡不开，有两个人回答说不卡。我放心多了。
+    - #[[育儿]] 其实早就发现只要谈论麻豆的表现，哪怕是表扬，他也会很生气。今天兰兰老师给徐晗打电话，说起一件事。有个小朋友玩游戏输了，麻豆安慰说不要怕失败，要有一定胜利的勇气。我们说起这件事很开心。结果麻豆特别生气，情绪反应很大。说不是他说的。晚上的时候和他好好说起这件事，需要慢慢调整。
+    - 在roam research中整理一些笔记，清理一下思想。
+    - 还是对于memo不好用耿耿于怀。不过在折腾替代方案的时候改正了困扰我很久的ui问题，就是有时候一个block中的文字会scroll。
+- Imported Quick Capture items:
+    - 中信出版社 #[[编辑]]
+        - 中信出版社在豆瓣中的书籍
+        - Tags: 豆瓣 出版社 选题
+        - https://book.douban.com/press/2400/ [Email Body](https://files.todoist.com/LXemUpotGQ8xxx-uWt_ltoWDsVu_ptUbNyHC7cv9ynK_DvcOGXm6z7WtVd47HRez/by/21878347/as/file.html)
+    - 后浪 #[[编辑]]
+        - 后浪图书
+Tags: 豆瓣
+https://book.douban.com/producers/2?order=time [Email Body](https://files.todoist.com/AwqD9dl-aquJDE1-KmMD1rQc5LjqmbcfslekScS_ooHusA5X6lyQh2Mvj1f80Qbv/by/21878347/as/file.html)
+    - [Tw93 on Twitter](https://twitter.com/HiTw93/status/1607890069121077258?t=jzVlinxLNIjNkYyi-PMPyw&s=09)
+    - [Minja on Twitter](https://twitter.com/Minja_Rin/status/1608063023440355329?t=oS_yVIJJ5GFJL-CRx2_hHw&s=09)
+- [Roam CSS System - quattro - auto](https://roamresearch.com/#/app/RoamStudio/page/AqLkYRSdc) 🗒@评论:设置Roam 的CSS
