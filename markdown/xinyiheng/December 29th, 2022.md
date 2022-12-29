@@ -21,6 +21,8 @@
     - 联系《我的100天大脑升级计划》外方审审核，按照
     - 出版社的意见修改好。
     - 联系孙老师选书
+    - 用滴答清单整理推进中的书籍项目
+    - 想到了可以设置一个快捷方式，把roam research做成一个便签的样子，方便记录。不要为了追求使用体验而强行使用一款工具，而是应该考虑工作流，以实际产生结果和价值为最终目的。
     - 
 - Imported Quick Capture items:
     - Spaced Repetition in Roam Research | David Bieber
@@ -34,3 +36,11 @@
 2.假期的稳定性：在传统的间隔重复系统中，一天、一周或一个月的休息可能会破坏您的间隔重复节奏。休息回来后，你会发现自己有太多卡片无法一次复习，这可能会真正耗尽你的动​​力。我的系统不是按日期组织卡片，而是按回顾会话编号组织它们。这意味着如果您跳过一天或一周，您的评论只会被推迟。
 https://davidbieber.com/snippets/2021-01-02-spaced-repetition-in-roam-
 research/ [Email Body](https://files.todoist.com/feKgkhjqgNLTo3pzXpMZ89FuaebWlYzgcrAVNFARG6GZj1UXRXpVD2RFH67NMLk9/by/21878347/as/file.html)
+    - How to Memorize Fast with Roam and Spaced Repetition - YouTube
+        - Annotations:
+
+* Hey Shu, great video! What are your thoughts on the spaced repetition feature from the Roam Toolkit (Chrome extension) versus roam/sr?
+
+
+
+https://www.youtube.com/watch?v=vcYvFZTodbI [Email Body](https://files.todoist.com/PcpiCQ0EkuqZaizsYKBT-DA21NNeqEEbSTMHwsxdUuhCKm44LTafmxOYDVXyuuJr/by/21878347/as/file.html)
