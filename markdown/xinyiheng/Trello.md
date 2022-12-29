@@ -23,6 +23,7 @@
         - [Is Always Better You Use Email - YouTube](https://www.youtube.com/watch?v=rvT5D-oQTdQ)
         - [The ONE Trello Setting You Should Change NOW! - YouTube](https://www.youtube.com/watch?v=96uaO6ShyuY)
         - [(79) 3 NewFeatures You Didn't Know Existed! - YouTube](https://www.youtube.com/watch?v=uAcU_msmplg)
+    - 🗒@评论:我以前花了很多时间研究实现这种功能的方法，认为这样就可以把我的阅读计划很好地管理起来，结果实际上根本就没有取得什么效果。
 - 其他提供[[看板视图]]的一些软件
     - [[Walling]]
     - [[Notion]]
