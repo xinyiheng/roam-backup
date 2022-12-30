@@ -573,3 +573,36 @@ Essential for me! Works a lot better than https://t.co/Iig2lT0ww7 and similar si
     - @Minja_Rin: 文章发布：《Keyboard Maestro x OCR，在多语言环境中轻松抓取文字》
 OCR 文字识别功能已不再新鲜，但鲜有游刃于多语言环境者。本文利用 #keyboard_maestro Palette 特性，轻松切换不同的 #OCR 语种，适应多语环境。
 免费阅读 👉 https://t.co/JszDfSDQ6e https://t.co/1mCah7fa26 ([View Tweet](https://twitter.com/Minja_Rin/status/1608063023440355329))
+- ### New highlights added [[December 30th, 2022]] at 9:14 AM
+    - @Jimmy_JingLv: 昨天跟老婆一起制定了 2023 新年 OKRs 🎯
+
+O2: 新的一年想做点儿付费内容 😁
+
+- 专栏：申请了 @plidezus 少楠新做的小报童
+- 推荐：顺便推荐下我正在订阅的几个专栏啦
+
+微信扫码订阅即可，支持 Newsletter 📮 邮箱推送
+比如我就用的 @ReadwiseReader Feed 邮箱来接收
+
+（Twitter 只能发4张图 什么鬼🤣 
+
+![](https://pbs.twimg.com/media/FkyyysmaYAEOBsL.jpg) 
+
+![](https://pbs.twimg.com/media/FkyzNBzagAAiiAo.jpg) 
+
+![](https://pbs.twimg.com/media/Fkyzf6ragAAC-Yl.jpg) 
+
+![](https://pbs.twimg.com/media/FkyzgifaYAEIkPJ.jpg) ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1606858874254168064))
+    - @Jimmy_JingLv: 🤩 太强了，@magicaltome AI 自动做 PPT：
+
+- 甚至只需要输入一个标题，幻灯片的大纲、内容、配图一键搞定
+- 图片是 AI 自动生成的，目前用的是 DALL·E 2
+- 基于 Web 的效果真不错，还能跟 Figma、Twitter 等集成
+- 输入中文，也会自动生成英文标题和内容
+
+https://t.co/bz0OrrBHJR https://t.co/FcV3yEXfeZ ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1606931710230552576))
+    - @Jimmy_JingLv: 📹 昨天还肝了一个视频，实际演示效果和介绍功能特性。
+
+[Tome AI 自动做 PPT：只需要输入一个标题，幻灯片大纲、内容、配图一键搞定_哔哩哔哩_bilibili]
+
+https://t.co/VIJk7DHsXi ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1607199588984967168))

@@ -1,0 +1,11 @@
+- #[[意识流笔记]]
+    - 同步电脑快捷方式
+    - 思考继续解决卡片模式下光标所在卡片的样式问题
+        - [Roam Research 免费用2.0 —— 可建本地库、可建多库_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ut4y1a7pc/?spm_id_from=333.788&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)🗒@评论:今天尝试好像失效了。
+        - 设置了一个变通的方法，花了很多时间，感觉情绪有些低落。
+    - 听一点歌转换一下心情，用真正有效的方法休息。
+    - The scholar's greatest weakness: calling procrastination research — Stephen King Share 
+#[[memo]]
+    - 用滴答清单的搜索功能来查询自己曾经添加过哪些关于roam research的任务
+    - [说实话，第一次见到论文溯源分析图，确实是惊到了。。。。科技没有尽头！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1J3411x7h1/?p=1&share_medium=android&share_plat=android&share_session_id=a8c0d13b-f96d-4734-a62d-82b46797e0cb&share_source=COPY&share_tag=s_i&timestamp=1642258147&unique_k=KQBZLdb&vd_source=3d8ccab137cc879b5f9cbc14d68843ab) [[科研]]
+    - 
