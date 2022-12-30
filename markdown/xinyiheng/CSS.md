@@ -6,3 +6,5 @@
 - Windy-Transform every HTML element on any website to Tailwind CSSVia[Windy - Transform every HTML element on any website to Tailwind CSS | Product Hunt](https://www.producthunt.com/posts/windy-e2b6b3e7-08a8-4fb1-b14b-6b94e52f946d)[[20210104]] 下午8:36
 - 外框的阴影效果。用box-shadow
     - [93 Beautiful CSS box-shadow examples - CSS Scan](https://getcssscan.com/css-box-shadow-examples?ref=producthunt) @评论:这是个不错的拿来就用的网站
+- 一个重要的概念
+    - [CSS 选择器 (CSS Selector) | HTML&CSS 朴实教程](https://pushi.simon1987.com/css-selector.html#%E7%B1%BB%E5%9E%8B%E9%80%89%E6%8B%A9%E5%99%A8-type-selector)

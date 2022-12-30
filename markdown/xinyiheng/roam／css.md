@@ -25,7 +25,6 @@ Background-color:#FFC1072D;
 .sidebar-content {
   background:#F99F8328
 }
-
 div
 {
   color: #021823;
@@ -229,7 +228,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     width:12.7cm;
     height: 7.6cm;
     margin: 20px;
-    box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0!important;
+    box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0;
     border-radius: 0px;
     background-size: 100% 100%;
     background-position: 0px 2px;
@@ -239,58 +238,13 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 }
 
 
-/*
-.flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self.rm-focused.block-view,
-.flow-mode .roam-article>div:first- .rm-block-main.rm-block__self.rm-not-focused.block-view:focus-within {
-    width:12.7cm;
-    height: 7.6cm;
-    margin: 20px;
-    box-shadow:8px 28px 16px 0 #BF1717(16 22 26 / 50%), -8px -28px 16px 0 #E112120!important;
-    border-radius: 0px;
-    background-size: 100% 100%;
-    background-position: 0px 2px;
-    background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9d28jUaTRF.jpg?alt=media&token=d238cc32-e9a5-4263-a24e-e1b5d1e9f178
-  )!important;
-    padding: 20px 16px 16px 0;
-}
-*/
 
-Pause for 0.1 Seconds
-Type the Return Keystroke
-Pause for 0.1 Seconds
-Type the Escape Keystroke
-```
+.flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self:hover {
+ box-shadow: inset 16px 16px 12px 0 #9E9E9E(17 177 19 / 6%),  -3px -3px 6px 0 #fff;
+  
+}```
 - 分列效果
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPcxSe5o-k.png?alt=media&token=d3ab6a1d-503a-4633-ad8e-c8a5f09f5d06)
-    - ```css
-.roam-block-container[data-page-links*="分列"] .rm-block-children {
-    display: grid; 
-    margin-left: 20px; 
-    grid-template-columns: repeat( auto-fit, minmax(150px, 1fr) ); 
-    max-width: 850px; }
-
-span[data-tag="分列"] { 
-    display: none !important; 
-}
-
-.box .rm-block-text { 
-    padding: 10px; 
-    fontsize: 13px !important; 
-    border: 1px solid #6993B5 !important; 
-    border-radius: 2px; 
-    max-width: 50%; 
-    margin-bottom: 10px; 
-    margin-top: 10px; 
-    text-align: center; 
-}
-span[data-tag=".box"] { 
-    display: none !important; 
-}
-
-.roam-block-container[data-page-links*="分列"] .rm-bullet__inner{ 
-    display:none; 
-}
-```
 - 标签样式
     - ```css
 /* FLEETING NOTES */
