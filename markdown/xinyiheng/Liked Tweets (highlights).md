@@ -603,6 +603,6 @@ O2: 新的一年想做点儿付费内容 😁
 https://t.co/bz0OrrBHJR https://t.co/FcV3yEXfeZ ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1606931710230552576))
     - @Jimmy_JingLv: 📹 昨天还肝了一个视频，实际演示效果和介绍功能特性。
 
-[Tome AI 自动做 PPT：只需要输入一个标题，幻灯片大纲、内容、配图一键搞定_哔哩哔哩_bilibili]
+[Tome AI 自动做 [[PPT]]：只需要输入一个标题，幻灯片大纲、内容、配图一键搞定_哔哩哔哩_bilibili]
 
 https://t.co/VIJk7DHsXi ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1607199588984967168))
