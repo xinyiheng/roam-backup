@@ -593,8 +593,8 @@ O2: 新的一年想做点儿付费内容 😁
 ![](https://pbs.twimg.com/media/Fkyzf6ragAAC-Yl.jpg) 
 
 ![](https://pbs.twimg.com/media/FkyzgifaYAEIkPJ.jpg) ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1606858874254168064))
-    - @Jimmy_JingLv: 🤩 太强了，@magicaltome AI 自动做 PPT：
-
+    - @Jimmy_JingLv: 🤩 太强了，@magicaltome AI 自动做 PPT： #[[人工智能]]
+    - 
 - 甚至只需要输入一个标题，幻灯片的大纲、内容、配图一键搞定
 - 图片是 AI 自动生成的，目前用的是 DALL·E 2
 - 基于 Web 的效果真不错，还能跟 Figma、Twitter 等集成

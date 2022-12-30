@@ -822,6 +822,63 @@ span.rm-page-ref[data-tag] {
   display: none;
 }
 ```
+- 极简模式
+    - {{roam/css}}
+        - ```css
+/* Bullet Zoom Focus v2.6 by Jeff Harris
+  When zoomed in on a bullet add the tag #.rm-focus to the parent block to create a minimal writing environment. 
+  This only works when zoomed in so there is no need to remove the tag when done.
+*/
+@import url('https://jmharris903.github.io/Railscast-for-Roam-Research-Theme/fonts/calendas-plus.css');
+
+.zoom-path-view + div .rm-focus div,
+.zoom-path-view + div .rm-focus textarea {
+  font-family: 'Calendas Plus', 'Lora', 'Droid Serif', 'Georgia', serif !important;
+  font-size: 1.43rem;
+  /* space between lines */
+  line-height: 1.5em;
+}
+
+.zoom-path-view + div .rm-focus.rm-heading-level-1 > .rm-block__self .rm-block__input,
+.zoom-path-view + div .rm-focus .rm-heading-level-1 > .rm-block__self .rm-block__input,
+.zoom-path-view + div .rm-focus.rm-heading-level-2 > .rm-block__self .rm-block__input,
+.zoom-path-view + div .rm-focus .rm-heading-level-2 > .rm-block__self .rm-block__input,
+.zoom-path-view + div .rm-focus.rm-heading-level-3 > .rm-block__self .rm-block__input,
+.zoom-path-view + div .rm-focus .rm-heading-level-3 > .rm-block__self .rm-block__input,
+.zoom-path-view + div .rm-focus .rm-heading-level-1,
+.zoom-path-view + div .rm-focus .rm-heading-level-2,
+.zoom-path-view + div .rm-focus .rm-heading-level-3 {
+  font-family: 'Calendas Plus', 'Lora', 'Droid Serif', 'Georgia', serif !important;
+}
+
+.zoom-path-view + div .rm-focus .rm-multibar {
+  display: none;
+}
+
+.zoom-path-view + div .rm-focus .rm-bq {
+  font-size: 18px;
+}
+
+.zoom-path-view + div .rm-focus .rm-hide-bullet > .rm-embed-inner-block-hide {
+  margin-left: -30px;
+}
+
+.zoom-path-view + div .rm-focus .rm-embed-show-bullet .rm-embed-inner-block-hide {
+  margin-left: -2px;
+}
+
+.zoom-path-view + div .rm-focus.roam-block-container .roam-block-container {
+  /* space between blocks */
+  margin-top: 0.7em;
+}
+
+.zoom-path-view + div .rm-focus .rm-block__controls {
+  visibility: hidden;
+}
+
+.zoom-path-view + div .rm-focus .rm-block__self:hover .rm-block__controls {
+  visibility: visible;
+}```
 - [[Tag Styles]][[lvse]]
     - ```css
 span.rm-page-ref[data-tag="笔记"],
