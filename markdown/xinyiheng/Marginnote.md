@@ -1,4 +1,16 @@
-1. ### 界面逻辑
+1. ### 设计理念
+    - MarginNote 学习方法：碎片化+网络化+重复化=内化
+即摘录笔记＋思维导图＋记忆卡片 三位一体
+摘录笔记=碎片化
+思维导图 =网络化
+记忆卡片 =重复化
+    - 如果我们想把厚达几百页的原始材料真正有效的装进自己的脑袋里，可以分这么几步：
+        - 1.把线性的材料剪成碎片片段（摘录+笔记）
+        - 2.通过思维导图等工具把这些碎片片段结成一张网，网的节点就是这些片段。
+        - 3.在这些网络的关键节,点上打上小钉子(记忆卡片），不停的敲打，直到它印刻
+        - 到你的脑袋里。
+        - 钉子带着网，网裹着知识，就这样被固定在你的脑子里。
+2. ### 界面逻辑
     - marginnote3有mac和ipad两个版本。分成了文档-学习-复习三个大步骤
     - 文档部分
         - 管理部分比较废材，我已经用devonthink来接管了。方法是把marginnote中pdf文件夹以[[快捷方式]]的方式（devontink-file-index files and folders）关联到devonthink里面了。这样，我可以通过devonthink向marginnote里面添加文件。
@@ -14,24 +26,24 @@
         - marginnote的复习功能非常非常棒。
         - 可以直接导出为anki文件，结合anki使用。
         - 制作填空题格式非常容易。
-2. ### 特色功能
+3. ### 特色功能
     - 标题链接
         - marginnote3新功能“标题链接”有多好用？Via[marginnote3新功能“标题链接”有多好用？性感笔记，点击查词_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ho4y1d7De/?spm_id_from=autoNext) [[20220118]] 上午9:33@评论:也就是说，mn中允许多张卡片共用一个标题，打开标题链接功能以后，同样标题的所有卡片都可以在一起显示。
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FhSkqGIfTNt.png?alt=media&token=06f37666-0357-4a25-b1d7-4d22dbd8d762)
         - 所谓标题链接外部字典，就是另一本书中也提到了你作为卡片标题的概念，就把那一本书的相关卡片也一起显示出来。
     - 双向链接
-3. ### marginnote插件
+4. ### marginnote插件
     - [最新插件与自动化/插件发布区话题 - MarginNote 中文社区](https://bbs.marginnote.cn/c/script/mod/55) [[20210915]] 下午10:49
     - ohmyMN,卡片批量重命名#[[文件批处理的概念]]@评论:还有一个功能，设置卡片标题更方便了。
     - allinone，好像只比较适合ipad，作者解说太差了。
     - 🗒@评论:这些插件开发主要用到了[[JavaScript]]
-4. ### 细节问题
+5. ### 细节问题
     - [[同步]]的逻辑很奇葩，这让管理阅读文件变得非常困难。
         - 在mac中凡是用marginnote打开的文件都被保存到marginnote内置的文件夹中，这样，电脑中原本只有一份的文件A就新增了一份marginnote里面的副本A'。
         - 如果开启icloud同步功能，那么这份文本就会上传到icloud中，这样，又生成了一份副本A''。如果只把icloud中的文件删除，在客户端同步并不会删除客户端内部的文件。也就是说，icloud在这里更像是一个云盘而不是同步盘，icloud的内容可以下载到客户端，而直接删除icloud里面的内容不能删除客户端里面的文件。如果用ipad版本的marginnote再打开这份文本，那么又会在ipad当中生成一份副本A'''如果不想要这份文件了，只有同时删除这三个地方的副本才算真正删除干净。
     - 文件格式
 支持PDF和epub格式的文件，不支持mobi、azw3这些亚马逊为kindle开发的格式，但是通过calibre可以很快地转换成为epub格式，所以，电子书的格式不会成为阅读障碍
-5. #[[软件联动]]
+6. #[[软件联动]]
     - marginote与roam research[[hongse]]
         - MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文Via[MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文_哔哩哔哩_bilibili](https://www.bilibili.com/video/bv1Tf4y1P7WH) [[20210915]] 下午10:50 @评论:吕立青这个插件我无法使用，一直加载不出来。类似的还有slidepad浏览器，我不知道是不是vpn的问题。虽然我一直可以用chrome科学上网。@评论:目前已经解决这个问题了，使用的是 速蛙云。
         - 要想保留在marginote整理好的结构，可以先用其自带的导出功能导出到印象笔记。但缺点是，不是每张卡片都带着链接，以后把卡片移到别的地方的时候就可能找不到出处。我一直喜欢带着出处，虽然可能实际意义不大，但是还是尊重内心的这种需求吧。
