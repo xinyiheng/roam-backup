@@ -1,6 +1,12 @@
 - ### data
     - The scholar's greatest weakness: calling procrastination research — Stephen King Share 
 #[[memo]]
+        - [[December 31st, 2022]] 🟢
+            - nextDueDate:: [[January 1st, 2023]]
+            - eFactor:: 2.28
+            - interval:: 1
+            - repetitions:: 1
+            - grade:: 5
         - [[December 30th, 2022]] 🟠
             - nextDueDate:: [[December 31st, 2022]]
             - eFactor:: 2.1799999999999997
@@ -8,6 +14,12 @@
             - repetitions:: 0
             - grade:: 2
     - 有些很棒的工作流程和软件功能设置好之后就以为自己已经也做到很棒了，这真是一种愚蠢的错觉。#[[memo]]
+        - [[December 31st, 2022]] 🟢
+            - nextDueDate:: [[January 6th, 2023]]
+            - eFactor:: 2.7
+            - interval:: 6
+            - repetitions:: 2
+            - grade:: 5
         - [[December 30th, 2022]] 🟢
             - nextDueDate:: [[December 31st, 2022]]
             - eFactor:: 2.6
