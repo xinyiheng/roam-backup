@@ -34,5 +34,5 @@ https://www.dedao.cn/course/article?id=bqzNakylrn9WVaZ83bJ7DOop10vZwL&source=sea
     - 把marginnote的标注手动导入roam #[[软件联动]]
         - 设置了快捷键ss，放弃以前边阅读边导出内容到marginote的习惯。先集中在marginote中标注，然后把标注一条条快速复制到roam中。这样效率肯定更高。
         - marginnote的标注导出有个bug，pdf文件可以在脑图和文件中使用，但是在epub文件中智能在脑图中使用。
-    - 如何区分已经导入到roam research中的笔记和没有导入的笔记？
-        - [[图书馆情报学]]
+        - 如何区分已经导入到roam research中的笔记和没有导入的笔记？🗒@评论:每次都使用不同的颜色，比如，已经导入的用黄色，下次阅读的时候先用粉色，导入后再统一改成红色。这一操作在marginnote中并不复杂。我不会用不同的颜色表示不同的内容，可以用不同的颜色表示不同的阅读状态
+            - [[图书馆情报学]]
