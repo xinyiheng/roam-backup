@@ -39,12 +39,11 @@ https://www.dedao.cn/course/article?id=bqzNakylrn9WVaZ83bJ7DOop10vZwL&source=sea
     - #[[家庭]] 下午去黑桥公园，湖面结冰了，用木棒拉着麻豆在冰上滑行，麻豆很高兴。
     - 在淘宝上购买了readwise服务
     - 设置roam和anki的链接
+        - Onion Soupe #[[srs]]
+            - Q:新的实验?
+            - A: {c1:哈东}
         - How to cook onion soup
             - Onion soup is great...
                 - Onion Soup Recipe #[[srs]]
                     - Q: What is the cook time?
                     - A: {c1:20 minutes}
-                    - Q: How many onions should I use
-                    - A: {c1: 2 per person.}
-  - Other tips:
-    - ...
