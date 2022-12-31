@@ -38,12 +38,9 @@ https://www.dedao.cn/course/article?id=bqzNakylrn9WVaZ83bJ7DOop10vZwL&source=sea
             - [[图书馆情报学]]
     - #[[家庭]] 下午去黑桥公园，湖面结冰了，用木棒拉着麻豆在冰上滑行，麻豆很高兴。
     - 在淘宝上购买了readwise服务
-    - 设置roam和anki的链接
-        - Onion Soupe #[[srs]]
-            - Q:新的实验?
-            - A: {c1:哈东}
-        - How to cook onion soup
-            - Onion soup is great...
-                - Onion Soup Recipe #[[srs]]
-                    - Q: What is the cook time?
-                    - A: {c1:20 minutes}
+    - 设置roam和anki的链接，发现了一个roam depot的插件Fabricius也可以同步到anki。#[[间隔记忆]] 
+        - 现在设置成功了，来实验一下。
+            - 什么情况下用问答题？#[[srs/cloze-g]]
+                - {c1:总结卡片大意。}
+                - {c1:帮助思考具体应用。}
+            - 什么时候用挖空题？{c1:具体就是想要记住一些内容。}#[[srs/cloze]]
