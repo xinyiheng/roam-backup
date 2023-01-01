@@ -15,6 +15,7 @@
     - 带麻豆去黑桥公园接着滑冰踢球，他玩得很开心。
     - 回来和爸妈视频
     - 观看维也纳新年音乐会
+    - 想要了解anki插件
 - Imported Quick Capture items:
     - 用 Obisidian 制作 Anki 里面用的代码 - 哔哩哔哩
         - {{[[TODO]]}} Annotations:

@@ -16,7 +16,10 @@
     - https://ankiweb.net/shared/info/1293255374 看看能否解决anki添加图片的问题@评论:目前我没有研究这个方法，现在直接复制图片进去，还没有体验到同步速度太慢
 - [Ankify Anything - Anki Is Not Just For Raw Facts - YouTube](https://www.diigo.com/outliner/diigo_items/904019/12128769/558931919?key=34d57b46e1)
 - #[[参考资料]]
-    - [个人使用anki经验合集](https://roamresearch.com/#/app/hjp_study/page/ej9GS-bFZ) 下午2:26@评论:这是一个人用roam research写的，看来对anki很有研究
+    - [个人使用anki经验合集](https://roamresearch.com/#/app/hjp_study/page/ej9GS-bFZ)
+    -  下午2:26@评论:这是一个人用roam research写的，看来对anki很有研究
+- ### Anki插件
+    - [Add-ons for Anki 2.1 - AnkiWeb](https://ankiweb.net/shared/addons/)
 - 类似软件
     - [[Remnote]]
     - [[Learnobit]]
