@@ -16,6 +16,10 @@
     - 回来和爸妈视频
     - 观看维也纳新年音乐会
     - 想要了解anki插件
+        - 了解了一个更换anki外观的插件和一个在chrome中快速制卡的插件，还添加了一个heatmap显示复习情况的插件，对于插件更熟悉了。
+    - 思考有没有必要在印象笔记中保留pdf文档和网页剪藏。因为这些内容没有阅读的话根本就没有多大价值，不过是一份链接和稍后读清单而已，也难怪我当时特别想要用trello来展示印象笔记中的笔记，因为很难管理阅读进度。有多少内容值得为了防备以后会用到而长期保留呢？
+    - 在知识星球里向王树义老师提问如何打开roam research的deeplink，看到他在群里推荐obsidian sync。我目前用icloud好像也基本够用。
+    - 我以前买过研报分享的知识星球，100多块钱。
 - Imported Quick Capture items:
     - 用 Obisidian 制作 Anki 里面用的代码 - 哔哩哔哩
         - {{[[TODO]]}} Annotations:
@@ -37,3 +41,21 @@
 
 
 https://www.bilibili.com/read/cv10387577 [Email Body](https://files.todoist.com/rScbTk12woCNPEfhQq4DvD-3hm5ED8NNtw_WrW5NfsyiVMrayB4pbC74mN1QZGId/by/21878347/as/file.html)
+    - anki使用 || 使用心得/20+插件_哔哩哔哩_bilibili
+        - Annotations:
+
+* 收集型笔记：有些笔记纯粹是一种摘抄，摘录，他们没有循环回顾的价值，也许值得偶尔回顾，所以这类笔记放在anki里的价值也不太大，当然你也可以这么做。
+
+* 实际上任何不需要深思熟虑的知识都不适合放在anki里,
+
+
+
+https://roamresearch.com/#/app/hjp_study/page/ej9GS-bFZ [Email Body](https://files.todoist.com/rjWLBwX08RrZjBpqrk1P8hEp2oYbFJNhvvpNyN2BQhREpkVhp9c_MCP1lhHGWrfZ/by/21878347/as/file.html)
+    - anki使用 || 使用心得/20+插件_哔哩哔哩_bilibili
+        - Annotations:
+
+* 他不是依靠这个方法仅一年就完成的博士学位，他在前期做了大量相关的积累，是从考到考上花了一年，你这种说法会让别人觉得它是神器，但并不是，它仅仅是个有效的工具，最重要的是长久的阅读和积累
+
+
+
+https://www.bilibili.com/video/BV1f541197Wo/?spm_id_from=autoNext&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/biqnwomfqNzyE6fW12CWLikbj6eXHKSjZt7fzYAXtHlhsv8XjIvr9NNp59iWrEDB/by/21878347/as/file.html)

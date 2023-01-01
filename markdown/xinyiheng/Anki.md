@@ -20,6 +20,7 @@
     -  下午2:26@评论:这是一个人用roam research写的，看来对anki很有研究
 - ### Anki插件
     - [Add-ons for Anki 2.1 - AnkiWeb](https://ankiweb.net/shared/addons/)
+    - 在chrome里面有个Anki quick adder,可以很方便地利用快捷键从chrome制作卡片。
 - 类似软件
     - [[Remnote]]
     - [[Learnobit]]
