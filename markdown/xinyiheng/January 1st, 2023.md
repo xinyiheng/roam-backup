@@ -12,6 +12,9 @@
     - 重新体验了obsidian的图谱功能，看上去真的赏心悦目，相比之下，roam research的简直不能直视。想要给麻豆展示图谱功能。
     - 体验一下如何在白板上拓展对于知识管理这一主题的思考。
     - 和麻豆一起整理他喜欢的汽车内容，用mindnode整理起来
+    - 带麻豆去黑桥公园接着滑冰踢球，他玩得很开心。
+    - 回来和爸妈视频
+    - 观看维也纳新年音乐会
 - Imported Quick Capture items:
     - 用 Obisidian 制作 Anki 里面用的代码 - 哔哩哔哩
         - {{[[TODO]]}} Annotations:
