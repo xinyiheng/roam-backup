@@ -11,6 +11,7 @@
         - 把思维导图、roam、the brain和notion、白板当作看待同一个内容的{c1:不同视角}，尽情地去完善每个视角，然后整合到一起即可。而阅读清单，笔记，以及自己的思考和问题，也可以作为笔记的{c1:不同板块}。
     - 重新体验了obsidian的图谱功能，看上去真的赏心悦目，相比之下，roam research的简直不能直视。想要给麻豆展示图谱功能。
     - 体验一下如何在白板上拓展对于知识管理这一主题的思考。
+    - 和麻豆一起整理他喜欢的汽车内容，用mindnode整理起来
 - Imported Quick Capture items:
     - 用 Obisidian 制作 Anki 里面用的代码 - 哔哩哔哩
         - {{[[TODO]]}} Annotations:
