@@ -1,0 +1,8 @@
+- Author:: [[谢廷玉]]
+- Full Title:: “哥布林模式”走红：为什么这些西方人不想“做人”了？｜读刊
+- Category:: #articles
+- URL:: https://mp.weixin.qq.com/s?src=11&timestamp=1672657184&ver=4264&signature=EQcL*5Z2CCcfk2rb16zH3ur1UPjgcuSTuC*WLOt68OYK*teq9cztySNn9ZLVI3aTEmuy95FMt1dEqnCKtnADOGjmsHGAcx*ggZLdlfuyjifX0LeRPBmYUdm30lRf*Uhi&new=1
+- ### Highlights first synced by #Readwise [[January 2nd, 2023]]
+    - 2022年刚刚过去，世界各大平台也在年底相继推出了年度流行的热词。比如，《柯林斯词典》的年度词汇是“永久危机”（Permacrisis），《韦氏词典》的年度词汇是指向心理操纵的“煤气灯效应”，日本清水寺评选的年度汉字是“战”。牛津大学出版社也进行了2022年“年度热词”（WOTY: Word Of The Year）的评选。而在经历了34万人的投票后，“哥布林模式”（Goblin Mode）一词凭借着超过93%的得票率胜出。 ([View Highlight](https://read.readwise.io/read/01gns285dhf891grvha0e6t5ar))
+    - ![](https://mmbiz.qpic.cn/mmbiz_png/CKYhgyUnM1AMictDmjdsGpujIsO8MFrG2qVHJpaOjgBkdpic49dO7BS5UNHvvLm6VypNcPXgCO8ptHUdhC4m9FLw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1) ([View Highlight](https://read.readwise.io/read/01gns2a5zm5yd1msc48znx5rgp))
+    - 按照牛津词典的官方解释，“哥布林模式”指的是一种流行的生活方式：**“自我放纵、懒惰、邋遢、贪吃且毫不愧疚，通常表现出对社会规范或期望的抵制。”**虽然“哥布林模式”本身在中文语境中少有人知，但已有人意识到，它的实际内涵似乎与“摆烂”一词意通神会。而在维基百科上，“躺平”则成为了“哥布林模式”的关联链接之一。 ([View Highlight](https://read.readwise.io/read/01gns29a1cfh0f5rxdr6bfnwc2))
