@@ -104,6 +104,26 @@ document.getElementsByTagName("head")[0].appendChild(mms);```
         - [[roam/excalidraw]]
         - 来源：https://roamresearch.com/#/app/Zsolt-Blog/page/6uptQqZEV  
         - @评论:还有一个版本，我用着无效。[Roam-Excalidraw Plugin MVP Release](https://www.zsolt.blog/2021/03/roam-excalidraw-plugin-mvp-release.html) 之前画的图都失效了。
+    - Telegroam
+        - {{roam/js}}
+            - ```javascript
+var existing = document.getElementById("telegroam");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://telegroam.vercel.app/main.js";
+  extension.id = "telegroam";
+  extension.async = true;
+  extension.type = "text/var existing = document.getElementById("telegroam");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://telegroam.vercel.app/main.js";
+  extension.id = "telegroam";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}```
 - # Roam Depot
     - 如何查看和管理从roam depot安装的插件？在设置中进行
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWIxL8t52A0.png?alt=media&token=66f4f85d-763c-43fc-8e58-2235e3d87a70)

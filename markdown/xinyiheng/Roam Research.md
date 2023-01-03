@@ -216,7 +216,7 @@ via[如何交互可视化 Roam Research 局部笔记网络？ - 少数派](https
 [[20201213]] 上午8:05@评论:[[王树义]]老师这个我一直没有使用，这个python的版本还是比较粗糙。
     - 怎么修改roam research导出的文件的格式？
         - https://roam-tools.ryanguill.com/?这个网站可以实现一些修改。
-    - telegram发送内容到roam reseaerch。[[Telegram Bot]]
+    - telegram发送内容到roam reseaerch。Telegram Bot
 - 如何取消roam research左边栏？
     - 隐藏以后每次鼠标划过都会弹出来，看着很闹人。
     - 我以前用css修改过，但是没有保存经验，现在不会弄了。
