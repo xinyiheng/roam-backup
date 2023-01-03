@@ -2,11 +2,9 @@
     - anki使用 || 使用心得/20+插件_哔哩哔哩_bilibili
         - Annotations:
 
-*     * 这个好像可以在anki卡片之间建立双向链接
+这个好像可以在anki卡片之间建立双向链接
 
-* Add Hyperlink 318752047
-
-
+Add Hyperlink 318752047
 
 https://www.bilibili.com/video/BV1Jk4y167TU/?spm_id_from=333.788.recommend_more_video.3&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/xbzcSYT9zCorwQuXmuhWfPYnSxb5Ovr0clvFAAV_GlIJaTFrxEuk2EVNzLy-EjrA/by/21878347/as/file.html)
     - 冯昭奎：日本半导体产业发展的赶超与创新——兼谈对加快中国芯片技术发展的思考
@@ -16,7 +14,6 @@ https://www.bilibili.com/video/BV1Jk4y167TU/?spm_id_from=333.788.recommend_more_
         - 日本半导体产业迅速发展的主要原因有:通商产业省对企业引进消化美国先进技术实施了有效的政策引导和扶持,在60年代对尚处于初创阶段的集成电路产业实施严格保护;富于团队精神和工匠精神的半导体科技工作者、技能工人和企业经营者,构成了赶超美国先进技术所需各种人才的“绝佳搭配”;在战前及战后的工业化基础上,迅速形成了独立的由集成电路产业、集成电路生产设备产业和集成电路材料产业组成的全产业链。
 
 * 全产业链，产业扶持，大众化产品。
-
 * 一、引进美国晶体管技术, 开发半导体收音机等民用产品, 促进晶体管工业的发展
 
 * 美国为将日本变为“遏制共产主义的防波堤”, 在20世纪50年代中后期积极向日本转移先进技术, 在此背景下, 日立、东芝、神户工业等企业纷纷从美国引进技术、建设晶体管工厂。
@@ -40,8 +37,6 @@ https://www.bilibili.com/video/BV1Jk4y167TU/?spm_id_from=333.788.recommend_more_
 * IC的发明开创了世界微电子学的辉煌历史, 是继晶体管后的又一项伟大发明。
 
 * 晶体管是原理的突破，集成电路是组装晶体管的生产方式的突破/
-
-
 
 https://mp.weixin.qq.com/s?__biz=MzI0MzYzODY5NA==&mid=2247486979&idx=1&sn=5f8be2284236712e656c58e579fb023d&chksm=e96b46cade1ccfdc7d04d884639868287361ebd0937214a7df3a4411a8adcdff657d8c29c310&mpshare=1&scene=1&srcid= [Email Body](https://files.todoist.com/S-73veRxuhsGpdf551IETauSQWcy7gE_8rQEFQRUpPYN3idg_DhhDE0CgbCA5z5c/by/21878347/as/file.html)
 - #[[意识流笔记]]
