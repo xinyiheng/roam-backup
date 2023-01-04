@@ -2,6 +2,7 @@
     - Roaming through contexts with Roam: How I use it - strategic structures
         - Annotations:
 * ## Wikidata
+
 For integrating my knowledge graph with open knowledge graphs, I use the
 SPARQL extension. It is currently best adapted to Wikidata but I use it for
 bringing data from other knowledge graphs as well.

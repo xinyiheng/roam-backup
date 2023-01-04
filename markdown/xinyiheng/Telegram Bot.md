@@ -1,7 +1,5 @@
 - Inbox Name:: [[Inbox]]
-- API Key:: 5919386741:AAEx_DYRW8yZ9ilo_JxQfAOtrOtDv2GbTRc
-    - {{[[DONE]]}} update the Telegram API key above
-- Chat Id::5019153523
-- Serendipity Page:: [[TODO]]
-- Trusted Media Proxy:: https://telegroam-cors-proxy.herokuapp.com 
-- Latest Update ID:: 330508919
+- API Key:: 5880353701:AAFAnvUBQY8mJEunaS2NxlUAR1rDnfohQZM
+    - {{[[TODO]]}} update the Telegram API key above
+- Trusted Media Proxy:: [https://telegram-cors-proxy.herokuapp.com](https://telegram-cors-proxy.herokuapp.com/)
+- Latest Update ID::

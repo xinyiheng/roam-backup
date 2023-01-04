@@ -13,14 +13,14 @@
     - 在roam research中整理一些笔记，清理一下思想。
     - 还是对于memo不好用耿耿于怀。不过在折腾替代方案的时候改正了困扰我很久的ui问题，就是有时候一个block中的文字会scroll。
 - Imported Quick Capture items:
+    - https://book.douban.com/producers/2?order=time [Email Body](https://files.todoist.com/AwqD9dl-aquJDE1-KmMD1rQc5LjqmbcfslekScS_ooHusA5X6lyQh2Mvj1f80Qbv/by/21878347/as/file.html)
+        - [Tw93 on Twitter](https://twitter.com/HiTw93/status/1607890069121077258?t=jzVlinxLNIjNkYyi-PMPyw&s=09)
+        - [Minja on Twitter](https://twitter.com/Minja_Rin/status/1608063023440355329?t=oS_yVIJJ5GFJL-CRx2_hHw&s=09)
     - 中信出版社 #[[编辑]]
         - 中信出版社在豆瓣中的书籍
         - Tags: 豆瓣 出版社 选题
         - https://book.douban.com/press/2400/ [Email Body](https://files.todoist.com/LXemUpotGQ8xxx-uWt_ltoWDsVu_ptUbNyHC7cv9ynK_DvcOGXm6z7WtVd47HRez/by/21878347/as/file.html)
     - 后浪 #[[编辑]]
         - 后浪图书
-Tags: 豆瓣
-https://book.douban.com/producers/2?order=time [Email Body](https://files.todoist.com/AwqD9dl-aquJDE1-KmMD1rQc5LjqmbcfslekScS_ooHusA5X6lyQh2Mvj1f80Qbv/by/21878347/as/file.html)
-    - [Tw93 on Twitter](https://twitter.com/HiTw93/status/1607890069121077258?t=jzVlinxLNIjNkYyi-PMPyw&s=09)
-    - [Minja on Twitter](https://twitter.com/Minja_Rin/status/1608063023440355329?t=oS_yVIJJ5GFJL-CRx2_hHw&s=09)
+    - Tags: 豆瓣
 - [Roam CSS System - quattro - auto](https://roamresearch.com/#/app/RoamStudio/page/AqLkYRSdc) 🗒@评论:设置Roam 的CSS

@@ -76,16 +76,16 @@
 - Imported Quick Capture items:
     - Spaced Repetition in Roam Research | David Bieber
         - Annotations:
-什么是“莱特纳盒”？
-在间隔重复的“Leitner Box”系统中，有七个框，编号为 Box 1 到 Box 7。当您创建抽认卡时，将其放入框
-1。每天，您使用时间表来确定要复习哪些框的卡片. 方框 1 中的卡片最常被评论，方框 7中的卡片被评论的次数最少。复习卡片时，如果卡片正确，则将其向上移动一个框（例如，从框 1 到 2 或从框 4 到5）。但是如果你弄错了一张牌，你就把牌移回方框 1。
-回顾一下，(1) 你将新的抽认卡放入盒子 1。(2) 当你得到一张正确的卡片时，你将它向上移动一个盒子。(3) 当你得到一张卡片不正确时，你将它一直移回框 1。 (4) 你使用由彩色圆点组成的时间表来决定每天检查哪些框，首先回答较高框的问题。
-该系统优于传统间隔重复系统的两个优点：
-1. 更少的摩擦：直接在你的笔记应用程序中创建卡片比需要切换任务来创建卡片要容易得多。
-2.假期的稳定性：在传统的间隔重复系统中，一天、一周或一个月的休息可能会破坏您的间隔重复节奏。休息回来后，你会发现自己有太多卡片无法一次复习，这可能会真正耗尽你的动​​力。我的系统不是按日期组织卡片，而是按回顾会话编号组织它们。这意味着如果您跳过一天或一周，您的评论只会被推迟。
-https://davidbieber.com/snippets/2021-01-02-spaced-repetition-in-roam-
-research/ [Email Body](https://files.todoist.com/feKgkhjqgNLTo3pzXpMZ89FuaebWlYzgcrAVNFARG6GZj1UXRXpVD2RFH67NMLk9/by/21878347/as/file.html)
+    - 什么是“莱特纳盒”？
+    - 在间隔重复的“Leitner Box”系统中，有七个框，编号为 Box 1 到 Box 7。当您创建抽认卡时，将其放入框
+    - 1。每天，您使用时间表来确定要复习哪些框的卡片. 方框 1 中的卡片最常被评论，方框 7中的卡片被评论的次数最少。复习卡片时，如果卡片正确，则将其向上移动一个框（例如，从框 1 到 2 或从框 4 到5）。但是如果你弄错了一张牌，你就把牌移回方框 1。
+    - 回顾一下，(1) 你将新的抽认卡放入盒子 1。(2) 当你得到一张正确的卡片时，你将它向上移动一个盒子。(3) 当你得到一张卡片不正确时，你将它一直移回框 1。 (4) 你使用由彩色圆点组成的时间表来决定每天检查哪些框，首先回答较高框的问题。
+    - 该系统优于传统间隔重复系统的两个优点：
+    - 1. 更少的摩擦：直接在你的笔记应用程序中创建卡片比需要切换任务来创建卡片要容易得多。
+    - 2.假期的稳定性：在传统的间隔重复系统中，一天、一周或一个月的休息可能会破坏您的间隔重复节奏。休息回来后，你会发现自己有太多卡片无法一次复习，这可能会真正耗尽你的动​​力。我的系统不是按日期组织卡片，而是按回顾会话编号组织它们。这意味着如果您跳过一天或一周，您的评论只会被推迟。
+    - https://davidbieber.com/snippets/2021-01-02-spaced-repetition-in-roam-
+    - research/ [Email Body](https://files.todoist.com/feKgkhjqgNLTo3pzXpMZ89FuaebWlYzgcrAVNFARG6GZj1UXRXpVD2RFH67NMLk9/by/21878347/as/file.html)
     - How to Memorize Fast with Roam and Spaced Repetition - YouTube
         - Annotations:
-* Hey Shu, great video! What are your thoughts on the spaced repetition feature from the Roam Toolkit (Chrome extension) versus roam/sr?
-https://www.youtube.com/watch?v=vcYvFZTodbI [Email Body](https://files.todoist.com/PcpiCQ0EkuqZaizsYKBT-DA21NNeqEEbSTMHwsxdUuhCKm44LTafmxOYDVXyuuJr/by/21878347/as/file.html)
+    - Hey Shu, great video! What are your thoughts on the spaced repetition feature from the Roam Toolkit (Chrome extension) versus roam/sr?
+    - https://www.youtube.com/watch?v=vcYvFZTodbI [Email Body](https://files.todoist.com/PcpiCQ0EkuqZaizsYKBT-DA21NNeqEEbSTMHwsxdUuhCKm44LTafmxOYDVXyuuJr/by/21878347/as/file.html)
