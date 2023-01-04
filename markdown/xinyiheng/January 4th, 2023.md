@@ -13,6 +13,7 @@
     - 难点就在于对于书籍和信息源的管理
     - 想要重新订阅日本电视节目
     - 整合the brain中过于臃肿的部分
+    - 整理marginnote文档，把文档放到不同的文件夹中，但是ipad上的文件夹和mac并不同步。
 - Imported Quick Capture items:
     - Safari + 预览，将网页转化为自定义尺寸 PDF | 一日一技 - 少数派
         - 不一定在safari中，在chrome也可以使用，关键是设置打印用纸，不要使用A4,要尽量增大用纸的高度。
