@@ -25,10 +25,8 @@
 花了⼀年以上的时间帮我搜集⼤量材料，并⼒求深⼊理解不同⽴场的
 中国⼈的感受和⾏为。姚监复曾是赵紫阳领导下的农村发展研究所的
 官员，也花了数周时间阅读我⼿稿中有关经济的章节。 ([View Highlight](https://read.readwise.io/read/01gp2a7x3nnq78awhrqjrj5gff))
-    - ，我发现
-China Vitae是⼀个有关在世的中国官员的⼗分有⽤的英⽂⽹站。 ([View Highlight](https://read.readwise.io/read/01gp2a8c926kdy888g4fatd30g))
-    - ⼤陆⼀些知情的
-局内⼈所写的东西仍被认为争议太⼤，⽆法在⼤陆出版。⾹港的出版
+    - 我发现China Vitae是⼀个有关在世的中国官员的⼗分有⽤的英⽂⽹站。 ([View Highlight](https://read.readwise.io/read/01gp2a8c926kdy888g4fatd30g))
+    - ⼤陆⼀些知情的局内⼈所写的东西仍被认为争议太⼤，⽆法在⼤陆出版。⾹港的出版
 业则更加开放，因此很多这类著作在⾹港出版。 ([View Highlight](https://read.readwise.io/read/01gp2aaw8e8607vp8tzdp6nbce))
     - 研究⼈员最多、⽂献最丰富、接触党内
 资料最便利的部门，还是中共中央委员会辖下的中央⽂献研究室。该
@@ -343,11 +341,7 @@ China Vitae是⼀个有关在世的中国官员的⼗分有⽤的英⽂⽹站。
     - 1984年，作为开放的14个沿海城市之⼀，上海也获得了⼀定的发
 展空间，但是从1984年到1990年，上海没有得到北京多少帮助，它的
 潜⼒⼏乎没有发挥出来。 ([View Highlight](https://read.readwise.io/read/01gp1ceh5hkq9hf7zbpkq3xcqr))
-    - 。陈云在上海郊区的青浦长⼤，经常回上海视察当地情
-况；在党内，他在跟上海有关的问题上享有特殊的权威。陈云反对在
-上海建经济特区，不仅因为这有可能给国家既有的重⼯业和税收基础
-造成风险，还因为作为⼀个在1920和1930年代在那⾥⼯作过的⼈，他
-深知资本主义的罪恶和上海商⼈那种在他看来对洋⼈过分卑躬屈膝 ([View Highlight](https://read.readwise.io/read/01gp1chjte8qb5fmaynkwmyz5n))
+    - 陈云在上海郊区的青浦长⼤，经常回上海视察当地情况；在党内，他在跟上海有关的问题上享有特殊的权威。陈云反对在上海建经济特区，不仅因为这有可能给国家既有的重⼯业和税收基础造成风险，还因为作为⼀个在1920和1930年代在那⾥⼯作过的⼈，他深知资本主义的罪恶和上海商⼈那种在他看来对洋⼈过分卑躬屈膝 ([View Highlight](https://read.readwise.io/read/01gp1chjte8qb5fmaynkwmyz5n))
     - 的“买办习⽓”。因此，陈云担⼼外国租界死灰复燃。 ([View Highlight](https://read.readwise.io/read/01gp1chnv29vmhfv8jryxwn7gs))
     - 中宣部动员《⼈民⽇报》和《光明⽇报》对“皇甫平”的⽂章进⾏
 了反驳。1991年11⽉，在雄伟的上海南浦⼤桥的通车仪式上，替北京
@@ -373,8 +367,7 @@ China Vitae是⼀个有关在世的中国官员的⼗分有⽤的英⽂⽹站。
 痕：他们对发展速度发⽣了意见分歧。1984年以后，当邓⼩平开始推
 动城市改⾰和加快发展时，他们的分歧变得更加尖锐。他们分别成为
 中共⾼层⼲部中更⼴泛团体的代⾔⼈，成了著名的“⼀⼭⼆虎”。 ([View Highlight](https://read.readwise.io/read/01gp18v1fn8mqav7ys8w83nzep))
-    - 。陈云和邓
-⼩平都是摸着⽯头过河，但陈云在落脚之前，要搞清楚每⼀块⽯头是
+    - 陈云和邓⼩平都是摸着⽯头过河，但陈云在落脚之前，要搞清楚每⼀块⽯头是
 否牢靠。 ([View Highlight](https://read.readwise.io/read/01gp18vqaz146t30hfjj82pvzp))
     - 尽管他⽐邓⼩平⼩⼀岁，但在他 ([View Highlight](https://read.readwise.io/read/01gp18zza3f56xheyt8tfp3qvq))
     - 1931年当选中央委员后的20年⾥，他在党内的排名⼀直远远⾼于邓⼩
