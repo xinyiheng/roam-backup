@@ -1,0 +1,8 @@
+- Author:: [[notion.so]]
+- Full Title:: Notion – The All-in-One Workspace for Your Notes, Tasks, Wikis, and Databases.
+- Category:: #articles
+- URL:: https://www.notion.so/xinyiheng/6-64c8c85e283b43bf89986f8578d104bf
+- ### Highlights first synced by #Readwise [[January 8th, 2023]]
+    - 赛里木湖
+    - 赛里木湖新疆海拔最高、面积最大的高山湖湖面海拔 2071.9 米，东西长 30 公里南北宽 25 公里面积 453 平方公里，平均水深 46.4 米最深处达 106 米
+        - **Note**: 真是高山上的明珠。
