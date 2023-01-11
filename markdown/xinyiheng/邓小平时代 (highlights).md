@@ -1854,3 +1854,22 @@
 住了通货膨胀。 ([View Highlight](https://read.readwise.io/read/01gpdmfc8zwcan4cxa4jjdygz9))
     - 邓⼒群 ([View Highlight](https://read.readwise.io/read/01gpdnag4jtgepm2sy6fwqnm4x))
     - 邓⼒群 ([View Highlight](https://read.readwise.io/read/01gpdnap09p8h4cc6ex48r2tbs))
+- ### New highlights added [[January 11th, 2023]] at 7:34 PM
+    - 他从1952年⾄1966年⼀
+直担任共青团第⼀书记，其中有⼗年（1956–1966）邓⼩平恰好⼀直担
+任党的总书记。 ([View Highlight](https://read.readwise.io/read/01gpdwdn4ysyq3dqrnq1rrz9vh))
+    - 在1982年中共⼗⼆⼤取消“党主席”⼀职后，胡耀邦成
+了总书记 ([View Highlight](https://read.readwise.io/read/01gpdwfqpcks2cefyd6770zc0r))
+    - 刘志丹的弟媳在1962年发表了⼀本有关刘志丹的⼩说，歌颂刘的
+事迹，被认为是替⾼岗翻案。⽑怀疑这篇⼩说的发表有习仲勋在背后
+搞⿁，把他贬为洛阳⼀家⼯⼚的副⼚长。这次打击使习仲勋⼼理上深
+受伤害，直到1978年他才得到平反，得以离开洛阳去⼴东任职。 ([View Highlight](https://read.readwise.io/read/01gpdwpxchzhna83afdx19xb7e))
+    - 赵紫阳过去有陶铸的全⼒⽀
+持，不需要政治上的计谋就得到提升，也从来没有变成善于耍政治⼿
+腕的⼈。如果说胡耀邦是靠真⼼和良知得到提拔，赵紫阳靠的则是他
+的头脑以及他领会国外经验和构想新⽅案的强⼤能⼒。 ([View Highlight](https://read.readwise.io/read/01gpe1qbpsna3xefj6j5ys12c7))
+    - 1980年，赵紫阳作为受⼈尊敬的省级领导⼈进了北京，但他不属
+于北京⽼圈⼦⾥的⼈。1977年8⽉他成为政治局候补委员后，逐渐熟悉
+了北京的情况，但直到1979年他才成为政治局正式委员。 ([View Highlight](https://read.readwise.io/read/01gpe1thpqxk55vq5fhsd6pd09))
+    - 赵紫阳在1980年担任总理后，除了领导政府各部门的⽇常⼯作和
+会见外国官员，还负责调整政府的政策与机构。 ([View Highlight](https://read.readwise.io/read/01gpe1w8tenevmt16c3123a2d5))

@@ -1,0 +1,7 @@
+- Author:: [[pluskid]]
+- Full Title:: 凡人的时间管理
+- Category:: #articles
+- URL:: https://book.douban.com/review/14874903/
+- ### Highlights first synced by #Readwise [[January 11th, 2023]]
+    - 书里还提到另一个拖延症的来源是选择困难：随着年龄增长我们所肩负的责任会越来越大，所做的决定通常带来的后果也越深远，一些取舍甚至会对你将来的生活产生不可逆的影响，但是我们不忍错过任何一方，于是无法做出取舍而选择拖延并累积焦虑。 ([View Highlight](https://read.readwise.io/read/01gpe14myxa0q24nypbtnwx08q))
+    - 这里不禁让人想起《Atomic Habits》里提到的一个观点：与其注重目标（例如“成为艺术家”）我们更应该注重过程（例如“每天画画”）。 ([View Highlight](https://read.readwise.io/read/01gpe12kxeedtd5bw4196mh8kv))

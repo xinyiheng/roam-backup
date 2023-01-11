@@ -606,3 +606,7 @@ https://t.co/bz0OrrBHJR https://t.co/FcV3yEXfeZ ([View Tweet](https://twitter.co
 [Tome AI 自动做 [[PPT]]：只需要输入一个标题，幻灯片大纲、内容、配图一键搞定_哔哩哔哩_bilibili]
 
 https://t.co/VIJk7DHsXi ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1607199588984967168))
+- ### New highlights added [[January 11th, 2023]] at 7:33 PM
+    - @psmaldino: My book has a cover. I like it. 
+
+![](https://pbs.twimg.com/media/FmIv6jiaUAA5PLI.jpg) ([View Tweet](https://twitter.com/psmaldino/status/1612904312837140480))
