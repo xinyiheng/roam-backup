@@ -610,3 +610,24 @@ https://t.co/VIJk7DHsXi ([View Tweet](https://twitter.com/Jimmy_JingLv/status/16
     - @psmaldino: My book has a cover. I like it. 
 
 ![](https://pbs.twimg.com/media/FmIv6jiaUAA5PLI.jpg) ([View Tweet](https://twitter.com/psmaldino/status/1612904312837140480))
+- ### New highlights added [[January 11th, 2023]] at 9:37 PM
+    - @FoundersPodcast: Charlie Munger: Stop multi-tasking. Focus! 
+
+![](https://pbs.twimg.com/media/FmI4KO6WIAEPpsS.jpg) ([View Tweet](https://twitter.com/FoundersPodcast/status/1612913368339210242))
+- ### New highlights added [[January 11th, 2023]] at 9:51 PM
+    - @decohack: https://t.co/4ZVrdP4sc3
+
+All Things Al 是一个精选的 AI 人工智能工具导航，分类内容非常多，可以发现一些有用的项目，不得不说现在是AI爆炸的时期。 ([View Tweet](https://twitter.com/decohack/status/1612957929975709696))
+- ### New highlights added [[January 11th, 2023]] at 10:13 PM
+    - @TechBurritoUno: If you ever wondered this is how they pick blueberries
+
+🎥 : joshpondmaine
+ https://t.co/jVcFIsIxtE ([View Tweet](https://twitter.com/TechBurritoUno/status/1612828567536009216))
+    - @BettySLai: The Grant Writing Guide officially launches today with @PrincetonUPress! 
+
+This book is for:
++Scholars who want to write fundable grants.
++People who like concrete examples, checklists, and action plans.
+
+Here are 5 common grant writing questions answered in the book: https://t.co/hRZ3V9kOeR ([View Tweet](https://twitter.com/BettySLai/status/1612832256883830786))
+    - @CatoMinor3: We are arriving into a meta stage of note-taking: Plugins to manage plugins and apps to synchronize notes across many similar note-taking apps. https://t.co/VgeUq8E20M ([View Tweet](https://twitter.com/CatoMinor3/status/1613164982643867650))
