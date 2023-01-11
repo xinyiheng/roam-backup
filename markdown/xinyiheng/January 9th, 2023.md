@@ -21,29 +21,17 @@
             - https://sspai.com/post/77426 [Email Body](https://files.todoist.com/HO9HyxNKPaorBlKhKozqzjjrRjNMBaEC0UyH5LuptEU03BuBGo5h5h4gnoEH_oit/by/21878347/as/file.html)
     - 2022 年，在记录中感受混乱与秩序之美 - 少数派
         - Annotations:
-
-*   *   *   *   *   *   *   *   * ### 模板和秩序
-
-我察觉到，笔记混乱来源之一，是每天在日记入口的大量闪念笔记记录。这些闪念笔记很难被凝练和复用。时间一长，很自然，就成为了整理的负担。一旦问题被说清楚，那么离解决问题，很可能就差临门一脚。对于闪念笔记的混乱，我的临门一脚，是用模板来约束过度发散的想法。
-
-* 闪念笔记模板化。
-
-* 我找了一个周末的时间，学习和了解了杜威十进制图书分类法，也翻阅了《中国图书馆分类法》。为了方便自己的查找，我把杜威十进制的具体分类，全部记录在 Heptabase 中。我在探索杜威十进制分类的时候，大受震撼，第一次在视觉层面上，直观感受到知识的广阔，要知道，这仅仅是分类。
-
-* 了解图书馆分类法的过程中，我还学习了 P.A.R.A. 架构，也整理和记录了少数派的标签，试图找到一些分类的启发。最后，我慢慢摸索出了适合自己的分类方式。分类的不同框架，让我慢慢找到了笔记系统的秩序。
-
-* 我刚好阅读了《混乱：如何成为失控时代的掌控者》这本书。记录笔记的经历，我知道混乱给我带来的困扰，因此我带着批判的眼光看完这本书。书中提到，研究发现，循规蹈矩的生活效率更低。看来秩序之下，也有不少困扰，要不，我重新给混乱一次机会？
-
-###
-
-* 接受混乱？
-
-* 不同的软件，就像不同的房间，我进入其中，大脑自然清楚应该处理什么事情。
-
-* 我也有同样的用法。
-https://sspai.com/post/77642 [Email Body](https://files.todoist.com/tPsX8P5mnzSZaDYb_Wfgy4vgoO9Iu1Cd5D8HFo2cU460OCellNN867SP3CQfBdtP/by/21878347/as/file.html)
+        -  模板和秩序
+        - 我察觉到，笔记混乱来源之一，是每天在日记入口的大量闪念笔记记录。这些闪念笔记很难被凝练和复用。时间一长，很自然，就成为了整理的负担。一旦问题被说清楚，那么离解决问题，很可能就差临门一脚。对于闪念笔记的混乱，我的临门一脚，是用模板来约束过度发散的想法。
+        - 闪念笔记模板化。
+        - 我找了一个周末的时间，学习和了解了杜威十进制图书分类法，也翻阅了《中国图书馆分类法》。为了方便自己的查找，我把杜威十进制的具体分类，全部记录在 Heptabase 中。我在探索杜威十进制分类的时候，大受震撼，第一次在视觉层面上，直观感受到知识的广阔，要知道，这仅仅是分类。
+        - 了解图书馆分类法的过程中，我还学习了 P.A.R.A. 架构，也整理和记录了少数派的标签，试图找到一些分类的启发。最后，我慢慢摸索出了适合自己的分类方式。分类的不同框架，让我慢慢找到了笔记系统的秩序。
+        - 我刚好阅读了《混乱：如何成为失控时代的掌控者》这本书。记录笔记的经历，我知道混乱给我带来的困扰，因此我带着批判的眼光看完这本书。书中提到，研究发现，循规蹈矩的生活效率更低。看来秩序之下，也有不少困扰，要不，我重新给混乱一次机会？
+        - 接受混乱？
+        - 不同的软件，就像不同的房间，我进入其中，大脑自然清楚应该处理什么事情。
+        - 我也有同样的用法。
+        - https://sspai.com/post/77642 [Email Body](https://files.todoist.com/tPsX8P5mnzSZaDYb_Wfgy4vgoO9Iu1Cd5D8HFo2cU460OCellNN867SP3CQfBdtP/by/21878347/as/file.html)
     - [画格中的一年丨后浪漫的2022](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650238394&idx=1&sn=b5b3a163ee6e375b53f29cd423b7b2af&chksm=883c2893bf4ba1850b081b02f12be623af1f8dfc0590eb366d25a1d80724baf09f5055552cf5#rd)
         - Annotations:
-
-* 有些书可能在庞大的信息流中与你失之交臂，我们希望通过用这个年终总结的书单回顾这一年时，让你和它们再见一面！
-https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650238394&idx=1&sn=b5b3a163ee6e375b53f29cd423b7b2af&chksm=883c2893bf4ba1850b081b02f12be623af1f8dfc0590eb366d25a1d80724baf09f5055552cf5 [Email Body](https://files.todoist.com/UoVAaWTZf3zKMcCK82DZykRmOiviMydInbEE-99sCiR-x8gFLE6zoJsbKZqtTyDJ/by/21878347/as/file.html)
+        - 有些书可能在庞大的信息流中与你失之交臂，我们希望通过用这个年终总结的书单回顾这一年时，让你和它们再见一面！
+        - https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650238394&idx=1&sn=b5b3a163ee6e375b53f29cd423b7b2af&chksm=883c2893bf4ba1850b081b02f12be623af1f8dfc0590eb366d25a1d80724baf09f5055552cf5 [Email Body](https://files.todoist.com/UoVAaWTZf3zKMcCK82DZykRmOiviMydInbEE-99sCiR-x8gFLE6zoJsbKZqtTyDJ/by/21878347/as/file.html)
