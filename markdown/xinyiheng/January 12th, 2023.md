@@ -1,0 +1,9 @@
+- [[Inbox]]
+- Imported Quick Capture items:
+    - 从手机添加内容
+- #[[意识流笔记]] 
+    - 设置telegroam，依然没有成功。好像make这款自动化工具有一些办法，但懒得折腾
+    - 恢复roam和mindnode的联动，可以在roam中创建和快速打开同名的mindnode文件。
+    - 以后把正在读什么书也记录在roam的daily note中。
+    - 浏览邮件中的选题
+    - 阅读《何刚·财经大课》，对我的启发是，阅读财经类书籍，可以按照对几个重要问题的回答来组织书籍。

@@ -67,4 +67,4 @@ https://www.wikiwand.com/zh/%E5%A7%9A%E6%96%87%E5%85%83 [Email Body](https://fil
 https://www.wikiwand.com/zh/%E5%BC%A0%E6%98%A5%E6%A1%A5 [Email Body](https://files.todoist.com/xvtIQMJoBQOVo9GftljSfaK8IaVvVMIiMjMYQgS1WN-l3NapdqiimlCXQu3yfIVg/by/21878347/as/file.html)
 - #[[意识流笔记]] 
     - 查询邓小平时代一书中一些人物的履历。
-    - 
+    - #[[工作]] 填写《倾听的艺术》选题表
