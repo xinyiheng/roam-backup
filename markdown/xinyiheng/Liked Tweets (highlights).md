@@ -631,3 +631,108 @@ This book is for:
 
 Here are 5 common grant writing questions answered in the book: https://t.co/hRZ3V9kOeR ([View Tweet](https://twitter.com/BettySLai/status/1612832256883830786))
     - @CatoMinor3: We are arriving into a meta stage of note-taking: Plugins to manage plugins and apps to synchronize notes across many similar note-taking apps. https://t.co/VgeUq8E20M ([View Tweet](https://twitter.com/CatoMinor3/status/1613164982643867650))
+- ### New highlights added [[January 13th, 2023]] at 9:14 AM
+    - @VimLinks: If you're stuck on a code problem, this Neovim plugin... well, it won't help, but it might be a fun distraction: https://t.co/HqnJ9iUn2n https://t.co/Uw7ZeCPzir ([View Tweet](https://twitter.com/VimLinks/status/1613480875991130114))
+    - @Rainmaker1973: A demonstration of how the horizontal component of velocity remains constant 
+
+[explanation: https://t.co/RREe9s1laB]
+https://t.co/XXl4VPsFIq ([View Tweet](https://twitter.com/Rainmaker1973/status/1613524087598350337))
+    - @nalband: I couldn't fit all 44 visuals I made of Atomic Habits into the post I'm making for the @thunknotes blog. 
+
+I'll be sharing them here on Twitter soon. 
+
+![](https://pbs.twimg.com/media/FmR9bWEWIAICWqP.jpg) ([View Tweet](https://twitter.com/nalband/status/1613552480603803648))
+    - @zhangxinxu: 我写的小册昨天掘金上线了（https://t.co/NUx33jh62h ），一天功夫已经1000多人购买了，讲技术写作，也讲个人成长与职业发展，现在上新阶段，首购仅需要9块多钱，编辑大大看了都说学到了很多，有免费试读章节，可以看看是否对自己成长有所帮助。 
+
+![](https://pbs.twimg.com/media/FmR_amRacAMih8T.png) 
+
+![](https://pbs.twimg.com/media/FmR_arLaYAAZgjJ.png) ([View Tweet](https://twitter.com/zhangxinxu/status/1613554677232316418))
+    - @max__drake: designing AI tools for brainstorming sessions is interesting. this idea clusterer offloads the cognitive load of manual clustering to the AI, which can be helpful. but in this stage of brainstorming sessions, clustering is not the end goal, discussing ideas is https://t.co/XPrpfXnG61 ([View Tweet](https://twitter.com/max__drake/status/1613579115638001679))
+    - @jenszalai: Five years ago this week, I started my current job as a critic at the NYT. A pic of the ~250 books that I've reviewed so far: 
+
+![](https://pbs.twimg.com/media/FmR5O65WIAA8kyu.jpg) ([View Tweet](https://twitter.com/jenszalai/status/1613584076845486080))
+    - @Rainmaker1973: How the world has evolved over the last century in terms of:
+
+- Child mortality
+- Life expectancy
+- GDP
+- Women's education
+- Basic water source
+- Basic sanitation
+
+[charts by @toddrjones]
+https://t.co/E0TM4L9pSP ([View Tweet](https://twitter.com/Rainmaker1973/status/1613586586616352768))
+    - @_adamwiggins_: Loving Muse's new "Move to New Board" feature.
+
+Slicing up a sprawling board into sub-boards feels like refactoring my thinking! https://t.co/LmuKdTwRKz ([View Tweet](https://twitter.com/_adamwiggins_/status/1613619729754894336))
+    - @fortelabs: Great article by @danshipper on how advancements in AI are making organizing information obsolete
+
+I couldn’t agree more. Organizing was always a necessary evil needed to prepare information for use. Now it’s no longer necessary, so just evil 😈 
+
+https://t.co/thVcHrpT3y ([View Tweet](https://twitter.com/fortelabs/status/1613673368318005248))
+- ### New highlights added [[January 13th, 2023]] at 11:14 AM
+    - @OTerrifying: This oddly terrifying creature is called a Melibe Viridis, a sea slug commonly found throughout the tropical Indo-west pacific 😳 https://t.co/NQiAHoMo9A ([View Tweet](https://twitter.com/OTerrifying/status/1613373074052874240))
+    - @DashHuang: Airbnb的房子书房沿着街，每天窗外都是一群岁月静好的小妹光着脚跑过 https://t.co/7o8VLTeDIo ([View Tweet](https://twitter.com/DashHuang/status/1613374820603023361))
+    - @nishuang: 为什么用户会把小红书当做搜索引擎？
+
+1/
+
+这组推文挺有意思，讨论为什么小红书这样的社交APP，搜索效果反而好过传统搜索引擎谷歌，而推特也是社交APP、怎么就做不好搜索和推荐？
+
+https://t.co/LVJxyAZ94q
+
+原推说因为谷歌不知道用户看内容时的行为，所以不知道内容好坏、难以筛选搜索结果
+
+#设计入门 ([View Tweet](https://twitter.com/nishuang/status/1613392529009053703))
+    - @ghosTM55: Reddit 上看到的 3D 人口密度图，有意思 
+
+![](https://pbs.twimg.com/media/FmP1i_PacAE4IYW.jpg) 
+
+![](https://pbs.twimg.com/media/FmP1jilagAAU1C1.jpg) 
+
+![](https://pbs.twimg.com/media/FmP1kD8aUAAipoO.jpg) 
+
+![](https://pbs.twimg.com/media/FmP1koeaMAEkf0P.jpg) ([View Tweet](https://twitter.com/ghosTM55/status/1613403108817899521))
+    - @pascal_bornet: A homemade paper plane folding machine
+
+The whole automatic machine was made from parts from an old printer. Congratulations on the ingenuity!
+
+Would you try it?
+
+Credit:Lukas M. Ziegler
+#innovation #engineering #tech #automation https://t.co/5An87uAEJE ([View Tweet](https://twitter.com/pascal_bornet/status/1613425556850188289))
+    - @gunsnrosesgirl3: This rock glows 
+
+Most sodalite will fluoresce orange under UV light 
+
+Electromagnetic radiation (light from the UV flashlight) is absorbed which then re-emits radiation at a longer wavelength – in this case, the yellow glow
+https://t.co/gulFY7zBHS ([View Tweet](https://twitter.com/gunsnrosesgirl3/status/1613465192414732289))
+    - @wonderofscience: Almost all internet traffic is transmitted via submarine cables, which have a total length of around 1.3 million kilometers, or about three times the distance from the Earth to the Moon.
+
+Credit: Tyler Morgan-Wall
+https://t.co/bX6DjP0mNh ([View Tweet](https://twitter.com/wonderofscience/status/1613513625330749443))
+    - @Rayonapp: Creating beautiful layouts can be done in a fast and seamless way!* 
+(*When using the right software...)
+
+Try it out → https://t.co/7s0JokHCc6 https://t.co/J8HHUEQweY ([View Tweet](https://twitter.com/Rayonapp/status/1613521248327241728))
+    - @CurieuxExplorer: This is how the Panama Canal works 🚢
+
+🎥 sciencesetfree
+@Nicochan33 @jblefevre60 @HaroldSinnott @pascal_bornet @FrRonconi @labordeolivier @Shi4Tech @pierrepinna @mvollmer1 @Ym78200 @gvalan @KanezaDiane @fogle_shane @Dahl_Consult @RLDI_Lamy @Analytics_699 #technology #Engineering https://t.co/Vu7vA5wzIC ([View Tweet](https://twitter.com/CurieuxExplorer/status/1613526550556848130))
+    - @nishuang: 怎么把平面的三视图，瞬间变成 3D 模型，然后用 AR 增强现实的方式显示出来
+
+图像识别的效果看似很不错！不知道这是什么人开发的什么软件，看起来像是 demo
+
+视频来源见粗体小字
+
+ https://t.co/U1bthUdr3d ([View Tweet](https://twitter.com/nishuang/status/1613527100329271297))
+    - @ronithhh: I’ve been building an AI-powered document reader.
+
+First feature is fast semantic search over any PDF (even entire books!)
+
+You can ask an abstract question and get direct quotes that answer it. https://t.co/oVDl9NfdxE ([View Tweet](https://twitter.com/ronithhh/status/1613662193974923264))
+- ### New highlights added [[January 13th, 2023]] at 1:56 PM
+    - @CurieuxExplorer: Meanwhile in #Cyber Riga 2035 🤖
+
+🎥 indie_vfx
+@jblefevre60 @Nicochan33 @mvollmer1 @Shi4Tech @GlenGilmore @chboursin @FrRonconi @PawlowskiMario @gvalan @KanezaDiane @RLDI_Lamy @Ym78200 @kalydeoo @BetaMoroney @Analytics_699 #VFX #CGI #technology #Robots #AR #NFTs #nftart #IoT https://t.co/7ZxGZk8Jz4 ([View Tweet](https://twitter.com/CurieuxExplorer/status/1613533429840384003))
