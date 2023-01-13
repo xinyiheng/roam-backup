@@ -736,3 +736,9 @@ You can ask an abstract question and get direct quotes that answer it. https://t
 
 🎥 indie_vfx
 @jblefevre60 @Nicochan33 @mvollmer1 @Shi4Tech @GlenGilmore @chboursin @FrRonconi @PawlowskiMario @gvalan @KanezaDiane @RLDI_Lamy @Ym78200 @kalydeoo @BetaMoroney @Analytics_699 #VFX #CGI #technology #Robots #AR #NFTs #nftart #IoT https://t.co/7ZxGZk8Jz4 ([View Tweet](https://twitter.com/CurieuxExplorer/status/1613533429840384003))
+- ### New highlights added [[January 13th, 2023]] at 4:34 PM
+    - @fortelabs: Don't take notes on all the things you already believe and know 
+
+The point is to change your mind 
+
+Take notes on what's surprising, provoking, moving, and inspiring ([View Tweet](https://twitter.com/fortelabs/status/1613785486077599744))
