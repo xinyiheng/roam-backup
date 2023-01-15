@@ -1,0 +1,51 @@
+- Imported Quick Capture items:
+    - 睡眠 | TopbookPro_哔哩哔哩_bilibili
+        - Annotations:
+            - 守则（一）遵守规律的睡眠时间；  
+            - 守则（二）远离咖啡因、尼古丁；  
+            - 守则（三）多运动，但睡前两小时不运动；  
+            - 守则（四）避免睡前饮酒；  
+            - 守则（五）睡前少吃食物和饮水；  
+            - 守则（六）避免睡前服用干扰睡眠的药物；  
+            - 守则（七）睡前放松身心；  
+            - 守则（八）睡前洗个热水澡；  
+            - 守则（九）下午三点之后不要睡觉；  
+            - 守则（十）白天适当晒太阳；  
+            - 守则（十一）卧室要暗，温度要低；  
+            - 守则（十二）睡不着的时候不要躺床上；
+            - https://www.bilibili.com/video/BV15K4y1o7BE/?zw&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/2k80BJxTX247dncTK17btPOQ1BgMs7YmLahnnSJGmfzA9XNCSraUw1OxGwGMI1Sq/by/21878347/as/file.html)
+    - 选择的悖论 短评
+        - Annotations:
+            - 基本上用一句谚语就能概括全书内容：天上下着毛毛雨，人家坐车我骑驴，回头一看那推车的汉，比上不足可比下还有余。
+            - 所有局限和节制都有助于增进我们的幸福。我们的视线、活动和接触的圈子越狭窄，我们就越幸福；范围圈子越大，我们感受到的焦虑或者担忧就越多。——叔本华。
+            - 断舍离告诉你要少选，选择的悖论告诉你如何少选而又不后悔。
+            - 心理学常识串讲：峰终效应、适应、归因、期望等等。如果对这些概念有点了解的话，看第十一章提出的十一个方法就够了；如果时间紧迫，看前言中的五条原则就行；如果只有三秒时间，就听听赫伯特·西蒙的这句话：不要追求最优解，满意解就很好。
+            - https://book.douban.com/subject/21346249/comments/ [Email Body](https://files.todoist.com/ySOPBelHX0m9_OGgbdkn8_CU5cessqzBOFoecMM_O3FjUq2ylUTkfxHLG95daCqD/by/21878347/as/file.html)
+    - Inoreader - 考研时代
+        - Annotations:
+            - 从2016年开始，我国硕士研究生报考人数在高位上保持增长趋势。2015年-2022年的7年，硕士研究生报考人数年平均增长为15.8%。很难不说，这是一个考研的时代。
+            - 很难有哪个时代比今天更称得上是一个「考研」的时代。考研，甚至不再像是个人选择，而是一种集体趋同。
+            - 2022年年末的这场考试颇具挑战性。受疫情影响，考生们受到各种各样的干扰，根据已公布的数据，弃考率最高的地区广东省，26.3万报名人数里有5万人没有参加考试，弃考率达到19%。另一方面，今年考研人数再创新高。457万人报名，比上年增长80万，增幅为21%，这些数字史无前例。
+            - Tags: 金句
+            - https://www.inoreader.com/article/3a9c6e75e5367331- [Email Body](https://files.todoist.com/gUwYULCAdI9Lx0E4ax4wG-gWZ42Hly3DJduMajNkHnbKYuQPmifLtjhlmJq_2mR7/by/21878347/as/file.html)
+    - [官宣！广东12.8万亿，山东8.7万亿，河南6万亿，四川湖北福建争战5万亿](https://mp.weixin.qq.com/s?__biz=MzUyMTI0MDkxMg==&mid=2247501197&idx=1&sn=4e115cd1dea9245305c141432b677ca4&chksm=f9dcadb2ceab24a4124cd4454bfd7f00fde4b4e9832b95a8e6782821367e2b125c42e4fc816f#rd)
+        - Annotations:
+        - 以2022年人民币平均汇率6.7261计算，广东GDP总量达1.90万亿美元，超过俄罗斯、韩国等90%的国家，位列全球第十大经济体。
+        - 在全球百年未有之大变局之下，全球通胀叠加地缘冲突，带动大宗商品价格暴涨，以能源、化工为支柱产业的省份，无一不从中受益。
+        - 山西、内蒙古的名义GDP狂飙突进，山东同样受益于此。
+        - 截至2022年，山东共有制造业单项冠军企业186家，仅次于浙江，超过广东、江苏，位居全国第二。
+        - 四川、湖北、福建、湖南：5万亿俱乐部之争
+        - 谁能坐稳第6经济大省？
+        - 根据各地官方发布的预计数据，2022年四川GDP突破5.6万亿，稳居全国第6位。
+        - 在四川之后，湖北2022年GDP� �比增长4.7%，增速在5万亿大省位居第一，拉近了与四川之间的距离。
+        - 与此同时，福建官宣GDP首破5万亿，而湖南表示逼近5万亿大关。
+        - https://mp.weixin.qq.com/s?__biz=MzUyMTI0MDkxMg==&mid=2247501197&idx=1&sn=4e115cd1dea9245305c141432b677ca4&chksm=f9dcadb2ceab24a4124cd4454bfd7f00fde4b4e9832b95a8e6782821367e2b125c42e4fc816f [Email Body](https://files.todoist.com/TQS2L1o1uDRcMwwd4g0q1eL5HyfyXSlXgY-HItIUsfRUjBLmCzx0ZvZGOif5QXR4/by/21878347/as/file.html)
+    - 这所仅次于哈佛的名校“塌房”，全美第二变第18，学生心态崩了吗？_腾讯新闻
+        - Annotations:
+            - 作为一所海内外许多学生心中的“梦校”，中国人牢牢占据哥大国际生名额的榜首，2019年时有8857个中国学生在册，是第二名印度学生的八倍。
+            - 大学排名是现代意义的产物，最早开始于1983年《美国新闻与世界报道》，后来逐渐发展与扩张，成为我们现在所见的、眼花缭乱的各类排名。
+            - https://new.qq.com/rain/a/20220925A01Y1B00 [Email Body](https://files.todoist.com/2hilCSKDly0UIy9bSEhaYDn05yTiws8YIsBfngNJucW61cNFlTFdkeww6zC--93i/by/21878347/as/file.html)
+- #[[意识流笔记]] 
+    - 周末在家打扫卫生。把厨房的门拆掉了，然后铺上了我买的地板革。
+    - 晚上和麻豆一起在餐桌上看书学习。这是一个值得坚持的好习惯。
+    - 决定在得到上进行读书挑战，每周4天，每天10分钟。
