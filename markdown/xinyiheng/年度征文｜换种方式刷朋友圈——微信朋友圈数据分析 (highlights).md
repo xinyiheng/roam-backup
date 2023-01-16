@@ -1,0 +1,6 @@
+- Author:: [[TomBen]]
+- Full Title:: 年度征文｜换种方式刷朋友圈——微信朋友圈数据分析
+- Category:: #articles
+- URL:: https://sspai.com/post/77815
+- ### Highlights first synced by #Readwise [[January 16th, 2023]]
+    - [张小龙称](https://www.jiemian.com/article/2779633.html)「可能有两亿以上的用户朋友圈设置三天可见」，并称「我们鼓励用户去设置三天可见，希望这样子使得他更加勇敢的去发朋友圈」，可是这二者的因果关系是存在的吗？难道不是因为用户不太喜欢发朋友圈、不想让他人看见自己过去所发的内容，才设置为三天可见吗？而喜欢发朋友圈的人，往往会很大方地向他人展示自己的过往。不得不说，每天 [一亿人教张小龙做产品](https://sspai.com/link?target=https%3A%2F%2Fwww.huxiu.com%2Farticle%2F280552.html) 不是没有原因的。 ([View Highlight](https://read.readwise.io/read/01gpwwa9ha8fn42z4q69tzzc9v))

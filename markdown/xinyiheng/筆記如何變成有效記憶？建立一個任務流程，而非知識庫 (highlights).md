@@ -1,0 +1,6 @@
+- Author:: [[Esor Huang]]
+- Full Title:: 筆記如何變成有效記憶？建立一個任務流程，而非知識庫
+- Category:: #articles
+- URL:: https://www.inoreader.com/article/3a9c6e75e2cef05e-
+- ### Highlights first synced by #Readwise [[January 16th, 2023]]
+    - 我認為最關鍵的部分，就是有效的筆記、有效的學習應該同時包含三部分：「思考、執行、記憶」。
