@@ -742,3 +742,27 @@ You can ask an abstract question and get direct quotes that answer it. https://t
 The point is to change your mind 
 
 Take notes on what's surprising, provoking, moving, and inspiring ([View Tweet](https://twitter.com/fortelabs/status/1613785486077599744))
+- ### New highlights added [[January 16th, 2023]] at 9:15 AM
+    - @cnjunyi: Whiteboard x Card = 💡
+Whiteboard x Outliner Block = 🚀🚀🚀
+
+Visual thinking is happening in #Logseq Whiteboard. 
+
+![](https://pbs.twimg.com/media/FlzqachaAAAMKwt.jpg) ([View Tweet](https://twitter.com/cnjunyi/status/1611427679500390400))
+    - @dustise: 哈哈已经在闺女面前炫耀了 https://t.co/YazhN5IEkg ([View Tweet](https://twitter.com/dustise/status/1614467217101565953))
+    - @fortelabs: Over the next few years we’re going to see a wave of creators publishing books
+
+Their audiences are reaching the size necessary to land major publishing deals and hit the bestseller lists
+
+Time for old media disruption 😎 ([View Tweet](https://twitter.com/fortelabs/status/1614470597433790466))
+    - @Rainmaker1973: The Wolkswagen facility in Wolfsburg has two cars silos towers: each one is 60 meters tall and houses 400 cars and are the heart of vehicle delivery at the Autostadt. This sped up clip shows how the cars are stored
+
+[read more: https://t.co/xcnahLk3se]
+https://t.co/lHjHFUUm9w ([View Tweet](https://twitter.com/Rainmaker1973/status/1614581478532202496))
+    - @Rainmaker1973: This machine harvests the radish using belts that grip the radish from the foliage and pulls it out of the soil so that it can then be transported to the cutting device
+
+[read more: https://t.co/BjFBbzgnas] 
+[source: https://t.co/7l4kV5JnEf]
+https://t.co/t9gdTGWQcK ([View Tweet](https://twitter.com/Rainmaker1973/status/1614625692410384387))
+    - @TechBurritoUno: A table that exemplifies the ultimate in dining luxury.
+Credit: Georgejohnsonfurniture  https://t.co/P6mrXxKcYy ([View Tweet](https://twitter.com/TechBurritoUno/status/1614755896000712711))
