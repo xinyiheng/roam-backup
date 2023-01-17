@@ -1,0 +1,5 @@
+- Author:: [[help.diigo.com]]
+- Full Title:: Getting Started With Diigolet - Diigo Help
+- Category:: #articles
+- Document Tags:: #[[Diigo]] #[[diigolet]]
+- URL:: http://help.diigo.com/no-toolbar-simple-diigolet/getting-started-with-the-diigolet?k=883a1988700478dab7498dc633e548f1

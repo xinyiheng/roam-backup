@@ -1,0 +1,5 @@
+- Author:: [[help.diigo.com]]
+- Full Title:: Getting Started With Chrome Extension - Diigo Help
+- Category:: #articles
+- Document Tags:: #[[Chrome]] #[[Diigo]]
+- URL:: http://help.diigo.com/how-to-use-chrome-extension/getting-started-chrome-extension?k=1cdfc5f8864e5b62d31b09cb2d9bd28c

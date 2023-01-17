@@ -45,6 +45,12 @@
             - repetitions:: 1
             - grade:: 5
     - roam memo加入的内容太多的话确实会roam变得很卡顿。如果每天复习的内容超过100个，那么daily note打开速度明显就会变慢。虽然很舍不得，但我还是把它删除了。间隔复习还是要做，看看怎么实现吧。先开始做起来再改进。这个插件还可以使用，但要注意每天添加的内容不能太多。#[[memo]] 
+        - [[January 17th, 2023]] 🟢
+            - nextDueDate:: [[February 16th, 2023]]
+            - eFactor:: 2.6
+            - interval:: 30
+            - repetitions:: 4
+            - grade:: 5
         - [[January 5th, 2023]] 🔵
             - nextDueDate:: [[January 17th, 2023]]
             - eFactor:: 2.5

@@ -6,3 +6,12 @@
     - 赛里木湖
     - 赛里木湖新疆海拔最高、面积最大的高山湖湖面海拔 2071.9 米，东西长 30 公里南北宽 25 公里面积 453 平方公里，平均水深 46.4 米最深处达 106 米
         - **Note**: 真是高山上的明珠。
+- Author:: [[alanchan1209.notion.site]]
+- Full Title:: Notion – The All-in-One Workspace for Your Notes, Tasks, Wikis, and Databases.
+- Category:: #articles
+- URL:: https://alanchan1209.notion.site/How-to-use-Heptabase-82fe296ef3544e549f51210c4a645613
+- ### Highlights first synced by #Readwise [[January 16th, 2023]]
+    - 在首頁，我會調整每個白板的長寬，將它們排版成世界地圖的形狀。舉例來說，所有跟我的公司有關的白板都被我放在地圖中的「加拿大」。商業研究放在西邊，產品研究放在北邊，用戶研究放在南邊，個人想法放在東邊。
+    - 這樣做的好處是我可以更好地記住每個白板的位置。每次我點進一個白板裡，就會強化一次我對這個白板所在位置的視覺記憶。當我的白板數量變多時，這種「記憶宮殿」式的資訊整理方式將會讓我找白板變得像在 Google Map 上找地點一樣有效率。
+    - 打造知識地圖
+    - How to use Heptabase

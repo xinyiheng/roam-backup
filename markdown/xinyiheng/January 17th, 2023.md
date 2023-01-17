@@ -1,0 +1,13 @@
+- Imported Quick Capture items:
+    - [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://readwise.notion.site/readwise/Reader-Filtering-Guide-d4b249df2eaa492283099ec2a3551640)
+    - [谷歌真急了，推DeepMind撑场！700亿参数Sparrow硬刚ChatGTP](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652283772&idx=1&sn=5feefd9419cc8e5bcb573e93e47655b8&chksm=f125d78dc6525e9be95a5b19d2bbc95f22563d465ca4792eca25be27934556d0da5f690cd4b4#rd)
+        - Annotations:
+        - * 曾经的谷歌广告团队负责人Sridhar Ramaswamy也表示，ChatGPT再这么火下去，网友们就不会再点击带有广告的谷歌链接了。
+        - 要知道，在2021年，广告业务为谷歌狂挣了2080亿美元，占Alphabet总收入的81%。
+        - ### 陷入「创新者困境」
+        - Decoder的记者Matthias Bastian认为，除了对「声誉风险」的担忧，更合理的原因是，谷歌恐怕陷入了「创新者的困境」。
+        - 而ChatGPT的背后，是金主爸爸微软，而微软拥有丰富的收入来源，目前还能支持ChatGPT这样烧下去。
+        - 但谷歌却不同，它所有的收入几乎都来自于广告。因此，如果没有广告收入，谷歌搜索引擎的价值就会大大降低。
+        - 可是假如用户靠着聊天机器人能直接得到答案，而不需要在列表中翻找，搜索引擎的付费业务生态就直接被破坏了。
+        - 这个几千亿美元的蛋糕，谷歌敢冒险砸掉吗？
+        - https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652283772&idx=1&sn=5feefd9419cc8e5bcb573e93e47655b8&chksm=f125d78dc6525e9be95a5b19d2bbc95f22563d465ca4792eca25be27934556d0da5f690cd4b4 [Email Body](https://files.todoist.com/WUfRcfaWm2gB4Tz8mV_s3Jrr5IK7yMsuTQMrh_OMcv3_ElOxEyezIHpZ8wnSltwp/by/21878347/as/file.html)
