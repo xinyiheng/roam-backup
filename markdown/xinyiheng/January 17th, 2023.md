@@ -12,14 +12,57 @@
         - 可是假如用户靠着聊天机器人能直接得到答案，而不需要在列表中翻找，搜索引擎的付费业务生态就直接被破坏了。
         - 这个几千亿美元的蛋糕，谷歌敢冒险砸掉吗？
         - https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652283772&idx=1&sn=5feefd9419cc8e5bcb573e93e47655b8&chksm=f125d78dc6525e9be95a5b19d2bbc95f22563d465ca4792eca25be27934556d0da5f690cd4b4 [Email Body](https://files.todoist.com/WUfRcfaWm2gB4Tz8mV_s3Jrr5IK7yMsuTQMrh_OMcv3_ElOxEyezIHpZ8wnSltwp/by/21878347/as/file.html)
-    - 得到APP - 知识就是力量，知识就在得到
+    - 《焦点》衰退倒计时：收益率曲线倒挂意味什么 | Reuters
         - Annotations:
 
-* 》
+*   * **什么是美债收益率曲线？**
+
+收益率曲线是所有期限的公债收益率连成的曲线，从一个月期国库券到30年期长债。公债是指美国联邦政府发售的债券。
+
+在正常情况下，它是向上倾斜的曲线，因为债券投资者持有期限越长的公债就会承担更多的附加风险，期望获得更多补偿。
+
+当曲线的远端远高于近端时，曲线就被称为陡峭。此时，30年期公债的收益率远高于两年期公债。
+
+当间“利差”很窄时，它被称为平坦曲线。例如，在这种情况下，10年期公债收益率可能只是略高于三年期公债。
+
+* **何谓曲线倒挂？**
+
+在极少数情况下，部分或整条收益率曲线不再呈上升的斜率。当短券收益率高于长券时就会发生这种情况，称为曲线倒挂(反转)。
+
+* 过去50年每逢经济衰退前，美国收益率曲线都会出现倒挂，期间只有一次是误报。
+
+* 当短债收益率攀升超过较长期公债，即预示短期借款成本要高于较长期借款。
+
+在这种情况下，企业经常会发现运营成本升高，高管们便倾向于放慢甚至是搁置投资。消费者借款成本亦攀升，由此占美国经济活动三分之二以上的消费支出便会放缓。
+
+* **两年期-10年期收益率曲线为何重要？**
+
+两年期美国公债对利率变化非常敏感，它与10年期公债之间的收益率之差向来是市场参与者的关注焦点，其中许多人可能不交易期限更短的国库券。该利差是一项可靠的指标，可预警一到两年后可能出现的经济衰退。
+
+* 不过，三个月期国库券与10年期公债之间的收益率曲线被更多人当作预测未来经济疲软的指标，因为美联储认为这段曲线比其他部分曲线更能准确预示衰退。
+
+同时，旧金山联储去年发表的一份经济论文认为，这段曲线在预测未来12个月经济陷入衰退方面更为精准。
 
 
 
-https://www.dedao.cn/knowledge/note/detail?id=ZPy0b7x3684GzZ2zomMd3n4RgNJwVo [Email Body](https://files.todoist.com/Cd_9GOg26SSAF-9bmtxHqapQzkpK2uUxLAcD-SZpR7BWGY48B0QVdc0CZ2PPhkf3/by/21878347/as/file.html)
+https://www.reuters.com/article/us-bond-yield-inverted-
+curve-0814-idCNKCS1V406O [Email Body](https://files.todoist.com/o2s4DgcDZsRQZvk-BoqB1laicAVaD4keiBohqmLyy25dttwEe0kzqHSsf_KI-KIV/by/21878347/as/file.html)
+    - 美联储12月纪要：与会者均未表示2023年可开始降息_世界频道_财新网
+        - Annotations:
+
+* 美联储12月纪要：与会者均未表示2023年可开始降息
+
+* 大多数美联储官员表示2023 年联邦基金利率预计上调至5%至 5.5%的峰值水平，并维持至 2024年，而投资者之前的预期为略低于5%，该水平也高于9月时 4.6%左右的预计水平。
+
+* 自2022年3月起，美联储持续专注加息以应对高企的通胀，加息节奏也保持得较为激进。随着通胀在近几月持续放缓，且加息对经济的影响逐渐体现，市场对美联储之后的加息之路讨论纷纷。
+
+自2022年6月CPI同比涨幅到达9.1%的峰值后，此后几个月的CPI同比涨幅持续回落，11月已降至7.1%。
+
+在连续四次加息75个基点后，美联储在12月议息会议上加息50个基点，将联邦基金利率的目标区间提高至4.25%—4.50%。
+
+
+
+https://international.caixin.com/2023-01-05/101985453.html?cxw=Android&Sfrom=More&originReferrer=Androidshare [Email Body](https://files.todoist.com/EIJcswFabfGS0JMqbA4wI2zLrdT2HD4QXk2aJ9Kzs2QMm1UW3KL7FIryo1bIfuRQ/by/21878347/as/file.html)
 - #[[意识流笔记]]
     - 梳理自己每天阅读的信息源 #[[srs/cloze-g]]
         - {c1:信息流类}的阅读资料
@@ -53,3 +96,4 @@ https://www.dedao.cn/knowledge/note/detail?id=ZPy0b7x3684GzZ2zomMd3n4RgNJwVo [Em
     - 自从roam research有了间隔记忆功能以后，就没有必要保留remnote了。不要再仅仅因为UI增加使用新的软件。
     - 获取一些得到上的课程。不太愿意购买新课程了，但有些值得参考。
     - 整理百度网盘内容
+    - 专心把滴答清单中的收集箱清空
