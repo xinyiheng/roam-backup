@@ -1,0 +1,10 @@
+- Author:: [[Paul from Kosmik]]
+- Full Title:: Making a Web Browser
+- Category:: #articles
+- URL:: https://www.inoreader.com/article/3a9c6e75d9ef1f27-making-a-web-browser
+- ### Highlights first synced by #Readwise [[January 17th, 2023]]
+    - Browsers haven’t fundamentally changed in the past 30 years. Tabs were invented in 1998 by Adam Stiles in SimulBrowse. The first “commercial” web browser, Mosaic, came out in 1993. And if you count “WorldWideWeb” (which you should) from Tim Berners Lee, it really started in 1991.
+    - Compare that to Kosmik. Each web page is a card on an infinite canvas that you can move, resize, overlap or link to another page. Because you’re not in the page but above the page, your workflow takes on another dimension. You can read several articles in parallel, create a trail of your researches by dropping a link on the canvas and add notes on top of web pages by using text boxes or sticky notes (we think that the browser + canvas combination can finally unlock a meta-layer for notes).
+    - Tim Berners Lee original proposal, Information Management: a proposal, the web was conceived as a place to read, but also to create and build on top of others people work. WorldWideWeb on NextStep, Mosaic or Nextscape all offered tools to edit or create web pages. In the late 90’s Apple even introduced “Claris HomePage”, a package to visually build websites for users that didn’t know html
+    - Making the browser multiplayer What if you could browse the web with your colleagues ? Show them something in a page and then directly highlight it and put it on the canvas? Here’s a brief demo of the very early tests of our multiplayer mode:
+    - It will become possible to review metrics in a dashboard together while adding notes and ink for other team members. To write a memo while having the necessary information at hand. To share documents with all of their evolutions and sources live!

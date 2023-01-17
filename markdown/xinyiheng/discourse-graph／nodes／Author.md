@@ -1,5 +1,0 @@
-- Format
-    - AUT - {content}
-- Shortcut
-    - A
-- Template

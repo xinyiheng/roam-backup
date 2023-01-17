@@ -1,9 +1,0 @@
-- Index
-    - query
-- Format
-    - 主张 - {content}
-- Shortcut
-    - Z
-- Template
-    -  
-- Attributes

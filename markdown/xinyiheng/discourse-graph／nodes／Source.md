@@ -1,5 +1,0 @@
-- Format
-    - SOU - {content}
-- Shortcut
-    - S
-- Template

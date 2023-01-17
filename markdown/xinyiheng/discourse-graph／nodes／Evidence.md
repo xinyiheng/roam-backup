@@ -1,5 +1,0 @@
-- Format
-    - EVD - {content}
-- Shortcut
-    - E
-- Template
