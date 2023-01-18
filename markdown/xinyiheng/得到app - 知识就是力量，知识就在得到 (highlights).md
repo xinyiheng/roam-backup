@@ -1,0 +1,6 @@
+- Author:: [[dedao.cn]]
+- Full Title:: 得到app - 知识就是力量，知识就在得到
+- Category:: #articles
+- URL:: https://www.dedao.cn/knowledge/note/detail?id=ZPy0b7x3684GzZ2zomMd3n4RgNJwVo
+- ### Highlights first synced by #Readwise [[January 18th, 2023]]
+    - 》

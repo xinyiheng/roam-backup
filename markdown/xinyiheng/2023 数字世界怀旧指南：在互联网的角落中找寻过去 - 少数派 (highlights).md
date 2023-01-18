@@ -1,0 +1,16 @@
+- Author:: [[SuperJerry]]
+- Full Title:: 2023 数字世界怀旧指南：在互联网的角落中找寻过去 - 少数派
+- Category:: #articles
+- URL:: https://sspai.com/post/77882
+- ### Highlights first synced by #Readwise [[January 18th, 2023]]
+    - 自 1960 年起，美国锁眼军事侦察卫星拍摄了作为冷战敌国的中国的高清卫星图片，范围几乎覆盖中国全境。部分照片已分三批解密，并在[美国地质调查局网站](https://sspai.com/link?target=https%3A%2F%2Fearthexplorer.usgs.gov%2F)开放下载。这些半个世纪前的珍贵历史影像就这样戏剧性地由冷战敌国提供给了我们。
+    - [World Imagery Wayback](https://sspai.com/link?target=https%3A%2F%2Flivingatlas.arcgis.com%2Fwayback) 是一家收录卫星地图历史存档的网站。网站操作简便，覆盖全球，拍摄时间在 2010 年后。
+        - **Note**: 把资源变成一个项目
+    - 卫星地图：穿过半个世纪的烟云
+    - 「天地图」也称「国家地理信息公共服务平台」，是由国家测绘地理信息局建设的地理信息综合服务网站。这种方法相较而言要简便得多，但覆盖不全。七十周年国庆时推出的[「地图看发展」专题](http://xzgcl70.tianditu.gov.cn/) 提供了安徽、山西、黑龙江、江苏、福建、山东、广西、浙江、天津 9 省区的历史卫星图像，可以使用卷帘视图查看。
+    - 是我在 [7788 收藏网站](https://sspai.com/link?target=https%3A%2F%2Fwww.997788.com%2F) 上随手截的图：
+    - 其他类型的老物件不同，手机作为现代生活的核心工具，自然少不了隆重的历史记录。[手机博物馆](https://sspai.com/link?target=https%3A%2F%2Fwww.mobilephonemuseum.com%2F)就是一个专门历史上各类手机的网站，种类超过 2500 款，诺基亚专区里总会有几款机型击中你的回忆。
+    - 既然提到手机博物馆，自然不得不提[电脑博物馆](https://sspai.com/link?target=https%3A%2F%2Fwww.compumuseum.com%2Findex.html)了。这是一家在线电脑模拟器网站，收集了各类历史上著名的电脑平台。
+    - [孔夫子旧书](https://sspai.com/link?target=https%3A%2F%2Fwww.kongfz.com%2F)是爱书人耳熟能详的宝藏网站。不少品相完好的老书（尤其是老课本）既是一代人的童年记忆，也是时代的重要见证。
+    - 互联网上收集分享老照片的账号为数不少，例如上面提到的[@老照片bot](https://weibo.com/u/6767321459)、Twitter 上的[@tongbingxue](https://sspai.com/link?target=https%3A%2F%2Ftwitter.com%2Ftongbingxue)、Instagram 上的[@beijing\_silvermine](https://sspai.com/link?target=https%3A%2F%2Fwww.instagram.com%2Fbeijing_silvermine%2F) 等等。还有一些专门展示历史照片的网站，例如[天下老照片网](https://sspai.com/link?target=http%3A%2F%2Fwww.laozhaopian5.com%2F)、[中国历史照片](https://sspai.com/link?target=https%3A%2F%2Fhpcbristol.net%2F)等。
+    - 也有一些网站在坚持记录着互联网，例如记录微博热搜的[热搜时光机](https://sspai.com/link?target=https%3A%2F%2Fwww.weibotop.cn%2F2.0%2F)、[微博热搜搜索引擎](https://sspai.com/link?target=https%3A%2F%2Fweibo.zhaoyizhe.com%2F)等。分析过去的热搜如今有没有被夹应该是个挺有意思的事情。

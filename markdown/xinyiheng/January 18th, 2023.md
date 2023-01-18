@@ -108,6 +108,12 @@ https://sspai.com/post/77861 [Email Body](https://files.todoist.com/aPR2xePpMUG3
     - 其他图解_中国政府网
         - Tags: [[图解]]
         - http://www.gov.cn/xinwen/tujie/qita.htm [Email Body](https://files.todoist.com/-XUzW5QGXFlZhIZqCf_0H50dYUrRr0lPJ8vsVyH5fKhzq1kE5Y1GZIeqA3x2WR1R/by/21878347/as/file.html)
+    - WantQuotes 据意查句
+        - Tags: 文案
+
+
+
+https://wantquotes.net/ [Email Body](https://files.todoist.com/TaTKtlOhpHzeBlOryD_oPpP7x0cbr-NfTkFEiRzj92D0ZIuRmlMmrW3HHH-jtZP-/by/21878347/as/file.html)
 - #[[意识流笔记]]
     - 用简悦的插件阅读得到课程的内容还是不错的，界面也很好，而且标注的内容可以自动复制到剪贴板。
     - 上午尝试进行主题阅读，根据自己的问题来查询阅读资料。这样，阅读材料就终于和自己有关联了。

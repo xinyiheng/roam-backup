@@ -804,3 +804,31 @@ https://t.co/LeSQPTEvqF https://t.co/heFJX1xkp1
 
 ![](https://pbs.twimg.com/media/FmvFbNPaEAILMJ5.png) ([View Tweet](https://twitter.com/Tisoga/status/1615601998279368709))
     - @hardmaru: Three years after NeRF was born at Google Research, we see it used in McDonalds TV commercials: https://t.co/r47uu6grrI ([View Tweet](https://twitter.com/hardmaru/status/1615620780498485250))
+- ### New highlights added [[January 18th, 2023]] at 11:24 PM
+    - @Jimmy_JingLv: 2022年无疑是过去10年中投资体验最糟糕的一年——股债双杀。
+在股票基金超过20%跌幅的同时，债券基金也在年底遭遇快速下跌，收益率创下近6年新低。
+
+https://t.co/E0ZheBiq51 
+
+![](https://pbs.twimg.com/media/FlSrGiTaYAIBhgt.jpg) ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1609099220665118720))
+    - @nishuang: 在世界上最大的商店里实现了 AR 增强现实的导航
+
+UX 设计有亮点：从地图模式切换到 AR 模式时，体验特别自然流畅，模式切换很自然地、很直观地吻合了手的动作、眼睛观察的角度
+
+AR 导航时屏幕下面保留一个小地图，也是贴心设计，比那些炫技的纯 AR 导航更易用
+
+#设计参考 https://t.co/0dWrA7yTlQ ([View Tweet](https://twitter.com/nishuang/status/1615518754477117441))
+    - @tualatrix: 昨天 Apple 发布新的 M2 Pro/Max 系列的 MacBook Pro 了：
+
+M2 Pro 居然还比 M1 Pro 多了两个核，多的是能效核心，而不是性能核心，总体性能提升 20% 的情况下还更省电了。又是一个不错的迭代！ 
+
+![](https://pbs.twimg.com/media/Fmt_nhMaEAA0T72.jpg) ([View Tweet](https://twitter.com/tualatrix/status/1615525215093788672))
+    - @nishuang: 怎么学习神奇的照片后期制作秘诀
+
+这位设计师在 Youtube 上分享摄影后期教程，教你学操作，教你怎么锻炼出有审美的眼睛和大脑
+
+我更喜欢他在推特上发的简述，比如下面的例子，简单几招教你把左边普通照片，变成右边复古、神秘、迷人的作品
+
+所有设计入门方法里，摄影应该是最简单的一种😎
+
+#设计入门 https://t.co/wWYju6wRIj ([View Tweet](https://twitter.com/nishuang/status/1615579213884690433))

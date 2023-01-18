@@ -1,0 +1,9 @@
+- Author:: [[HanZhu]]
+- Full Title:: Ces 2023 小记：新科技串起的未来一天 - 少数派
+- Category:: #articles
+- URL:: https://sspai.com/post/77861
+- ### Highlights first synced by #Readwise [[January 18th, 2023]]
+    - 今年 CES 上佳能带来的 [AMLOS 摄像头](https://sspai.com/link?target=https%3A%2F%2Famlosgetcreative.com%2F)，就能帮助企业把远程会议和现场会议完美地结合在一起。通过手势操控，AMLOS 能够自动捕捉会议室白板上的内容，经过角度转换，完美展示在屏幕上，从而方便远程与会者阅读。
+    - 三星也带来了推出的会拍照的智能烤箱。为了解决「不是没熟就是焦了」的最佳烘烤时长难题，这一新款烤箱能够实时拍摄烤箱内的食物，和云端数据库进行相似度比对，如果判断已经到达最佳烘烤效果，就自动结束烘烤。
+    - 博主是硬件产品经理么？感觉这篇文章很引人入胜，读起来很有代入感，有场景、有需求、有用户、有产品，向您学习！
+    - 智能枕头 [Motion Pillow](https://sspai.com/link?target=http%3A%2F%2Fwww.motionpillow.com%2Fen%2Fhome.do) 为老大难的打呼噜问题提出了一种新解法：当监测到环境中有来自用户的呼噜声时，它就会在相应位置自动充气，从而更柔缓地帮助用户调整睡姿，从仰卧态进入到侧卧态。这样，就能最大程度上地打开呼吸道，有效减少打鼾。
