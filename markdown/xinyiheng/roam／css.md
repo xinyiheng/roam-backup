@@ -7,7 +7,10 @@
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue){
   margin:10px 20px 10px 10px;
 }
-
+/*修改引用的样式*/
+.rm-bq {
+  font-family:简宋!important;
+}
 /*修改referenc标题样式*/
 .rm-mentions .rm-ref-page-view .rm-title-arrow-wrapper {border-style:outset;    
 border-width:2px;

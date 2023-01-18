@@ -766,3 +766,41 @@ https://t.co/lHjHFUUm9w ([View Tweet](https://twitter.com/Rainmaker1973/status/1
 https://t.co/t9gdTGWQcK ([View Tweet](https://twitter.com/Rainmaker1973/status/1614625692410384387))
     - @TechBurritoUno: A table that exemplifies the ultimate in dining luxury.
 Credit: Georgejohnsonfurniture  https://t.co/P6mrXxKcYy ([View Tweet](https://twitter.com/TechBurritoUno/status/1614755896000712711))
+- ### New highlights added [[January 18th, 2023]] at 10:41 PM
+    - @apiSchaan: 入职以来最激动人心的一次发布！https://t.co/TTgwPNmva4 ([View Tweet](https://twitter.com/apiSchaan/status/1615377830396760065))
+    - @kosmik_app: The easiest (& most beautiful) event planner 🎶🎥📆
+- Create a calendar with text boxes
+- Save other events by themes (theatre, cinema...)
+- Keep key websites open: e.g. cinemas' websites or your city's cultural site
+- Save PDFs with your tickets https://t.co/RZnDst9RAP ([View Tweet](https://twitter.com/kosmik_app/status/1615389471523971076))
+    - @fortelabs: We’re planning our next filming shoot for YouTube in LA in late April
+
+Whose second brain setup would you like to see most? ([View Tweet](https://twitter.com/fortelabs/status/1615477251814064128))
+- ### New highlights added [[January 18th, 2023]] at 11:04 PM
+    - @oscargong1995: Watching YouTube videos and taking notes with @ReadwiseReader is mind-blowing. Before I need several Obsidian plugins or a dedicated App such as https://t.co/b20GkzymTh to achieve this. https://t.co/SuX7MZoTij ([View Tweet](https://twitter.com/oscargong1995/status/1615158163782922248))
+    - @bluebird0605: 这是我很喜欢的一张图片：
+
+人类通过不断制造新机器推动自身的进步，机器反过来又塑造了一代又一代「新人」。 
+
+![](https://pbs.twimg.com/media/Fmqe5jJakAUef0V.jpg) ([View Tweet](https://twitter.com/bluebird0605/status/1615278141194506240))
+    - @nalband: I can't believe I finally finished it!
+
+My visual summary of Atomic Habits—coming this Thursday. 
+
+![](https://pbs.twimg.com/media/FmsI1TeWAAwrJmp.jpg) ([View Tweet](https://twitter.com/nalband/status/1615394607386198048))
+    - @plantegg: 我试着一次把等额本金、本息的差异；提前还贷会不会多还利息、合不合适；你要不要网购分期之类的问题讲清楚。其实从这里就能看出大家的学习和理解能力，凡事多问问本质、第一性，这里的第一性就是利息是怎么计算的。更希望程序员朋友不要只会letcode，还要会计算利息 
+
+![](https://pbs.twimg.com/media/FmtyVwcaMAEQC1C.jpg) 
+
+![](https://pbs.twimg.com/media/Fmty-ZbaEAIXapU.jpg) ([View Tweet](https://twitter.com/plantegg/status/1615511508028624897))
+    - @haozes: DeepL 发布Write，4-6级没过的你写英文文档，不用怕了. 之前一直用微软爱写作来批改，这个比那个还好用。 
+
+![](https://pbs.twimg.com/media/Fmt_Q_fagAIKUNn.jpg) ([View Tweet](https://twitter.com/haozes/status/1615524831705075712))
+    - @ghosTM55: 这个应该不是苹果会起名字，十多年前和欧洲的技术社区交流时，他们会用 Bento 的风格来划分要学和要做的事情，并且告诉我这种方法论叫 Bento https://t.co/tYnSZdEkfC ([View Tweet](https://twitter.com/ghosTM55/status/1615567452263550977))
+    - @novoreorx: 这个简历工具综合来讲是目前最好的，唯一的问题是导出的 pdf 里文字复制出来是乱序的，不过有一定的开发能力就可以用导出的 json 开发个自己的模板 https://t.co/BQapMr5WWA ([View Tweet](https://twitter.com/novoreorx/status/1615587633488613378))
+    - @Tisoga: 这个有点类似 Make Time 这本书中提到的火炉清单。
+
+https://t.co/LeSQPTEvqF https://t.co/heFJX1xkp1 
+
+![](https://pbs.twimg.com/media/FmvFbNPaEAILMJ5.png) ([View Tweet](https://twitter.com/Tisoga/status/1615601998279368709))
+    - @hardmaru: Three years after NeRF was born at Google Research, we see it used in McDonalds TV commercials: https://t.co/r47uu6grrI ([View Tweet](https://twitter.com/hardmaru/status/1615620780498485250))
