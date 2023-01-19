@@ -832,3 +832,23 @@ M2 Pro 居然还比 M1 Pro 多了两个核，多的是能效核心，而不是�
 所有设计入门方法里，摄影应该是最简单的一种😎
 
 #设计入门 https://t.co/wWYju6wRIj ([View Tweet](https://twitter.com/nishuang/status/1615579213884690433))
+- ### New highlights added [[January 19th, 2023]] at 9:44 AM
+    - @gunsnrosesgirl3: An infinite tower of books, an art installation called Idiom, by artist Matej Kren
+https://t.co/QrXiilfSfa ([View Tweet](https://twitter.com/gunsnrosesgirl3/status/1615666074871029760))
+    - @fortelabs: Presenting my interview with @bigthink, probably the best distillation of my ideas and work yet
+
+Link below 👇 
+
+![](https://pbs.twimg.com/media/FmxEMCQakAEy4CM.jpg) ([View Tweet](https://twitter.com/fortelabs/status/1615741385403142148))
+- ### New highlights added [[January 19th, 2023]] at 11:44 AM
+    - @nishuang: 1/
+
+一位老教授朋友说过，当年她刚进入大学教书时，前辈教授非常认真地训斥她：
+
+你研究生都毕业了，怎么能学新东西？应该发挥你已经学到的专长（大意）
+
+当时我就惊骇了，在我的默认概念里，不管是设计师这个职业，还是互联网这个工作领域，不断学习的技能基本就是每个人的第一竞争力
+
+#活到死学到死 
+
+![](https://pbs.twimg.com/media/Fmw0IdQXwAAiRh-.jpg) ([View Tweet](https://twitter.com/nishuang/status/1615735374864605184))
