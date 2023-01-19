@@ -1,6 +1,10 @@
 - #[[意识流笔记]] 
     - #[[阅读]] 梳理信息流类阅读的时间分配
     - #[[理财]] 客户经理来电话，觉得是应该调整一下表现不好的基金
+    - #[[阅读]] 为抖音、twitter和微博设置分组，这样就可以把图书类资讯汇总到一起了。
+    - 以后在各种软件和网站添加关注的时候，一定要想到分组。
+    - 整理youtube上订阅的信息，查找一些好的booktuber.
+    - #[[阅读]] 阅读不能追求快，因为这是思考和享受的过程。没有人会吹嘘自己做爱的速度快，读书也一样。
 - Imported Quick Capture items:
     - 物理学如何解释商业
         - Tags: 书评
@@ -56,3 +60,29 @@ Annotations:
 
 
 https://mp.weixin.qq.com/s?__biz=MzUyMTI0MDkxMg==&mid=2247501216&idx=1&sn=69c65d616d447176d51b46b88e581c10&chksm=f9dcad9fceab2489affc5aa216c0d2e2cb0465f37304b0275fcb865a94c522dc582ff677909c [Email Body](https://files.todoist.com/bk0rfM_7bDFDMClgwgNmk4Qh81LZk0s0g4BuB8bSquQbliuzFmIaniDYF0yWFed0/by/21878347/as/file.html)
+    - 头条文章
+        - Annotations:
+
+* 本文要反驳两个社交网络中两个约定俗成的偏见：
+
+​
+
+第一，阿根廷是世界上唯一一个从发达国家变成发展中国家的经济体；第二，阿根廷衰落的根源，在于左翼政府滥发福利，导致拖垮了经济。
+
+* 第一个好解释，关于阿根廷是否为发达国家，要看发达国家怎么定义了。阿根廷确实曾经凭借着原料产地、农产品出口，以及两次世界大战期间的机遇，从收入水平上来看确实达到了“发达国家的水准”；但是阿根廷从未建立起自己独立的工业体系，没有高精尖制造业，本国经济高度依赖于西方发达国家。
+
+* 你非说这时候的阿根廷是“发达国家”也不是不行，但是它顶多就是个农业版本的中东石油国，收入高但经济畸形，也没见多少人说中东那些土财主属于发达国家。
+
+* 庇隆又译为贝隆，这个还有些麻烦，因为学界有一个专有名词叫做“庇隆主义”，指既不走社会主义、又不走资本主义，选择两家之长走独立自主的民族主义发展路线。然而比庇隆这个名字名气更大的是贝隆夫人，著名的《阿根廷别为我哭泣》就是出自贝隆夫人的故事，所以这两个译名就矛盾了，大家知道这是一回事就好。
+
+
+
+https://card.weibo.com/article/m/show/id/2309404856784849601212?id=2309404856784849601212 [Email Body](https://files.todoist.com/2WXqIlSYsh_-7HfagIOBEIYjyNGzqPS-5gOqOy57mJPo3-LhbUFlfla3w3k1IlPf/by/21878347/as/file.html)
+    - 图书 - 首页 - 微博
+        - Annotations:
+
+* 一页文字，生出万千世界。 ​​​
+
+
+
+https://weibo.com/mygroups?gid=4859589705340458 [Email Body](https://files.todoist.com/W2b55s2jQYq9SuE2LSH94sp6V5JQKAKX2MN3VD-3GsJgyU3V5wWRU7xAFk4hjmM6/by/21878347/as/file.html)

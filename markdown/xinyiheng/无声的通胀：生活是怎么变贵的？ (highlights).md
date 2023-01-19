@@ -1,0 +1,8 @@
+- Author:: [[网易科技]]
+- Full Title:: 无声的通胀：生活是怎么变贵的？
+- Category:: #articles
+- Document Tags:: #[[通货膨胀]]
+- URL:: https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650442661&idx=2&sn=57018f4876f10e18c9f58bb1cdf40060&chksm=bf3bb05b884c394da4fd1b8b59021f98e05f3b5379dd19e0952d39ee96a123e96b24fb00f97e
+- ### Highlights first synced by #Readwise [[January 20th, 2023]]
+    - 其他调味品都没有如此完美的市场环境：要么如食用油一样被价格管制，要么没那么“刚需”，比如醋和耗油。
+    - 以猕猴桃为例，中国猕猴桃的种植面积是新西兰的13倍，但2019年，中国猕猴桃种植利润大约为每亩3500-4000元，新西兰佳沛猕猴桃的绿果收益是每亩1.9万元，金果收益是每亩4万元，利润水平相差5-10倍。
