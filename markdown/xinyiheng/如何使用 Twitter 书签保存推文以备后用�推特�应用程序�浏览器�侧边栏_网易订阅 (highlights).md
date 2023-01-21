@@ -1,0 +1,6 @@
+- Author:: [[tie]]
+- Full Title:: 如何使用 Twitter 书签保存推文以备后用|推特|应用程序|浏览器|侧边栏_网易订阅
+- Category:: #articles
+- URL:: https://www.163.com/dy/article/H8KJTUSB0552ESOP.html
+- ### Highlights first synced by #Readwise [[January 22nd, 2023]]
+    - Twitter 有一个新的书签功能，可以让你私下保存推文以备后用。如果您一直使用 Like 功能作为保存推文的解决方法，这就是您应该开始添加书签的原因。
