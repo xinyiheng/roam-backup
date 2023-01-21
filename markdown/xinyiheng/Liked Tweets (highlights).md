@@ -852,3 +852,22 @@ Link below 👇
 #活到死学到死 
 
 ![](https://pbs.twimg.com/media/Fmw0IdQXwAAiRh-.jpg) ([View Tweet](https://twitter.com/nishuang/status/1615735374864605184))
+- ### New highlights added [[January 20th, 2023]] at 11:18 PM
+    - @NormanChella: I wish for an OS that's just a search bar. Everything goes through the search bar. Files are found through the search bar. Commands are typed on the search bar. We have browsers and apps, but we navigate through the search bar.
+
+For some reason, I can see it exist ([View Tweet](https://twitter.com/NormanChella/status/1616369772182253571))
+    - @CatoMinor3: Testing LogSeq's take on whiteboard / canvas thanks to @rroudt : 
+First impressions: Very good for a beta version! 
+It has some interesting differences in comparison to Obisidan's and Heptabase's solutions. I will write more on them later. ([View Tweet](https://twitter.com/CatoMinor3/status/1616374574819442689))
+    - @fortelabs: My PARA structure is a complete oversimplification of life 
+
+Not everything fits into Projects, Areas, Resources, and Archive
+
+But it still works because...
+
+It's the minimum effective organization system that most people can maintain over a long time horizon ([View Tweet](https://twitter.com/fortelabs/status/1616375057609105412))
+    - @AliAbdaal: If you struggle with reading, then just read whatever you like. 
+
+People only hate to read when it feels like work. 
+
+@naval puts it nicely - 'Read what you love until you love to read.' ([View Tweet](https://twitter.com/AliAbdaal/status/1616444687543422978))
