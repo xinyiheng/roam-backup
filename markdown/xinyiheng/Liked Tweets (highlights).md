@@ -871,3 +871,26 @@ It's the minimum effective organization system that most people can maintain ove
 People only hate to read when it feels like work. 
 
 @naval puts it nicely - 'Read what you love until you love to read.' ([View Tweet](https://twitter.com/AliAbdaal/status/1616444687543422978))
+- ### New highlights added [[January 22nd, 2023]] at 10:45 AM
+    - @bluebird0605: 读了一个大部头The Prize，还没读完，但没想到这本 30 多年前的书居然把石油争夺与世界格局讲得如此清晰，整个故事横跨一个半世纪（1850-1990）https://t.co/D4PY5RXG10
+
+然后搜到了 Youtube 上的一个八集纪录片，算是该书的浓缩版 https://t.co/XnKeKiJqfU ([View Tweet](https://twitter.com/bluebird0605/status/1616669967633747969))
+- ### New highlights added [[January 23rd, 2023]] at 10:45 AM
+    - @fortelabs: I always try to adopt the most popular note-taking app in any given generation, to maximize the chances it will remain well-supported
+
+According to Google Trends that would suggest this order:
+
+#1 Notion
+#2 RemNote
+#3 Obsidian or Roam 
+
+![](https://pbs.twimg.com/media/FnHEAweaAAAjDqW.jpg) ([View Tweet](https://twitter.com/fortelabs/status/1617289290471608321))
+- ### New highlights added [[January 23rd, 2023]] at 8:25 PM
+    - @fortelabs: The best way to get unstuck in the creative process:
+
+Express your work into the world ([View Tweet](https://twitter.com/fortelabs/status/1617409406664073216))
+    - @fortelabs: Contrary to popular belief...
+
+It's actually bad to have an unlimited amount of any resource
+
+Constraints are the key to getting things done ([View Tweet](https://twitter.com/fortelabs/status/1617462225370841088))

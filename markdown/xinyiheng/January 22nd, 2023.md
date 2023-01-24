@@ -1,0 +1,7 @@
+- Imported Quick Capture items:
+    - [纪录片 - 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/documentary/?spm_id_from=333.999.0.0)
+    - Imported Quick Capture items:
+        - [纪录片 - 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/documentary/?spm_id_from=333.999.0.0)
+- 出席比出色更重要，保持良好习惯也是一种出席
+- #[[意识流笔记]]
+    - 今天开车出去散步，围绕着故宫护城河走了一圈。晚上看了一会北京电视台春晚
