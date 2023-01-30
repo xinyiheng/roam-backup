@@ -1,0 +1,6 @@
+- Author:: [[[英] 莎拉·麦克梅内米]]
+- Full Title:: 全景立体旅行系列
+- Category:: #articles
+- URL:: https://book.douban.com/subject/27190958/
+- ### Highlights first synced by #Readwise [[January 26th, 2023]]
+    - 来自出版小而美图书著称的Walker Books，立体书界久负盛名的Panorama Pops系列：Walker Books的书目少而精，作家的风格鲜明各异人见人爱maisy，经典中的经 典 《猜猜我有多爱你》，英语启蒙必备《鹅妈妈童谣》等都出自于这家出版社。精选的这套《全景立体旅行系列》来自Walker Books的小清新立体系列，也就是立体书界久负盛名的Panorama Pops系列。

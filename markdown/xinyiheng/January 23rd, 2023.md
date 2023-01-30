@@ -80,3 +80,5 @@
     - 到了汉代汉武帝时期，正式确定以夏历正月为岁首，也就是一年的开始，年节也就固定了下来，并举行隆重的丰收祭祀庆祝活动。
     - https://book.douban.com/review/14902414/ [Email Body](https://files.todoist.com/745A3-Zzd_nOE3XBznDawtb51JnUjSO1gO9e1xIwINNfv9bcfFvVK2w88bUxu5S7/by/21878347/as/file.html)
     - [【激荡四十年】系列 - YouTube](https://www.youtube.com/playlist?list=PL90U7hPergjtKMHtxeP3TlL0JTfQbRjd8)
+- #[[意识流笔记]]
+    - 下雪了，但不大。早上带着麻豆去迎宾公园踢了一会球

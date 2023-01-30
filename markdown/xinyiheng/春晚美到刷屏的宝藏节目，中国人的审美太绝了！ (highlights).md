@@ -1,0 +1,7 @@
+- Author:: [[阿信]]
+- Full Title:: 春晚美到刷屏的宝藏节目，中国人的审美太绝了！
+- Category:: #articles
+- Document Tags:: #[[书单]] #[[传统文化]]
+- URL:: https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652795652&idx=1&sn=fb7704a5c686dbf8bac791ee4f1315cc&chksm=bd32a3a78a452ab1865c8d8dba4f39bf88a7e79165a76a54e11dbb1114656e0ac3360736d701&mpshare=1&scene=1&srcid=0122CUqTnBnLBCvGnEQKqn1o&sharer_sharetime=1674394561855&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86
+- ### Highlights first synced by #Readwise [[January 26th, 2023]]
+    - 如此惊艳的舞台节目，所有的颜色都出自阿信家的《中国传统色》系列图书，作者也是这次节目的策划人——**著名文化学者郭浩**。

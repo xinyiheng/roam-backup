@@ -1,0 +1,7 @@
+- Author:: [[风物菌]]
+- Full Title:: 中国吃海鲜第一大省，吃山珍同样很猛！
+- Category:: #articles
+- Document Tags:: #[[福建]] #[[美食]]
+- URL:: https://mp.weixin.qq.com/s?__biz=MzAxMjU2NzUyMA==&mid=2657180421&idx=1&sn=487c6c5fd8be87c61ddbc626cd36dae6&chksm=803a2d8ab74da49c0be27f60f4415f57cb281252192ca4555b554a7659be3206d9b73c4cffbe
+- ### Highlights first synced by #Readwise [[January 26th, 2023]]
+    - 对于这个“**建**”字，以及它所指的“**建州**”，许多人也许就没那么熟悉了。准确而言，它指的是如今福建南平市的**建瓯**，在广义而言，**与“福”字所代表的沿海富庶平原相对**，“建”，也代表着本省狭小、零散的平原**以外**，那**崎岖、广大的山区**。

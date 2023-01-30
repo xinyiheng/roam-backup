@@ -1,0 +1,6 @@
+- Author:: [[宁向东]]
+- Full Title:: https://mp.weixin.qq.com/s?__biz=MjM5NjAxOTU4MA==&mid=3009301025&idx=1&sn=53f07dc5addfd9bf3950af1115955396&chksm=90454632a732cf2433f403824661cacf53a53cb053ff9bf856bf690041face0a25baeb3aa3b4#rd
+- Category:: #articles
+- URL:: https://mp.weixin.qq.com/s?__biz=MjM5NjAxOTU4MA==&mid=3009301025&idx=1&sn=53f07dc5addfd9bf3950af1115955396&chksm=90454632a732cf2433f403824661cacf53a53cb053ff9bf856bf690041face0a25baeb3aa3b4
+- ### Highlights first synced by #Readwise [[January 26th, 2023]]
+    - 如果你之前没有时间计划本，或者你从来没有为自己的时间管理问题操过心，多数情况下，这不是一件好事情。**这在很大程度上，说明你的时间不值钱，因为你的时间怎么过，都是无所谓的。**

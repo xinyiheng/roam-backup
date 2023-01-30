@@ -908,3 +908,16 @@ Constraints are the key to getting things done ([View Tweet](https://twitter.com
 
 #morningpages
 #roamresearch https://t.co/jYVXnCXpqd ([View Tweet](https://twitter.com/AntPStyle/status/1617534690663202820))
+- ### New highlights added [[January 25th, 2023]] at 10:26 PM
+    - @make_hq: Bas from @ToolsonTech made an exciting video about hooking into @logseq using @nginx, @SSH, and Make to make Logseq available to the outside world. Watch the video to see his ideas for dozens of ways to use this clever #integration and get inspired. 👇 
+https://t.co/zP1xcKgRkM ([View Tweet](https://twitter.com/make_hq/status/1617939056142188559))
+- ### New highlights added [[January 28th, 2023]] at 11:20 AM
+    - @fortelabs: Random acts of productivity don't make a difference
+
+Systems and habits do ([View Tweet](https://twitter.com/fortelabs/status/1618549425470586881))
+    - @fortelabs: Algorithms don't have your best interest in mind 
+
+You have to consciously shake up your information stream
+ 
+Bend it to what kind of person you want to become ([View Tweet](https://twitter.com/fortelabs/status/1618911769287696385))
+    - @Heptabase: In the latest version, you can drag and drop rows and columns in the tag’s table view. https://t.co/mvHjUJ6w4q ([View Tweet](https://twitter.com/Heptabase/status/1619164264522194946))

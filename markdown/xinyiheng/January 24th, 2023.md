@@ -1,4 +1,3 @@
-- [[Inbox]]
 - Imported Quick Capture items:
     - 为什么说依靠人工整理的笔记工具快到头了？_哔哩哔哩_bilibili
         - Tags: 知识管理 笔记 图解

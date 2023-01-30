@@ -1,0 +1,85 @@
+- Imported Quick Capture items:
+    - @广西师大出版社 的个人主页 - 微博
+        - Annotations:
+        - 2022年动销的新书品种数约为17.1万种，相比2021年的19.6万种明显下滑，新书供给的持续减少，也反映了出版行业日趋保守的心态。2022年，原创新书减少了5000种，引进新书则减少了2万种。  
+        - 2020年有196万种书没有卖出1000册，2021年销量前1%的图书品种贡献了近60%的码洋，这已经不是传统中的“二八法则”，而是更加残酷的“1/99法则”。2022年的报告不再有相关的数字，但从年度虚构和非虚构榜单中，可以看出“霸榜”老书的地位异常稳固，而新书则不见踪影。
+        - #[[出版]]
+        - https://weibo.com/u/1345667185 [Email Body](https://files.todoist.com/SGai2ze07D78L_PWKrt8XWFhkV1TLF9qAYw6d_Imeu9EFdNNVhnJDQoddplPICFu/by/21878347/as/file.html)
+    - 华尔街见闻
+        - Annotations:
+
+* 2022年，市场连续遭遇海外美联储大幅加息、俄乌冲突，国内疫情反复扰动、地产信用风险等“黑天鹅”冲击。“内忧外患”之下，A股显著回调。
+
+
+
+https://wallstreetcn.com/articles/3680490 [Email Body](https://files.todoist.com/tLgz7r9CVhiiY2bl5NLfmTJjQv_EttcTJSFu4rqhMt6TPgZFao2FPlN9fND2nLXY/by/21878347/as/file.html)
+    - empty task
+        -  [Email Body](https://files.todoist.com/JHii4AhWi_2-skaTVJlYTbETiyUU9HrrvjTTixOazFUh1GvNKMITH4iAxD8nJ8X0/by/21878347/as/file.html)
+    - 你觉得，房价还会涨么？
+        - Annotations:
+
+*     * 美国是成熟的房地产市场，基本已经实现了城市化，而中国的城市化进程还在推进中。
+
+* 不少研究指出，房地产可以被视为经济衰退的风向标，这主要在于美国历史上住宅投资的疲软往往会对经济衰退造成很大的“贡献”。
+
+* 在美国通胀压力的持续下，不少美国专家与银行等金融机构普遍预测美联储将进一步加息，2023年美国出现经济衰退的可能性极高。如此一来，房地产的迅速降温或者说衰退迹象无疑将加剧美国经济衰退的担忧。
+
+* 回顾美国的情况，具体来说，就是未来央行对利率的调节，会影响到房价波动。较为宽松的货币政策会刺激房价上升，而收紧货币政策则会让房价承压。
+
+Tags: 房地产 美国 数据
+
+
+
+https://mp.weixin.qq.com/s?__biz=MzIzOTA3NTA5Mg==&mid=2652572302&idx=1&sn=ca2b9f9339a977f63459b97f63afe9ba&chksm=f2c000f5c5b789e3859fe2603b6f9ed6bdcfeecac9c6ee58f99a1517f620a7768c4471238af6 [Email Body](https://files.todoist.com/dq9X41VhUoSaMuHfaTPEC7dkB21LbPmg6VvSBA1-JYtbcZXO9vqZL2wT-0lsTcXU/by/21878347/as/file.html)
+    - 生活家村上（村上T）书评
+        - Annotations:
+
+* 福楼拜说写作是一种生活方式，村上春树不仅实践了这个主张，更是将生活本身也作为一种生活方式，在轻松随意的仪式感中过着井井有序的人生。这不，就连T恤也成了村上的写作对象，为“我喜爱的T恤们”集结成了一本可爱有趣的小书。
+
+* “在暖炉的明火前，坐进摇椅里，一面抚摸膝头的小猫脑袋，一面一小口一小口地喝下冰凉的啤酒，也是人生的一大幸事呢。”
+
+
+
+https://book.douban.com/review/14922561/ [Email Body](https://files.todoist.com/pAWOoMvAnGB-CVAfshINsLTJ7EtgxFnLVZr3SSQSMUFo9DL3qAX-wdvYY5nOAMmu/by/21878347/as/file.html)
+    - 杨靖｜“快乐的政治”：维多利亚女王和她的首相_上海书评_澎湃新闻-The Paper
+        - Annotations:
+
+* 玛丽·安妮比迪斯雷利年长十二岁。“我的妻子是个非常聪明的女人”，迪斯雷利曾对女王介绍说，“但她永远记不得希腊人和罗马人出现的先后顺序”。玛丽·安妮的第一任丈夫是一位实业家、资深议员，也是迪斯雷利的政治导师。丈夫因病去世后，玛丽·安妮携大笔遗产改嫁迪斯雷利——时人普遍认为迪斯雷利此举意在“谋财”（结婚之时新娘已年过四旬），但玛丽·安妮却相信迪斯雷利意在获取“从政的经验”。女王平生对两类人最为反感：一是女权主义者，一是再嫁之孀妇，然而玛丽·安妮却以质朴和坦诚赢得了女王的欢心。
+
+* 迪斯雷利深谙人性。他的名言是“轴承若想用得久，必须常添润滑油”——文学评论家马修·阿诺德曾指责他是“马屁精”，他回答说：“的确如此。人人都喜欢奉承，假如你有幸为女王效力，你可能比我有过之而无不及。”
+
+* 女王晚年主动采取和亲政策，与欧洲各国王室修好，被尊为“欧洲的老祖母”（德皇威廉二世是她的外孙，沙皇尼古拉二世是她的孙女婿），一定程度上也受到迪斯雷利外交思想的影响。
+
+
+
+https://www.thepaper.cn/newsDetail_forward_21658408 [Email Body](https://files.todoist.com/huAHgCKUkp9ZCpnxEOO8lrQrhLtwc5mM1_4pQ2nGLI-s6YZybMEq_WPYAvotDNLB/by/21878347/as/file.html)
+    - [吴晓波：“通透”](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652964926&idx=1&sn=1b31dad5afd917a03eb60cd3c34d917a&chksm=8461851bb3160c0d12df9f485ebdf51922cd2bfcfc7251cbbb82b52e164e7ce3438b23b7388b#rd)
+        - Annotations:
+
+* “民宿”这个词是1990年代中期第一次出现的，而诞生地就在莫干山。当年有一些杭州的文青跑去租赁农屋，改造成颇有文艺气质的旅舍。后来这股风刮到了丽江，竟比莫干山还出了名。
+
+* 记得有一次跟胡润闲聊，我问他，在每年公布的胡润富豪榜上，2000多个上榜者，年龄最为集中的是哪一段？他告诉我，大约一半左右的人是“从一个兔子到另外一个兔子”，即1963年生人到1975年生人。
+
+
+
+https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652964926&idx=1&sn=1b31dad5afd917a03eb60cd3c34d917a&chksm=8461851bb3160c0d12df9f485ebdf51922cd2bfcfc7251cbbb82b52e164e7ce3438b23b7388b [Email Body](https://files.todoist.com/b__565X-kUxTBgcQOlQbg9SDOepO_VvXE8VdxxVOITosor4moVdDC1NfUqAcOJrt/by/21878347/as/file.html)
+    - [吴晓波：“通透”](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652964926&idx=1&sn=1b31dad5afd917a03eb60cd3c34d917a&chksm=8461851bb3160c0d12df9f485ebdf51922cd2bfcfc7251cbbb82b52e164e7ce3438b23b7388b#rd)
+        - Annotations:
+
+* “民宿”这个词是1990年代中期第一次出现的，而诞生地就在莫干山。当年有一些杭州的文青跑去租赁农屋，改造成颇有文艺气质的旅舍。后来这股风刮到了丽江，竟比莫干山还出了名。
+
+* 记得有一次跟胡润闲聊，我问他，在每年公布的胡润富豪榜上，2000多个上榜者，年龄最为集中的是哪一段？他告诉我，大约一半左右的人是“从一个兔子到另外一个兔子”，即1963年生人到1975年生人。
+
+
+
+https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652964926&idx=1&sn=1b31dad5afd917a03eb60cd3c34d917a&chksm=8461851bb3160c0d12df9f485ebdf51922cd2bfcfc7251cbbb82b52e164e7ce3438b23b7388b [Email Body](https://files.todoist.com/b__565X-kUxTBgcQOlQbg9SDOepO_VvXE8VdxxVOITosor4moVdDC1NfUqAcOJrt/by/21878347/as/file.html)
+- #[[意识流笔记]]
+    - 今天开始上班了，感觉假期过得真快。
+    - 阅读信息流
+    - 中午吃饭的时间看了‘盖亚的黎明’视频，减少看短视频的时间，可以看一些想要了解的纪录片
+    - 出去散步，和老婆打电话，然后和王博聊了一会
+    - 查看工作邮箱，看一看选题资料
+    - 更改了微信和支付宝绑定的银行卡账号，把宁波银行的新工资卡账号添加了进去
+    - 晚上阅读《建筑的故事》，感觉很入迷，到十二点才睡觉。
+    - #[[健康]] 骑行35公里，洗澡，用了老婆买的磨脚的工具，我脚上的厚皮太多了
+    - #[[育儿]] 晚上给麻豆玩了一会狂野飙车游戏，他玩完以后不高兴，因为没有解锁游戏里的一款车。经过沟通，我说可以买汽车模型，但以后就不玩游戏了。他同意了。
