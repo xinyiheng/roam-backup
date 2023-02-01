@@ -921,3 +921,31 @@ You have to consciously shake up your information stream
  
 Bend it to what kind of person you want to become ([View Tweet](https://twitter.com/fortelabs/status/1618911769287696385))
     - @Heptabase: In the latest version, you can drag and drop rows and columns in the tag’s table view. https://t.co/mvHjUJ6w4q ([View Tweet](https://twitter.com/Heptabase/status/1619164264522194946))
+- ### New highlights added [[January 30th, 2023]] at 10:42 PM
+    - @bentossell: 2 big things in AI from (just) yesterday:
+
+📝 Text to music 🎶 by Google
+
+🩻 Text to 4D by Meta
+
+Examples, explanations and links ⤵ ([View Tweet](https://twitter.com/bentossell/status/1618920150430011392))
+    - @bentossell: MusicLM: Generating Music From Text
+
+(sound on 📣)
+
+project page: https://t.co/JVwSHhEzK5
+arXiv: https://t.co/afPYdm83Ch https://t.co/s7UeolPfK0 ([View Tweet](https://twitter.com/bentossell/status/1618920152636223488))
+    - @Jimmy_JingLv: 🤩 有哪些有趣的 AI 新产品？
+
+超级大集合：[120+ AI Resources] https://t.co/3wJilGptxC
+
+PS 我专门建了个GitHub issue持续收集ing https://t.co/p46O9f84Rp
+
+PPS 一图流 👇 https://t.co/1uCKlR3Jox 
+
+![](https://pbs.twimg.com/media/FnpgpNeaUAANMtz.jpg) ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1619713313268695040))
+- ### New highlights added [[January 31st, 2023]] at 11:42 PM
+    - @wshuyi: I just published 如何轻松愉快践行卡片写作？Lattics 使用体验 https://t.co/InExO82Y2a ([View Tweet](https://twitter.com/wshuyi/status/1620331509176754176))
+    - @pkmbeth: I’ve always loved graph views, but once again @CapacitiesHQ takes it further. Small write up on why their graph is great :)
+
+https://t.co/ogynwfWlCV ([View Tweet](https://twitter.com/pkmbeth/status/1620388772151189504))

@@ -3,7 +3,7 @@
         - Tags: 知识管理 笔记 图解
     - https://www.bilibili.com/video/BV198411A77A/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/UZZvSKYR8BLXZ7-Wc6QU2swq_Uv-GfVmyrqhMQ8lXPGCvOElb08TFnh_xnqN3O9N/by/21878347/as/file.html)
     - dcthe_芦笋视频-20230120
-        - Tags: GPT-3 人工智能 笔记 知识管理
+        - Tags: GPT-3 [[人工智能]] 笔记 知识管理
     - https://lusun.com/v/DY1VPpctUPT [Email Body](https://files.todoist.com/LmDN_QaCpebUwXUXU5dRxByENTWVBeyd0-w6cknH2HMo3YKhfo8f5qrKxXv1OszQ/by/21878347/as/file.html)
     - [Zettelkasten-BranchView](https://assets.niklas-luhmann-archiv.de/branchview/)
     - Zettelkasten-BranchView
