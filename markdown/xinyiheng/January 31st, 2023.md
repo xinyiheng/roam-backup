@@ -1,6 +1,8 @@
 - #[[意识流笔记]]
     - 清理chrome缓存的时候，不小心清楚了一个不知道是什么的东西，导致所有的pwa应用只能在chrome中打开了。
     - mac mini磁盘空间不足，重新清理了一下，感觉这也反映了文件管理的混乱
+    - #[[育儿]] 继续在客厅陪着麻豆。他看汽车视频，然后玩我给他下载的可汗学院的教育app，他很喜欢玩，我觉得这种他主动参与的方式对于学习英语是很有帮助的。
+    - #[[家庭]] 老婆最近一直比较喜欢做面包，昨天做了老式面包，奶味挺香，今天又做了香葱肉松的吐司面包，味道很好。我买的茉莉花和玫瑰花也到了，晚上泡水喝，以免影响睡眠。
 - Imported Quick Capture items:
     - @广西师大出版社社科分社 的个人主页 - 微博
         - Annotations:
@@ -24,8 +26,6 @@ https://weibo.com/u/2852727402 [Email Body](https://files.todoist.com/BwUr4mY8yd
 http://61.175.198.136:8083/rwt/124/http/QJWGP8DHMMYHM4LRF3ZXT45BNZYGG5C/text/Article.aspx?titleid=caij20230208 [Email Body](https://files.todoist.com/O-aBrgd4JINs6Bd2pGvZjTQ5urUzkeqAf1GHBSQc78Ql-MuFpwAKMJvwJ6RG0BbV/by/21878347/as/file.html)
     - 山西人的面碗里，藏着多少草草花花叶叶根根？
         - Tags: 旅行 美食 人文地理
-
-
 
 https://mp.weixin.qq.com/s?__biz=MzAxMjU2NzUyMA==&mid=2657182332&idx=1&sn=47db920efb6485fc4a97005239077160&chksm=803a14f3b74d9de514af97866da2b164723fe531a136787aed13e7f8af6d54db0d4a759d1c37 [Email Body](https://files.todoist.com/-Oh1a_995qtBJDRsLwSuJ3_-CIQF1acEXN8DvkM2IJOLHRs94Ie16VncIhPYeust/by/21878347/as/file.html)
     - 华尔街见闻

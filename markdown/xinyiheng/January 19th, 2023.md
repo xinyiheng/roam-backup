@@ -20,9 +20,6 @@ https://every.to/divinations/how-physics-explains-business [Email Body](https://
 * 其他调味品都没有如此完美的市场环境：要么如食用油一样被价格管制，要么没那么“刚需”，比如醋和耗油。
 
 Tags: 通货膨胀
-
-
-
 https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650442661&idx=2&sn=57018f4876f10e18c9f58bb1cdf40060&chksm=bf3bb05b884c394da4fd1b8b59021f98e05f3b5379dd19e0952d39ee96a123e96b24fb00f97e [Email Body](https://files.todoist.com/lhy-JSYZosxghgWW9MOkizefrWtZARJgNFGN855qB-yyiOOWrol7RMCmTVHemDwU/by/21878347/as/file.html)
     - 历史性拐点！中国人口，开始负增长了
         - "历史性拐点！中国人口，开始负增长了"
