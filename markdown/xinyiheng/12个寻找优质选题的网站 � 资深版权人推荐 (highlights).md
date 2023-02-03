@@ -1,0 +1,10 @@
+- Author:: [[mp.weixin.qq.com]]
+- Full Title:: 12个寻找优质选题的网站 | 资深版权人推荐
+- Category:: #articles
+- Document Tags:: #[[出版]] #[[版权]] #[[选题]]
+- URL:: https://mp.weixin.qq.com/s?__biz=MzA5NDExMjUwOA==&mid=2650066077&idx=1&sn=8d2e1d6fa7da77f582746fa71aca3350&chksm=8853f30ebf247a18b798f62fc6c430555ed162324289d7d2d2839aa27ebd5e1a56f644657041&scene=21
+- ### Highlights first synced by #Readwise [[February 2nd, 2023]]
+    - 首先是英美的三大媒体，美国的《出版人週刊》（Publishers Weekly, PW）、《出版人市场》（Publishers Marketplace, PM）和英国的《书商》（The Bookseller, TB）。PW 和 TB 都是传统纸媒、但现在也全面数位化，光是他们的网站就有大量免费的资讯可以看，同时可以订阅各种电子报。
+    - 若是要看书评，《纽约时报》和《华盛顿邮报》都很棒，但两者都有付费牆，所以看起来没那么方便。纯免费的话，还是首推美国的 NPR 和英国（与纽澳）的《卫报》（The Guardian）。NPR 原本就是国家公共广播，所以很多文章都有 podcast 可听，还可以顺便练英听。《卫报》一直坚持不设付费牆，文章质量兼备，反而让人想掏钱支持。他们有阅读相关的每週电子报可以订阅。
+        - **Note**: @标签:书评
+    - 首先是英美的三大媒体，美国的《出版人週刊》（Publishers Weekly, PW）、《出版人市场》（Publishers Marketplace, PM）和英国的《书商》（The Bookseller, TB）。PW 和 TB 都是传统纸媒、但现在也全面数位化，光是他们的网站就有大量免费的资讯可以看，同时可以订阅各种电子报。

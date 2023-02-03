@@ -1,0 +1,6 @@
+- Author:: [[opinion.caixin.com]]
+- Full Title:: 规划不合理阻碍中国大城市高质量发展_观点频道_财新网
+- Category:: #articles
+- URL:: https://opinion.caixin.com/2022-12-20/101979903.html
+- ### Highlights first synced by #Readwise [[February 2nd, 2023]]
+    - 铁站限流的逻辑一样是非常荒谬的。看着地铁耗费人力物力在做着无用功和阻碍交通资源的合理配置，就觉得很不可思议。有一次还问了一个工作人员，想不到答案还真是像我猜的一样，说限流是为了保证下一站的候车人员也可以上车。这简直太荒谬了，还给每个站做客流配额。

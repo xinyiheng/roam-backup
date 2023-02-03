@@ -1,0 +1,9 @@
+- Author:: [[mp.weixin.qq.com]]
+- Full Title:: 你觉得，房价还会涨么？
+- Category:: #articles
+- Document Tags:: #[[房地产]] #[[数据]] #[[美国]]
+- URL:: https://mp.weixin.qq.com/s?__biz=MzIzOTA3NTA5Mg==&mid=2652572302&idx=1&sn=ca2b9f9339a977f63459b97f63afe9ba&chksm=f2c000f5c5b789e3859fe2603b6f9ed6bdcfeecac9c6ee58f99a1517f620a7768c4471238af6
+- ### Highlights first synced by #Readwise [[February 2nd, 2023]]
+    - 不少研究指出，房地产可以被视为经济衰退的风向标，这主要在于美国历史上住宅投资的疲软往往会对经济衰退造成很大的“贡献”。
+    - 在美国通胀压力的持续下，不少美国专家与银行等金融机构普遍预测美联储将进一步加息，2023年美国出现经济衰退的可能性极高。如此一来，房地产的迅速降温或者说衰退迹象无疑将加剧美国经济衰退的担忧。
+    - 回顾美国的情况，具体来说，就是未来央行对利率的调节，会影响到房价波动。较为宽松的货币政策会刺激房价上升，而收紧货币政策则会让房价承压。

@@ -1,0 +1,3 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FL_MaNd1JrG.png?alt=media&token=ed873dc4-03cd-42a2-aa48-dd935dd8c3ba)
+- "Alan Kay是谁？他是图灵奖获得者，是面向对象编程的发明者，他在施乐PARC领导开发了历史上第一个用户图形界面，直接启发了乔布斯的Macintosh和盖茨的Windows。援引Alan Kay的话，是不是意味着乔布斯又悟出了新的启发？"
+    - https://diigo.com/0rk4yc

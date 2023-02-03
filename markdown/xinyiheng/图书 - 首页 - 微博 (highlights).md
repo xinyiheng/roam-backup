@@ -4,3 +4,5 @@
 - URL:: https://weibo.com/mygroups?gid=4859589705340458
 - ### Highlights first synced by #Readwise [[January 20th, 2023]]
     - 一页文字，生出万千世界。 ​​​
+- ### New highlights added [[February 2nd, 2023]] at 5:40 PM
+    - 传说女娲创世之初，前六天分别造出鸡、狗、猪、羊、牛、马，于第七天造出了人。旧俗即以正月初七为人日。

@@ -1,0 +1,7 @@
+- Author:: [[61.175.198.136:8083]]
+- Full Title:: 浙江共享工程
+- Category:: #articles
+- URL:: http://61.175.198.136:8083/rwt/124/http/QJWGP8DHMMYHM4LRF3ZXT45BNZYGG5C/text/Article.aspx?titleid=caij20230208
+- ### Highlights first synced by #Readwise [[February 2nd, 2023]]
+    - 根据中国人民银行公布的最新数据，截至2022年12月末，住户存款增加17.84万亿元。与2021年全年数据对比，多增7.94万亿元。
+    - 2022年居民“超额储蓄”规模（研报测算方式为：实际储蓄总量-潜在储蓄规模）约为7.4万亿元（注：此处“潜在储蓄规模”为没有疫情扰动之下居民部门应该持有的储蓄规模）。

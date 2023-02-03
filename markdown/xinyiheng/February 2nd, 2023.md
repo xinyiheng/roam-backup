@@ -1,7 +1,246 @@
 - #[[意识流笔记]]
     - 关于[[知识管理]]的纠结和不满在哪？
         - 知识管理是一个无定无止的过程，依旧是知识体系会不断调整，不像建筑物那样有一个坚固的框架，这就是无定;知识管理也没有终止的时间，这就是无止，我对于这样一种现实很难从心理上认可。
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F8wjcmN3Ui9.jpg?alt=media&token=5b0a9a17-32ec-44ea-b0b8-fa3c8f448ffe)
         - 一个现实的目标就是，我希望掌握的知识关键词之间有网，关键词内部有序，关键词之网也可以进行局部梳理，从而变得局部有序。
         - 关键词内部有序必须包含动态内容和静态内容。静态内容是我对当前关键词的认知框架，而动态内容是经常更新的信息流类信息。
         - 项目制可能是缓解我对于知识管理体系不满的一个方法，也就是每段时间集中力量优化少数几个关键词。
         - 
+- Imported Quick Capture items:
+    - 外媒独家揭秘：苹果供应链八大内幕
+        - Tags: 苹果 供应量 中国制造
+
+
+
+https://mp.weixin.qq.com/s?__biz=MTI3NTQ1MTY0MQ==&mid=2650571125&idx=1&sn=4a79506257ee4ab81908ef61ddc43daf&chksm=7c320ee34b4587f50c26fc26809630ac62ec2ee15824d5ce2b373eac57e62e375054cba8d05c [Email Body](https://files.todoist.com/f5O1DSgrQ8T2f7Xh6EthK0mkyZI7LJEeF0esVS5bjLnjTIyqPo_D4xNX0wBVQScg/by/21878347/as/file.html)
+    - 硅谷巨头万人裁员惨剧背后，苹果为何能“独善其身”？-虎嗅网
+        - Annotations:
+
+* 过去一年，美国各大科技公司的裁员总数超过了6万人，其中也包括谷歌、脸书这样的巨头。
+
+
+
+虽然每家公司的情况略有不同，但大多数正在进行裁员的公司都将宏观经济状况和未来可能出现的经济衰退，列为了他们紧缩开支的原因。不过，他们也低估了一个因素，那就是科技公司在过去两年的大肆招聘。
+
+
+
+疫情助推疯狂招聘
+
+* 谈到招聘，亚马逊可以说碾压其他科技公司。该电商巨头的员工队伍达到了160万人，大约是苹果或谷歌母公司Alphabet的十倍。这么看来，亚马逊大裁1.8万人，创科技公司之最也就不足为奇了。
+
+* 微软：两年增加5.8万
+
+
+
+根据可获得的最新官方数据，截至2022年6月底，微软拥有22.1万名全职员工，比2021年同期增加了4万名员工，员工人数增加了22%。在此之前一年，微软增加了1.8万名员工，增幅为11%。
+
+* 亚马逊：两年增加81万
+
+
+
+亚马逊的情况要比微软更复杂，因为它的仓库里雇佣了大量小时工，还拥有大多数科技公司常见的公司办公室员工。尽管如此，亚马逊员工队伍在2021年仍在贪婪地增长，增加了31万个工作岗位。在此之前，该公司在2020年实现了更大规模的扩张，增加了50万名员工，增幅超过38%。整体来说，截至2021年12月底，亚马逊的员工总数为160万，其中大约30万人在公司办公室工作。
+
+* 脸书：两年增加2.6万
+
+
+
+SEC文件显示，脸书母公司Meta自2012年上市以来，每年增加数以千计的员工。2020年，Meta增加了1.3万多名员工，增长了30%，是该公司历史上招聘人数最多的一年。2021年，该公司又增加了1.3万名员工。从员工总数来看，这是脸书短暂历史上增长最快的两年。
+
+* 苹果是个例外
+
+
+
+但是，苹果是一个重大例外。过去两年，这家公司没有明显加快招聘速度，也没有宣布任何裁员。
+
+
+
+疫情期间，苹果员工的增长速度要慢得多。事实上，自2016年以来，苹果过去几年的招聘一直遵循着同样的大趋势。截至2022年9月，苹果拥有16.4万名员工，其中包括企业员工和门店的零售员工，这仅比2021年同期增长了6.5%，相当于实际增加了1万人。苹果在2020年也进行了审慎地招聘，在2021年9月之前的一年里增加了不到7000名员工。
+
+
+
+https://www.huxiu.com/article/774465.html [Email Body](https://files.todoist.com/5LHCTk-ckO0s6D7azqCQU6HIR_YVc0h8lv2zpjd5RzEYc62igYB_PO5EY2pfvpid/by/21878347/as/file.html)
+    - 苹果造芯：失败、蛰伏、蓄力，然后打赢所有人-虎嗅网
+        - Annotations:
+
+* 苹果造芯是一部连续的历史，以A4为界，before和after的故事都玩味：A4之前，苹果是竹篮打水、屡战屡败；A4之后，苹果是神挡杀神、佛挡杀佛，三星、高通、Intel这些全球芯片顶级玩家，或被苹果击败，或被苹果抛弃。
+
+* 作为苹果的联合创始人，沃兹尼亚克在1975年——苹果成立前的一年——的“家酿计算机俱乐部”聚会上看到了那个出现在《大众电子》1月刊封面、号称第一台个人计算机的Altair 8800，以及驱动这台电脑的Intel 8080芯片。
+
+* Altair 8800被公认为点燃了微型计算机革命的火种，它启发了比尔·盖茨和保罗·艾伦推出了微软历史上的第一款产品——BASIC编程语言，也让沃兹尼亚克萌生了自己组装一台计算机的想法，唯一的问题在于：Intel 8080太贵了。
+
+* 这台由20美元廉价芯片驱动的微型计算机，便是苹果第一代产品Apple I。就这样，苹果的故事开始了。
+
+* 而1981年底苹果的Apple III，CPU仍然是这款老旧的6502，而竞争对手IBM已经用上了Intel的8088芯片，性能是当年沃兹尼亚克舍弃的8080的10倍左右。简单对比：MOS 6502晶体管数量只有3000多，而Intel 8088却高达29000。
+
+
+
+廉价但“够用”的芯片能够让苹果保持极高毛利率，但大前提是硬件不会成为短板，至少不能拖软件的后腿。显然，诞生在1975年的6502芯片难以支持1980年代的计算机，频繁失灵的电路板和缓慢的运行速度最终让Apple
+III销量惨淡。
+
+
+
+来自竞争对手的压力也越来越大。1981年，IBM一改平时笨重的身段，推出了使用微软MS-DOS和Intel 8088的兼容个人计算机（又称 IBM
+PC），获得巨大成功，并把除苹果之外的几乎所有个人计算机厂商都拉进了“微软+Intel”阵营。
+
+* 1974年推出8080，1978年推出8086，1982年推出80186和80286，此后便是80386、80486以及划时代的Pentium——其中文名更是成为一整代人的回忆：奔腾。
+
+* 决定苹果命运的新产品Macintosh（也就是第一代的Mac）决定使用68000芯片，项目经理Jef Raskin本来想用性能低但便宜的摩托罗拉6809，但被吃过亏的乔布斯一口否决，并亲自出马把68k的批发价从125美元/枚砍到了35美元/枚。
+
+* 1984年1月24日，一代经典Macintosh正式发布。由《银翼杀手》导演执导的广告“1984”将苹果包装成反IBM奥威尔式统治的反叛者，惊艳了所有人，乔布斯也泪撒发布会现场。Mac的问世，给80年代的PC革命浪潮烙下了最深的印迹。
+
+* 68000芯片的确不负众望，其强劲的性能有力支撑了炫丽的图形界面和方便的鼠标操作。但第一代Mac却在其他方面掉了链子，比如内存只有128K，后来升级到512k也仍然不够用（至少需要1000K）。经过发售前期的热销后，曾被赞誉“将计算机技术与艺术完美结合”的Mac就因为其缓慢的运行速度，销量大幅下滑。
+
+
+
+1985年春，试图罢免CEO斯卡利的乔布斯被后者反将一军，联合董事会赶出了公司。
+
+* 没人知道如果当年沃兹选择Intel会发生什么，但毫无疑问，那省下的150美元，一定是改变了某些历史进程的蝴蝶翅膀。
+
+* 1981年，加州大学伯克利教授David Patterson和博士生David Ditzel发表了“The Case for a Reduced Instruction Set Computer”这篇论文，其中Reduced Instruction Set Computer中文译名为“精简指令计算机”，取其首字母作为缩略词，便是日后大名鼎鼎的——RISC。
+
+* 有“精简指令计算机”，便有“复杂指令计算机”，即CISC。两者的区别可以简单理解为在采用RISC设计理念的处理器里，指令更短，长度统一，速度更快；而采用CISC设计理念的处理器里的指令大都冗长复杂，运行效率较低。
+
+
+
+在微处理器刚问世的那个年代（世界上第一款商用微处理器是Intel的4004，于1971年推出），设计者通常都需要绞尽脑汁来平衡成本和性能，指令集设计的缺陷也就顾不上了，因此早期主流的微处理器包括Intel
+8080和摩托罗拉 68k，都可以被归类为CISC架构。
+
+
+
+这就是这篇论文出台的背景。两位作者它们重新定义了一种新的CPU设计方法——RISC，并将任何不满足RISC理念的处理器都归类为CISC。这让Intel十分沮丧，毕竟谁也不想人在家中坐，一顶“复杂”的帽子却从天上来砸了过来。
+
+
+
+在Intel不爽的同时，一直在试图寻找破局点的苹果却彷佛抓住了救命稻草。
+
+* 苹果将“水瓶座”和“霍比特人”的失败归结于搭档的无能，因此在1990年，苹果选择了更强大的盟友一起造芯——老冤家IBM和老朋友摩托罗拉，三者组成了当年PC产业界最受人关注的“AIM联盟”（Apple、IBM、Motorola）。
+
+*   
+
+软件生态更是一道难以逾越的鸿沟。一个故事是：影像软件巨头Adobe靠苹果发家，第一代Photoshop就是只发在Mac系统。1993年Adobe重点转向Windows，乔布斯回归后请求Adobe多给Mac开发一些软件，比如Premiere，结果因为用户太少被当面拒绝，乔布斯至死都没原谅Adobe。
+
+* 90年代的WinTel联盟已经进入到了自我加强的良性循环：出货量大→摊薄CapEx→众多厂商采购→软件生态繁荣→消费者认可→出货量继续大增。PowerPC在凭借IBM的技术家底和RISC的先进性取得一定成果后，还是无法打破这个循环，也无法构建自己的循环。
+
+* 评价一款CPU是否成功主要看三点：架构、制程、软件生态。架构靠先天遗传，制程靠后天努力，软件生态则靠合纵连横。RISC架构的确给了PowerPC一些先天优势，但后面两个的短板实在差距太大，AIM联盟忙活半天，发现自己骑的还是雅迪。
+
+* 难道真的没有破局点了吗？其实是有的。历史告诉我们，再牢固的商业壁垒和护城河，都无法做到千秋万载一统江湖。只不过苹果寻找的破局点，并不在自己身上，而是在于两个当时名气还不大的名字：一个叫台积电，一个叫ARM。
+
+* 硅谷早已天下闻名，但众所不周知的是，英国有个低配版的硅谷——硅沼（Silicon Fen）。
+
+
+
+硅沼指的是英国剑桥郡周边的一片区域，因为地处不列颠岛一片沼泽地（Fenlands）的南端，所以起了一个古怪的名字。这里大约等于上海的张江或者深圳的粤海街道，聚集了大批高科技公司，其中最有名的就是成立于1990年的Arm。
+
+* Arm的诞生跟RISC浪潮也息息相关。早在1983年，Arm公司的前身Acorn Computer受伯克利Patterson教授的RISC论文启发，想设计一款基于RISC理念的芯片，于是便启动了一个名叫Acorn RISC Machine项目，其首字母缩写便是ARM。
+
+* 而乔布斯也变化巨大。从1985年开始，他见证了苹果的衰落、英特尔的制霸、AIM联盟的挣扎，见证了昔日名气远不如他的盖茨称为世界首富；他经历了父亲的逝世，也拥有了美满的家庭生活，尽管仍然桀骜不驯，但他务实了很多。
+
+
+
+比如在重新担任CEO后，乔布斯第一时间就给盖茨打电话，恳求微软给苹果投资1.5亿美金，并继续开发Mac版的Word和Excel。在谈判中乔布斯放低身段，好话说尽，甚至承诺把微软的IE浏览器当作Mac的默认浏览器——任何一个用过IE的人，都明白这有多么屈辱。
+
+
+
+然后乔布斯大刀阔斧地砍掉了苹果绝大多数的产品线，把型号从几百款压缩到10款以内，并裁掉3000多人。在砍掉的项目里，就包括投入无数资金、但销量极差的“Newton”掌上电脑，也是当时苹果唯一使用ARM芯片的项目。
+
+*   
+
+1998年，苹果发布了突破性的iMac，大获成功，并带动苹果当年成功扭亏，盈利3.09亿美金；2001年，苹果发布了iPod，这款能装1000首歌曲的播放器立即风靡了全世界，到2007年，iPod已经卖出了超过1亿台。苹果彻底新生。
+
+
+
+处理完生存问题之后，乔布斯才能腾出精力来思考：如何解决Mac越来越严重的芯片问题？
+
+* 芯片制作因为苹果公司的生存问题而被推迟了十年。
+
+*   
+
+而为了卖产品，乔布斯还不得不继续厚着脸皮在公开场合尬吹PowerPC的芯片，比如在2003年他评价即将发布的PowerPC G5时说道：“PowerPC
+G5让我们拥有了全球最快的桌面计算机……这是我们（跟IBM和摩托罗拉）长期、高效合作的开端。”
+
+* 有时还真不能只看表面。
+
+* 2005年，乔布斯公开宣布Mac将转投Intel阵营，部分追随多年的果粉十分愤怒；而等到2006年1月乔布斯终于发布了基于Intel新品的iMac和Macbook Pro时，当看到Macbook Pro相比之前的PowerBook性能提升5倍、续航提升2小时的时候，发布会瞬间又变成大型真香现场。
+
+
+
+苹果第二次换芯成功了，十年后有媒体评价：乔布斯转向Intel，是苹果最成功的冒险之一。
+
+* 在初代iPhone研发时，乔布斯曾想趁热打铁，劝说Intel为苹果开发移动芯片——那会的Intel还没来得及向世界展示他们在移动领域的惊人无能。但因为价格没谈拢，欧德宁事后回忆：谁能想到他搞的这款手机销量会是（预计的）100倍？
+
+*   
+
+于是苹果转向三星。第一代iPhone使用的是三星的S5L8900芯片——严格上讲这不是一款芯片，而是一个SoC片上系统（System on
+Chip），由一个ARM架构芯片和一个PowerVR芯片组成，采用90nm工艺，勉强够用。*为了读者通俗理解，我们后面仍然用芯片来指代SoC。
+
+* 三星的半导体业务发轫于90年代，由二代李健熙亲自布局，通过“反周期定律”一步步变成全球存储芯片的老大。2006年三星进入芯片代工领域，在技术上迅速追上台积电，并通过自研的S5L8900芯片吃下成为iPhone芯片的唯一供应商。
+
+* 而在2007年的iPhone发布会上，乔布斯就引用了Alan Kay的一句话：真正在意软件的人，应该自己造硬件。
+
+* Alan Kay是谁？他是图灵奖获得者，是面向对象编程的发明者，他在施乐PARC领导开发了历史上第一个用户图形界面，直接启发了乔布斯的Macintosh和盖茨的Windows。援引Alan Kay的话，是不是意味着乔布斯又悟出了新的启发？
+
+* 产业容易转移，但科学却不容易转移，或者说科学无法转移，只能通过悉心培育科学精神，才能在自己的土地上开花结果。美国虽然很多产业被转移出去，但仍然把控着计算机和芯片科学的创新，而至今70多位ACM图灵奖的获得者，也几乎全部都是美国人。
+
+* 1984年洛杉矶奥运会，西方的记者都用上了IBM的PC机，中国记者却只有纸和笔，法新社写道：“在全世界报道奥运会的7000名记者中，只有中国人用手写他们的报道。”
+
+Tags: 芯片 商业
+
+
+
+https://www.huxiu.com/article/782933.html [Email Body](https://files.todoist.com/cKJdXFIIf6Bo9szL9hY5eQyunHUde3XkdEwxafxtAsvKJ_-NOnhGpviEo0teqgqr/by/21878347/as/file.html)
+    - 文案工作者会失业吗？Open AI写作——Obsidian插件TextGenerator_哔哩哔哩_bilibili
+        - Annotations:
+
+*     * #[[chatgpt]]
+
+* Obsidian插件TextGenerator
+
+
+
+https://www.bilibili.com/video/BV1pY411Q7AW/?spm_id_from=333.1007.tianma.2-2-5.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/EBXj9gNwyRIGedCGY1NC6_EjXTxVRzQ28ByhWxuEJ-rE-IBBDEnf30rFu5LsOxkK/by/21878347/as/file.html)
+    - 1个方法，找到领域所有强相关文献、重大节点文献（附超详细案例演示）_哔哩哔哩_bilibili
+        - Tags: 科研 connected papers
+
+
+
+https://www.bilibili.com/video/BV1Es4y1s72f/?spm_id_from=333.1007.tianma.2-1-4.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/vfjTZtCy-pzXBs5bAm1CKDV6VYkkjtFMsaWQ395Of2needxQ2ySGU9uO12hg4Q6f/by/21878347/as/file.html)
+    - 用AI艺术和ChatGPT快速创建网页设计｜无需代码_哔哩哔哩_bilibili
+        - Annotations:
+
+*     * #[[人工智能]] #[[chatgpt]]#[[人工智能画画]]
+
+* 在本视频中，“Codex Community”将使用midjourney,生成网站设计，这是一种用于创建图像的AI艺术工具。然后，将跳到ChatGPT中为网站创建书面内容，最后将所有内容放在Editor X中，这是一个用于创建网站的无编码工具Nocode和人工智能辅助艺术必将成为未来！
+
+* midjourney：https://www.midjourney.com/ ChatGPT：https://chat.openai.com/ Editor X: https://www.editorx.com/editor-x/codex
+
+
+
+https://www.bilibili.com/video/BV1od4y1p7P2/?spm_id_from=333.1007.tianma.3-2-8.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/MTEKqvPKeLOuYlgfgE0uEmSfz_qgzQQMEloVMG0kh3Y6TPVZJc0aw_TkM5199uh-/by/21878347/as/file.html)
+    - 【2023年个人小众软件分享】免费+多平台+生产力工具_哔哩哔哩_bilibili
+        - Annotations:
+
+*     * 把bilibili打造成视频学习的助理网站。
+
+
+
+https://www.bilibili.com/video/BV1oD4y1E7zU/?spm_id_from=333.1007.tianma.4-1-11.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/v73FVuFdXxmCZHeeeGmN0h6SSjxryM-8sN-XR-JsRi6CaD3Hu6pWCOK3d-J153lm/by/21878347/as/file.html)
+    - 与chatGPT 卡片盒交流_哔哩哔哩_bilibili
+        - Tags: #[[chatgpt]]
+
+
+
+https://www.bilibili.com/video/BV1iT411f7dJ/?spm_id_from=444.41.list.card_archive.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/ZBfko4mexuI6Tp_PFpqJuFcUbB6XJdD43QB_IotJzq9g3falZUPkMCLTlIRJZy7m/by/21878347/as/file.html)
+    - 影视从业者 AI 工具指南 Midjourney+Chatgpt_哔哩哔哩_bilibili
+        - Annotations:
+
+*   *   *   *   *     * #[[人工智能]]#[[minjourney]]
+
+
+
+https://www.bilibili.com/video/BV1S44y1Z7QA/?spm_id_from=444.41.list.card_archive.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/9BSYDlyuwOlNXx-v1OMPiT2VBL62-zNSncdiwqavL1OU42Un8brsngT_F9Z_RBuo/by/21878347/as/file.html)
+    - 影视从业者 AI 工具指南 Midjourney+Chatgpt_哔哩哔哩_bilibili
+        - Tags: 未来简史 chatgpt
+
+
+
+https://www.diigo.com/item/image/783rf/15qt [Email Body](https://files.todoist.com/njvzLiA2dKQO5_Z7S0ZnmXI-rj8OYgHobxJf32qv2r7OkEm_BHVmZyLWdq0SpN2X/by/21878347/as/file.html)

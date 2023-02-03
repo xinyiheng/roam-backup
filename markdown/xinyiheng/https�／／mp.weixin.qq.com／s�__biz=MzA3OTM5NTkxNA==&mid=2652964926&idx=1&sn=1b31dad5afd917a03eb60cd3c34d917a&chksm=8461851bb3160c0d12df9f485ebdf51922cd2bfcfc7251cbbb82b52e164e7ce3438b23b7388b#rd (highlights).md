@@ -1,0 +1,7 @@
+- Author:: [[mp.weixin.qq.com]]
+- Full Title:: https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652964926&idx=1&sn=1b31dad5afd917a03eb60cd3c34d917a&chksm=8461851bb3160c0d12df9f485ebdf51922cd2bfcfc7251cbbb82b52e164e7ce3438b23b7388b#rd
+- Category:: #articles
+- URL:: https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652964926&idx=1&sn=1b31dad5afd917a03eb60cd3c34d917a&chksm=8461851bb3160c0d12df9f485ebdf51922cd2bfcfc7251cbbb82b52e164e7ce3438b23b7388b
+- ### Highlights first synced by #Readwise [[February 2nd, 2023]]
+    - 记得有一次跟胡润闲聊，我问他，在每年公布的胡润富豪榜上，2000多个上榜者，年龄最为集中的是哪一段？**他告诉我，大约一半左右的人是“从一个兔子到另外一个兔子”，即1963年生人到1975年生人。**
+    - “民宿”这个词是1990年代中期第一次出现的，而诞生地就在莫干山。当年有一些杭州的文青跑去租赁农屋，改造成颇有文艺气质的旅舍。后来这股风刮到了丽江，竟比莫干山还出了名。

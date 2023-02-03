@@ -949,3 +949,24 @@ PPS 一图流 👇 https://t.co/1uCKlR3Jox
     - @pkmbeth: I’ve always loved graph views, but once again @CapacitiesHQ takes it further. Small write up on why their graph is great :)
 
 https://t.co/ogynwfWlCV ([View Tweet](https://twitter.com/pkmbeth/status/1620388772151189504))
+- ### New highlights added [[February 2nd, 2023]] at 4:22 PM
+    - @coolXiao: 我从《乔布斯传》学到了什么
+
+1.  乔布斯的营销哲学源自马库拉：1.共鸣，2.专注，3.灌输
+2.  关于创意：“伟大的艺术品不必追随潮流，它们自身就可以引领潮流。”
+3.  关于会议：“如果你一定要用幻灯片来讲，那说明你不知道自己要讲什么。”
+
+https://t.co/TvaN0R9oIs ([View Tweet](https://twitter.com/coolXiao/status/1618071208913940480))
+    - @defiethan: 这个视频是Joe Rogan和Steve Jobs的对话，ai可以收集所有乔布斯生前的音频资料还原他的逻辑，并且进行实时对话。现在的电台支持人，很多都可以直接失业了。ai可以对话，报道新闻，播音乐，每几分钟就能搞个笑话，并且知道你每天哪个时间段想听什么话题。我开车时候就是想听歌和新闻，ai能满足需求。7/n https://t.co/gth3OWsgPL ([View Tweet](https://twitter.com/defiethan/status/1619286450645921793))
+    - @NalaGinrut: 如今的年轻人把chatGPT吹上天，甚至抱有幻想创造震惊乔布斯的产品，虽然写出来一些让不明就里的人啧啧称赞的原型来，主要还是因为绝大部分人不知道这种程度的东西核心代码就一行：精雕细琢如何写prompt。
+这个门槛一旦被捅破，人们就会发现你只不过是适应了新时代，而不是掌握了什么不得了的东西。 ([View Tweet](https://twitter.com/NalaGinrut/status/1619473114441867265))
+    - @435hz: 乔布斯：专注和简单一直是我的秘诀之一。简单可能比复杂更难做到，你必须努力理清思路，从而使其变得简单。最终它的价值非常大，一旦你达到了那一步，就可以撼动山岳了。
+找个简单的事，重复去做，优化着去做，然后做到没有人比你更好。很多时候事就成了。爱因斯坦说：比天才更高一级的智慧是简单。 ([View Tweet](https://twitter.com/435hz/status/1620220841928663040))
+    - @CAPy9iUiGOJqqFG: 为了做好我们决定做的事情，我们必须拒绝所有不重要的机会。
+
+——沃尔特·艾萨克森《史蒂夫·乔布斯传》 
+
+![](https://pbs.twimg.com/media/FnxtxrlagAAYF6I.jpg) ([View Tweet](https://twitter.com/CAPy9iUiGOJqqFG/status/1620290685843947521))
+    - @435hz: 你们的时间有限，别浪费在重复其他人的生活上。不要被教条束缚，教条会把你困在别人思考的结果里。不要让其他人的观点掩盖你内心的声音。
+更重要的是，要有勇气听从直觉和内心的指引，它们在某种程度上早就知道你想成为什么样的人，其他一切都不重要。
+——乔布斯，斯坦福的演讲 ([View Tweet](https://twitter.com/435hz/status/1620940834446139393))

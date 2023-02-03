@@ -4,6 +4,6 @@
 - Alfred 相关插件：https://github.com/BenziAhamed/Menu-Bar-Search
 - https://www.packal.org/workflow/search-apple-notes​
 - 我发现印象笔记中的得到标注文件导出到devonthink速度也很快。这样，印象笔记内的搜索也可以在devonthink进行了。#[[软件联动]]
-- 在alfred里面启动devonthink的搜索我也已经设置好了。很早之前就安装了这个workflow，但是好像忘了。#[[软件联动]]https://github.com/mpco/AlfredWorkflow-DEVONthink-Search
+- 在alfred里面启动[[Devonthink]]的搜索我也已经设置好了。很早之前就安装了这个workflow，但是好像忘了。#[[软件联动]]https://github.com/mpco/AlfredWorkflow-[[Devonthink]]-Search
 - 给麻豆买的枪到了，和麻豆组装好玩了一阵子。麻豆很开心。昨天买的橡皮泥也到了。我特意在麻豆玩橡皮泥的时候给他读订阅的《中国国家地理》，阅读了新疆的伊昭公路和沙鸡爸爸喂水。
 - 昨天看吕立青的b站视频，折腾把印象笔记和roam research的内容都导入到devonthink中实现一站式搜索。

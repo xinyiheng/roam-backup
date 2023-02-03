@@ -1,5 +1,5 @@
 - #[[意识流笔记]] 
-    - devonthink中的主要内容是索引mac中的文件，所以占用的空间并不大，可以选择把这种database放在mac本地。这样就不用担心放在u盘中经常打不开的问题。可以只在一台电脑中使用devonthink
+    - [[Devonthink]]中的主要内容是索引mac中的文件，所以占用的空间并不大，可以选择把这种database放在mac本地。这样就不用担心放在u盘中经常打不开的问题。可以只在一台电脑中使用[[Devonthink]]
     - 想要删除inoreader中的大部分订阅源，太多了反而什么也不愿意看了
     - 想要重新在scrivener中写内容。
     - 下载了dropbox，我以前以为必须付费才行，仔细看有免费2g空间，同步scrivenner够用了。

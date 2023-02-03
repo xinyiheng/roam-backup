@@ -1,0 +1,6 @@
+- Author:: [[booklog.jp]]
+- Full Title:: ブクログ - Web本棚サービス
+- Category:: #articles
+- URL:: https://booklog.jp
+- ### Highlights first synced by #Readwise [[February 2nd, 2023]]
+    - ブクログ
