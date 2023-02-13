@@ -970,3 +970,8 @@ https://t.co/TvaN0R9oIs ([View Tweet](https://twitter.com/coolXiao/status/161807
     - @435hz: 你们的时间有限，别浪费在重复其他人的生活上。不要被教条束缚，教条会把你困在别人思考的结果里。不要让其他人的观点掩盖你内心的声音。
 更重要的是，要有勇气听从直觉和内心的指引，它们在某种程度上早就知道你想成为什么样的人，其他一切都不重要。
 ——乔布斯，斯坦福的演讲 ([View Tweet](https://twitter.com/435hz/status/1620940834446139393))
+- ### New highlights added [[February 13th, 2023]] at 10:02 PM
+    - @noodlesli2016: Ride my bike home while encounter a marvelous parallel ai universe on top of that street🤔😀👍 #ai #AIart #stablediffusion #AIArtCommuity #ailens https://t.co/CtzyD5pf8U ([View Tweet](https://twitter.com/noodlesli2016/status/1624053442506375170))
+    - @fortelabs: Consuming information fills you with dark chaotic energy
+
+If you don’t process and express it through your own voice, it will eat you up inside ([View Tweet](https://twitter.com/fortelabs/status/1624657124000137218))

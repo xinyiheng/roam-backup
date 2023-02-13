@@ -1,0 +1,6 @@
+- Author:: [[余汉波]]
+- Full Title:: 文案工作者会失业吗？Open AI写作——Obsidian插件TextGenerator_哔哩哔哩_bilibili
+- Category:: #articles
+- URL:: https://www.bilibili.com/video/BV1pY411Q7AW/?spm_id_from=333.1007.tianma.2-2-5.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab
+- ### Highlights first synced by #Readwise [[February 7th, 2023]]
+    - Obsidian插件TextGenerator

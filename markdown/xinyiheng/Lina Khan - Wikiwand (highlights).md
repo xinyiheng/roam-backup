@@ -1,0 +1,6 @@
+- Author:: [[Joe Biden]]
+- Full Title:: Lina Khan - Wikiwand
+- Category:: #articles
+- URL:: https://www.wikiwand.com/en/Lina_Khan
+- ### Highlights first synced by #Readwise [[February 7th, 2023]]
+    - 可汗文章的标题参考了[罗伯特博克](/en/Robert_Bork "罗伯特博克")1978 年出版*[的《反托拉斯悖论](/en/The_Antitrust_Paradox "反托拉斯悖论")*》一书，该书确立了可汗批评的消费者福利标准。[[8]](#cite_note-NewYorker20212-8)她提出了反垄断政策的替代框架，包括“恢复传统的反垄断和竞争政策原则或适用[共同承运人的](/en/Common_carrier "公共承运人")义务和义务”。
