@@ -1,2 +1,4 @@
 - #[[意识流笔记]]
     - 最近这几天有点失去目标感，不知道该干什么好。
+- Imported Quick Capture items:
+    - [ChatGPT Cheat Sheet & Quick Reference](https://quickref.me/chatgpt)
