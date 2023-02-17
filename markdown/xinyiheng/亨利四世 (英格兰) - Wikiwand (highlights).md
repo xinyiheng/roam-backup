@@ -1,0 +1,6 @@
+- Author:: [[汉弗莱 (格洛斯特公爵)]]
+- Full Title:: 亨利四世 (英格兰) - Wikiwand
+- Category:: #articles
+- URL:: https://www.wikiwand.com/zh/%E4%BA%A8%E5%88%A9%E5%9B%9B%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 他成为第一位金雀花王朝的分支兰开斯特家族的英格兰国王，也成为自[诺曼征服](/zh/诺曼征服英格兰 "诺曼征服英格兰")以来第一位以英语为母语，而不是以法语为母语的英格兰国王。

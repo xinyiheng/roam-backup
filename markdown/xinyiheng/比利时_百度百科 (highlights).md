@@ -1,0 +1,6 @@
+- Author:: [[荷兰比利时“和谐”置换领土 全程不用一兵一卒]]
+- Full Title:: 比利时_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E6%AF%94%E5%88%A9%E6%97%B6/421128
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 宗教是比利时与荷兰分家的一个重要原因。荷兰主要信基督教新教，1830年荷兰南部天主教地区争取独立后，便形成了比利时。比利时也是许多欧洲神秘教派的活动中心。

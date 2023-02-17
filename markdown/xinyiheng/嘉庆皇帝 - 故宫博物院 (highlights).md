@@ -1,0 +1,6 @@
+- Author:: [[确 定]]
+- Full Title:: 嘉庆皇帝 - 故宫博物院
+- Category:: #articles
+- URL:: https://www.dpm.org.cn/court/lineage/226238.html
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 嘉庆二十一年(1816年)，拒绝了英国提出的建立外交关系、开辟通商口岸、割让浙江沿海岛屿的要求。而闭关锁国的传统观念，也使其对外来事物采取盲目排斥态度。

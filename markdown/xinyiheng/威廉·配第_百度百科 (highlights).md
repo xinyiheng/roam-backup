@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 威廉·配第_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%A8%81%E5%BB%89%C2%B7%E9%85%8D%E7%AC%AC/2336738
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 配第的经济思想就是所谓的“劳动是财富之父，土地是财富之母”。

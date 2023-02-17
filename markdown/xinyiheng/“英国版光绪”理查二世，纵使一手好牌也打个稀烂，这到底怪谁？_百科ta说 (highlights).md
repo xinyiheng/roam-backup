@@ -1,0 +1,12 @@
+- Author:: [[举报]]
+- Full Title:: “英国版光绪”理查二世，纵使一手好牌也打个稀烂，这到底怪谁？_百科ta说
+- Category:: #articles
+- URL:: https://baike.baidu.com/tashuo/browse/content?id=aa3243d229c59b1aa52f983e&lemmaId=1148191&fromLemmaModule=pcBottom&lemmaTitle=%E9%BB%91%E5%A4%AA%E5%AD%90%E7%88%B1%E5%BE%B7%E5%8D%8E&fromModule=lemma_bottom-tashuo-article
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 他的父亲黑太子爱德华是英法百年战争间所向披靡的勇士，率领英国人先后取得了永垂史册的克雷西、阿奎丹和普瓦提埃战役。然而同好战的父亲不同，小理查从出生开始几乎未和父亲见面，正当黑太子在海峡对岸冲锋陷阵时，理查一直在安逸的皇宫内享受着平安和温暖。虽说将门出虎子，但理查的个性中温柔和隐忍的部分还是更多些。
+- Author:: [[举报]]
+- Full Title:: “英国版光绪”理查二世，纵使一手好牌也打个稀烂，这到底怪谁？_百科ta说
+- Category:: #articles
+- URL:: https://baike.baidu.com/tashuo/browse/content?id=aa3243d229c59b1aa52f983e&fromModule=tashuo-article_tashuo-tab-item
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 理查一面要解决国内外的棘手势力，还要为百年战争带来的高昂军费“擦屁股”。在继位之后，他的智囊团立即下令征收人头税，这种税费一般要经过议会或御前会议同意，是一种在特殊情况下才能开征的紧急税。然而，这次国王并没有经过臣民的统一，而且人头税一征就是三年起步，直闹得老百姓民意沸腾。因为当时的欧洲正流行过恐怖的黑死病，农民的生产和生活刚刚恢复正常。征收重税是于情于理都不合适的。

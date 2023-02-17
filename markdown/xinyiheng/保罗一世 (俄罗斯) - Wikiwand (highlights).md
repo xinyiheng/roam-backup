@@ -1,0 +1,6 @@
+- Author:: [[About us]]
+- Full Title:: 保罗一世 (俄罗斯) - Wikiwand
+- Category:: #articles
+- URL:: https://www.wikiwand.com/zh/%E4%BF%9D%E7%BD%97%E4%B8%80%E4%B8%96_(%E4%BF%84%E7%BD%97%E6%96%AF)
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 保羅一世在俄國歷史上是一位謎樣的沙皇，他被认为有精神疾病，自认是救世主的化身，希望重新统一[天主教](/zh/天主教 "天主教")和[东正教](/zh/正教 "正教")，并为此在[圣彼得堡](/zh/圣彼得堡 "圣彼得堡")建设了与[罗马](/zh/罗马 "罗马")[圣彼得大教堂](/zh/聖伯多祿大殿 "聖伯多祿大殿")相似的[喀山大教堂](/zh/喀山主教座堂_(圣彼得堡) "喀山主教座堂 (圣彼得堡)")。

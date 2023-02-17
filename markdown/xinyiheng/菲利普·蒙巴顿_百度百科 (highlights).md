@@ -1,0 +1,6 @@
+- Author:: [[菲利普亲王车祸后主动弃驾照 皇家检察:仍可能被起诉]]
+- Full Title:: 菲利普·蒙巴顿_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E8%92%99%E5%B7%B4%E9%A1%BF/56711388?fromModule=lemma_inlink&fromtitle=%E8%8F%B2%E5%88%A9%E6%99%AE%E4%BA%B2%E7%8E%8B&fromid=1016942
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 1947年11月20日和第三代表妹伊丽莎白公主结婚，两人都是[维多利亚女王](/item/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E5%A5%B3%E7%8E%8B?fromModule=lemma_inlink)的玄孙。岳父英王[乔治六世](/item/%E4%B9%94%E6%B2%BB%E5%85%AD%E4%B8%96?fromModule=lemma_inlink)授于他爱丁堡公爵、梅里奥尼思伯爵(Earl of Merioneth)和格林威奇男爵(Baron Greenwich)等爵位。

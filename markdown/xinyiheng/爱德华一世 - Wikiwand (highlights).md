@@ -1,0 +1,7 @@
+- Author:: [[）]]
+- Full Title:: 爱德华一世 - Wikiwand
+- Category:: #articles
+- URL:: https://www.wikiwand.com/zh-hans/%E7%88%B1%E5%BE%B7%E5%8D%8E%E4%B8%80%E4%B8%96
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - [诺曼人征服](/zh-hans/%E8%AF%BA%E6%9B%BC%E5%BE%81%E6%9C%8D%E8%8B%B1%E6%A0%BC%E5%85%B0)后，当时由[诺曼人](/zh-hans/%E8%AB%BE%E6%9B%BC%E4%BA%BA "诺曼人")组成、讲[诺曼法语](/zh-hans/%E7%9B%8E%E6%A0%BC%E9%B2%81-%E8%AF%BA%E6%9B%BC%E8%AF%AD "盎格鲁-诺曼语")的[英格兰](/zh-hans/%E8%8B%B1%E6%A0%BC%E8%98%AD "英格兰")皇室及贵族很少使用爱德华这个[盎格鲁-撒克逊人](/zh-hans/%E7%9B%8E%E6%A0%BC%E9%AD%AF-%E6%92%92%E5%85%8B%E9%81%9C%E4%BA%BA)所使用的英语名字。“长腿”爱德华是第一个以爱德华为名的[诺曼人](/zh-hans/%E8%AF%BA%E6%9B%BC%E4%BA%BA "诺曼人")国王。尽管他是史上第四位名为爱德华的[英格兰国王](/zh-hans/%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%9B%BD%E7%8E%8B)，他仍依诺曼人对君主的称号排序习惯被称为爱德华一世（Édouard I）。在此之前[英格兰](/zh-hans/%E8%8B%B1%E6%A0%BC%E8%98%AD "英格兰")另有三位以爱德华为名的[盎格鲁撒克逊人](/zh-hans/%E7%9B%8E%E6%A0%BC%E9%B2%81%E6%92%92%E5%85%8B%E9%80%8A%E4%BA%BA)国王，分别是[长者爱德华](/zh-hans/%E9%95%B7%E8%80%85%E6%84%9B%E5%BE%B7%E8%8F%AF "长者爱德华")、[殉教者爱德华](/zh-hans/%E6%AE%89%E6%95%99%E8%80%85%E6%84%9B%E5%BE%B7%E8%8F%AF "殉教者爱德华")和[忏悔者爱德华](/zh-hans/%E6%87%BA%E6%82%94%E8%80%85%E6%84%9B%E5%BE%B7%E8%8F%AF "忏悔者爱德华")。
+    - 1284年，爱德华一世颁布“罗德兰法”。他使威尔士成为英格兰国王的私人封地；他经过多方考量后规定刑事案件适用英格兰法律、民事案件适用威尔士法律[[2]](#citenote2)。爱德华一世又把[威尔士亲王](/zh-hans/%E5%A8%81%E5%B0%94%E5%A3%AB%E4%BA%B2%E7%8E%8B "威尔士亲王")之爵位封给自己新出生的儿子，此后该称号一直由王位继承人沿用至今；尽管这套说法是16世纪后才被杜撰出来。

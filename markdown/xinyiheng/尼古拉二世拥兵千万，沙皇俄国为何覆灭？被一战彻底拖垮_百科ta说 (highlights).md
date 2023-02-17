@@ -1,0 +1,6 @@
+- Author:: [[举报]]
+- Full Title:: 尼古拉二世拥兵千万，沙皇俄国为何覆灭？被一战彻底拖垮_百科ta说
+- Category:: #articles
+- URL:: https://baike.baidu.com/tashuo/browse/content?id=baf19538e35cfd20792eb517&lemmaId=2191&fromLemmaModule=pcBottom&lemmaTitle=%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96&fromModule=lemma_bottom-tashuo-article
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 列宁曾经过说过，“俄国是帝国主义链条中最薄弱的一环。”情况确实如此，俄国虽然号称是当时世界上的第五大工业国，可是要与英、法、美、德相比，它仍然是一个落后的农业国，80%的人口是农民。在世界工业总产量中，俄国工业只占2.7%，仅相当于美国的7%，德国的17%，英国的22%，法国的40%。

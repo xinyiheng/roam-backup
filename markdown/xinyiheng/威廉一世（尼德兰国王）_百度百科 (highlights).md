@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 威廉一世（尼德兰国王）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%A8%81%E5%BB%89%E4%B8%80%E4%B8%96/7839772?structureClickId=7839772&structureId=7837436858a4e12674f17d3b&structureItemId=9167c87cbfa282c2f5d1c185&lemmaFrom=starMapContent&fromModule=starMap_content
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 威廉一世（全名：威廉·弗雷德里克，荷兰语：Willem Frederik；1772年8月24日-1843年12月12日），是第一任尼德兰国王和卢森堡大公。威廉一世借由[维也纳会议](/item/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E4%BC%9A%E8%AE%AE/2777205?fromModule=lemma_inlink)中欧洲列强的支持，在1815年成立了包含[比利时](/item/%E6%AF%94%E5%88%A9%E6%97%B6/421128?fromModule=lemma_inlink)在内的[尼德兰王国](/item/%E5%B0%BC%E5%BE%B7%E5%85%B0%E7%8E%8B%E5%9B%BD/8071955?fromModule=lemma_inlink)，大力推行南工业、北商贸的发展政策以振兴经济。他在经济上虽成果斐然而被称为“商人国王”（别称“铜币王”），但是开明专制的风格及推行喀尔文教、荷兰语的国策，却在天主教和法语优越的南方比利时地区激起强大的反对声浪，终于在欧洲1830年革命时爆发了[比利时革命](/item/%E6%AF%94%E5%88%A9%E6%97%B6%E9%9D%A9%E5%91%BD/12599061?fromModule=lemma_inlink)。

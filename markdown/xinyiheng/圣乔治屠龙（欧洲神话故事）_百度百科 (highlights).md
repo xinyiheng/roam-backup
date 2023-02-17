@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 圣乔治屠龙（欧洲神话故事）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%9C%A3%E4%B9%94%E6%B2%BB%E5%B1%A0%E9%BE%99/763468
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 在英国或英属国（英属领地）的早期金属钱币中，常常出现“圣乔治屠龙”图案。这是源自[十字军](/item/%E5%8D%81%E5%AD%97%E5%86%9B?fromModule=lemma_inlink)第三次东征(1189—1192年)时，英国国王[理查一世](/item/%E7%90%86%E6%9F%A5%E4%B8%80%E4%B8%96/1440575?fromModule=lemma_inlink)（又称[狮心王](/item/%E7%8B%AE%E5%BF%83%E7%8E%8B?fromModule=lemma_inlink)，意即有狮子的雄霸与凶狠的心）亲自率兵，在“圣乔治屠龙”地附近的一场战斗中大获全胜，英军声威大震。英王理查一世认为这是圣乔治在保佑他们，从此圣乔治被视为英国的守护圣人。1277年，英国根据“龙血形成一个十字形”（圣乔治十字）的传说设计出白底红十字的“[圣乔治旗](/item/%E5%9C%A3%E4%B9%94%E6%B2%BB%E6%97%97?fromModule=lemma_inlink)”（[英国国旗](/item/%E8%8B%B1%E5%9B%BD%E5%9B%BD%E6%97%97/515203?fromModule=lemma_inlink)），同时以“圣乔治十字”作为英国军队的纹章。每年的4月23日，定为[圣乔治日](/item/%E5%9C%A3%E4%B9%94%E6%B2%BB%E6%97%A5/8667352?fromModule=lemma_inlink)（公共假日）。时至今日，“圣乔治”仍是英格兰文化的重要组成部分。

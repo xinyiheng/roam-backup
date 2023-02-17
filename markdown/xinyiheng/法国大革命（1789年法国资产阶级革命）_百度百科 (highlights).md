@@ -1,0 +1,8 @@
+- Author:: [[网页]]
+- Full Title:: 法国大革命（1789年法国资产阶级革命）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E6%B3%95%E5%9B%BD%E5%A4%A7%E9%9D%A9%E5%91%BD/205281
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 1794年7月27日，法国大革命中的市民革命宣告结束。1830年7月，巴黎人民发动[七月革命](/item/%E4%B8%83%E6%9C%88%E9%9D%A9%E5%91%BD/3978777?fromModule=lemma_inlink)，建立了以[路易·菲利普一世](/item/%E8%B7%AF%E6%98%93%C2%B7%E8%8F%B2%E5%88%A9%E6%99%AE%E4%B8%80%E4%B8%96/22825292?fromModule=lemma_inlink)为首的[奥尔良王朝](/item/%E5%A5%A5%E5%B0%94%E8%89%AF%E7%8E%8B%E6%9C%9D/8556237?fromModule=lemma_inlink)，至此法国大革命才彻底结束。
+    - 法国在这段时期经历了一个史诗式的转变：过往的贵族和宗教特权不断受到自由主义政治组织及上街抗议的民众的冲击，旧的观念逐渐被全新的[天赋人权](/item/%E5%A4%A9%E8%B5%8B%E4%BA%BA%E6%9D%83/6173913?fromModule=lemma_inlink)、[三权分立](/item/%E4%B8%89%E6%9D%83%E5%88%86%E7%AB%8B/822252?fromModule=lemma_inlink)等民主思想所取代。关于法国大革命结束的时间，世界史学界看法众多，难成共识。在[法国](/item/%E6%B3%95%E5%9B%BD/1173384?fromModule=lemma_inlink)，普遍将[雾月政变](/item/%E9%9B%BE%E6%9C%88%E6%94%BF%E5%8F%98/1096263?fromModule=lemma_inlink)作为大革命结束的标志。
+    - 法国由于[路易十五](/item/%E8%B7%AF%E6%98%93%E5%8D%81%E4%BA%94/3799788?fromModule=lemma_inlink)时代的过度参战又未能打赢（特别是[七年战争](/item/%E4%B8%83%E5%B9%B4%E6%88%98%E4%BA%89?fromModule=lemma_inlink)）而导致[国库](/item/%E5%9B%BD%E5%BA%93?fromModule=lemma_inlink)空虚，以及参加[美国独立战争](/item/%E7%BE%8E%E5%9B%BD%E7%8B%AC%E7%AB%8B%E6%88%98%E4%BA%89?fromModule=lemma_inlink)带来的财政压力。当时法国国债总量高达20亿法郎。由于战争债务带来的社会负担，加上君主体制下的军队无能，为给退役老兵提供社会服务所拖累。同时贵族阶级，尤其是住在[凡尔赛](/item/%E5%87%A1%E5%B0%94%E8%B5%9B?fromModule=lemma_inlink)的[路易十六](/item/%E8%B7%AF%E6%98%93%E5%8D%81%E5%85%AD?fromModule=lemma_inlink)和[玛丽·安托瓦内特](/item/%E7%8E%9B%E4%B8%BD%C2%B7%E5%AE%89%E6%89%98%E7%93%A6%E5%86%85%E7%89%B9?fromModule=lemma_inlink)皇后的奢华生活大大加重平民百姓的经济负担。老旧而效率低下的财政系统无法负担政府债务，而不合理的税务制度又让这一切雪上加霜。

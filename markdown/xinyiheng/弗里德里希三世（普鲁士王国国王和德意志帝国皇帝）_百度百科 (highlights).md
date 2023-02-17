@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 弗里德里希三世（普鲁士王国国王和德意志帝国皇帝）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%E4%B8%89%E4%B8%96/22878320
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 1871年，弗里德里希成为德意志皇位继承人。由于长期在英国逗留，他受到开明派、[立宪派](/item/%E7%AB%8B%E5%AE%AA%E6%B4%BE?fromModule=lemma_inlink)以及[中产阶级](/item/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7?fromModule=lemma_inlink)思想的影响，具有强烈的自由主义思想。他并不赞成首相[俾斯麦](/item/%E4%BF%BE%E6%96%AF%E9%BA%A6/715?fromModule=lemma_inlink)的[铁血政策](/item/%E9%93%81%E8%A1%80%E6%94%BF%E7%AD%96?fromModule=lemma_inlink)，俾斯麦也从未喜欢过他。

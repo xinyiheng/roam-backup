@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 阿尔贝一世（比利时国王）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E9%98%BF%E5%B0%94%E8%B4%9D%E4%B8%80%E4%B8%96/7104043
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 阿尔贝一世（Albert I，1875年4月8日~1934年2月17日），[比利时](/item/%E6%AF%94%E5%88%A9%E6%97%B6/421128?fromModule=lemma_inlink)国王（1909年~1934年在位）。[利奥波德一世](/item/%E5%88%A9%E5%A5%A5%E6%B3%A2%E5%BE%B7%E4%B8%80%E4%B8%96/2922853?fromModule=lemma_inlink)之孙、[利奥波德二世](/item/%E5%88%A9%E5%A5%A5%E6%B3%A2%E5%BE%B7%E4%BA%8C%E4%B8%96/2922883?fromModule=lemma_inlink)之侄。他在即位前的称号是[佛兰德伯爵](/item/%E4%BD%9B%E5%85%B0%E5%BE%B7%E4%BC%AF%E7%88%B5/295176?fromModule=lemma_inlink)。是佛兰德伯爵菲力浦之子。1909年继承其伯父利奥波德二世的王位。[第一次世界大战](/item/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98/68516?fromModule=lemma_inlink)期间，拒绝德皇通过比境的最后通牒，并领导陆军进行抵抗。战后全力投入重建工作。在一次登山事故中丧生

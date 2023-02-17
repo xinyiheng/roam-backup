@@ -1,0 +1,7 @@
+- Author:: [[举报]]
+- Full Title:: 荷兰最痴情女王，不顾全国反对执意下嫁情郎，为丈夫险些两度退位_百科ta说
+- Category:: #articles
+- URL:: https://baike.baidu.com/tashuo/browse/content?id=6985b0e6f791f5b9c541d00d&lemmaId=2702688&fromLemmaModule=pcBottom&lemmaTitle=%E8%B4%9D%E5%A8%85%E7%89%B9%E4%B8%BD%E5%85%8B%E4%B8%9D%C2%B7%E5%A8%81%E5%BB%89%E6%98%8E%E5%A8%9C%C2%B7%E9%98%BF%E5%A7%86%E5%8A%A0%E5%BE%B7&fromModule=lemma_bottom-tashuo-article
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 荷兰连续3代国王都是女性，在世界历史上堪称奇闻。
+    - 荷兰虽然是君主立宪制国家，但女王依然拥有广泛的实权，不仅与议会共同行使立法权，而且还与政府共享行政权，同时还担任最高国务协商机构-枢密院的主席职务。依照宪法规定，首相及其阁员每周至少要跟女王会面一次，跟她讨论、决定国务，并将其建议作为施政时考虑的重要因素。正因如此，贝娅特丽克丝在国内外一系列事务中均具有强大的影响力，绝非英国女王伊丽莎白二世可比。

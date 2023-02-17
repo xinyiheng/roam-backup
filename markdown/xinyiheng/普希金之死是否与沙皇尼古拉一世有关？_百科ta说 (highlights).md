@@ -1,0 +1,7 @@
+- Author:: [[举报]]
+- Full Title:: 普希金之死是否与沙皇尼古拉一世有关？_百科ta说
+- Category:: #articles
+- URL:: https://baike.baidu.com/tashuo/browse/content?id=f60e3010ffa2cbe8b2a48b00&lemmaId=965899&fromLemmaModule=pcBottom&lemmaTitle=%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E8%B0%A2%E5%B0%94%E7%9B%96%E8%80%B6%E7%BB%B4%E5%A5%87%C2%B7%E6%99%AE%E5%B8%8C%E9%87%91&fromModule=lemma_bottom-tashuo-article
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 普希金于1831年结婚，其实结婚后，他并没有断绝向其他女性表达好感。因此，普希金短短一生中，至少心仪过150位女性。
+    - 1836年决斗前夕，三十七岁的他或许预感到自己的生命之路即将走到尽头，于是总结了自己这辈子的风流韵事。他开列一份“唐璜”名单，名单显示，其妻子冈察洛娃是他所爱过的第137位女性。

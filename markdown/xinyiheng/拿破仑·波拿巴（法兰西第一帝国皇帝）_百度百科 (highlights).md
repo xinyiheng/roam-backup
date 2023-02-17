@@ -1,0 +1,6 @@
+- Author:: [[第七章 莫斯科在燃烧]]
+- Full Title:: 拿破仑·波拿巴（法兰西第一帝国皇帝）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E6%8B%BF%E7%A0%B4%E4%BB%91%C2%B7%E6%B3%A2%E6%8B%BF%E5%B7%B4/173319
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 拿破仑·波拿巴（法语：Napoléon Bonaparte，1769年8月15日－1821年5月5日），即拿破仑一世（Napoléon I），出生于[科西嘉岛](/item/%E7%A7%91%E8%A5%BF%E5%98%89%E5%B2%9B/1011696?fromModule=lemma_inlink)，十九世纪法国伟大的军事家、政治家，[法兰西第一帝国](/item/%E6%B3%95%E5%85%B0%E8%A5%BF%E7%AC%AC%E4%B8%80%E5%B8%9D%E5%9B%BD/409857?fromModule=lemma_inlink)的缔造者。历任[法兰西第一共和国](/item/%E6%B3%95%E5%85%B0%E8%A5%BF%E7%AC%AC%E4%B8%80%E5%85%B1%E5%92%8C%E5%9B%BD?fromModule=lemma_inlink)第一执政（1799年－1804年），[法兰西第一帝国](/item/%E6%B3%95%E5%85%B0%E8%A5%BF%E7%AC%AC%E4%B8%80%E5%B8%9D%E5%9B%BD/409857?fromModule=lemma_inlink)皇帝（1804年－1815年）

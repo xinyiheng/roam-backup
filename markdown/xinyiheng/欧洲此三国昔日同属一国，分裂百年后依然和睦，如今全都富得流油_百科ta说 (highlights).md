@@ -1,0 +1,6 @@
+- Author:: [[举报]]
+- Full Title:: 欧洲此三国昔日同属一国，分裂百年后依然和睦，如今全都富得流油_百科ta说
+- Category:: #articles
+- URL:: https://baike.baidu.com/tashuo/browse/content?id=f97c8e26596ea002f5c2c237&lemmaId=421128&fromLemmaModule=pcRight&lemmaTitle=%E6%AF%94%E5%88%A9%E6%97%B6&fromModule=lemma_right-tashuo-article
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 荷兰、卢森堡、比利时三国。这三个小国在历史上也曾同属一个国家，这段历史还要从拿破仑时代说起。当时，欧洲各国联合出兵攻打法国，将拿破仑成功击败，战争结束以后各国齐聚维也纳，开会并签署《维也纳协定》。为防止法国二次崛起，由英德两国主导，将法国比利时和卢森堡地区都划归另一个战胜国——尼德兰王国（即荷兰），组建尼德兰联合王国。就这样，在两个大国的扶持下，尼德兰王国迎来历史上最为辉煌的时刻之一。

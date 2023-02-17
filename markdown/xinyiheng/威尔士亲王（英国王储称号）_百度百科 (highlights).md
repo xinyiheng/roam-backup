@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 威尔士亲王（英国王储称号）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%A8%81%E5%B0%94%E5%A3%AB%E4%BA%B2%E7%8E%8B/1308861?structureClickId=1308861&structureId=0d89feb3de21fcfb574ef86e&structureItemId=a46e4d3565deb403fefb9c5d&lemmaFrom=starMapContent&fromModule=starMap_content
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 威尔士亲王（英语：Prince of Wales，威尔士文：Tywysog Cymru），[威尔士公国](/item/%E5%A8%81%E5%B0%94%E5%A3%AB%E5%85%AC%E5%9B%BD/987515?fromModule=lemma_inlink)的[元首](/item/%E5%85%83%E9%A6%96/1244146?fromModule=lemma_inlink)，自1301年英格兰吞并[威尔士](/item/%E5%A8%81%E5%B0%94%E5%A3%AB/4834248?fromModule=lemma_inlink)之后，英王便将这个头衔赐予自己的长子。从此以后，给国王的男性继承人冠以“威尔士亲王”的头衔逐渐相沿成习，“威尔士亲王”便成了英国王储的同义词。

@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 玛丽王后（英国乔治五世之妻）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E7%8E%9B%E4%B8%BD%E7%8E%8B%E5%90%8E/3808628?lemmaFrom=lemma_relation_starMap&fromModule=lemma_relation-starMap
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 伊丽莎白二世和丈夫菲利普亲王结婚后，为了方便称呼，菲利普亲王在加入英国国籍时，将姓氏改为母姓蒙巴顿。婚礼后蒙巴顿勋爵提出英国王朝将来改名为蒙巴顿王朝的要求。而玛丽太王太后得知消息后，十分震怒，她不仅怒斥了菲利普亲王此举，更是以太王太后的身份向[伊丽莎白二世](/item/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E4%BA%8C%E4%B8%96?fromModule=lemma_inlink)施压，保守的太王太后认为此举是违反了[温莎王朝](/item/%E6%B8%A9%E8%8E%8E%E7%8E%8B%E6%9C%9D?fromModule=lemma_inlink)的传统礼制，不可采纳。

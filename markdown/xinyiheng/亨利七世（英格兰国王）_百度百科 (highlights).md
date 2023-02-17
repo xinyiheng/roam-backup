@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 亨利七世（英格兰国王）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E4%BA%A8%E5%88%A9%E4%B8%83%E4%B8%96/9483474
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 在历时三十余年的[玫瑰战争](/item/%E7%8E%AB%E7%91%B0%E6%88%98%E4%BA%89/4955?fromModule=lemma_inlink)中，[兰开斯特家族](/item/%E5%85%B0%E5%BC%80%E6%96%AF%E7%89%B9%E5%AE%B6%E6%97%8F?fromModule=lemma_inlink)和约克家族同归于尽，大批封建旧贵族在互相残杀中或阵亡或被处决。新兴贵族和资产阶级的力量在战争中迅速增长，并成了都铎王朝新建立的[君主专制](/item/%E5%90%9B%E4%B8%BB%E4%B8%93%E5%88%B6?fromModule=lemma_inlink)政体的支柱。亨利七世通过议会，宗教等方面的改革建立和巩固强大了[王权](/item/%E7%8E%8B%E6%9D%83/6341877?fromModule=lemma_inlink)，在[中央政府](/item/%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C?fromModule=lemma_inlink)中，新成立的枢密院取代了受制于贵族的谘议会；在地方政府各郡治安法官的职权被扩大了；在郡以下，权力集中于小型教区会议手中；在司法体制上建立一系列特权法庭等。而国王的权力并不是无限的，它受到各方面特别是议会法律的制约，具有[资本主义](/item/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89?fromModule=lemma_inlink)性质。君权与议会达到了协调一致，共同维系着英国[政治机器](/item/%E6%94%BF%E6%B2%BB%E6%9C%BA%E5%99%A8?fromModule=lemma_inlink)的运作。随着政治的统一，各地区的经济联系得到进一步加强，封建农业开始向资本主义农业转变，导致英国农村出现了许多[资本主义农场](/item/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%86%9C%E5%9C%BA?fromModule=lemma_inlink)，出现了一批与资本主义密切联系的[新贵族](/item/%E6%96%B0%E8%B4%B5%E6%97%8F?fromModule=lemma_inlink)，他们把积累起来的资本直接或间接地投入工业，使得英国的工业、手工业迅速发展起来。

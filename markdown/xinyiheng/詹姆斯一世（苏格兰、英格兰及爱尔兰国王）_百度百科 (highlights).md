@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 詹姆斯一世（苏格兰、英格兰及爱尔兰国王）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%80%E4%B8%96/8796302
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 虽然当时文献都记录了詹姆斯一世的粗鲁言行与爱好奢靡，但他同时又是个[博学之](/item/%E5%8D%9A%E5%AD%A6%E4%B9%8B/10696474?fromModule=lemma_inlink)士，相传他参访[牛津大学图书馆](/item/%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86/4058469?fromModule=lemma_inlink)时曾望着图书馆的丰富藏书叹道：“若我不是个国王，我愿做这儿的囚徒。”事实上，詹姆斯读书量可能居当代欧洲之冠。也正因为如此，詹姆斯才会（意外地）留下他最伟大的功业——下令编纂英文版的圣经，英文随着这本真正渗透到英国各阶层的读物成为一种真正[普遍性](/item/%E6%99%AE%E9%81%8D%E6%80%A7/255679?fromModule=lemma_inlink)的读写文字，英语能成为当今世界最通用的语言亦是奠基于此；其贡献，可与莎士比亚的戏剧并称甚至更伟大。

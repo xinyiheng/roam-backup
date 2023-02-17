@@ -1,0 +1,6 @@
+- Author:: [[Edward VI]]
+- Full Title:: 爱德华六世_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E7%88%B1%E5%BE%B7%E5%8D%8E%E5%85%AD%E4%B8%96/4402915
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 爱德华六世于1547年1月28日即位，同年2月20日加冕时，年仅九岁，由舅父[萨默塞特](/item/%E8%90%A8%E9%BB%98%E5%A1%9E%E7%89%B9?fromModule=lemma_inlink)公爵爱德华·西摩摄政。爱德华六世坚持其父亲的[英国国教](/item/%E8%8B%B1%E5%9B%BD%E5%9B%BD%E6%95%99/5095761?fromModule=lemma_inlink)政策。1549年萨默塞特公爵在宫廷斗争中失势，[诺森伯兰公爵](/item/%E8%AF%BA%E6%A3%AE%E4%BC%AF%E5%85%B0%E5%85%AC%E7%88%B5/11070216?fromModule=lemma_inlink)约翰·达德利摄政。由于国王年轻病弱，在位六年便去世。由于爱德华并无遗下任何子嗣，便由他祖父[亨利七世](/item/%E4%BA%A8%E5%88%A9%E4%B8%83%E4%B8%96/9483474?fromModule=lemma_inlink)的外曾孙女[简·格雷](/item/%E7%AE%80%C2%B7%E6%A0%BC%E9%9B%B7?fromModule=lemma_inlink)继承王位。

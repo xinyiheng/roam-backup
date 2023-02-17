@@ -1,0 +1,6 @@
+- Author:: [[chat.openai.com]]
+- Full Title:: New Chat
+- Category:: #articles
+- URL:: https://chat.openai.com/chat/f55f18e1-50ff-4a40-b964-8eca16a7a880
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 克思会怎样评价这本书

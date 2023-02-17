@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 葡萄牙国王_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E7%8E%8B?fromModule=lemma_search-box
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 葡萄牙国王，是从1139年统一的[葡萄牙王国](/item/%E8%91%A1%E8%90%84%E7%89%99%E7%8E%8B%E5%9B%BD/3597353?fromModule=lemma_inlink)开始，直到1910年10月5日革命爆发由[共和立宪制](/item/%E5%85%B1%E5%92%8C%E7%AB%8B%E5%AE%AA%E5%88%B6/5061698?fromModule=lemma_inlink)代替了[君主制](/item/%E5%90%9B%E4%B8%BB%E5%88%B6/394814?fromModule=lemma_inlink)，期间葡萄牙一直由国王统治。并且经历了五个王朝的统治[勃艮第王朝](/item/%E5%8B%83%E8%89%AE%E7%AC%AC%E7%8E%8B%E6%9C%9D/365765?fromModule=lemma_inlink)、[阿维斯王朝](/item/%E9%98%BF%E7%BB%B4%E6%96%AF%E7%8E%8B%E6%9C%9D/14149677?fromModule=lemma_inlink)、[哈布斯堡王朝](/item/%E5%93%88%E5%B8%83%E6%96%AF%E5%A0%A1%E7%8E%8B%E6%9C%9D/436058?fromModule=lemma_inlink)、[布拉干萨王朝](/item/%E5%B8%83%E6%8B%89%E5%B9%B2%E8%90%A8%E7%8E%8B%E6%9C%9D/10427006?fromModule=lemma_inlink)和萨克森—科堡—哥达王朝。

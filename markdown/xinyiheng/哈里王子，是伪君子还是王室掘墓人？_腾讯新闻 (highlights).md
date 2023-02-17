@@ -1,0 +1,6 @@
+- Author:: [[PRINCE HARRY]]
+- Full Title:: 哈里王子，是伪君子还是王室掘墓人？_腾讯新闻
+- Category:: #articles
+- URL:: https://new.qq.com/rain/a/20230113A056Z200
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 拿威廉哈里这一代举例，威廉出生的时候是第二顺位继承人（第一位是他爹查尔斯），哈里是第三顺位继承人。随着威廉三个孩子乔治、夏洛特和路易斯的降生，哈里的继承权已经排到第六位。除非出现重大灾难把他哥全家一锅端，他这辈子都别想成为国王。

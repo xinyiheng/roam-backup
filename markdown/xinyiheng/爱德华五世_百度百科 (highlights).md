@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 爱德华五世_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E7%88%B1%E5%BE%B7%E5%8D%8E%E4%BA%94%E4%B8%96/3891726
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 爱德华五世（[英语](/item/%E8%8B%B1%E8%AF%AD/109997?fromModule=lemma_inlink)：Edward V，1470年11月4日—约1483年），英格兰[约克王朝](/item/%E7%BA%A6%E5%85%8B%E7%8E%8B%E6%9C%9D/8631122?fromModule=lemma_inlink)第二位国王（1483年在位），他是[爱德华四世](/item/%E7%88%B1%E5%BE%B7%E5%8D%8E%E5%9B%9B%E4%B8%96/4402998?fromModule=lemma_inlink)长子，在他父亲死后即位为[英国国王](/item/%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B?fromModule=lemma_inlink)，但不到一年，就和他唯一的弟弟[约克公爵](/item/%E7%BA%A6%E5%85%8B%E5%85%AC%E7%88%B5/9930696?fromModule=lemma_inlink)理查一起神秘失踪。由他们的叔父，护国公格洛斯特公爵理查即位。当时正是英国[红白玫瑰战争](/item/%E7%BA%A2%E7%99%BD%E7%8E%AB%E7%91%B0%E6%88%98%E4%BA%89/1442696?fromModule=lemma_inlink)的混乱时期。同年理查宣布[加冕](/item/%E5%8A%A0%E5%86%95/934666?fromModule=lemma_inlink)为理查三世。爱德华五世和弟弟约克公爵被关进伦敦塔。此后兄弟俩行踪不明，据说是被理查三世杀害的。更有甚者，传说兄弟俩是被国王下令活活钉死在墙里的，但一直没有证据。

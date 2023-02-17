@@ -1,0 +1,7 @@
+- Author:: [[ABOUT TIFF（电影节信息）]]
+- Full Title:: 挪威（挪威王国）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E6%8C%AA%E5%A8%81/167133
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 2021年，挪威国内生产总值为4819亿美元。
+    - 挪威官方语言为[挪威语](/item/%E6%8C%AA%E5%A8%81%E8%AF%AD/2186154?fromModule=lemma_inlink)，属于和丹麦、瑞典语关系密切的北日耳曼语系。在大多数情况下，讲挪威、丹麦和瑞典语的人可以互相沟通。

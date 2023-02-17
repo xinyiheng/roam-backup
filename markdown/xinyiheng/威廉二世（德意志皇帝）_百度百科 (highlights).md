@@ -1,0 +1,8 @@
+- Author:: [[Emil Ludwig]]
+- Full Title:: 威廉二世（德意志皇帝）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%A8%81%E5%BB%89%E4%BA%8C%E4%B8%96/2731987?structureClickId=2731987&structureId=da61672e471f13bffef3ba5a&structureItemId=d276fc8fde8ae75c74e76895&lemmaFrom=starMapContent&fromModule=starMap_content
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 威廉二世的遗愿有两个，（1）他死后葬礼上不能出现纳粹标志，但是纳粹党并没有满足威廉二世的这个要求。（2）王朝不复辟他的遗体就不运回德国安葬，这个遗愿却得到了纳粹德国的尊重，原本希特勒当时准备把威廉二世的遗体迎回柏林举行国葬，所以直到今天，威廉二世的遗体还安葬在荷兰。
+    - 威廉是英国[维多利亚女王](/item/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E5%A5%B3%E7%8E%8B?fromModule=lemma_inlink)的第一个外孙。在女王临终前的一刻，威廉还握着她的手，直到她离世。当时，英国民众曾因此深受感动，但威廉的形象在1914年被破坏了。
+    - [俾斯麦](/item/%E4%BF%BE%E6%96%AF%E9%BA%A6?fromModule=lemma_inlink)去世前曾预言：“[腓特烈大帝](/item/%E8%85%93%E7%89%B9%E7%83%88%E5%A4%A7%E5%B8%9D?fromModule=lemma_inlink)去世20年后，[普鲁士](/item/%E6%99%AE%E9%B2%81%E5%A3%AB?fromModule=lemma_inlink)便在[耶拿战役](/item/%E8%80%B6%E6%8B%BF%E6%88%98%E5%BD%B9?fromModule=lemma_inlink)被[拿破仑](/item/%E6%8B%BF%E7%A0%B4%E4%BB%91?fromModule=lemma_inlink)击败了；我去世20年后，威廉二世的皇冠也将保不住了。“[

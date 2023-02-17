@@ -1,0 +1,6 @@
+- Author:: [[举报]]
+- Full Title:: 该国独立向外借了两任国王，一个流亡，一个死亡成迷_百科ta说
+- Category:: #articles
+- URL:: https://baike.baidu.com/tashuo/browse/content?id=eba29de2a5f59cc00214e005&lemmaId=10495036&fromLemmaModule=pcBottom&lemmaTitle=%E4%B9%94%E6%B2%BB%E4%B8%80%E4%B8%96&fromModule=lemma_bottom-tashuo-article
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 1913年3月18日，乔治一世被一个叫亚历山大·希纳斯从背后开枪打死。这名凶手声称国王拒绝给他钱，他才开枪射击的。随后希腊政府出面说解释，打死国王的希纳斯是一个醉汉和流浪者，但也有人认为并没有这样简单，至此乔治一世死亡成百年之谜。希腊百年前两借国王，两任国王都未善终。不过乔治一世的儿子康斯坦丁继位后，成为希腊末代国王。后来康斯坦丁下台后，希腊成为一个非君主制国家。

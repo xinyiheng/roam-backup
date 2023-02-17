@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 霍亨索伦王朝_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E9%9C%8D%E4%BA%A8%E7%B4%A2%E4%BC%A6%E7%8E%8B%E6%9C%9D/2979376?fromModule=lemma_inlink
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - **霍亨索伦**家族（Hohenzollerns）是[勃兰登堡-普鲁士](/item/%E5%8B%83%E5%85%B0%E7%99%BB%E5%A0%A1-%E6%99%AE%E9%B2%81%E5%A3%AB?fromModule=lemma_inlink)（1415年～1918年）及[德意志帝国](/item/%E5%BE%B7%E6%84%8F%E5%BF%97%E5%B8%9D%E5%9B%BD/1902?fromModule=lemma_inlink)（1871年～1918年）的主要统治家族。

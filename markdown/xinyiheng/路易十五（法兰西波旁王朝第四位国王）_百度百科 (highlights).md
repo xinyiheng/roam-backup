@@ -1,0 +1,6 @@
+- Author:: [[法王路易十五荒淫好色 曾经宠幸一家五姐妹]]
+- Full Title:: 路易十五（法兰西波旁王朝第四位国王）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E8%B7%AF%E6%98%93%E5%8D%81%E4%BA%94/3799788?fromModule=lemma-qiyi_sense-lemma
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 路易十五（法语：Louis XV of France，公元1710年2月15日-1774年5月10日），被称作“宠儿路易” （法语：''le Bien-Aimé''，英语：“Louis the Beloved”），太阳王[路易十四](/item/%E8%B7%AF%E6%98%93%E5%8D%81%E5%9B%9B/15294?fromModule=lemma_inlink)曾孙，勃艮第公爵[路易](/item/%E8%B7%AF%E6%98%93/22373590?fromModule=lemma_inlink)之子。[法兰西](/item/%E6%B3%95%E5%85%B0%E8%A5%BF/19826060?fromModule=lemma_inlink)[波旁王朝](/item/%E6%B3%A2%E6%97%81%E7%8E%8B%E6%9C%9D/1156523?fromModule=lemma_inlink)第四位国王（公元1715年-1774年在位）。他神奇地延续着整个濒死的家庭，执政的早期受到法国人民的喜爱。 但他无力改革法国君主制和他在欧洲的[绥靖政策](/item/%E7%BB%A5%E9%9D%96%E6%94%BF%E7%AD%96/635783?fromModule=lemma_inlink)使他失去了人民的支持。他死后成为了法国的最不得人心的国王之一。

@@ -1,0 +1,6 @@
+- Author:: [[大部分都铎王朝时期的战舰都会携带大量的“群子弹炮”（hailshot pieces）。这是一种类似于大型火门枪的反人员武器，发射碎铸铁片，炮管下带有铁钩。使用时铁钩钩在船上的围栏上，以承受发射时的后坐力]]
+- Full Title:: 亨利八世的海军火力进化史_百科ta说
+- Category:: #articles
+- URL:: https://baike.baidu.com/tashuo/browse/content?id=1740794e3c9470704de2f2ea&lemmaId=502620&fromLemmaModule=pcBottom&lemmaTitle=%E4%BA%A8%E5%88%A9%E5%85%AB%E4%B8%96&fromModule=lemma_bottom-tashuo-article
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 英国国王亨利八世，他在位期间建树颇多，但后人往往只热衷于探讨他复杂的婚姻史

@@ -975,3 +975,59 @@ https://t.co/TvaN0R9oIs ([View Tweet](https://twitter.com/coolXiao/status/161807
     - @fortelabs: Consuming information fills you with dark chaotic energy
 
 If you don’t process and express it through your own voice, it will eat you up inside ([View Tweet](https://twitter.com/fortelabs/status/1624657124000137218))
+- ### New highlights added [[February 13th, 2023]] at 10:21 PM
+    - @Jimmy_JingLv: 很高兴收到「​微软New Bing 对我的评价」🫡
+
+哈哈哈 我擦，完全符合 🤣  集成 ChatGPT 和 网络搜索结果的聚合总结，这比我自己描述的还贴切。
+PS 希望我今年，一定能实现「在赚钱的同时帮助大家赚钱」的目标！ 
+
+![](https://pbs.twimg.com/media/Fo2e0AwXEAUYJ0j.jpg) ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1625129808630804480))
+- ### New highlights added [[February 14th, 2023]] at 9:20 AM
+    - @fortelabs: Building a Second Brain has now sold over 50,000 copies!
+
+Thank you to everyone who has supported it 🙏 
+
+![](https://pbs.twimg.com/media/Fo3U7yUaQAUiMeO.jpg) ([View Tweet](https://twitter.com/fortelabs/status/1625191078583492609))
+- ### New highlights added [[February 14th, 2023]] at 10:01 PM
+    - @fortelabs: Our newly redesigned website shows all known editions of Building a Second Brain in all formats and languages
+
+You can see the current status of translations anytime, plus a link to purchase once it becomes available 👇
+
+https://t.co/v88qRGaJ8U 
+
+![](https://pbs.twimg.com/media/Fo7kT8GakAYb3Ki.jpg) ([View Tweet](https://twitter.com/fortelabs/status/1625487660038111235))
+- ### New highlights added [[February 17th, 2023]] at 9:42 AM
+    - @ArysPan: Basilica Julia in the Forum Romanum.
+
+©Rome in 3D (Facebook) https://t.co/KOE1agNK23 ([View Tweet](https://twitter.com/ArysPan/status/1625917789868261378))
+- ### New highlights added [[February 17th, 2023]] at 10:02 AM
+    - @wong2_x: 新插件：Bing Unchained
+如果你已经获得new Bing的使用资格，会发现必须用Edge浏览器才能使用它。
+如果你不想为此把日常浏览器迁移到Edge，可以安装我昨晚（花10分钟）做的这个插件，除了让你在Chrome中使用new Bing，还可以点击插件图标一键直达聊天页面。
+安装地址：https://t.co/y1VjiFuyZ6 
+
+![](https://pbs.twimg.com/media/FpDxnayaYAEBRtX.jpg) ([View Tweet](https://twitter.com/wong2_x/status/1626066139414687744))
+- ### New highlights added [[February 17th, 2023]] at 10:19 AM
+    - @jike_collection: 且产品经理每周的工作多了一项，就是给买过我们产品的用户打电话，收集C端最真实的反馈。
+
+靠近真实，靠近用户。
+演技如此，运营亦如此。  #你不知道的行业内幕 ([View Tweet](https://twitter.com/jike_collection/status/1626180505455697920))
+    - @haoel: 无法辩驳……😂 
+
+![](https://pbs.twimg.com/media/FpGbJjhakAIJEAh.jpg) ([View Tweet](https://twitter.com/haoel/status/1626251537482924032))
+    - @Rainmaker1973: Acoustic levitation is a method for suspending matter in air against gravity using acoustic radiation pressure from high intensity sound waves. Typically sound waves at ultrasonic frequencies are used
+
+[📹 https://t.co/3LrbGHKamZ]
+https://t.co/mIT10udIjI ([View Tweet](https://twitter.com/Rainmaker1973/status/1626282925703454723))
+- ### New highlights added [[February 17th, 2023]] at 10:39 AM
+    - @plantegg: 读中学的时候我有个同学对物理很感兴趣，天天拿着一本奥赛的书，晚自习逮到物
+理老师就问，开始的时候物理老师还挺有耐心的，老师不会的会回去研究下再跟这个同学交流
+可实际上吧每次物理考试这个同学也就及格水平（班里处于中游），但是挡不住自
+己的热情，一学期下来物理老师看到他就躲，晚自习…… 
+
+![](https://pbs.twimg.com/media/Fo1IFsdaYAI4l6X.jpg) ([View Tweet](https://twitter.com/plantegg/status/1626151649071845377))
+    - @AlphaSignalAI: Generative AI could fundamentally change the way we read papers. 
+
+Japanese researchers are currently using ChatGPT on BioRxiv to summarize and understand medical papers. 
+
+It was even capable of raising points that were not mentioned in the paper as possible application methods. https://t.co/Qm4QpM7jna ([View Tweet](https://twitter.com/AlphaSignalAI/status/1626289661281816578))

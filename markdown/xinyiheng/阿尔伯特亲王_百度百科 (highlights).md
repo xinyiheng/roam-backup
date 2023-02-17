@@ -1,0 +1,8 @@
+- Author:: [[阿尔伯特亲王的死因 阿尔伯特亲王为英国留下的遗产]]
+- Full Title:: 阿尔伯特亲王_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E9%98%BF%E5%B0%94%E4%BC%AF%E7%89%B9%E4%BA%B2%E7%8E%8B/8002439?fromModule=lemma_inlink
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - **阿尔伯特亲王**（英文：**Prince Albert**，1819年8月26日—1861年12月14日） [维多利亚女王](/item/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E5%A5%B3%E7%8E%8B/21775?fromModule=lemma_inlink)的表弟和丈夫，一个统治英国20年而没有名分的国王，他的出现和死亡如流星划过黑暗的夜空一样，改变着英国和[欧洲王室](/item/%E6%AC%A7%E6%B4%B2%E7%8E%8B%E5%AE%A4/10334731?fromModule=lemma_inlink)的轨迹。女王在他死后，每遇到困难，总是说，阿尔伯特要是还在他会怎么做，他会做出什么决定。
+    - 他们的婚姻最终成为[英国王室](/item/%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4?fromModule=lemma_inlink)历史上无可匹敌的爱情传奇，但这传奇并不像王子和公主的童话那样完美。
+    - 他与她在1836年初相遇，都是17岁，两个人要多不同就有多不同。维多利亚当时还是被母亲管得很紧的公主，她来自一个以无教养和爱吵架的作风著称的[汉诺威王朝](/item/%E6%B1%89%E8%AF%BA%E5%A8%81%E7%8E%8B%E6%9C%9D?fromModule=lemma_inlink)，继承了她的家族的特点：顽固、不忍耐。她非常有主见。阿尔伯特却是美德、才学与自律的楷模，与他的父亲科堡公爵及哥哥欧内斯特完全相反。他很聪明，并在语言、文化、哲学、音乐以及所有其他作为一个理想的王子应该学的方面受过极好的教育。

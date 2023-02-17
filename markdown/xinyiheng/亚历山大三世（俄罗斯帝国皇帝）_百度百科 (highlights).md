@@ -1,0 +1,7 @@
+- Author:: [[网页]]
+- Full Title:: 亚历山大三世（俄罗斯帝国皇帝）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E4%B8%89%E4%B8%96/1142968?fromModule=lemma_inlink
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 其在位时期国内没有战争且和平稳定，是俄罗斯帝国后期最繁荣的时期，因此被称为”和平缔造者”。但他由于害怕被暗杀而经常住在首都[圣彼得堡](/item/%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1/6447?fromModule=lemma_inlink)郊外的行宫[加特契纳](/item/%E5%8A%A0%E7%89%B9%E5%A5%91%E7%BA%B3/2448862?fromModule=lemma_inlink)，故又被称为“加特契纳的隐士”和“革命的俘虏”。
+    - 尽管此前的六位俄罗斯君主均为[日耳曼](/item/%E6%97%A5%E8%80%B3%E6%9B%BC/4502799?fromModule=lemma_inlink)血统，但是从亚历山大三世时代起，宫廷和贵族社会开始了[斯拉夫](/item/%E6%96%AF%E6%8B%89%E5%A4%AB/4591604?fromModule=lemma_inlink)化的进程。

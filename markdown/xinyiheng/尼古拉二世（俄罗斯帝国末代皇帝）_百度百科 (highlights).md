@@ -1,0 +1,6 @@
+- Author:: [[Alfred Hickman]]
+- Full Title:: 尼古拉二世（俄罗斯帝国末代皇帝）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%E4%BA%8C%E4%B8%96/2191?fromModule=lemma_inlink
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - **尼古拉二世·亚历山德罗维奇**（俄语：НиколайIIАлександрович；1868年5月18日—1918年7月17日），史称尼古拉二世（英语：NicholasII），是俄罗斯[罗曼诺夫王朝](/item/%E7%BD%97%E6%9B%BC%E8%AF%BA%E5%A4%AB%E7%8E%8B%E6%9C%9D/2944809?fromModule=lemma_inlink)最后一位沙皇，[俄罗斯帝国](/item/%E4%BF%84%E7%BD%97%E6%96%AF%E5%B8%9D%E5%9B%BD/1757146?fromModule=lemma_inlink)末代皇帝（1894年11月1日—1917年3月15日在位）。[亚历山大三世](/item/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E4%B8%89%E4%B8%96/1142968?fromModule=lemma_inlink)的长子，也是[俄罗斯历史](/item/%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%86%E5%8F%B2/7639022?fromModule=lemma_inlink)上唯一一个到过[亚洲](/item/%E4%BA%9A%E6%B4%B2/133681?fromModule=lemma_inlink)的君主。

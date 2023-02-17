@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 咸丰（清文宗年号）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%92%B8%E4%B8%B0/653
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 清文宗爱新觉罗·奕詝（1831.7.17—1861.8.22），清朝以及中国历史上最后一位有实际统治权的皇帝

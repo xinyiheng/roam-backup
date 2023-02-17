@@ -1,0 +1,6 @@
+- Author:: [[为什么伏尔泰要说神圣罗马帝国是 既不神圣，也不罗马，更非帝国]]
+- Full Title:: 为什么伏尔泰要说神圣罗马帝国是 既不神圣，也不罗马，更非帝国_百科ta说
+- Category:: #articles
+- URL:: https://baike.baidu.com/tashuo/browse/content?id=a2db9e0a98a1a8f4eeb77735&fromModule=tashuo-article_tashuo-tab-item
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 一说起神圣罗马帝国，很自然的想到了伏尔泰最著名的那句话“既不神圣，也不罗马，更非帝国”。既然神圣罗马在欧洲历史上能够存在那么久，而且在不少时候还是有很大实力的。甚至以此为依据，将神圣罗马帝国贬低得一文不值。

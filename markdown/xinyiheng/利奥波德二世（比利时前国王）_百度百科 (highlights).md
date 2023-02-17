@@ -1,0 +1,6 @@
+- Author:: [[网页]]
+- Full Title:: 利奥波德二世（比利时前国王）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%88%A9%E5%A5%A5%E6%B3%A2%E5%BE%B7%E4%BA%8C%E4%B8%96/2922883
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 利奥波德二世（1835年4月9日-1909年12月17日），原名利奥波德·路易斯·菲利普·马里·维克多（Leopold Louis Philippe Marie Victor），是[比利时国王](/item/%E6%AF%94%E5%88%A9%E6%97%B6%E5%9B%BD%E7%8E%8B/5186017?fromModule=lemma_inlink)（1865年12月17日-1909年12月17日在位），他创建了[刚果自由邦](/item/%E5%88%9A%E6%9E%9C%E8%87%AA%E7%94%B1%E9%82%A6/9629624?fromModule=lemma_inlink)，使刚果成为其本人的私人领地（1885年7月1日-1908年11月15日），并强征当地人为他劳动，造成了大约300万[刚果人](/item/%E5%88%9A%E6%9E%9C%E4%BA%BA/564932?fromModule=lemma_inlink)死亡

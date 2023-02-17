@@ -1,0 +1,12 @@
+- Author:: [[网页]]
+- Full Title:: 乔治一世（英国汉诺威王朝开国国王）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E4%B9%94%E6%B2%BB%E4%B8%80%E4%B8%96/15190?fromModule=lemma_inlink%29%281660-1727
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 乔治一世是德意志人，母语为[德语](/item/%E5%BE%B7%E8%AF%AD/240836?fromModule=lemma_inlink)，再加上他有语言障碍，所以他不会说英语，也不想去学，但他的执政时期是英国历史上非常重要的时期，对日后英国的政治制度产生了非常深远的影响；他所开启的[汉诺威王朝](/item/%E6%B1%89%E8%AF%BA%E5%A8%81%E7%8E%8B%E6%9C%9D/2451960?fromModule=lemma_inlink)到[维多利亚时代](/item/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%97%B6%E4%BB%A3/2993021?fromModule=lemma_inlink)成为[英国历史](/item/%E8%8B%B1%E5%9B%BD%E5%8E%86%E5%8F%B2/284347?fromModule=lemma_inlink)上的黄金时代。
+- Author:: [[网页]]
+- Full Title:: 乔治一世（英国汉诺威王朝开国国王）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E4%B9%94%E6%B2%BB%E4%B8%80%E4%B8%96/15190
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 乔治一世是德意志人，母语为[德语](/item/%E5%BE%B7%E8%AF%AD/240836?fromModule=lemma_inlink)，再加上他有语言障碍，所以他不会说英语，也不想去学，但他的执政时期是英国历史上非常重要的时期，对日后英国的政治制度产生了非常深远的影响；他所开启的[汉诺威王朝](/item/%E6%B1%89%E8%AF%BA%E5%A8%81%E7%8E%8B%E6%9C%9D/2451960?fromModule=lemma_inlink)到[维多利亚时代](/item/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%97%B6%E4%BB%A3/2993021?fromModule=lemma_inlink)成为[英国历史](/item/%E8%8B%B1%E5%9B%BD%E5%8E%86%E5%8F%B2/284347?fromModule=lemma_inlink)上的黄金时代。

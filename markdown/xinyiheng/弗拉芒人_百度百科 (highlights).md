@@ -1,0 +1,7 @@
+- Author:: [[网页]]
+- Full Title:: 弗拉芒人_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%BC%97%E6%8B%89%E8%8A%92%E4%BA%BA/53417656?fromModule=lemma_inlink
+- ### Highlights first synced by #Readwise [[February 16th, 2023]]
+    - 弗拉芒人是比利时的两大族群之一。主要居住在比利时北部的佛兰德地区。弗拉芒人长期以来与比利时南部的说法语的瓦隆人之间关系紧张，一直都有要求自比利时独立的呼声。
+    - 弗拉芒人以荷兰语为母语，属[印欧语系日耳曼语族](/item/%E5%8D%B0%E6%AC%A7%E8%AF%AD%E7%B3%BB%E6%97%A5%E8%80%B3%E6%9B%BC%E8%AF%AD%E6%97%8F/14712805?fromModule=lemma_inlink)，属于白种人。弗拉芒人大多数人信奉天主教。弗拉芒人的族源与荷兰人基本相同，主要由[弗里斯人](/item/%E5%BC%97%E9%87%8C%E6%96%AF%E4%BA%BA?fromModule=lemma_inlink)、[法兰克人](/item/%E6%B3%95%E5%85%B0%E5%85%8B%E4%BA%BA?fromModule=lemma_inlink)、[撒克逊人](/item/%E6%92%92%E5%85%8B%E9%80%8A%E4%BA%BA?fromModule=lemma_inlink)等古代日耳曼部落和凯尔特人结合而成。为中世纪尼德兰南部的居民。16世纪尼德兰资产阶级革命中，北部居民由天主教改宗基督教加尔文派，脱离[西班牙](/item/%E8%A5%BF%E7%8F%AD%E7%89%99?fromModule=lemma_inlink)，建立[荷兰共和国](/item/%E8%8D%B7%E5%85%B0%E5%85%B1%E5%92%8C%E5%9B%BD?fromModule=lemma_inlink)，发展成为荷兰人。尼德兰南部的居民仍处于西班牙统治下，继续信奉[天主教](/item/%E5%A4%A9%E4%B8%BB%E6%95%99?fromModule=lemma_inlink)，逐渐发展为弗拉芒人。在西班牙之后，佛拉芒人又相继遭受奥地利、法国的统治。1
