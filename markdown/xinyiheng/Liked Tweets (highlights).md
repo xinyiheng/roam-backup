@@ -1031,3 +1031,33 @@ https://t.co/mIT10udIjI ([View Tweet](https://twitter.com/Rainmaker1973/status/1
 Japanese researchers are currently using ChatGPT on BioRxiv to summarize and understand medical papers. 
 
 It was even capable of raising points that were not mentioned in the paper as possible application methods. https://t.co/Qm4QpM7jna ([View Tweet](https://twitter.com/AlphaSignalAI/status/1626289661281816578))
+- ### New highlights added [[February 24th, 2023]] at 6:41 PM
+    - @Jimmy_JingLv: 最近一直在研究 ChatGPT，我做了两个视频：分别从“编程、阅读、笔记、写作” 4 个角度分享了我的用法 😁
+
+1. [ChatGPT “最强打工人” 7x24 随时待命] https://t.co/Iuz7FE23BD
+
+💻 编程：
+🖥️ Bash 脚本生成器
+👨‍💻‍ Web Dev Q&A
+👨‍💻 代码逐行解释器
+
+📚 阅读：
+🔠 英文阅读助理
+🆎 学习新单词
+💪 人生鼓励师 
+
+![](https://pbs.twimg.com/media/FpkmgmGakAAPylz.jpg) ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1628375809806471168))
+    - @Jimmy_JingLv: 2. [ChatGPT “最强打工人2” 7x24 随时待命（笔记+写作篇）] https://t.co/OrIcL2JiSj
+
+📝 笔记：
+🧠 创建抽认卡
+🫡 谬误发现者
+🖼️ 画图 prompt generator
+
+🗣️ 写作：
+📧 英文邮件助手
+💡 个人创意助理
+✍️ 文案润色 emoji
+😈 专业标题党 
+
+![](https://pbs.twimg.com/media/Fpkm_q1agAAYx-P.jpg) ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1628375815300997121))
