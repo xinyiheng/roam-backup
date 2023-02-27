@@ -158,3 +158,15 @@ https://baijiahao.baidu.com/s?id=1756816557256588985&wfr=spider&for=pc [Email Bo
 
 
 https://www.wikiwand.com/zh-tw/%E6%B5%B7%E6%B2%B3 [Email Body](https://files.todoist.com/OI02FHWO7Z-wqp2ZX4Zg8pmMBf9S2S2pJXhaELBYKpobLwGY5xgMlvzxtqHQF55g/by/21878347/as/file.html)
+    - 北洋政府_百度百科
+        - Annotations:
+
+* 1912年2月15日，袁世凯就任中华民国临时大总统，1913年10月6日在北京当选正式大总统，标志着北洋政府正式形成 [2] ，北洋政府大致可分为袁世凯统治时期、皖系军阀统治时期、直系军阀统治时期、奉系军阀统治时期4个阶段
+
+* 北洋政府时期的国歌为上古诗歌《卿云歌》。《卿云歌》相传是舜将帝位禅让给禹时齐唱的诗歌，歌词为《尚书大传·虞夏传》中的“卿云烂兮，钆漫漫兮，日月光华，旦复旦兮”。1913年，汪荣宝将《卿云歌》稍加修改，加上舜的名言“时哉夫，天下非一人之天下也”，并请比利时音乐家约翰·哈士东谱曲，中华民国第一届国会时，《卿云歌》定为临时国歌。1915年5月，国歌改为《中华雄立宇宙间》。1921年7月1日，由作曲� ��萧友梅重新配曲的《卿云歌》再次定为国歌，直到国民政府上台后废除，改为国民党的《三民主义歌》。
+
+* 北洋政府时期政坛更迭频繁，从1916年至1928年短短的13年中，就有38届内阁，最短的两届只有六天 [3] 。
+
+
+
+https://baike.baidu.com/item/%E5%8C%97%E6%B4%8B%E6%94%BF%E5%BA%9C/1311509 [Email Body](https://files.todoist.com/4a9qNpSdsdwALsLsieT-FEYkuNlqoyTxq1YLV9ll8XBNEursFqLgrmkwCxmWPLBl/by/21878347/as/file.html)
