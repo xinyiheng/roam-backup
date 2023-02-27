@@ -141,3 +141,20 @@ https://www.tsinghua.edu.cn/info/1661/85344.htm [Email Body](https://files.todoi
 
 
 https://baijiahao.baidu.com/s?id=1756816557256588985&wfr=spider&for=pc [Email Body](https://files.todoist.com/Bi0JKz2Z0qZSueJmF9Ox_g1PeGojV0GChiWV2WcOJmitgQdbCHlIxXnHIFcUXTwt/by/21878347/as/file.html)
+    - 海河 - Wikiwand
+        - Annotations:
+
+* 海河又稱沽河，是中國華北地區最大的河流，總流域面積達31.8萬平方公里，涵蓋了天津、北京全部，河北絕大部分，以及河南、山東、� �西、內蒙古等省區，海河流域的總人口將近1.24億。
+
+* 海河由於地勢不高，每當海中漲潮時，河水倒流，落潮時河水順流，和海水的潮汐相同，因此取名為「海」河。
+
+* 海河干流全位於天津市中部，全長73公里，從子牙河與南運河交匯的天津市內金剛橋三岔河口算起，到塘沽區大沽口入海，實際直線距離只有不到50公里。
+
+* ### 主要支流
+
+海河包括了五大支流：北運河、南運河、大清河、子牙河和永定河，以及許多更小的支流，如果從最長的支流濁漳河算起，全長為1329公里。
+此外海河支流還有：潮白河、洋河、桑干河、拒馬河、府河、唐河、滹沱河、滏陽河、衛河、清漳河、濁漳河等。
+
+
+
+https://www.wikiwand.com/zh-tw/%E6%B5%B7%E6%B2%B3 [Email Body](https://files.todoist.com/OI02FHWO7Z-wqp2ZX4Zg8pmMBf9S2S2pJXhaELBYKpobLwGY5xgMlvzxtqHQF55g/by/21878347/as/file.html)
