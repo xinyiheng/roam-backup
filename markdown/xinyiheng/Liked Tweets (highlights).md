@@ -1061,3 +1061,5 @@ It was even capable of raising points that were not mentioned in the paper as po
 😈 专业标题党 
 
 ![](https://pbs.twimg.com/media/Fpkm_q1agAAYx-P.jpg) ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1628375815300997121))
+- ### New highlights added [[March 2nd, 2023]] at 6:42 AM
+    - @HiTw93: #工程师工具 很多时候想保存一个网页，发现直接下载后是一个带文件夹的目录，本地预览的时候图片样式啥的会有缺失错乱，找到一个浏览器扩展「SingleFile」，可以一键将当前网页生成一个文件，直接打开可以原封不动的展示原来效果，很Nice 🤖https://t.co/4iKlM3oiFN https://t.co/j8oZBbAcf0 ([View Tweet](https://twitter.com/HiTw93/status/1630719505751224322))
