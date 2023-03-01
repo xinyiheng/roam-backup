@@ -1,4 +1,4 @@
-- Imported Quick Capture items:
+- Imported Quick Capture items
     - 办公软件大战，谁能笑到最后：钉钉 VS 企业微信 VS 飞书_哔哩哔哩_bilibili
         - Annotations:
         - https://www.bilibili.com/video/BV1824y1o7T6/?spm_id_from=333.337.search-
@@ -19,4 +19,4 @@ card.all.click [Email Body](https://files.todoist.com/rHCAPDMDs4ouzdOl9IHWao0RWk
 
 https://www.feishu.cn/hc/zh-CN/articles/360049067697 [Email Body](https://files.todoist.com/KDM-vRw--j0niBUDoF8A-FYDCaExsiRP0mH6zca7UN2UJZAHbt3eE0znBE0OJIop/by/21878347/as/file.html)
         - 
-- 
+- [[Inbox]]
