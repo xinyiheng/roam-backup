@@ -20,3 +20,5 @@ card.all.click [Email Body](https://files.todoist.com/rHCAPDMDs4ouzdOl9IHWao0RWk
 https://www.feishu.cn/hc/zh-CN/articles/360049067697 [Email Body](https://files.todoist.com/KDM-vRw--j0niBUDoF8A-FYDCaExsiRP0mH6zca7UN2UJZAHbt3eE0znBE0OJIop/by/21878347/as/file.html)
         - 
 - [[Inbox]]
+- [(社会统计学 - Excerpt of: 社会统计学, p10)](lt://open/Qu1dXFq4AEW-C08W9DTIPg).
+- [(社会统计学 - Excerpt of: 社会统计学, p11)](lt://open/ZJbUBgr3nUqQO4V9jsIo4A).
