@@ -1,6 +1,12 @@
 - ### data
     - The scholar's greatest weakness: calling procrastination research — Stephen King Share 
 #[[memo]]
+        - [[March 2nd, 2023]] 🟢
+            - nextDueDate:: [[May 31st, 2023]]
+            - eFactor:: 2.68
+            - interval:: 90
+            - repetitions:: 5
+            - grade:: 5
         - [[January 22nd, 2023]] 🟢
             - nextDueDate:: [[February 26th, 2023]]
             - eFactor:: 2.58
