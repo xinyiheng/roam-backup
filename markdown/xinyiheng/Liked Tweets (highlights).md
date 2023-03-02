@@ -1063,3 +1063,39 @@ It was even capable of raising points that were not mentioned in the paper as po
 ![](https://pbs.twimg.com/media/Fpkm_q1agAAYx-P.jpg) ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1628375815300997121))
 - ### New highlights added [[March 2nd, 2023]] at 6:42 AM
     - @HiTw93: #工程师工具 很多时候想保存一个网页，发现直接下载后是一个带文件夹的目录，本地预览的时候图片样式啥的会有缺失错乱，找到一个浏览器扩展「SingleFile」，可以一键将当前网页生成一个文件，直接打开可以原封不动的展示原来效果，很Nice 🤖https://t.co/4iKlM3oiFN https://t.co/j8oZBbAcf0 ([View Tweet](https://twitter.com/HiTw93/status/1630719505751224322))
+- ### New highlights added [[March 2nd, 2023]] at 10:01 AM
+    - @hwangdevs: 整理邮件看到，地图标记软件 Felt 获得了 1500万美元的融资，同时发布了公开测试版本。印象比较深刻的是对地图工具的处理，整个软件就像是纸制地图摊在桌上，让你去处理。同时提供了基础的标记工具、协同功能，利用电子地图也提供了非常方便的路径处理，任意点两个点，就可以规划路径等等。 
+
+![](https://pbs.twimg.com/media/FqGTUNnaUAA1Hsk.jpg) 
+
+![](https://pbs.twimg.com/media/FqGTUNnaYAAXPBG.jpg) ([View Tweet](https://twitter.com/hwangdevs/status/1630749176769417216))
+    - @nishuang: 怎么写出更好的 AI 提示语
+
+玩转 ChatGPT 等等人工智能，一分靠天分、两份靠天意、七分靠提示语
+
+这个 PromptPerfect 网站帮你提升 AI 提示语：你输入原始渣渣提示语，它输出“完美”提示语，并直接展示 before、after 效果
+
+https://t.co/36bpfbEJ73
+
+我测试的第一感觉还是产品 UX 设计太差，不想用
+
+1/ 
+
+![](https://pbs.twimg.com/media/FqHMPzxX0AIJNh9.jpg) 
+
+![](https://pbs.twimg.com/media/FqHMRqoWIAAjkxA.jpg) ([View Tweet](https://twitter.com/nishuang/status/1630810013135433728))
+    - @HowardSu: 找到了使用chatgpt生成ppt的办法了，首先让chatgpt给一个大纲，然后让它生成每一页幻灯的内容，这些都让它用markdown语法生成，接着把这套东西贴到https://t.co/ebVeSzwCwV 里去，然后就可以直接导出PPT或者PDF了，再用office打开PPT，打开设计图样就可以自动再设计设计了。 ([View Tweet](https://twitter.com/HowardSu/status/1630894513035288576))
+    - @Rainmaker1973: How Earth will look in 250 million years according to plate tectonics theory 
+
+[video: https://t.co/f5mF8hk3p6]
+https://t.co/nKPXQ6lX8H ([View Tweet](https://twitter.com/Rainmaker1973/status/1630936143062523904))
+    - @yihong0618: 这几天看 @yetone 写的 bob 插件，突然有想法。
+写了一个脚本，方便大家直接用 epub 制作双语的电子书，准备支持 ChatGPT，GPT-3, DeepL,  方便大家阅读和学习语言（日语可以导入到捧读里，英语可以利用类似蒙哥阅读器） 。
+还没写完，写完开源。
+图1 英语《动物农场》，图2日语 《国境以南太阳以西》 
+
+![](https://pbs.twimg.com/media/FqJIKCMaMAA9pbF.jpg) 
+
+![](https://pbs.twimg.com/media/FqJJpOCaUAAR8Va.jpg) 
+
+![](https://pbs.twimg.com/media/FqJKc_QaYAYDVwg.jpg) ([View Tweet](https://twitter.com/yihong0618/status/1630948132564631552))
