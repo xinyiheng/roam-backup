@@ -23,3 +23,24 @@
 
 
 https://mp.weixin.qq.com/s?__biz=MzU2NDI1Mzg2NQ==&mid=2247495197&idx=1&sn=4a4a057d24297d206fa9417dbbe2dc54&chksm=fc4f6bdbcb38e2cd36d77ee566f99039447047b4102996fa10d772cde47d2b89cc3c192cc743 [Email Body](https://files.todoist.com/G-S1ZzUT7Ku6tpxZldaTaKgVcAB_mp0dpd5RLwjDXvHbLlGrY4d0T8UQeEhJ9Oho/by/21878347/as/file.html)
+    - 来自简悦整理的今日份的回顾
+        - 简 悦「每日回顾」 03.06.2023
+
+以 iCloud 共享图库为基础，打造我的照片管理工作流 - 少数派
+
+iOS 共享图库可以怎么用？这是我的实践思路。
+
+我的相册整理｜iOS 端 - 少数派
+
+去年把照片从第三方云盘下载到iPhone本地了，因为有时候网络差在云盘找照片很慢，而且不管是读书笔记、剪藏的文章还是照片，现在我都倾向于轻整理，尽量用搜索而不是大量的手动分类工作。正好我把照片下载到本
+...
+
+凯撒奖得主水彩绘本力作：看三只小动物送“快递”为什么让人这么上头？
+
+提起狐狸，你会最先想到哪部作品？《疯狂动物城》里的尼克，《小王子》里希望自己是独一无二的小狐狸，又或是苹果A
+
+全文完
+
+本文由 简悦 SimpRead 生成
+
+请在简悦扩展 → 选项页 → 共通 → 同步助手中退订 [Email Body](https://files.todoist.com/dYZ0PBsNb7OP4fHE62QzHsUJSY0BAr0APQTJnnxxEpBkEhJpfxcUpED-Lz-jhkVZ/by/21878347/as/file.html)
