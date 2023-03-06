@@ -1099,3 +1099,5 @@ https://t.co/nKPXQ6lX8H ([View Tweet](https://twitter.com/Rainmaker1973/status/1
 ![](https://pbs.twimg.com/media/FqJJpOCaUAAR8Va.jpg) 
 
 ![](https://pbs.twimg.com/media/FqJKc_QaYAYDVwg.jpg) ([View Tweet](https://twitter.com/yihong0618/status/1630948132564631552))
+- ### New highlights added [[March 6th, 2023]] at 8:59 AM
+    - @haoel: 开个 thread 来做个人人都难懂的 AI 作画科普。目前主要流行的AI作画有，OpenAI的Dall-E2, Google 的 Imagen，Midjourney，有还Stability AI 公司开的 Stable Diffusion 等等。它们都是2022年才出来的，无一例外，全部都是基于 Diffusion 算法模型，这个算法的原理其实并不复杂，简单地说一下…… 1/7 ([View Tweet](https://twitter.com/haoel/status/1632211302356783104))
