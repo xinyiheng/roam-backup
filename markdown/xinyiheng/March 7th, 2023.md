@@ -110,5 +110,15 @@ https://sspai.com/post/66094 [Email Body](https://files.todoist.com/uPMIXwB3JKNd
 
 https://www.bilibili.com/video/BV1KP4y1B7bd/?spm_id_from=333.337.search-
 card.all.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/5ZQ5nue0UcwMvs4X-_p0DX8uKQzzZ5DtOjYrNuH8uLBPUPdIB69F9hVwHn5J6oC4/by/21878347/as/file.html)
+    - 连接obsidian和marginNote两个知识星球? 踩坑Obsidian-Bridge插件_哔哩哔哩_bilibili
+        - Annotations:
+
+* 亲测iPadOS下的Obsidian和marginnote也可以用，分屏就行了，当然10.9寸确实有点难受。
+
+
+
+https://www.bilibili.com/video/BV1W3411376v/?spm_id_from=333.337.search-
+card.all.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/2oqEptzZPI-TX0qI7Bpj_UTsk2w6LJQI1Ype6qS0RKHSrCF2iodGb2-tC0b8EkWs/by/21878347/as/file.html)
 - #[[工具]] 今天按照简悦的设置完成了简悦的稍后读和obsidian的联动。感觉不错。配置有点乱，一步出错就会影响结果。阅读了obsidian的一些插件介绍。obsidian以后要用起来，取代印象笔记。
 - [anki经验万字合集|比较anki supermemo|解决anki碎片化、间隔过长、卡片积压 - 知乎](https://zhuanlan.zhihu.com/p/270135184)
+- [连接obsidian和marginNote两个知识星球? 踩坑Obsidian-Bridge插件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1W3411376v/?spm_id_from=333.337.search-card.all.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)

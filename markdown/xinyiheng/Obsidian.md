@@ -7,7 +7,8 @@
     4. 把微信读书中的标注同步到obsidian。利用obsidian中的weread插件。
     5. {{[[TODO]]}} 把obsidian变得更像notion
     6. {{[[TODO]]}} obsidian和marginnote联动以及标注pdf
-    7. {{[[TODO]]}} 更多使用卡片试图
+[Obsidian与Marginnote 3互通联动 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/5356/7)
+    7. {{[[TODO]]}} 更多使用卡片视图
     8. 新增了canvas功能，非常接近[[Heptabase]]的使用体验了。最近[[Obsidian]]出了一款白板插件，感觉可以取代heptabase
     9. 改变graph节点的颜色原来很简单。obsidian中的图谱使用的是[WebGL ](brain://api.thebrain.com/g7PXu0IyM0ucARb24SvxiA/wi2B8K0hK0aP6-YksheQVA/WebGL)技术，好像幕布中的思维导图也是用的这种技术。
         - 节点设置颜色的方法如图所示，Ob在0.12版本后就出了“颜色组”这个功能。
