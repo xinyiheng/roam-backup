@@ -101,4 +101,14 @@ https://sspai.com/post/66094 [Email Body](https://files.todoist.com/uPMIXwB3JKNd
         - 服务器端行为，不经过同步助手，即可将任意导入的 URL 生成快照
         - 生成的快照全部存在用户自己的同步盘，如：坚果云或 Dropbox
         - https://github.com/Kenshin/simpread/discussions/2921 [Email Body](https://files.todoist.com/UGhE565QAkuwyBigC8Sx1lMVsN3vVQf7rQfOYhEPIyFfya3yBAB8nKrQGOjRc0Kw/by/21878347/as/file.html)
+    - Obsidian 外观主题/CSS：让你一次退烧_哔哩哔哩_bilibili
+        - Annotations:
+
+* Obsidian 外观主题/CSS：让你一次退烧
+
+
+
+https://www.bilibili.com/video/BV1KP4y1B7bd/?spm_id_from=333.337.search-
+card.all.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/5ZQ5nue0UcwMvs4X-_p0DX8uKQzzZ5DtOjYrNuH8uLBPUPdIB69F9hVwHn5J6oC4/by/21878347/as/file.html)
 - #[[工具]] 今天按照简悦的设置完成了简悦的稍后读和obsidian的联动。感觉不错。配置有点乱，一步出错就会影响结果。阅读了obsidian的一些插件介绍。obsidian以后要用起来，取代印象笔记。
+- [anki经验万字合集|比较anki supermemo|解决anki碎片化、间隔过长、卡片积压 - 知乎](https://zhuanlan.zhihu.com/p/270135184)
