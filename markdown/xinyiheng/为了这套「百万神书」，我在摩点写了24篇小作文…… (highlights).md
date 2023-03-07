@@ -1,0 +1,7 @@
+- Author:: [[吾荐]]
+- Full Title:: 为了这套「百万神书」，我在摩点写了24篇小作文……
+- Category:: #articles
+- URL:: https://book.douban.com/review/14888605/
+- ### Highlights first synced by #Readwise [[March 7th, 2023]]
+    - 「世界神话全书」的摩点众筹终告收官，最终有3700多位读者支持，预售出3800多套特装本，众筹总金额高达104.36万元。 ([View Highlight](https://read.readwise.io/read/01gtxm2seg6bm58mh9ez5y05y5))
+    - 在众筹预热期到众筹结束，整整一个月的时间，我在摩点写了24篇小作文（总字数尚未统计）——用摩点的术语，叫作「更新」，我将其理解为某种形式的「编辑手记」，现将其搬运至此，为这个项目做个总结。 ([View Highlight](https://read.readwise.io/read/01gtxm39vsrm0c3yekj1wqf1j7))
