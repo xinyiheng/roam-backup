@@ -5,3 +5,4 @@
     - [2023年最火的赛道已经出现](https://36kr.com/topics/2111377671047299)
     - [ChatGPT搭配闪击PPT三分钟生成PPT，你只需要输入一个标题_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oj411G7QV/?spm_id_from=333.1007.tianma.5-3-17.click)
     - [网友要我们聊聊ChatGPT，其实都是老知识点了](https://mp.weixin.qq.com/s/N4yuqp0zPXjzX4RhQ7Qchg)
+    - [高效学习的方法：借助 ChatGPT 快速建立某个主题的知识结构 | 学习骇客](https://mp.weixin.qq.com/s?__biz=MzU2NDI1Mzg2NQ==&mid=2247495207&idx=1&sn=c85d54eaf6e146a2ec5257781a50c89b&chksm=fc4f6be1cb38e2f7ffb62fbb7a29d290e868c502a50cb69c82596884575a933ca775b4e19ebd#rd)
