@@ -1,5 +1,7 @@
-- 目前无法在中国大陆注册账号，我在淘宝上买了一个账号使用。
-- 回答问题的水平比一般人强很多。
+- 目前无法在中国大陆注册账号，我在淘宝上买了一个账号使用。回答问题的水平比一般人强很多。
 - [ChatGPT](https://chat.openai.com/chat)
+- [ChatGPT搭配闪击PPT三分钟生成PPT，你只需要输入一个标题_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oj411G7QV/?spm_id_from=333.1007.tianma.5-3-17.click)
 - #[[参考资料]]
     - [2023年最火的赛道已经出现](https://36kr.com/topics/2111377671047299)
+    - [ChatGPT搭配闪击PPT三分钟生成PPT，你只需要输入一个标题_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oj411G7QV/?spm_id_from=333.1007.tianma.5-3-17.click)
+    - [网友要我们聊聊ChatGPT，其实都是老知识点了](https://mp.weixin.qq.com/s/N4yuqp0zPXjzX4RhQ7Qchg)
