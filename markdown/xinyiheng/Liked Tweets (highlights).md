@@ -1101,3 +1101,10 @@ https://t.co/nKPXQ6lX8H ([View Tweet](https://twitter.com/Rainmaker1973/status/1
 ![](https://pbs.twimg.com/media/FqJKc_QaYAYDVwg.jpg) ([View Tweet](https://twitter.com/yihong0618/status/1630948132564631552))
 - ### New highlights added [[March 6th, 2023]] at 8:59 AM
     - @haoel: 开个 thread 来做个人人都难懂的 AI 作画科普。目前主要流行的AI作画有，OpenAI的Dall-E2, Google 的 Imagen，Midjourney，有还Stability AI 公司开的 Stable Diffusion 等等。它们都是2022年才出来的，无一例外，全部都是基于 Diffusion 算法模型，这个算法的原理其实并不复杂，简单地说一下…… 1/7 ([View Tweet](https://twitter.com/haoel/status/1632211302356783104))
+- ### New highlights added [[March 8th, 2023]] at 4:41 PM
+    - @CatoMinor3: I wanted to just check the pricing of @evernote out of curiousity to compare it with something like Roam, RemNote etc. And I cannot find any prices without logging in... so weird. Am I missing something? https://t.co/XPNK2vfYMl 
+
+![](https://pbs.twimg.com/media/Fqm_KX2XsAAniIu.png) ([View Tweet](https://twitter.com/CatoMinor3/status/1633046747999076352))
+    - @Paul_Rony: Kosmik 2.0 ß will be the coolest icon in your dock. 
+
+![](https://pbs.twimg.com/media/FqosD6rX0AYOMif.jpg) ([View Tweet](https://twitter.com/Paul_Rony/status/1633166342005178369))

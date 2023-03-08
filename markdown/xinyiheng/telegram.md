@@ -1,3 +1,4 @@
+- telegram有两个版本，一个是从官网下载的，一个是从app stroe下载的。当按照下文的设置不成功的时候，试着换一个版本。
 - mac端的telegram经常无法登录，解决方案参见这一篇文章：
     - 🦩[解决Mac下Telegram无法连接 / Telegram is connecting to Proxy的问题 - Justin写字的地方](https://zblogs.top/how-to-fix-telegram-for-mac-is-connecting-to-proxy/)
 - #[[软件联动]]
