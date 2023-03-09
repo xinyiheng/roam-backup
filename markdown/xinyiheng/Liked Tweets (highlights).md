@@ -1108,3 +1108,33 @@ https://t.co/nKPXQ6lX8H ([View Tweet](https://twitter.com/Rainmaker1973/status/1
     - @Paul_Rony: Kosmik 2.0 ß will be the coolest icon in your dock. 
 
 ![](https://pbs.twimg.com/media/FqosD6rX0AYOMif.jpg) ([View Tweet](https://twitter.com/Paul_Rony/status/1633166342005178369))
+- ### New highlights added [[March 9th, 2023]] at 7:21 PM
+    - @wong2_x: ChatHub上架Chrome插件商店了！安装地址：https://t.co/O0MgdLtC9S
+
+ChatHub是一个chatbot聚合客户端，你可以：
+- 在一个应用里使用多种chatbot，目前支持ChatGPT和new Bing Chat，后续会集成Google Bard、文心一言等
+- 同时和多个chatbot聊天，方便对比回答
+- 同时支持ChatGPT免费模式和API模式
+
+1/2 
+
+![](https://pbs.twimg.com/media/Fqr7x79aAAAJp5c.jpg) 
+
+![](https://pbs.twimg.com/media/Fqr8nvSakAAgSO0.jpg) 
+
+![](https://pbs.twimg.com/media/Fqr8obTaUAUzpor.jpg) ([View Tweet](https://twitter.com/wong2_x/status/1633396802312622080))
+    - @AlexAndBooks_: 10 Visuals that will make you a better reader:
+
+1. 
+
+![](https://pbs.twimg.com/media/FqtIOTXWwAITLez.jpg) ([View Tweet](https://twitter.com/AlexAndBooks_/status/1633480840175919106))
+    - @fortelabs: Personal knowledge management can be seen as a form of communication, from one person to themselves across long periods of time
+
+It fills in a quadrant that's been missing until now 
+
+![](https://pbs.twimg.com/media/FquY5i9agAAz7W-.jpg) ([View Tweet](https://twitter.com/fortelabs/status/1633567436493721602))
+    - @fortelabs: Every project needs a concrete outcome
+
+Something you want to see happen in the real world 
+
+Once you define that, all the different pathways to achieving that outcome will reveal themselves ([View Tweet](https://twitter.com/fortelabs/status/1633769683529748480))
