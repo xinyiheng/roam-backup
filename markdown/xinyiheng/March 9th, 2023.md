@@ -10,5 +10,5 @@
 * 不过我最终还是找到了一个解决办法，就是往iCloud里再拖一个文件，不用多大几kb的就行，让他上传，早上在家同步到文件就出现了，大家可以试一试我这个方法是否通用。
 两边的设备都是Catalina
 https://www.zhihu.com/question/31521575/answers/updated [Email Body](https://files.todoist.com/d5HQKlTPh6NdeZsfJP0dyO6vULgng0UE5R11xS_4Iuu7sFlVO9tvSqVAgBxS9Ofa/by/21878347/as/file.html)
-- prodrafts效果不错，还支持[deeplink]()
+- prodrafts效果不错，还支持deeplink
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaeS89hUeq_.gif?alt=media&token=071a596d-3047-4542-ad70-14569e68f352)
