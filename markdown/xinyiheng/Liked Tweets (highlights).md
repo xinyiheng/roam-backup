@@ -1157,3 +1157,32 @@ Once you define that, all the different pathways to achieving that outcome will 
 👨‍💻 无需编写代码，直接把 prompt 填进表单，即刻享用强大的 GPT3.5 API
 😍 轻松实现自己的 App，简单易用，极致高效！ #OpenAI #ChatGPT 
 快去试试吧 https://t.co/Nu3cMkYIGT ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1633828722506874881))
+- ### New highlights added [[March 10th, 2023]] at 11:42 PM
+    - @WonderDynamics: We are proud to introduce Wonder Studio.
+
+An AI tool that automatically animates, lights and composes CG characters into a live-action scene. No complicated 3D software, no expensive production hardware—all you need is a camera.
+
+Sign up for closed beta at https://t.co/QPyOVMjEAy https://t.co/aHf2bLTsgZ ([View Tweet](https://twitter.com/WonderDynamics/status/1633627396971827200))
+    - @Jimmy_JingLv: 18/n 正式更名【BibiGPT】AI 自动总结 YouTub 视频 · 一大波更新！
+
+👀 Notion 账号登录
+🔖 书签快捷跳转
+⏰ 智能时间戳
+💾 一键保存到Flomo浮墨笔记
+📝 油管英文内容也可以一键总结啦！
+
+https://t.co/lD95RFlK0i ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1633830448488124424))
+    - @dotey: 基于OpenAI的Whisper的C/C++实现，完全可以离线使用。
+🔗 https://t.co/Q1QA6SfLbp
+- 没有外部依赖
+- 不需要联网
+- 内存使用率低
+- 支持几乎所有的主流平台，Mac、iOS、Android、Windows、WebAssembly等
+
+参考在 iPhone 13 设备上运行模型的视频——完全离线
+基于它你可以轻松制作自己的离线语音助手应用 https://t.co/wdNoE8MUfU ([View Tweet](https://twitter.com/dotey/status/1633877599343742976))
+    - @Heptabase: In the latest version, you can upload files, videos, audio, and images in the card editor with FULL offline support, i.e., you can access everything without an internet connection. https://t.co/ETkSbqUPoI ([View Tweet](https://twitter.com/Heptabase/status/1634036757800050689))
+- ### New highlights added [[March 11th, 2023]] at 12:02 AM
+    - @jefflijun: A股市场：中国最大的知识付费平台 
+
+![](https://pbs.twimg.com/media/Fqn5fFmWcAE7Kwm.jpg) ([View Tweet](https://twitter.com/jefflijun/status/1633110656797769728))
