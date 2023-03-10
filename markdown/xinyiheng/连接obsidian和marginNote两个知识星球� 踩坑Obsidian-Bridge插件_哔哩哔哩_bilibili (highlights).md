@@ -1,0 +1,6 @@
+- Author:: [[Note必利阀]]
+- Full Title:: 连接obsidian和marginNote两个知识星球? 踩坑Obsidian-Bridge插件_哔哩哔哩_bilibili
+- Category:: #articles
+- URL:: https://www.bilibili.com/video/BV1W3411376v/?spm_id_from=333.337.search-card.all.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab
+- ### Highlights first synced by #Readwise [[March 10th, 2023]]
+    - 亲测iPadOS下的Obsidian和marginnote也可以用，分屏就行了，当然10.9寸确实有点难受![[笑哭]](//i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png@48w_48h.webp)。

@@ -1,0 +1,6 @@
+- Author:: [[咬猪娃]]
+- Full Title:: Obsidian 外观主题/CSS：让你一次退烧_哔哩哔哩_bilibili
+- Category:: #articles
+- URL:: https://www.bilibili.com/video/BV1KP4y1B7bd/?spm_id_from=333.337.search-card.all.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab
+- ### Highlights first synced by #Readwise [[March 10th, 2023]]
+    - Obsidian 外观主题/CSS：让你一次退烧

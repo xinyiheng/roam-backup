@@ -19,3 +19,15 @@
     - 谷歌从去年12月在内部拉响“红色警报”以后，也开始频繁地刷存在感。除了1月初子公司DeepMind推出用以抗衡ChatGPT的Sparrow以外，据媒体报道，从去年开始，谷歌在接连发布了文字生成AI模型Wordcraft、AI绘画模型Imagen、视频生成工具Imagen Video后，又在1月27日发布了全新的音乐AI模型MusicLM，意在加速生成式AI的布局。
     - 美国新媒体巨头Buzzfeed宣布要用ChatGPT来创作内容并削减12%的员工，而这已经不是第一家尝试使用ChatGPT来进行内容创作的公司，此前亚马逊也将ChatGPT引入到了回答面试问题、编写软件代码和创建培训文档等工作流程当中。
     - 根据OpenAI和DeepMind的说法，之所以生成式AI被称作通用人工智能发展的一个重要里程碑，本质上是因为现在的人工智能开始从学习走向创造。简单来说，AI在实用性上产生了质的飞跃。
+- Author:: [[LeoChanXY]]
+- Full Title:: 微信公众平台
+- Category:: #articles
+- URL:: https://mp.weixin.qq.com/s?__biz=MzU2NDI1Mzg2NQ==&mid=2247495197&idx=1&sn=4a4a057d24297d206fa9417dbbe2dc54&chksm=fc4f6bdbcb38e2cd36d77ee566f99039447047b4102996fa10d772cde47d2b89cc3c192cc743
+- ### Highlights first synced by #Readwise [[March 10th, 2023]]
+    - 但是借助 Readwise，我们可以集阅读、记录、复习、写作、归档于一体。甚至如果你是一个外向型的人，一定还会喜欢它漂亮的分享界面。
+    - 甚至，对于 Anki 重度用户来说，Readwise 还非常贴心地提供了**主题复习**`https://readwise.io/themed_reviews`的功能。类似于 Anki 的筛选学习，可以在日常复习之余，通过标签等形式筛选一些内容放到一起进行复习。
+
+目前复习还是通过网页端`https://readwise.io/dailyreview`进行复习，好在手机和电脑都可以方便地打开。
+    - 作为一个极重度阅读者，写到这里真的是想哭
+    - 注册：https://readwise.io/i/ankiwiki官网：readwise.io官方帮助：readwise.io/bookreview/18623625其他帮助：https://help.readwise.io/控制面板：readwise.io/dashboard每日复习：readwise.io/dailyreview主题复习：readwise.io/themed\_reviews单篇复习：readwise.io/articles学习统计：readwise.io/stats记忆保持与复习间隔：readwise.io/mastery调整频率：readwise.io/configure/tune/books教育优惠：https://help.readwise.io/article/28-does-readwise-offer-an-academic-discount新版 Reader App：https://readwise.io/read  
+微信公众号：学习骇客好久没有这种激动

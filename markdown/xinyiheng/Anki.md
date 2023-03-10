@@ -10,17 +10,25 @@
 - 问题要拆解成为最简单的单一问题
 - 把所有的卡片放在一起，尽量不要分类。🗒@评论:这是一种说法。
 - 不要有孤立的问题，不方便[[记忆]]
-- 我知道的最好的介绍anki的人——公众号[学习骇客](https://mp.weixin.qq.com/mp/publictag?action=get&tag_id=7929779980957908993#wechat_redirect)的主理人，LEO
 - 在手机端使用anki来查看记忆资料
     - 不要更新app版本，使用9.2的版本就可以，进入10以后的版本就不再支持http开头的图床链接地址了。🗒@评论:我设置了新的图床，用的github，可以生成https开头的图床链接。
     - https://ankiweb.net/shared/info/1293255374 看看能否解决anki添加图片的问题@评论:目前我没有研究这个方法，现在直接复制图片进去，还没有体验到同步速度太慢
 - [Ankify Anything - Anki Is Not Just For Raw Facts - YouTube](https://www.diigo.com/outliner/diigo_items/904019/12128769/558931919?key=34d57b46e1)
 - #[[参考资料]]
+    - 我知道的最好的介绍anki的人——公众号[学习骇客](https://mp.weixin.qq.com/mp/publictag?action=get&tag_id=7929779980957908993#wechat_redirect)的主理人，LEO
     - [个人使用anki经验合集](https://roamresearch.com/#/app/hjp_study/page/ej9GS-bFZ)
     -  下午2:26@评论:这是一个人用roam research写的，看来对anki很有研究
 - ### Anki插件
     - [Add-ons for Anki 2.1 - AnkiWeb](https://ankiweb.net/shared/addons/)
-    - 在chrome里面有个Anki quick adder,可以很方便地利用快捷键从chrome制作卡片。
+- ### 我是如何使用anki的？
+    - 如何在chrome浏览器中快速制作卡片？
+        - 有两种常见的制卡形式，一种是挖空，一种是问答。我最常用的是挖空模式。
+        - 在chrome里面有个Anki quick adder,可以很方便地利用快捷键从chrome制作卡片。我用keyboard maestro设置了一个快捷方式，只要鼠标选中想要制卡的内容以后，按两次c，就可以启动这个插件，把内容自动添加到到插件中，至于挖空，我也设置了快捷方式，option+c，就可以把选中的文字做成挖空。之后保存即可，就添加到了anki中。配合anki connect插件，就自动保存到anki中了。
+        - 至于挖空，我也设计了一个keyboard maestro快捷方式，使用ff或者option+a快捷键。前提是必须在anki中选择默认的新增卡片模式是问答题。
+        - 我还可以在roam research中把相关内容变成anki卡片。使用的是roam中的[[Fabricius]]插件。在笔记后面加上几个标签就可以了。我设置了快捷键ff和dd。ff是{c1:挖空}#[[srs/cloze]]
+        - 以下是所有的快捷键
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fg2guRWZobR.png?alt=media&token=932aa928-8102-4220-a419-630c90772135)
+        - 
 - 类似软件
     - [[Remnote]]
     - [[Learnobit]]

@@ -1138,3 +1138,22 @@ It fills in a quadrant that's been missing until now
 Something you want to see happen in the real world 
 
 Once you define that, all the different pathways to achieving that outcome will reveal themselves ([View Tweet](https://twitter.com/fortelabs/status/1633769683529748480))
+- ### New highlights added [[March 10th, 2023]] at 9:02 AM
+    - @wanglei001: 简悦插件 · 阅读助手（基于 OpenAI 的语境理解 AI 系统 2.0 版）
+
+将 ChatGPT 内置到阅读模式中，可以理解文章 / 标注内容，并以对话展示，如：
+
+1️⃣ 生成阅读笔记
+
+2️⃣ 归纳总结全文/标注· 总结任意段落 · 翻译任意段落为英文
+
+3️⃣ 词条解释 · 发送任何内容的问题
+
+详细👉 https://t.co/cMp6gP1mSC 
+
+![](https://pbs.twimg.com/media/FqwXg4maQAEcUbF.jpg) ([View Tweet](https://twitter.com/wanglei001/status/1633715797293142018))
+    - @Jimmy_JingLv: 👋 嘿，想要几秒钟快速创建 AI 应用？
+🚀 推荐 @EclipsePrayer 的 OpenGPT 平台，Create ChatGPT Application in seconds！
+👨‍💻 无需编写代码，直接把 prompt 填进表单，即刻享用强大的 GPT3.5 API
+😍 轻松实现自己的 App，简单易用，极致高效！ #OpenAI #ChatGPT 
+快去试试吧 https://t.co/Nu3cMkYIGT ([View Tweet](https://twitter.com/Jimmy_JingLv/status/1633828722506874881))
