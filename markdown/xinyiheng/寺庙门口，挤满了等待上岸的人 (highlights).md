@@ -1,0 +1,6 @@
+- Author:: [[高滔滔]]
+- Full Title:: 寺庙门口，挤满了等待上岸的人
+- Category:: #articles
+- URL:: https://mp.weixin.qq.com/s/BdHcif5DHlSRTRs52VRdrg
+- ### Highlights first synced by #Readwise [[March 10th, 2023]]
+    - 和图书馆里“大家一起努力”的沉浸式氛围不同，在远离尘世、接近自然山水的寺庙里，备考人更容易获得平静和内驱力，从焦躁的情绪中抽离。相隔千年，这些跨入寺庙的人，似乎和喜欢去寺庙备考的古代书生，形成了遥远的呼应。 ([View Highlight](https://read.readwise.io/read/01gv4rv48wfcc0e6rx0xd6zcsy))
