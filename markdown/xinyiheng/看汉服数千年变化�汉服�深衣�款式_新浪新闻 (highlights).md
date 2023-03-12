@@ -1,4 +1,4 @@
-- Author:: [[江泽民同志追悼大会在北京人民大会堂隆重举行 习近平致悼词]]
+- Author:: 
 - Full Title:: 看汉服数千年变化|汉服|深衣|款式_新浪新闻
 - Category:: #articles
 - Document Tags:: #[[传统文化]] #[[历史地理]]
