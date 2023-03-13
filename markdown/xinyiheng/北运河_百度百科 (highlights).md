@@ -1,0 +1,6 @@
+- Author:: [[if (!window['__abbaidu_2020_subidgetf']) { window['__abbaidu_2020_subidgetf'] = function () { var subid = 01000000; return subid; }; }]]
+- Full Title:: 北运河_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%8C%97%E8%BF%90%E6%B2%B3/8528482?fromModule=lemma_inlink
+- ### Highlights first synced by #Readwise [[March 13th, 2023]]
+    - 1912年以前，北运河上游原分三支，西支温榆河，古称温榆水；中支白河，古称沽水；东支潮河，古称鲍丘水。潮河、白河在密云县城西南汇流后称潮白河，至通州区（原通县）城北注入温榆河，成为济运主流。通州区（原通县）古称潞州，故北运河、潞州以下古称潞水，又其为漕运所经，故称北运河。1912年[潮白河](/item/%E6%BD%AE%E7%99%BD%E6%B2%B3/2031064?fromModule=lemma_inlink)大水在顺义县李遂镇决口南流箭杆河汇入[蓟运河](/item/%E8%93%9F%E8%BF%90%E6%B2%B3/10246298?fromModule=lemma_inlink)，使北运河失去主要水源，1916年在决口处修建滚水坝一座，至1917年又被洪水冲毁。1925年修建顺义苏庄节制闸和泄洪闸，开挖平家疃引河，引潮白河部分水量入北运河。1939年大水，苏庄闸未及提起洪水即漫闸而过，冲毁闸门再夺箭杆河入蓟运河。因蓟运河无法承受两河洪水，致使蓟运河经常泛滥成灾。建国后为解除蓟运河水患，1950年开辟潮白河新的入海通道，使之直接于北塘入海。从此潮白河与北运河各成河系，北运河上游只剩温榆河一支。

@@ -1,0 +1,6 @@
+- Author:: [[bjdch.gov.cn]]
+- Full Title:: 北京市东城区人民政府门户网站
+- Category:: #articles
+- URL:: https://www.bjdch.gov.cn/n3952/n9279505/c9991757/content.html
+- ### Highlights first synced by #Readwise [[March 13th, 2023]]
+    - 老城的格局，一说是两轴，长安街和中轴线两个轴，四重城廓，六海八水。这次总结出来的，我们讲六海八水，六海是北海、中海、南海、西海、后海、前海，八水就是八条河，包括通惠河(含玉河)、北护城河、南护城河、筒子河、金水河、前三门护城河、长河和莲花河。六海八水，九坛八庙，这些重点的点位我们都列出来了，这是格局的控制点。

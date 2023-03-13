@@ -1,0 +1,6 @@
+- Author:: [[if (!window['__abbaidu_2020_subidgetf']) { window['__abbaidu_2020_subidgetf'] = function () { var subid = 01000000; return subid; }; }]]
+- Full Title:: 坝河（海河支流北运河上游温榆河的支流）_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%9D%9D%E6%B2%B3/8530056
+- ### Highlights first synced by #Readwise [[March 13th, 2023]]
+    - 坝河位于[北京市](/item/%E5%8C%97%E4%BA%AC%E5%B8%82/126069?fromModule=lemma_inlink)东郊。源于东城区东北[护城河](/item/%E6%8A%A4%E5%9F%8E%E6%B2%B3?fromModule=lemma_inlink)，自西向东在朝阳区东郊边界入[温榆河](/item/%E6%B8%A9%E6%A6%86%E6%B2%B3/8528830?fromModule=lemma_inlink)，属[北运河](/item/%E5%8C%97%E8%BF%90%E6%B2%B3?fromModule=lemma_inlink)水系。主要支流有[北小河](/item/%E5%8C%97%E5%B0%8F%E6%B2%B3?fromModule=lemma_inlink)、[亮马河](/item/%E4%BA%AE%E9%A9%AC%E6%B2%B3/8529098?fromModule=lemma_inlink)和北土城沟等，主河道全长21．63公里，流域面积158．4平方公里。坝河是元代开凿的运粮河，后被[通惠河](/item/%E9%80%9A%E6%83%A0%E6%B2%B3/4413344?fromModule=lemma_inlink)取代，成为排水沟。

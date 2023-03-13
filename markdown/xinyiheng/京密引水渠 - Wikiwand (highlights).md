@@ -1,0 +1,7 @@
+- Author:: [[About us]]
+- Full Title:: 京密引水渠 - Wikiwand
+- Category:: #articles
+- URL:: https://www.wikiwand.com/zh-hans/%E4%BA%AC%E5%AF%86%E5%BC%95%E6%B0%B4%E6%B8%A0
+- ### Highlights first synced by #Readwise [[March 13th, 2023]]
+    - 京密引水渠是北京市最主要的供水线路，所以有“北京市民日常饮用的三杯水中，就有两杯是通过京密引水渠输送”这样的说法
+    - 京密引水渠源自[密云水库](/zh-hans/%E5%AF%86%E4%BA%91%E6%B0%B4%E5%BA%93 "密云水库")的白河主坝，流经[怀柔水库](/zh-hans/%E6%80%80%E6%9F%94%E6%B0%B4%E5%BA%93)、[颐和园](/zh-hans/%E9%A2%90%E5%92%8C%E5%9B%AD "颐和园")[昆明湖](/zh-hans/%E6%98%86%E6%98%8E%E6%B9%96 "昆明湖")，最后在滨角汇入[永定河引水渠](/zh-hans/%E6%B0%B8%E5%AE%9A%E6%B2%B3%E5%BC%95%E6%B0%B4%E6%B8%A0)，其中自昆明湖至滨角段与滨角至玉渊潭的永定河引水渠称为[昆玉河](/zh-hans/%E6%98%86%E7%8E%89%E6%B2%B3)。京密引水渠共流经[北京市](/zh-hans/%E5%8C%97%E4%BA%AC%E5%B8%82)的5个区县，依次是[密云区](/zh-hans/%E5%AF%86%E4%BA%91%E5%8C%BA)、[怀柔区](/zh-hans/%E6%80%80%E6%9F%94%E5%8C%BA "怀柔区")、[顺义区](/zh-hans/%E9%A1%BA%E4%B9%89%E5%8C%BA)、[昌平区](/zh-hans/%E6%98%8C%E5%B9%B3%E5%8C%BA "昌平区")和[海淀区](/zh-hans/%E6%B5%B7%E6%B7%80%E5%8C%BA "海淀区")

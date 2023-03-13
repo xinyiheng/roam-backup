@@ -1,0 +1,6 @@
+- Author:: [[thepaper.cn]]
+- Full Title:: 一张图告诉你，北京到底有多少水_市政厅_澎湃新闻-the Paper
+- Category:: #articles
+- URL:: https://www.thepaper.cn/newsDetail_forward_1854397
+- ### Highlights first synced by #Readwise [[March 13th, 2023]]
+    - 我们常说北京有五大水系——永定河、大清河、北运河、潮白河、蓟运河，其中北运河与北京城区的交集最多，所以它成为了这一次的主角。至于其它水系，则有待于你在地图上、或是郊游时，自己探索。

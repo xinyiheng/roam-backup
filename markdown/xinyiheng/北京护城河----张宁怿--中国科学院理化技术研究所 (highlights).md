@@ -1,0 +1,6 @@
+- Author:: [[网上办公]]
+- Full Title:: 北京护城河----张宁怿--中国科学院理化技术研究所
+- Category:: #articles
+- URL:: http://www.ipc.cas.cn/dqwh/ltx/zpxs/201811/t20181120_5190262.html
+- ### Highlights first synced by #Readwise [[March 13th, 2023]]
+    - 东西的护城河没了，前三门的护城河没了。剩下的护城河也失去了昔日的风采，神韵没了，魂也丢了。

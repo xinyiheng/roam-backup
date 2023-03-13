@@ -1,0 +1,6 @@
+- Author:: [[Contact us]]
+- Full Title:: YouTube
+- Category:: #articles
+- URL:: https://www.youtube.com/watch?v=tZcfupm5vKU
+- ### Highlights first synced by #Readwise [[March 13th, 2023]]
+    - Dump, Lump, Jump: The Ultimate Visual Thinking Tool for Turning Ideas into Action

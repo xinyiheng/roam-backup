@@ -1,0 +1,6 @@
+- Author:: [[if (!window['__abbaidu_2020_subidgetf']) { window['__abbaidu_2020_subidgetf'] = function () { var subid = 01000000; return subid; }; }]]
+- Full Title:: 北京护城河_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E6%8A%A4%E5%9F%8E%E6%B2%B3/15616314
+- ### Highlights first synced by #Readwise [[March 13th, 2023]]
+    - 筒子河，也即内护城河，属北京城内城河系，是故宫紫禁城的护城河，全长3.5公里，水面宽52米。以神武门、午门为南北轴线，东、西华门为东西轴线，将筒子河区划为西北、东北、西南和东南四部分。东、西华门和神武门的路面下，各有小涵洞连通，其断面原仅有50厘米×60厘米左右。故宫内有一条石砌明渠，上接西北筒子河，自西而东，经武英殿、太和门、文华殿、东华门以西，至东南角西侧注入东南筒子河，名为内金水河。

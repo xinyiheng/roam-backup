@@ -1,0 +1,6 @@
+- Author:: [[if (!window['__abbaidu_2020_subidgetf']) { window['__abbaidu_2020_subidgetf'] = function () { var subid = 01000000; return subid; }; }]]
+- Full Title:: 京密引水渠_百度百科
+- Category:: #articles
+- URL:: https://baike.baidu.com/item/%E4%BA%AC%E5%AF%86%E5%BC%95%E6%B0%B4%E6%B8%A0/8007775
+- ### Highlights first synced by #Readwise [[March 13th, 2023]]
+    - 2014年12月12日，南水北调中线一期工程通水后，北京市自来水厂主要使用南水替代密云水库向北京城区供水。
