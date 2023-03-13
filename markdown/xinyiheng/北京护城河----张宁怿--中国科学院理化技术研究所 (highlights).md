@@ -4,3 +4,4 @@
 - URL:: http://www.ipc.cas.cn/dqwh/ltx/zpxs/201811/t20181120_5190262.html
 - ### Highlights first synced by #Readwise [[March 13th, 2023]]
     - 东西的护城河没了，前三门的护城河没了。剩下的护城河也失去了昔日的风采，神韵没了，魂也丢了。
+- #[[育儿]] 以前和麻豆一起做的ppt[孔雀鱼的生活](https://app.yinxiang.com/shard/s63/nl/13797828/51920d93-11ea-48ac-a119-8cf98a096e04/)
