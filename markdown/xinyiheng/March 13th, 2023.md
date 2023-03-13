@@ -217,7 +217,7 @@ http://www.chinanews.com.cn/cul/news/2010/02-23/2133150.shtml [Email Body](https
     - [[坝河（海河支流北运河上游温榆河的支流）_百度百科 (highlights)]] From: ReadwiseSync.json
 
 - #Import
-    - [[莲花池：北京城的生命印记_手机新浪网 (highlights)]] From: ReadwiseSync.json
+    - [[莲花池：北京城的生命印记]] From: ReadwiseSync.json
 
 - #Import
     - [[莲花河—与北京关系最为密切的水系之一，到底是什么样子的？_永定河_西湖_中都 (highlights)]] From: ReadwiseSync.json
