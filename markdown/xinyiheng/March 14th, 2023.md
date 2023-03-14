@@ -48,7 +48,5 @@
 
 75%以上的主城区供水
 
-
-
 https://baike.baidu.com/tashuo/browse/content?id=feb217783ac630baa353be26&fromModule=tashuo-
 article_tashuo-tab-item [Email Body](https://files.todoist.com/Cf2ryvObjCYgSC-vU5kgOd9mrMg5ldcBsoF7dBKSG55AysK2W10U9nTWByA84ciM/by/21878347/as/file.html)
