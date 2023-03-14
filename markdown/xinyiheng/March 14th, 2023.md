@@ -64,6 +64,11 @@ article_tashuo-tab-item [Email Body](https://files.todoist.com/Cf2ryvObjCYgSC-vU
 https://www.diigo.com/item/pdf/783rf/bhr7 [Email Body](https://files.todoist.com/Ic9vWAbCnrAC1cXLSo3O6UP-kb3eFObjRqjjup-TyUBx9_z4P3-R5NS6Z4rZ-kgL/by/21878347/as/file.html)
 - 阅读《第二大脑》 #[[读书笔记]] #[[工作]]
     - 福特·蒂亚戈的个人故事，如何通过笔记来掌控自己的疾病？
+    - 为什么需要第二大脑？
+        - 抽象具像化
+        - 建立连接
+        - 辅助决策
+        - 形成自己的观点
     - 费曼的十二个开放问题
     - 费曼如何通过观察一个旋转的旋转的餐盘找到了获得诺奖的研究领域？
     - 泰勒·斯威夫特如何捕捉创作灵感？
@@ -99,5 +104,13 @@ https://www.diigo.com/item/pdf/783rf/bhr7 [Email Body](https://files.todoist.com
                 - 2.海明威的桥
                 - 3.从小的目标开始行动。
                 - 
-            - 
-    - 
+            - 敌人 FOMO
+            - 生产力与创造力并不矛盾
+            - 使用第二大脑需要培养的习惯
+                - 写项目其功能单
+                - 每周和月度小结
+                - 处处留意
+                - 因为只有系统才能够发挥作用，好用的系统才完美
+            - 对信息无差别的吸纳，甚至连社交媒体的表情包和网络吹水帖子的重要性都可能与深邃的智慧等量齐观。
+            - 信息处理从稀缺心态转变为充裕心态
+            - 对待分享的心态也从义务转变为服务
