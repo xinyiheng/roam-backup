@@ -11,3 +11,8 @@
 
 
 https://www.wikiwand.com/zh/%E8%80%81%E8%88%8D%E6%96%87%E5%AD%A6%E5%A5%96 [Email Body](https://files.todoist.com/5-uVFxM4ODE11BZcrJ80br2B5u9CU2RJqp_MdlprdGL0e7QK_aBzW3X0SvXPn8u9/by/21878347/as/file.html)
+- #[[工作]]
+    - 联系李会影修改《日本经济三十年史》
+    - 《打造第二大脑》送质检，催定书名
+    - 《无退休社会》送校对
+    - 记录各本书的进度
