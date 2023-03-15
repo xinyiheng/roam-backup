@@ -1,0 +1,5 @@
+- Full Title:: 老舍文学奖 - Wikiwand
+- Category:: #articles
+- URL:: [🔗](https://www.wikiwand.com/zh/%E8%80%81%E8%88%8D%E6%96%87%E5%AD%A6%E5%A5%96)
+- ### Highlights first synced by #Readwise [[March 16th, 2023]]
+    - 老舍文学奖是北京市文学艺术方面的最高奖励，与[茅盾文学奖](/zh/茅盾文学奖 "茅盾文学奖")、[鲁迅文学奖](/zh/鲁迅文学奖 "鲁迅文学奖")、[曹禺戏剧文学奖](/zh/曹禺戏剧文学奖 "曹禺戏剧文学奖")并称中国四大文学奖。

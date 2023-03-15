@@ -1,0 +1,13 @@
+- Full Title:: 创作者的一天世界 短评
+- Category:: #articles
+- URL:: [🔗](https://book.douban.com/subject/30457509/comments/?start=20&limit=20&status=P&sort=score)
+- ### Highlights first synced by #Readwise [[March 16th, 2023]]
+    - 很大程度上满足了我的好奇心，是一收到就迫不及待读起来的书。我时常想，生命的本质不过就是时间，而如何度过一天，就是在用实际行动回答生命本质问题。
+    - 当那么多作家，音乐家的daily routine堆积在一起的时候，还挺无聊的。虽然我是那么喜欢八卦和看youtube上的routine vlog。
+    - 最大的感受是创作者们大都选择离群索居，找个安静的地方，大早上起来咖啡续命，努力干个三四个小时。下午都有各自的娱乐项目，散步，喝酒，迎来送往等。晚上都早早睡了。创作不仅仅是生产力、创造力，更需要的是安静！
+    - 天才也有文思枯竭拖延逃避写作的时刻，启发很多安慰很多。
+- Full Title:: 创作者的一天世界 短评
+- Category:: #articles
+- URL:: [🔗](https://book.douban.com/subject/30457509/comments/?limit=20&status=P&sort=score)
+- ### Highlights first synced by #Readwise [[March 16th, 2023]]
+    - 总结一下，规矩的作息+烟酒+散步，是激发创作的三大手段。
