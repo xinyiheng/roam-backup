@@ -37,3 +37,5 @@ https://finance.sina.com.cn/tech/roll/2023-03-15/doc-imykxtwx4842008.shtml [Emai
 https://book.douban.com/subject/35714249/ [Email Body](https://files.todoist.com/vIv4uS4cfsE4MlSMNbUqNMDT4kk0_xNS6MKHMY-NsTCNPObFgKJcNSmXRUSFyP7D/by/21878347/as/file.html)
 - #[[工具]] #[[读书笔记]]
     - 修改了豆瓣的css，设置了在chrome中快速选中词汇在roam research中搜索的快捷方式
+    - 梳理自己的读书笔记管理方式。把分散在不同地方的读书笔记整理起来
+    - 
