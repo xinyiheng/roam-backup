@@ -23,3 +23,5 @@ http://www.duozhi.com/industry/insight/2023031514977.shtml [Email Body](https://
 
 https://finance.sina.com.cn/tech/roll/2023-03-15/doc-imykxtwx4842008.shtml [Email Body](https://files.todoist.com/GqoR9V7vuZ_9DJcS2v5CI69-zTSpfeETu0RfZAGgJb_TrplIDEcsUvHVRUUKlsOQ/by/21878347/as/file.html)
         - gray_ad buyinfoVia[新标签页](chrome://new-tab-page/) [[20230316]] 11:14
+- #[[工具]] #[[读书笔记]]
+    - 修改了豆瓣的css，设置了在chrome中快速选中词汇在roam research中搜索的快捷方式
