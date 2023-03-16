@@ -35,7 +35,22 @@ https://finance.sina.com.cn/tech/roll/2023-03-15/doc-imykxtwx4842008.shtml [Emai
 
 
 https://book.douban.com/subject/35714249/ [Email Body](https://files.todoist.com/vIv4uS4cfsE4MlSMNbUqNMDT4kk0_xNS6MKHMY-NsTCNPObFgKJcNSmXRUSFyP7D/by/21878347/as/file.html)
+    - 改变你想法的101篇文章 (豆瓣)
+        - Annotations:
+
+* 这不是一本用来一口气从头读到尾，再恍然大悟总结自己学到了什么的书，那是所谓“干货”书的读法。这本，以及所有所谓“鸡汤书”，都适合放在床头，每天想起来了就翻几页。因为这些告诉你“如何过好人生”的书，从来不是用来学习的，是用来做的。道理就是那么几个道理，你光是读了，懂了，没有用，你得做到。而鸡汤书的意义，无非就是提醒你，要做到哦。这里还有一种新的练习方法，要每天练习哦。
+
+* 越简单，越具体的事情，越是能写出干货，越是能一本书就搞清楚，越是给人虚假的“充实感”。比如我写一本《Java编程入门》，读完你肯定至少能大致知道java这本书是干啥的，你会觉得“太好了，没白读，学到干货了”。但如果我要讨论“如何成为一个年薪25w刀的程序员”这个问题，我相信没有任何一本书是能保证你读完就能年薪25w刀的，我相信这个道理很多人都能懂。但是为啥“如何过好一生”这种比“如何成为年薪25w刀的程序员”难得多的问题，很多人就希望读几本书就解决，如果读完没有过上好生活，就怪书呢？
+
+* 有道理啊
+
+
+
+https://book.douban.com/subject/36096771/ [Email Body](https://files.todoist.com/ALMwO5rNSkBQM0xUTAlg6WV2EqnSqdfCl7yiTi9X0mn1gbNk4si3KgHxFovvrS4l/by/21878347/as/file.html)
 - #[[工具]] #[[读书笔记]]
     - 修改了豆瓣的css，设置了在chrome中快速选中词汇在roam research中搜索的快捷方式
     - 梳理自己的读书笔记管理方式。把分散在不同地方的读书笔记整理起来
-    - 
+- #[[阅读]] 
+    - 阅读完成《打开心智》
+    - 阅读《改变你想法的101篇文章》
+    - 《叙事经济学》
