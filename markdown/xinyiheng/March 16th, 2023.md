@@ -23,5 +23,17 @@ http://www.duozhi.com/industry/insight/2023031514977.shtml [Email Body](https://
 
 https://finance.sina.com.cn/tech/roll/2023-03-15/doc-imykxtwx4842008.shtml [Email Body](https://files.todoist.com/GqoR9V7vuZ_9DJcS2v5CI69-zTSpfeETu0RfZAGgJb_TrplIDEcsUvHVRUUKlsOQ/by/21878347/as/file.html)
         - gray_ad buyinfoVia[新标签页](chrome://new-tab-page/) [[20230316]] 11:14
+    - 另一种天才 (豆瓣)
+        - Annotations:
+
+* 威尼斯阅读就是“慢”下来读书，去读那些经典读物，去读小说、戏剧、抒情诗类的书籍，单纯为了获得体验而读书。
+
+杂货铺阅读则相反，在读一本书之前，要清楚地知道读这本书的目的是什么，我想要解决什么问题，要带有“阅读目的”去读书。
+
+威尼斯阅读追求体验感，杂货铺阅读追求提高效率。
+
+
+
+https://book.douban.com/subject/35714249/ [Email Body](https://files.todoist.com/vIv4uS4cfsE4MlSMNbUqNMDT4kk0_xNS6MKHMY-NsTCNPObFgKJcNSmXRUSFyP7D/by/21878347/as/file.html)
 - #[[工具]] #[[读书笔记]]
     - 修改了豆瓣的css，设置了在chrome中快速选中词汇在roam research中搜索的快捷方式
