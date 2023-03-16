@@ -1,7 +1,7 @@
 - Author:: [[sspai.com]]
 - Full Title:: 让 Obsidian 更好用，这些社区插件值得试试 - 少数派
 - Category:: #articles
-- Document Tags:: #[[obsidian]]
+- Document Tags:: #[[Obsidian]]
 - URL:: https://sspai.com/post/66094
 - ### Highlights first synced by #Readwise [[March 10th, 2023]]
     - 按照传统笔记的思维，层级结构基本为「笔记本组——笔记本——章节——页面」，文件列表内文件夹用来分类形成目录（为了有序还会使用编码系统），只有页面能承载笔记，还需要使用 Tag 插件与文件列表配合形成网状联系；
