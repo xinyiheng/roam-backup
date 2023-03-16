@@ -47,6 +47,18 @@ https://book.douban.com/subject/35714249/ [Email Body](https://files.todoist.com
 
 
 https://book.douban.com/subject/36096771/ [Email Body](https://files.todoist.com/ALMwO5rNSkBQM0xUTAlg6WV2EqnSqdfCl7yiTi9X0mn1gbNk4si3KgHxFovvrS4l/by/21878347/as/file.html)
+    - 叙事经济学 (豆瓣)
+        - Annotations:
+
+* 我的理解，所谓叙事，就是一种价值观的载体。叙事可能是宏观的（比如一时普遍的、或一地长期的），也可能是微观的（比如社交媒体上此起彼伏的热点事件），但其背后一定表达了某种价值观。
+
+* 比如之前我就迷惑一件事：去年新冠疫情期间，工商局严查口罩暴利的行为，为什么能得到普遍的赞同？现在按照“叙事就是价值观的本质”去解释，就很好理解了：从法律角度来讲，零售店的口罩暴利并不违法，工商局根本没有权利管－－但这个看法的前提是法律意识，即“法律面前人人平等，法无禁止即可行”的价值观；而这种价值观其实并不普及，大多数民众还是觉得工商局应该管也有权利管这件事，这就是另一种价值观－－讲情理不讲法。这两种价值观碰撞的结果是，法律意识的价值观完败。这就是中国社会目前的宏观叙事状态一个侧面。
+
+* 广泛流传的故事的背后是某种根深蒂固的价值观体系。
+
+
+
+https://book.douban.com/subject/34976597/ [Email Body](https://files.todoist.com/1jmpPZXjB3ZcRFh1BR18Ja9OmQ4rrSlnjJCs1y9Hk7XNgygH_8UR7hoj_lqyNb86/by/21878347/as/file.html)
 - #[[工具]] #[[读书笔记]]
     - 修改了豆瓣的css，设置了在chrome中快速选中词汇在roam research中搜索的快捷方式
     - 梳理自己的读书笔记管理方式。把分散在不同地方的读书笔记整理起来
