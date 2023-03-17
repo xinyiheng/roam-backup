@@ -1186,3 +1186,15 @@ https://t.co/lD95RFlK0i ([View Tweet](https://twitter.com/Jimmy_JingLv/status/16
     - @jefflijun: A股市场：中国最大的知识付费平台 
 
 ![](https://pbs.twimg.com/media/Fqn5fFmWcAE7Kwm.jpg) ([View Tweet](https://twitter.com/jefflijun/status/1633110656797769728))
+- ### New highlights added [[March 17th, 2023]] at 10:02 PM
+    - @LiquidTextCorp: LiquidText is set to incorporate ChatGPT, a cutting-edge natural language processing tool.  In this demonstration of the tool’s capabilities, ChatGPT was able to quickly identify pertinent sections of a complex medical product manual, achieving results within seconds. https://t.co/5Wa8hG8d6O ([View Tweet](https://twitter.com/LiquidTextCorp/status/1636442372983668752))
+    - @pascal_bornet: And 4,000 years later, we are back with the same language! 🤣 
+
+![](https://pbs.twimg.com/media/FrZFARRXgAEQajE.jpg) ([View Tweet](https://twitter.com/pascal_bornet/status/1636571386981277696))
+    - @haoel: 5）一旦内容制作门槛变低，制作速度变快，那些能产生高质量内容的人将会更有生产力，而一些专业能力不强的人也将会迅速淘汰掉。
+
+6）程序员应该借助于这波技术红利，多做一些生产力工具。而一般人也应该赶快学会使用这些工具，让自己超过那些掌握专业技能的人。
+
+7）最后，大家赶紧买微软的股票。
+
+4/4 ([View Tweet](https://twitter.com/haoel/status/1636722152874602496))
