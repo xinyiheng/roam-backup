@@ -1,0 +1,7 @@
+- Full Title:: GPT-4开始挣钱了！不过可以这样免费用……|美元|必应_新浪科技_新浪网
+- Category:: #articles
+- URL:: [🔗](https://finance.sina.com.cn/tech/roll/2023-03-15/doc-imykxtwx4842008.shtml)
+- ### Highlights first synced by #Readwise [[March 18th, 2023]]
+    - 1.微软的必应（Bing）搜索引擎。微软表示，必应机器人已经开始使用GPT-4模型了。目前，必应机器人提供的搜索、回答、聊天和写作，都是使用的GPT-4模型。不过，必应还没有提供GPT-4的图片识别能力。
+    - 3.可汗学院（Khan Academy），该在线教育平台设计了一名在线导师，建立某种自动辅导系统。
+    - 红星新闻了解到，微软决定将于周四（3月16日）举办活动，讨论如何将生成人工智能构建到其业务产品中，包括Word、Excel、PowerPoint和Outlook等Office应用程序。
