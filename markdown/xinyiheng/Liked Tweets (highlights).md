@@ -1202,3 +1202,8 @@ https://t.co/lD95RFlK0i ([View Tweet](https://twitter.com/Jimmy_JingLv/status/16
     - @indigo11: MS Office 365 Copilot 宣传视频
 
 https://t.co/JxeKTmpDav ([View Tweet](https://twitter.com/indigo11/status/1636513840224690176))
+- ### New highlights added [[March 19th, 2023]] at 5:40 PM
+    - @Rainmaker1973: Pingba, Guizhou, China is the largest cherry blossom garden in the world: there are more than 500,000 rare cherry blossom species planted there and these views last from March to early April
+
+[read more: https://t.co/mBxbOtgzIV]
+https://t.co/IdEqcOBWBU ([View Tweet](https://twitter.com/Rainmaker1973/status/1637146431906619394))
