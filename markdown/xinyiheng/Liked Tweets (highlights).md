@@ -1207,3 +1207,16 @@ https://t.co/JxeKTmpDav ([View Tweet](https://twitter.com/indigo11/status/163651
 
 [read more: https://t.co/mBxbOtgzIV]
 https://t.co/IdEqcOBWBU ([View Tweet](https://twitter.com/Rainmaker1973/status/1637146431906619394))
+- ### New highlights added [[March 20th, 2023]] at 6:42 PM
+    - @Rainmaker1973: Mt. Everest is one of the most massive things on Earth, rising over 8.800 m over sea level. But as this @tweetsauce video points out, Everest is hardly a ripple on Earth's surface 
+
+[full video: https://t.co/9TQnoqQLBl]
+https://t.co/qhVRcj2UCG ([View Tweet](https://twitter.com/Rainmaker1973/status/1637443264302264323))
+    - @bilawalsidhu: 3D capture is moving so fast - I scanned & animated this completely on an iPhone.
+
+Last summer you'd need to wrangle COLMAP, Instant NGP, and FFmpeg to make NeRFs.
+
+Now you can do it all inside Luma AI's mobile app. Capture anything and reframe infinitely in post!
+
+Thread 🧵 https://t.co/hDngpVBas6 ([View Tweet](https://twitter.com/bilawalsidhu/status/1637450670998528002))
+    - @wshuyi: 这么快就把 OCR 解决了？！👍简直是温酒斩 Bob 啊😂 https://t.co/SWUtHPALcP ([View Tweet](https://twitter.com/wshuyi/status/1637583320853925892))
