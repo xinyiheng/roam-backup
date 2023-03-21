@@ -100,7 +100,7 @@ via[文科生数据科学上手指南](https://bookdown.org/wshuyi/dive-into-dat
         - 01 环境配置与运行
 via[01 环境配置与运行 - 少数派](https://sspai.com/post/61799)
 [[20201214]] 下午5:57
-            - [[anaconda]] 后并打开，然后可以选择 IPython、Jupyter Notebook、Spyder 或 VS Code 任意一款文本编辑器；但为了保持课程教学环境的统一，我们后面会使用 VS Code 作为我们本次课程的编辑器来运行 Python 代码。
+            - [[Anaconda]] 后并打开，然后可以选择 IPython、Jupyter Notebook、Spyder 或 VS Code 任意一款文本编辑器；但为了保持课程教学环境的统一，我们后面会使用 VS Code 作为我们本次课程的编辑器来运行 Python 代码。
 via[01 环境配置与运行 - 少数派](https://sspai.com/post/61799)
 [[20201214]] 下午5:58
             - [[conda]]与[[ pip]]
@@ -463,8 +463,12 @@ via[Python 标准库 — Python 3.9.1 文档](https://docs.python.org/zh-cn/3/li
             - 无论当前模块是被别的模块导入还是作为脚本直接执行，都会执行这部分代码
             - 而主程序前面的内容只有当被调用的时候才会执行。
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fxw1pAcoAHI.png?alt=media&token=5b0bc1dd-4cf2-4eba-9ed7-cbe474a54292)
-- 安装和设置运行环境
-    - 如何用 Google Colab 练 Python？
+- 如何安装和设置运行环境
+    - 下载python，可以去官网，相当于下载了python的解释器，所谓解释器，也就是让电脑可以明白python代码。还可以通过[[Homebrew]]直接安装python
+    - 除了解释器，有些python代码直接调用第三方库，因此需要配套下载还需要一些第三方库，[[Anaconda]]自带了一些python库，还可以用其中的[[conda]]安装第三方库
+    - 此外，直接在terminal当中写代码很不方便，还需要一个代码编辑器，Anaconda同时下载了几款编辑器，我习惯使用[[VS Code ]]
+    - 如果不想在本地安装python，可以直接在浏览器中写python代码，具体方法如下：
+        - 如何用 Google Colab 练 Python？
 via[如何用 Google Colab 练 Python？](https://mp.weixin.qq.com/s?__biz=MzIyODI1MzYyNA==&mid=2653540538&idx=1&sn=90ad36da2d5d89b16eca2db3829b93da&chksm=f389ba6dc4fe337bd2a73249b15a3f729cf24f961cff7e37d545b9d87943d0c39eb2c7a90b7a&token=212680216&lang=zh_CN#rd)
 [[20201224]] 下午2:39
-        - [colab](https://colab.research.google.com/drive/1B8Mryd2DocLOCNiU5O0Iaz3FGYjLUh8_)网址
+            - [colab](https://colab.research.google.com/drive/1B8Mryd2DocLOCNiU5O0Iaz3FGYjLUh8_)网址
