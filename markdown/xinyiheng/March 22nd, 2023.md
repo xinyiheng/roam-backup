@@ -57,6 +57,24 @@ https://book.douban.com/subject/35200691/comments/?start=40&limit=20&status=P&so
 
 
 https://book.douban.com/subject/35200691/comments/?start=60&limit=20&status=P&sort=score [Email Body](https://files.todoist.com/owG2b1kXll0kcZNOfMt4Kk41Gv5Tlb72oZ3exNV30WuGqA0YrLDjwjgWKPVxmaEQ/by/21878347/as/file.html)
+    - 柠檬、拍卖和互联网算法的书评 (9)
+        - Annotations:
+
+* 经济学家发现的最佳的拍卖方式是维克里拍卖。
+
+* 维克里拍卖就是“第二价密封拍卖”：出价最高的人支付的价格是第二名的报价，而不是自己的报价。一旦竞拍成功，卖方能够得到的金额是否会受到影响，取决于前两名竞拍者的出价有多大的差距。维克里拍卖的目标就是：愿意付多少钱，就出多少价
+
+
+
+https://book.douban.com/subject/30483399/reviews [Email Body](https://files.todoist.com/nyR1ziXya8ize1JEULRyesu-ER0taF9Y1uS43e8eyRxXKZ4nN44bEGmGOmymhb5z/by/21878347/as/file.html)
+    - 柠檬、拍卖和互联网算法 (豆瓣)
+        - Annotations:
+
+* 浅显和概括的介绍了1950年到2004年，微观经济学市场设计领域的重要论文和思想发展，包括信息经济学（柠檬市场和信号机制），市场设计（拍卖与匹配），平台经济学（双边市场）等。贯穿其中的另一条主线是，互联网如何根据经济学理念，创造了巨大的“市场“，构成了强悍的星型交易网络，对我启发很大。我对微观经济学了解还是太少，还是要不断学习，读书，读论文
+
+
+
+https://book.douban.com/subject/30483399/ [Email Body](https://files.todoist.com/b-65vRcFS5wYkO8NBYQfo_4liVi1lG3sPv7Swq06t7OPkEiI7AsplvJi7mv5uYcY/by/21878347/as/file.html)
 - #[[阅读]] 《美国增长的起落》
     - 现象：美国经济增长的起点定在了1870年，至今150年左右，可以分为三个阶段，每个阶段五十年。1870-1920缓慢，1920-1970快速，1970至今放缓。
     - 解释：19世纪末20世纪初一系列发明彻底改变了人们在衣食住行方面的方式，提高了生活质量，这反过来提高了生产力，增大了供给。而大众工资持续提高，也促进了需求，加速了生活水平提高，形成了正向循环。而信息技术革命在改善人民生活水平和提高工资方面并没有这种作用，也注定了对于经济的提升作用不能像跃进年代那样(1920-1970)
