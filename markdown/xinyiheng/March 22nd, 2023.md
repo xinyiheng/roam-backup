@@ -21,15 +21,45 @@ https://book.douban.com/subject/27156012/ [Email Body](https://files.todoist.com
 
 
 https://book.douban.com/subject/35178904/ [Email Body](https://files.todoist.com/qad_9qrA_m4_NgBireL1v98Y_TQ99PGygWEoJCp0mwK7Vx68wjBhwWkRAni9lUF0/by/21878347/as/file.html)
-    - 第七章　健全货币和个体自由　/ 130
-        - Annotations:
+        - 第七章　健全货币和个体自由　/ 130
+            - Annotations:
 
 * 奥地利学派认为，如果货币供应量是固定的，那么经济增长将导致商品和服务的价格下降，延迟消费的话，人们可以购买到更多的商品和服务。这样的世界确实就像凯恩斯主义者担心的那样，会抑制即期消费，但它也会鼓励人们储蓄和投资，未来会发生更多的消费。作为一个沉迷于高时间偏好的思想流派，凯恩斯自然无法理解，尽管现在储蓄的增加会带来当下消费的减少，但过去增加的储蓄也会带来当下消费的增加，而前者的效力小于后者。低时间偏好的社会投资更多，会为其成员创造更多的收入，长期来看，不断延迟消费的社会最终会比低储蓄社会消费得更多。即使大部分收用于储蓄而不是消费，长期来看，低时间偏好的社会最终也会有更高的消费水平和更大的资本存量。 如果社会是“棉花糖实验”中的小女孩，凯恩斯主� ��经济学寻求的是改变实验设定，让克制的小女孩得到半个而不是两个棉花糖，克制换来的不是奖励而是惩罚，让自制力和低时间偏好适得其反。沉溺于眼前的快乐成了经济上更可取的行为，这种变化会随后反映在整个文化和社会上。与此相反，奥地利学派通过宣传健全货币，让人们正确认识大自然赋予人类的权衡：如果等待，小女孩将得到更多的奖励，使她得到更持久的快乐，鼓励她今后通过延迟满足获得更多的收获。
 
 
 
 https://book.douban.com/annotation/111773803/ [Email Body](https://files.todoist.com/S0TCsex7Autfw3Zbe6tm6Ep39c2-MCaW13BHmESrzKMRV1wX_f_GUjodcKEdX8iZ/by/21878347/as/file.html)
+    - 传染 短评
+        - Annotations:
+
+* 传播即传染，传染亦传播。
+
+
+
+https://book.douban.com/subject/35200691/comments/?start=20&limit=20&status=P&sort=score [Email Body](https://files.todoist.com/T1C1vKgkkqN5qjxj55zcgn9NQoHtY-gre-n5zkhjvMJf1SWWHIv8RVCgAPNXAWUH/by/21878347/as/file.html)
+    - 传染 短评
+        - Annotations:
+
+* 试图将“传染性”统一解释，私以为马尔科姆-格拉德威尔的“tipping point”从可读性和清晰程度上来说都更棒
+
+* 从曲线的形状上看，金融资产价格的上涨以及接下来的暴跌与麻疹或其他传染病病例的出现及消退几乎完全相同。”
+
+* 不必读了，就那点“易扩散不易崩溃，不易扩散易崩溃”有所启发，不过也不是他自己的结论。
+
+
+
+https://book.douban.com/subject/35200691/comments/?start=40&limit=20&status=P&sort=score [Email Body](https://files.todoist.com/2NxZu89QPqCCQXLUXREzq7at_HfByxEjcNq0MEC05LDitbHBfmM1qAqm7rQJfxb2/by/21878347/as/file.html)
+    - 传染 短评
+        - Annotations:
+
+* 一个传染公式，应用到方方面面
+
+
+
+https://book.douban.com/subject/35200691/comments/?start=60&limit=20&status=P&sort=score [Email Body](https://files.todoist.com/owG2b1kXll0kcZNOfMt4Kk41Gv5Tlb72oZ3exNV30WuGqA0YrLDjwjgWKPVxmaEQ/by/21878347/as/file.html)
 - #[[阅读]] 《美国增长的起落》
     - 现象：美国经济增长的起点定在了1870年，至今150年左右，可以分为三个阶段，每个阶段五十年。1870-1920缓慢，1920-1970快速，1970至今放缓。
     - 解释：19世纪末20世纪初一系列发明彻底改变了人们在衣食住行方面的方式，提高了生活质量，这反过来提高了生产力，增大了供给。而大众工资持续提高，也促进了需求，加速了生活水平提高，形成了正向循环。而信息技术革命在改善人民生活水平和提高工资方面并没有这种作用，也注定了对于经济的提升作用不能像跃进年代那样(1920-1970)
     - 作者看起来应该是经济上的左派，“代表最广大人民的根本利益”既是发展经济的目的，也是发展经济的保证。经济上的民主主义，即民有，民享。
+- #[[阅读]] 《货币未来》
+    - 了解了为什么比特币的支持者如此认可比特币的价值。
