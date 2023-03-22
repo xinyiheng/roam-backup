@@ -75,6 +75,14 @@ https://book.douban.com/subject/30483399/reviews [Email Body](https://files.todo
 
 
 https://book.douban.com/subject/30483399/ [Email Body](https://files.todoist.com/b-65vRcFS5wYkO8NBYQfo_4liVi1lG3sPv7Swq06t7OPkEiI7AsplvJi7mv5uYcY/by/21878347/as/file.html)
+    - 柠檬、拍卖和互联网算法 短评
+        - Annotations:
+
+* 应该说作者达到了最初的目的。用最直白的语言介绍二战后经济学理论的发展，主要是信息经济学这一块，各章之间虽然介绍的是不同经济学家的不同获奖理论，却具有极强的连续性和逻辑连贯性。但同时因为经济学的数学化，导致语言的描述仍然不能够揭示其全貌，显得略微晦涩，而要求读者具有相关的知识背景。
+
+
+
+https://book.douban.com/subject/30483399/comments/ [Email Body](https://files.todoist.com/5h8IlgPr0j5W87imxgod1RO9IHUdpEmcrKyVzQCdPWa2mZQ7STWwVXOasHX0XNqk/by/21878347/as/file.html)
 - #[[阅读]] 《美国增长的起落》
     - 现象：美国经济增长的起点定在了1870年，至今150年左右，可以分为三个阶段，每个阶段五十年。1870-1920缓慢，1920-1970快速，1970至今放缓。
     - 解释：19世纪末20世纪初一系列发明彻底改变了人们在衣食住行方面的方式，提高了生活质量，这反过来提高了生产力，增大了供给。而大众工资持续提高，也促进了需求，加速了生活水平提高，形成了正向循环。而信息技术革命在改善人民生活水平和提高工资方面并没有这种作用，也注定了对于经济的提升作用不能像跃进年代那样(1920-1970)
