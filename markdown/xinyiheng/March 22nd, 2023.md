@@ -83,6 +83,24 @@ https://book.douban.com/subject/30483399/ [Email Body](https://files.todoist.com
 
 
 https://book.douban.com/subject/30483399/comments/ [Email Body](https://files.todoist.com/5h8IlgPr0j5W87imxgod1RO9IHUdpEmcrKyVzQCdPWa2mZQ7STWwVXOasHX0XNqk/by/21878347/as/file.html)
+    - 盖尔-沙普利算法告诉你，你的对象在哪里？ - 知乎
+        - Annotations:
+
+* 盖尔-沙普利算法告诉你，你的对象在哪里？
+
+* 市场中的匹配问题。可以消除配对双方都想抛弃现有匹配对象与他人配对的情况。
+
+* 目前该算法在 高中择校系统、肾脏移植 等实际应用上起到了巨大的作用，你甚至可以在 2012 年诺贝尔经济学奖中看到它的身影。
+
+这个算法一个核心之处在于，合意的要约不会立即被接受，而只是被“抓住”（hold on to），也就是“延迟接受”。
+
+* 首先每个男生在第一轮中向自己最心仪的女生表白，但是各位女生不用立即做决定，而是先 hold 住。
+
+* 使用 延迟接受算法 匹配后的结果是一种稳定的状态结果。
+
+
+
+https://zhuanlan.zhihu.com/p/66327027 [Email Body](https://files.todoist.com/xxbrcIRtRxXCy5eX7trR19kPHIsYjLszJxtc72NS-vjBcKrhq6exhmB_fdFw60zm/by/21878347/as/file.html)
 - #[[阅读]] 《美国增长的起落》
     - 现象：美国经济增长的起点定在了1870年，至今150年左右，可以分为三个阶段，每个阶段五十年。1870-1920缓慢，1920-1970快速，1970至今放缓。
     - 解释：19世纪末20世纪初一系列发明彻底改变了人们在衣食住行方面的方式，提高了生活质量，这反过来提高了生产力，增大了供给。而大众工资持续提高，也促进了需求，加速了生活水平提高，形成了正向循环。而信息技术革命在改善人民生活水平和提高工资方面并没有这种作用，也注定了对于经济的提升作用不能像跃进年代那样(1920-1970)
