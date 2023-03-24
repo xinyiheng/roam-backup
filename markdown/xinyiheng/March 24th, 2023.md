@@ -63,3 +63,25 @@ https://www.douban.com/note/845165383/#comments?_i=9624871gbuxlsi [Email Body](h
 
 
 https://book.douban.com/subject/10733032/ [Email Body](https://files.todoist.com/aG7EBymK54EOpoRGxqq0aQ2SQsjtQWkJZb0LIh928wTS6nCoHqEEhRwEWejOXUJy/by/21878347/as/file.html)
+    - 同龄不同运，同乡不同命
+        - Annotations:
+
+* 说起巴洛克音乐全盛时期的代表人物，当数巴赫和亨德尔两位仁兄。他们出生于同一年（1685 年），又都是德国老乡。十多岁的时候，同样失去了自己的父亲。到了晚年，又同样遭受失明的痛苦，甚至连看瞎的眼科医生都是同一位。
+
+* 或许也是受家庭环境的影响，巴赫一辈子没出过国门，好像一个乡巴佬；亨德尔却一生在欧洲漫游，并在英国度过了人生最后的时光。巴赫结过两次婚，有过 20 多个孩子；而亨德尔却终生未娶，甚至从未与一个女人有染。
+
+
+
+https://www.sohu.com/a/222489293_658823 [Email Body](https://files.todoist.com/xzRkNXK4tELGvo55ffuOySHvGRx_chrqaht06mMaS8K62a7OYIHSqYQ-zQK2dLxV/by/21878347/as/file.html)
+    - 技术与文明 (豆瓣)
+        - Annotations:
+
+* 本书所想要讨论的文明，更多的依托于国家这个概念。实际上讨论的是具有国家或者国家雏形的一系列产物与技术间的互动关系。厘清了这一点，再来看待本书，就能发现非常明显的主线。技术与国家同为人类创作，早期技术发展的速度慢于国家制度的优化，技术的突破辅之以合适的制度能够放大制度的成效，促进文明的发展。后期，制度虽然仍有调整但是因为经年的积累已经日趋稳定，技术此时却在如日中天的发展。终于，技术的发展越过了国家、文明的束缚，异化成为了威胁文明的产物。
+
+* 我们需要增量技术进步。存量式的技术进步以现有技术的组合取代现有技术、压缩人的工作机会（如以高效率的机械取代人）。增量式的技术进步则是以全新的技术推展经济发展范围，创造工作。机器取代人，并不意味着被取代的人可以去做更高级的工作，而是彻底被抛弃了。这就是当下技术进步的问题。我们需要的不是能够完全替代人的机器，而是让人有尊严的技术。
+
+* 听起来有道理，但又不知所云。
+
+
+
+https://book.douban.com/subject/35230119/ [Email Body](https://files.todoist.com/NkYIBp4wuk_UgXAiQomB1VuP1bokGAxn4TPjrUrl6km-ZeG5kVP6AO4hy02oqYBl/by/21878347/as/file.html)
