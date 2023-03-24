@@ -56,3 +56,11 @@ https://book.douban.com/subject/26922908/ [Email Body](https://files.todoist.com
 
 
 https://www.douban.com/note/845165383/#comments?_i=9624871gbuxlsi [Email Body](https://files.todoist.com/xLRmnMMqdVLX_KbhYW-6tw_7RJ6jRRcch-QLMRyA_xrTkKwR7M1E-6stvUqMHftt/by/21878347/as/file.html)
+    - 王二的经济学故事 (豆瓣)
+        - Annotations:
+
+* 500年前，每个人都要种地，但不是每个人生下来就有地的；500年后，每个人都要有房住，但不是每个人生下来就有房的。从某种意义上说，生下来没有房子或地，就等于一生下来就背了一笔债，欠了那些有房子有地的人的债，而且这笔债还是随着收入水平水涨船高的。
+
+
+
+https://book.douban.com/subject/10733032/ [Email Body](https://files.todoist.com/aG7EBymK54EOpoRGxqq0aQ2SQsjtQWkJZb0LIh928wTS6nCoHqEEhRwEWejOXUJy/by/21878347/as/file.html)
