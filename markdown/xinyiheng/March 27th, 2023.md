@@ -57,3 +57,21 @@ Volcker）通过加息遏制通胀时的情况不同。当时我还在联储，�
 
 
 https://finance.sina.cn/china/gjcj/2022-07-20/detail-imizirav4675433.d.html [Email Body](https://files.todoist.com/WcYlGSz_P_GbvMz-ecQKbZ7q2xS7WvtbpVKzdLFONd5zWwBs1AFYonk4AEMBgfu0/by/21878347/as/file.html)
+    - 人民法院报
+        - Annotations:
+
+* “为法官者，应当在法律范围内以公平为念而毋忘慈悲；应当以严厉的眼光对事，而以悲悯的眼光对人。”
+
+这是英国400多年前的哲学家培根的一句名言。詹红荔告诉记者，她非常喜欢。
+
+
+
+http://www.rmfyb.com/paper/html/2011-11/08/content_35673.htm?div=-1 [Email Body](https://files.todoist.com/56wQq95RA1kLASiFJGzBuTeMYe0f36egr4Nqd5nSSLJN2gsVrU6GYSFq5XOCSnqs/by/21878347/as/file.html)
+    - 《少年法庭》30句衝擊人心金句：「傷害是不會結束的，被害人一輩子都得與傷痛共處！」 -泡菜版｜PopDaily 波波黛莉
+        - Annotations:
+
+* 若想取下對方的首級，我們至少要犧牲一條手臂啊
+
+
+
+https://www.popdaily.com.tw/forum/korea/1237051 [Email Body](https://files.todoist.com/kk97re-oPuQpZg_IP3lhOmWQJrmQp4agq4UYGJMCSgg8genc1oRZI8wV5_QqwH9O/by/21878347/as/file.html)
