@@ -1220,3 +1220,27 @@ Now you can do it all inside Luma AI's mobile app. Capture anything and reframe 
 
 Thread 🧵 https://t.co/hDngpVBas6 ([View Tweet](https://twitter.com/bilawalsidhu/status/1637450670998528002))
     - @wshuyi: 这么快就把 OCR 解决了？！👍简直是温酒斩 Bob 啊😂 https://t.co/SWUtHPALcP ([View Tweet](https://twitter.com/wshuyi/status/1637583320853925892))
+- ### New highlights added [[March 27th, 2023]] at 9:23 PM
+    - @abskoop: REMOVEBG 免费在线智能去背景抠图AI
+
+👉 https://t.co/iOVvtod6DA 
+
+![](https://pbs.twimg.com/media/FsFIOCYWIAAHOYh.jpg) ([View Tweet](https://twitter.com/abskoop/status/1639671159758135296))
+    - @rcvd_io: I miss an excellent highlighting option in @obsdmd; this is how it should work: open the PDF to the right, highlight and annotate, drag'n drop the highlights to the canvas. Click on an icon on the card and jump back to the source in the PDF.
+
+Thx @Heptabase for doing this right 
+
+![](https://pbs.twimg.com/media/FsK6e24XsAEeCGj.jpg) ([View Tweet](https://twitter.com/rcvd_io/status/1640079247417962503))
+    - @wshuyi: 确实，这样的解释通俗易懂👍 关键词检索就像是只会背答案的学生，考前闹着让老师「划范围」；而 embedding 则不然，是真懂了。于是举一反三，不拘一格 https://t.co/XmpCaZU0P6 ([View Tweet](https://twitter.com/wshuyi/status/1640151203412840450))
+    - @BaibanbaoNet: 我要用十二分的激情和赞叹来推荐Portal。这是个干掉一切插件的ChatGPT（GPT-4）辅助软件，它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT，更惊喜的是，它可以用Web端登录，意味着你只要有ChatGPT https://t.co/IAtCQvT9SK… https://t.co/tyAZsMnTpc ([View Tweet](https://twitter.com/BaibanbaoNet/status/1640151935549603840))
+    - @Tisoga: 如何基于 ChatGPT 创建个人的知识库 AI
+
+经过几周的内测，现在正式发布 Copilot Hub 👇
+
+https://t.co/ofSQR0JVOc
+
+Copilot Hub 是一个帮助你基于私有数据创建智能知识库 & 人格化 AI 的平台。你可以基于文档、网站、Notion database 或其他数据源在几分钟内创建一个自定义的 ChatGPT。
+
+🧵 
+
+![](https://pbs.twimg.com/media/FsNhRWfaQAAxyYz.jpg) ([View Tweet](https://twitter.com/Tisoga/status/1640261647267938304))
