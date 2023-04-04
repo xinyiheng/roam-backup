@@ -160,3 +160,28 @@ https://baike.baidu.com/item/%E5%AE%81%E5%9F%8E%E5%8E%BF/7611548?fromModule=lemm
 
 https://baike.baidu.com/tashuo/browse/content?id=2ad338d358dd55cdadfbe940&lemmaId=6979719&fromLemmaModule=pcBottom&lemmaTitle=%E9%87%91%E8%8E%B2%E5%B7%9D&fromModule=lemma_bottom-
 tashuo-article [Email Body](https://files.todoist.com/iznhIZuHPfr-6so52aEgdSnRRLAbKry9Bb79bQxtxACPJcp5PUXaNoRmXWeTTbO2/by/21878347/as/file.html)
+    - 高卢（古代西欧地区名，现在法国、比利时等地）_百度百科
+        - Annotations:
+
+* 6世纪中叶，法兰克人统治整个高卢后改称法兰克，并建立法兰克王国，高卢之名遂废。
+
+词条图册
+
+
+
+https://baike.baidu.com/item/%E9%AB%98%E5%8D%A2/3153836 [Email Body](https://files.todoist.com/MglkD23aHNMfYGMkoDnsFLcZskU38EqPuSB79WcrEZ3mZayel2dzNRaHKSS9wIUe/by/21878347/as/file.html)
+    - 草原帝国 (豆瓣)
+        - Annotations:
+
+* 你是否能够设想，汉武帝对匈奴的远征最后导致了西罗马帝国的覆灭，而唐太宗消灭西突厥最后的后果是产生了奥斯曼土耳其？当然，还有成吉思汗的伟大遗产，他间接地缔造了今天的俄罗斯。
+
+
+
+http://book.douban.com/subject/1057653/ [Email Body](https://files.todoist.com/lRplivzlqgI7VmBP1e31oyNeYgrdox23dRj1ka-XHZwc-9YN7TvLuMMggWoE_7-d/by/21878347/as/file.html)
+    - 图文解读欧洲行政和地理，高清地图可收藏 - 知乎
+        - Annotations:
+
+*   * 
+
+
+https://zhuanlan.zhihu.com/p/483049351 [Email Body](https://files.todoist.com/OHI5P9VKmS8I8_TfpPo4hAqCMLMJufR2oHQjrS9iGg8kZwbprtFXvi4RymFDGlVT/by/21878347/as/file.html)
