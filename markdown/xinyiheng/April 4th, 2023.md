@@ -82,3 +82,81 @@ https://baike.baidu.com/item/%E9%87%91%E8%8E%B2%E5%B7%9D/6979719 [Email Body](ht
 
 
 https://baike.baidu.com/item/%E9%97%AA%E7%94%B5%E6%B2%B3/4640817?fromModule=lemma_inlink [Email Body](https://files.todoist.com/Pi1WfIwWUCFGGJv0gOXXO_oOpGvxVx5ndNWdbAYlu_SjB2W4qyzATnEZpPYwIu3B/by/21878347/as/file.html)
+    - 五京制_百度百科
+        - Annotations:
+
+* 辽国时期实行五京制，即上京临潢府（今赤峰市林东镇）、东京辽阳府（辽宁省辽阳市）、南京析津府（北京市）、� �京大定府（内蒙古宁城县）、西京大同府（山西省大同市），谓之辽五京。
+
+* 辽代，现代的北京是辽代的南京，称为析津府。辽代、金代和元朝，上京和上都都是龙兴之地，后来都没有稳定成为大城市。
+
+* 金代实行五京制，起初是上京、东京、西京、南京、北京，海陵王迁都后是中都、东京、西京、南京、北京。也就是说，金国曾建有六都，为上京会宁府（今黑龙江阿城南），东京辽阳府（今辽宁辽阳），北京大定府（今内蒙古宁城县大明镇），西京大同府< /a>（今山西大同），中都大兴府（今北京），南京开封府（今河南开封）。
+
+
+
+https://baike.baidu.com/item/%E4%BA%94%E4%BA%AC%E5%88%B6/9637472 [Email Body](https://files.todoist.com/XkmPui1xhlR8FEMm2rPe7qUMEmQUfeD7r1LE7FUQD_trHh-boWzWJW1fDayYDIsC/by/21878347/as/file.html)
+    - 知道么？中国历史上共有六个“北京”，最早的北京竟是太原_百科TA说
+        - Annotations:
+
+* 中国历史上共有六个“北京”，最早的北京竟是太原
+
+* 大名府，又称北京大名府，治所旧址在今河北省大名县的东南部。大名府是历史上著名的“五鹿城”，唐为天雄军治，唐德宗建中3年（公元782）改称大名府。五代唐曰兴唐府，后晋曰广晋府，又为天雄军，后汉改为大名府，后周因之，宋仁宗庆历二年（公元1042）建陪都，史称“北京”，是宋朝的陪都，当时大名府人口达百余万，《水浒》里多次提到它，后来被淹没。
+
+* 金国先后共置两个“北京”，一是在今内蒙古巴林左旗林东镇南波罗城，原为“辽上京”。辽上京遗址是中国辽代都城遗址。在内蒙古自治区赤峰市巴林左旗林东镇南。辽太祖耶律阿保机于918年（神册三年）开始兴筑，初名皇都，926年（天显元年）扩建，938年（天显十三年）改称上京，并设立临潢府，为辽代五京之首。金熙宗天眷元年(1138年)改名北京，熙宗常在此地避暑。
+
+
+
+https://baike.baidu.com/tashuo/browse/content?id=73c81632c769fa3d9026dd07&lemmaId=7611548&fromLemmaModule=pcBottom&lemmaTitle=%E5%AE%81%E5%9F%8E%E5%8E%BF&fromModule=lemma_bottom-
+tashuo-article [Email Body](https://files.todoist.com/Qp1CCmDT8lerrkAB6jbTPBLsBmWV8pNV5DXNEDdJ_H40b6hFFKWSOUdmKKeyZQzi/by/21878347/as/file.html)
+    - 金朝的六个都城|都城|西京|海陵王_新浪新闻
+        - Annotations:
+
+* 金朝实行五京制，初期是上京、东京、西京、南京、北京，海陵王迁都后是中都、东京、西京、南京、北京。金朝先后共建有六个都城，其中西京、北京、东京只是作为陪都。
+
+
+
+http://k.sina.com.cn/article_6425948134_17f042fe6001002zgr.html [Email Body](https://files.todoist.com/fRsfxnI0ZWeiHpoUb6u_VfDvoFCpieYep2ZXrvOWIIrjcMjJFR9qMQ0a7kdOOqCz/by/21878347/as/file.html)
+    - 金朝（中国历史朝代）_百度百科
+        - Annotations:
+
+* 金朝采行五京制，共有中都大兴府、上京会宁府、南京开封府、北京大定府、东京辽阳府和西京大同府，其中后三个陪都就在辽的中京大定府、东京辽阳府和西京大同府的原址。
+
+
+
+https://baike.baidu.com/item/%E9%87%91%E6%9C%9D/889740 [Email Body](https://files.todoist.com/h_J4_lIeN7zJyHOwbOKY948UXnyfcgN79co8aMwMYQH2vllFPAFtd9U3k3ntSs9x/by/21878347/as/file.html)
+    - 美不胜收金莲川
+        - Annotations:
+
+* 金莲川草原位于锡林郭勒盟南端的正蓝旗境内，是锡林郭勒千里风景大道南段最火爆的观光度假目的地和距首都北京最近的草原旅游胜地之一。当这片草原迎来水草丰美的夏季时，清澈见底的上都河水、一望无际的金莲花海与雄浑而古老的元上都遗址融为一体，形成如诗如画的人间仙境，一年一度的金莲川赏花节更是让这里成为蜚声海内外避暑旅游的世外桃源。
+
+* 位于锡林郭勒的正蓝旗，沿着闪电河分布。闪电河原来称上都河
+
+
+
+http://nm.people.com.cn/n2/2021/0804/c196692-34852043.html [Email Body](https://files.todoist.com/BcrANoIEmUYfgksWs9u2ZRHFbG-66bM19sXdgHu_8nDhDlEkrY3gMuI44vhLB0BD/by/21878347/as/file.html)
+    - 宁城县_百度百科
+        - Annotations:
+
+* 辽代设中京大定府（今县内大明城），作为辽代中、后期国都，成为当时北方政治、经济、文化中心。
+
+金代将中京大定府改为北京。
+
+
+
+https://baike.baidu.com/item/%E5%AE%81%E5%9F%8E%E5%8E%BF/7611548?fromModule=lemma_inlink [Email Body](https://files.todoist.com/deGrVYPIQ-7jAT5xSf5Fl1rgYbQK3wRLTZ0RGygbrq1ubdZxKgjTLvqhJsykM_sZ/by/21878347/as/file.html)
+    - 忽必烈总领漠南事，在金莲川开府，金莲川是现在的哪个地方？_百科TA说
+        - Annotations:
+
+*   * 忽必烈选择了桓州与抚州之间的金莲川（今河北张家口市沽源县与内蒙古自治区锡林浩特盟正蓝旗之间闪电河沿岸）开府，此地原名曷里浒东川。
+
+* 清代诗人胡会恩赋诗赞曰:
+
+仙葩生朔漠，当暑发其英。色映金沙丽，香芬玉井清。倚风无俗艳，含露有新荣。试植天池侧，芙蕖敢擅名。
+
+* 幕府侍臣中聚集了刘秉忠、赵璧、王鹗等一大批中州精英，大略分为以刘秉忠为首的邢州术数群;以窦默、姚枢、许衡三人为首的理学派;以金末状元王鹗为领袖的金源文学派，有著名的徐世隆、宋子贞等人;以善于理财的郝经、赵璧为首的经邦理财群。
+
+同时还有吐蕃撒加派高僧八思巴、禅宗僧人海云、道教萧公弼道长等等。
+
+
+
+https://baike.baidu.com/tashuo/browse/content?id=2ad338d358dd55cdadfbe940&lemmaId=6979719&fromLemmaModule=pcBottom&lemmaTitle=%E9%87%91%E8%8E%B2%E5%B7%9D&fromModule=lemma_bottom-
+tashuo-article [Email Body](https://files.todoist.com/iznhIZuHPfr-6so52aEgdSnRRLAbKry9Bb79bQxtxACPJcp5PUXaNoRmXWeTTbO2/by/21878347/as/file.html)
