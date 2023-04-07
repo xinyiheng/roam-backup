@@ -384,3 +384,25 @@ https://culture.pl/zhs/article/41922 [Email Body](https://files.todoist.com/Acak
 
 
 https://www.wikiwand.com/zh-sg/%E8%83%A1%E6%A1%83%E5%A4%BE%E5%AD%90 [Email Body](https://files.todoist.com/aa1rKQetU8Tb0gIn4HaGawMT0gbVwe-wQte3CW4oNTYaS57qyOpUDxsZFcyJXrlf/by/21878347/as/file.html)
+    - 打断条顿骑士团的脊梁？简述波兰称霸东欧之格林瓦尔德战役_百科TA说
+        - Annotations:
+
+* 波兰—立陶宛联邦，这个二元制国家，从14世纪初次诞生以来，就对欧洲带来了巨大的影响。1358年，立陶宛大公瓦迪斯瓦夫·雅盖沃和年轻的波兰女王雅德维嘉结婚。虽然两人的婚姻不幸福，但让立陶宛大公国这个欧洲最后的非基督教国家，最终皈依天主教。同时也让两国结成了一个巨大的同盟，目标直指长期以来威胁着两国的心腹大患——条顿骑士团。
+
+* 格林瓦尔德战役可以说是欧洲历史的转折点之一，条顿骑士团在此战中，包括大团长在内损失了211名骑士，至此一蹶不振。1466年，根据双方签署的《托伦条约》，条顿骑士团被迫成为波兰王国的附庸；到了1512年，因为当时大团长普鲁士的阿尔布雷希特改宗路德宗，骑士团国改组普鲁士公国，条顿骑士团也因此被鸠占鹊巢，彻底失去了自己的领地；1809年，又被拿破仑解散了其军事组织；1929年，在教皇庇护十一世的训令下，条顿骑士团最终成为今天的纯宗教修士会组织了。
+
+
+
+https://baike.baidu.com/tashuo/browse/content?id=91862aba0db9ee87950abc4f&lemmaId=10969005&fromLemmaModule=pcBottom&lemmaTitle=%E6%A0%BC%E6%9E%97%E7%93%A6%E5%B0%94%E5%BE%B7%E6%88%98%E5%BD%B9&fromModule=lemma_bottom-
+tashuo-article [Email Body](https://files.todoist.com/op6GQtnqzYltHt5yz6jCJo5ang4teiyRLfItE1QneYFiHC4raMBVRbenr_6VAZoP/by/21878347/as/file.html)
+    - 艺术品中的历史：波兰第一画家和他的《格伦瓦尔德之战》_百科TA说
+        - Annotations:
+
+* 1410年的格伦瓦尔德之战，是影响波兰历史发展的重大的事件之一。波兰-立陶宛联军在此战中击败了条顿骑士团，消除了后者的军事威胁。波兰王国也在雅盖沃的治理下，逐渐兴盛并崛起为东欧强国。
+
+格伦瓦尔德之战也因其重大历史意义，成为后世文艺作品的经典题材。除了诺贝尔文学奖得主显克微支的历史小说《十字军骑士》外，还有“波兰第一画家”扬•马特伊科的著名油画《格伦瓦尔德之战》。
+
+
+
+https://baike.baidu.com/tashuo/browse/content?id=a243ebc26608dc2067d6c77e&lemmaId=10969005&fromLemmaModule=pcBottom&lemmaTitle=%E6%A0%BC%E6%9E%97%E7%93%A6%E5%B0%94%E5%BE%B7%E6%88%98%E5%BD%B9&fromModule=lemma_bottom-
+tashuo-article [Email Body](https://files.todoist.com/Yu5Y8_sBvsMcI_TeHZWwb-H71D_ZSefAGNFTbz0Bya8tohwYCM9n-GqIVeTJy5lK/by/21878347/as/file.html)
