@@ -1,0 +1,6 @@
+- Full Title:: 嘉德勋章_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E5%98%89%E5%BE%B7%E5%8B%8B%E7%AB%A0/6406286)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 大多数英国的骑士勋章适用于整个联合王国，但是有三个级别最高的勋章只适用于一个地区，在这三个勋章中嘉德勋章适用于[英格兰](/item/%E8%8B%B1%E6%A0%BC%E5%85%B0/1064478?fromModule=lemma_inlink)，它也是这三个勋章中地位最高和最古老的。适用于[苏格兰](/item/%E8%8B%8F%E6%A0%BC%E5%85%B0/675515?fromModule=lemma_inlink)的勋章是[蓟花勋章](/item/%E8%93%9F%E8%8A%B1%E5%8B%8B%E7%AB%A0?fromModule=lemma_inlink)，这枚勋章至少从16世纪开始设置，有可能源于中世纪（传说甚至说源于8世纪，不过这个传说不可靠），其今天的形式源于1687年。适用于[爱尔兰](/item/%E7%88%B1%E5%B0%94%E5%85%B0/40941?fromModule=lemma_inlink)的[圣帕特里克勋章](/item/%E5%9C%A3%E5%B8%95%E7%89%B9%E9%87%8C%E5%85%8B%E5%8B%8B%E7%AB%A0/54163179?fromModule=lemma_inlink)是1787年设立的，但是爱尔兰独立后这枚勋章就停止了（其最后一位佩带者逝世于1974年）。
+    - 与内阁任命仪式不同的是，嘉德授勋仪式是完完全全的皇家私人事务，连掌管国家实权的[英国首相](/item/%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8/1952052?fromModule=lemma_inlink)也没有发言权。

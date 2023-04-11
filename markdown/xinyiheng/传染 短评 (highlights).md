@@ -1,0 +1,17 @@
+- Full Title:: 传染 短评
+- Category:: #articles
+- URL:: [🔗](https://book.douban.com/subject/35200691/comments/?start=20&limit=20&status=P&sort=score)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 传播即传染，传染亦传播。
+- Full Title:: 传染 短评
+- Category:: #articles
+- URL:: [🔗](https://book.douban.com/subject/35200691/comments/?start=40&limit=20&status=P&sort=score)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 试图将“传染性”统一解释，私以为马尔科姆-格拉德威尔的“tipping point”从可读性和清晰程度上来说都更棒
+    - 从曲线的形状上看，金融资产价格的上涨以及接下来的暴跌与麻疹或其他传染病病例的出现及消退几乎完全相同。”
+    - 不必读了，就那点“易扩散不易崩溃，不易扩散易崩溃”有所启发，不过也不是他自己的结论。
+- Full Title:: 传染 短评
+- Category:: #articles
+- URL:: [🔗](https://book.douban.com/subject/35200691/comments/?start=60&limit=20&status=P&sort=score)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 一个传染公式，应用到方方面面

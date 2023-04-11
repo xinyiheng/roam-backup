@@ -1,0 +1,6 @@
+- Full Title:: 苏联解体了！里海舰队分家了！_百科ta说
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/tashuo/browse/content?id=91862aba0f3ee887940abcca&lemmaId=310941&fromLemmaModule=pcBottom&lemmaTitle=%E9%87%8C%E6%B5%B7&fromModule=lemma_bottom-tashuo-article)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 里海是究竟能否被称作真正意义上的海，一直为人们所争论，由于伊朗境内并没有适合大型舰船航行的河流，所以里海舰队并不能穿过伊朗到达印度洋。但是这并不意味着里海舰队无法出海，实际上，里海舰队是可以穿过大陆，到达大西洋的，只是稍微有些麻烦而已。
+    - 为了实现里海和黑海之间的连接，让里海舰队能够出海到达大西洋。1948年，苏联政府耗费巨大人力物力，历时三年，修建了长达100公里的伏尔加河——顿河运河。至此，对于里海舰队而言，只要不是特别大的舰船，都可以通过这条运河进入河面宽阔的顿河，然后一路西进，到达亚速海和黑海，从而成为了某种意义上的“海军”

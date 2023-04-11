@@ -1,0 +1,5 @@
+- Full Title:: 金莲川_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E9%87%91%E8%8E%B2%E5%B7%9D/6979719)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 元代建陪都于此，称元上都。北依龙岗南为平坦的金莲川草原。每到夏季草甸上开满了[金莲花](/item/%E9%87%91%E8%8E%B2%E8%8A%B1?fromModule=lemma_inlink)，地从花名。忽必烈于1251年曾在此建金莲川幕府，后称开府金莲川，是元代皇家的避暑胜地。炎热的夏天，这里气候凉爽宜人。

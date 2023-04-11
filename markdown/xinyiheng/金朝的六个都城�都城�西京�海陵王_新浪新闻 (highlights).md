@@ -1,0 +1,5 @@
+- Full Title:: 金朝的六个都城|都城|西京|海陵王_新浪新闻
+- Category:: #articles
+- URL:: [🔗](http://k.sina.com.cn/article_6425948134_17f042fe6001002zgr.html)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 金朝实行五京制，初期是上京、东京、西京、南京、北京，海陵王迁都后是中都、东京、西京、南京、北京。金朝先后共建有六个都城，其中西京、北京、东京只是作为陪都。

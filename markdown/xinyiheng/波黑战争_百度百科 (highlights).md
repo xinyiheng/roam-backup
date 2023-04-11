@@ -1,0 +1,5 @@
+- Full Title:: 波黑战争_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E6%B3%A2%E9%BB%91%E6%88%98%E4%BA%89/3682634)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 在东罗马帝国的卵翼之下的塞尔维亚人于11世纪曾建立过一个[塞尔维亚王国](/item/%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E7%8E%8B%E5%9B%BD?fromModule=lemma_inlink)，但是在14世纪下半叶被曾一度地跨欧亚非三洲的封建神权大帝国——[奥斯曼帝国](/item/%E5%A5%A5%E6%96%AF%E6%9B%BC%E5%B8%9D%E5%9B%BD?fromModule=lemma_inlink)所灭亡。一手持剑，一手拿[《古兰经》](/item/%E3%80%8A%E5%8F%A4%E5%85%B0%E7%BB%8F%E3%80%8B?fromModule=lemma_inlink)的占领者，为了彻底征服塞尔维亚，便对当地的塞尔维亚人实行“伊斯兰化”，迫使他们改奉[伊斯兰教](/item/%E4%BC%8A%E6%96%AF%E5%85%B0%E6%95%99/242135?fromModule=lemma_inlink)，否则就要将其逐出家园。结果，居住在波斯尼亚的一部分塞尔维亚人成为了穆斯林，意即“服顺安拉旨意的人”，但这时的穆斯林仍属塞尔维亚族，与信奉东正教的塞尔维亚人同居一块土地，共操一种语言，直到20世纪70年代初，南斯拉夫政府才人为地将塞尔维亚穆斯林定为一个民族，拥有与信奉东正教的塞尔维亚人、[黑山人](/item/%E9%BB%91%E5%B1%B1%E4%BA%BA/2520156?fromModule=lemma_inlink)、[马其顿人](/item/%E9%A9%AC%E5%85%B6%E9%A1%BF%E4%BA%BA/3020263?fromModule=lemma_inlink)，信奉罗马天主教的克罗地亚人、斯洛文尼亚人同等的地位。这样，在波黑这块土地上，主要有三大民族：信奉东正教的塞尔维亚族、信奉天主教的克罗地亚族和信奉伊斯兰教的穆斯林族。波黑内战爆发前夕，在440万总人口中，穆斯林族占43.7%，塞尔维亚族31.4%，克罗地亚族占17.3%。

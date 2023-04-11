@@ -1,0 +1,6 @@
+- Full Title:: 腓力二世 (西班牙) - Wikiwand
+- Category:: #articles
+- URL:: [🔗](https://www.wikiwand.com/zh-sg/%E8%85%93%E5%8A%9B%E4%BA%8C%E4%B8%96_(%E8%A5%BF%E7%8F%AD%E7%89%99))
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 在1542年，西班牙人以其之名，将一个位于西太平洋、中国东南沿海以外的群岛命名为“*Las Filipinas*”，成为“[菲律宾](/zh-sg/%E8%8F%B2%E5%BE%8B%E5%AE%BE)”名称的由来
+    - 腓力二世总共继承了下列领地：西班牙、尼德兰、[西西里](/zh-sg/%E8%A5%BF%E8%A5%BF%E9%87%8C%E5%B2%9B "西西里岛")与[那不勒斯](/zh-sg/%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF)、[弗朗什孔泰](/zh-sg/%E5%BC%97%E6%9C%97%E4%BB%80-%E5%AD%94%E6%B3%B0)、[米兰](/zh-sg/%E7%B1%B3%E5%85%B0 "米兰")及全部西属[美洲](/zh-sg/%E7%BE%8E%E6%B4%B2)和[非洲](/zh-sg/%E9%9D%9E%E6%B4%B2)殖民地

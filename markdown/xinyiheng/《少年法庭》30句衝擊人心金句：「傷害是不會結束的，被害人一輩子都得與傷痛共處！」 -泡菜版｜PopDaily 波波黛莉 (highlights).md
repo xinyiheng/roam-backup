@@ -1,0 +1,5 @@
+- Full Title:: 《少年法庭》30句衝擊人心金句：「傷害是不會結束的，被害人一輩子都得與傷痛共處！」 -泡菜版｜PopDaily 波波黛莉
+- Category:: #articles
+- URL:: [🔗](https://www.popdaily.com.tw/forum/korea/1237051)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 若想取下對方的首級，我們至少要犧牲一條手臂啊

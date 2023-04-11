@@ -1,0 +1,5 @@
+- Full Title:: 柠檬、拍卖和互联网算法 短评
+- Category:: #articles
+- URL:: [🔗](https://book.douban.com/subject/30483399/comments/)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 应该说作者达到了最初的目的。用最直白的语言介绍二战后经济学理论的发展，主要是信息经济学这一块，各章之间虽然介绍的是不同经济学家的不同获奖理论，却具有极强的连续性和逻辑连贯性。但同时因为经济学的数学化，导致语言的描述仍然不能够揭示其全貌，显得略微晦涩，而要求读者具有相关的知识背景。

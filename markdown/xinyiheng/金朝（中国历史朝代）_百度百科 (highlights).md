@@ -1,0 +1,5 @@
+- Full Title:: 金朝（中国历史朝代）_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E9%87%91%E6%9C%9D/889740)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 金朝采行[五京制](/item/%E4%BA%94%E4%BA%AC%E5%88%B6/9637472?fromModule=lemma_inlink)，共有中都大兴府、上京会宁府、[南京开封府](/item/%E5%8D%97%E4%BA%AC%E5%BC%80%E5%B0%81%E5%BA%9C?fromModule=lemma_inlink)、北京大定府、[东京辽阳府](/item/%E4%B8%9C%E4%BA%AC%E8%BE%BD%E9%98%B3%E5%BA%9C?fromModule=lemma_inlink)和[西京大同府](/item/%E8%A5%BF%E4%BA%AC%E5%A4%A7%E5%90%8C%E5%BA%9C?fromModule=lemma_inlink)，其中后三个陪都就在辽的中京大定府、东京辽阳府和西京大同府的原址。

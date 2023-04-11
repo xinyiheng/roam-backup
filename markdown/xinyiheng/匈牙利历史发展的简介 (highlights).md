@@ -1,0 +1,5 @@
+- Full Title:: 匈牙利历史发展的简介
+- Category:: #articles
+- URL:: [🔗](https://www.sohu.com/a/134106112_501385)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 匈牙利国家的形成起源于东方游牧民族──马扎儿人游牧部落，公元9世纪时他们从乌拉山西麓和伏尔加河湾一带向西迁徙，公元896年在多瑙河盆地定居下来。

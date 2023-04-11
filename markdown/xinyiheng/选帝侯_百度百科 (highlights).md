@@ -1,0 +1,6 @@
+- Full Title:: 选帝侯_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E9%80%89%E5%B8%9D%E4%BE%AF/1556347)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 这一制度从13世纪中实行，一直到1806年帝国灭亡为止。初期有七个选帝侯，实行这项制度五百余年。1356年，[查理四世](/item/%E6%9F%A5%E7%90%86%E5%9B%9B%E4%B8%96/9816436?fromModule=lemma_inlink)皇帝颁布了《[黄金诏书](/item/%E9%BB%84%E9%87%91%E8%AF%8F%E4%B9%A6/5457489?fromModule=lemma_inlink)》，以诏书的形式，确认皇帝由选帝侯选举产生，并规定了具体的程序。七个选帝侯，包括三个教会选侯-科隆大主教、[美因茨大主教](/item/%E7%BE%8E%E5%9B%A0%E8%8C%A8%E5%A4%A7%E4%B8%BB%E6%95%99/23301582?fromModule=lemma_inlink)、特里尔大主教，和四个世俗选侯莱茵-普法尔茨伯爵、萨克森-维腾堡公爵、[勃兰登堡藩侯](/item/%E5%8B%83%E5%85%B0%E7%99%BB%E5%A0%A1%E8%97%A9%E4%BE%AF/379508?fromModule=lemma_inlink)与波希米亚国王。
+    - 原选帝侯国的纹徽在德国均被传承下来，用来当作现今的州徽或城徽。最典型的一个例子是[莱茵兰-普法尔茨州](/item/%E8%8E%B1%E8%8C%B5%E5%85%B0-%E6%99%AE%E6%B3%95%E5%B0%94%E8%8C%A8%E5%B7%9E?fromModule=lemma_inlink)的州徽。因该州在历史上有三个选帝侯国：特里尔、[美因茨](/item/%E7%BE%8E%E5%9B%A0%E8%8C%A8/30171?fromModule=lemma_inlink)和[普法尔茨](/item/%E6%99%AE%E6%B3%95%E5%B0%94%E8%8C%A8?fromModule=lemma_inlink)，故该州的州徽即由这三个选帝侯国的纹徽三合一组成。

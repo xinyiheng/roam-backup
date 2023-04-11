@@ -1,0 +1,5 @@
+- Full Title:: 此国只有一千多年的历史，却历经过三个帝国和一个共和国_百科ta说
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/tashuo/browse/content?id=2abb8e964a617cf70d4f18e8&lemmaId=677929&fromLemmaModule=pcBottom&lemmaTitle=%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD&fromModule=lemma_bottom-tashuo-article)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 919年，萨克森公爵亨利一世当选为东法兰克王国的国王，建立萨克森王朝，创立德意志国家，这才是严格意义上的德意志历史的开始。

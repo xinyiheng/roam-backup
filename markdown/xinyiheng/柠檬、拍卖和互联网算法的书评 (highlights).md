@@ -1,0 +1,6 @@
+- Full Title:: 柠檬、拍卖和互联网算法的书评
+- Category:: #articles
+- URL:: [🔗](https://book.douban.com/subject/30483399/reviews)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 经济学家发现的最佳的拍卖方式是维克里拍卖。
+    - 维克里拍卖就是“第二价密封拍卖”：出价最高的人支付的价格是第二名的报价，而不是自己的报价。一旦竞拍成功，卖方能够得到的金额是否会受到影响，取决于前两名竞拍者的出价有多大的差距。维克里拍卖的目标就是：愿意付多少钱，就出多少价

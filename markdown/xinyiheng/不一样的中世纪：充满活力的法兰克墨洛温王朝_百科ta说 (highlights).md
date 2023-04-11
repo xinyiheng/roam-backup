@@ -1,0 +1,5 @@
+- Full Title:: 不一样的中世纪：充满活力的法兰克墨洛温王朝_百科ta说
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/tashuo/browse/content?id=427d0d5ad995d1c9065bcc64&lemmaId=1176021&fromLemmaModule=pcBottom&lemmaTitle=%E6%B3%95%E5%85%B0%E5%85%8B%E7%8E%8B%E5%9B%BD&fromModule=lemma_bottom-tashuo-article)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 我们绝不是说墨洛温王朝不罗马化，但它的罗马化程度比不上东西哥特王国，反而让它较少沾上晚期罗马的腐朽特质。比起实行采邑制的加洛林帝国，墨洛温王朝实行王室集权，拥有更加强劲的中央权威，贵族们需要通过宫廷战争而夺取权势。事实上，加洛林家族正是通过攫取宫相地位掌握王朝大权，而非在地方不断扩大封地，来对墨洛温王朝取而代之的。显然，这种宫廷斗争远多于地方贵族混战的权力争夺形式，正是中央集权的罗马帝国的特点。

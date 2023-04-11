@@ -1,0 +1,5 @@
+- Full Title:: 草原帝国
+- Category:: #articles
+- URL:: [🔗](http://book.douban.com/subject/1057653/)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 你是否能够设想，汉武帝对匈奴的远征最后导致了西罗马帝国的覆灭，而唐太宗消灭西突厥最后的后果是产生了奥斯曼土耳其？当然，还有成吉思汗的伟大遗产，他间接地缔造了今天的俄罗斯。

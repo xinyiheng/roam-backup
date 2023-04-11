@@ -1,0 +1,5 @@
+- Full Title:: 宁城县_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E5%AE%81%E5%9F%8E%E5%8E%BF/7611548?fromModule=lemma_inlink)
+- ### Highlights first synced by #Readwise [[April 11th, 2023]]
+    - 辽代设中京大定府（今县内大明城），作为辽代中、后期国都，成为当时北方政治、经济、文化中心。金代将中京大定府改为北京。
