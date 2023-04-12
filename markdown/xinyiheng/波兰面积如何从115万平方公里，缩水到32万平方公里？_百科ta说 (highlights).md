@@ -1,0 +1,6 @@
+- Full Title:: 波兰面积如何从115万平方公里，缩水到32万平方公里？_百科ta说
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/tashuo/browse/content?id=0973544b891c8f26d67cdc06&lemmaId=296443&fromLemmaModule=pcBottom&lemmaTitle=%E6%B3%A2%E5%85%B0%E7%AB%8B%E9%99%B6%E5%AE%9B%E8%81%94%E9%82%A6&fromModule=lemma_bottom-tashuo-article)
+- ### Highlights first synced by #Readwise [[April 13th, 2023]]
+    - 波兰立陶宛王国四面扩张，领土最大时曾包括今立陶宛首都维尔纽斯、波兰首都华沙、白罗斯首都明斯克、乌克兰首都基辅。1610年，波兰立陶宛的军队开进莫斯科，虽然不算占领，驻军是没错了。1650年极盛时期，波兰立陶宛王国疆域面积达到约115.35万平方公里，是今天波兰的3.58倍。迅猛扩张的波兰立陶宛王国，遭到邻国联合打击，不过遭到瓜分前，领土也有73.35万平方公里，仍是东欧大国。
+    - 1772年、1793年、1795年，沙俄、普鲁士、奥地利三国共同出兵，三次瓜分波兰立陶宛王国。第一次瓜分后，波兰还剩52.23万多平方公里；第二次瓜分后，波兰还剩21.5万多平方公里；第三次瓜分后，波兰就没有领土了。

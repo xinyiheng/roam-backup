@@ -1,0 +1,5 @@
+- Full Title:: 威廉一世（德意志帝国皇帝）_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E5%A8%81%E5%BB%89%E4%B8%80%E4%B8%96/7594557)
+- ### Highlights first synced by #Readwise [[April 13th, 2023]]
+    - 威廉一世少年时期从军参加反拿破仑战争，中年时残酷镇压了护宪运动，号称屠夫霰弹亲王。他继承普鲁士王位后改革军制，经过三次[王朝战争](/item/%E7%8E%8B%E6%9C%9D%E6%88%98%E4%BA%89/16328048?fromModule=lemma_inlink)而一统德意志，建立德意志帝国。他死后因为自身统一德意志的伟大成就，被其孙[威廉二世](/item/%E5%A8%81%E5%BB%89%E4%BA%8C%E4%B8%96/2731987?fromModule=lemma_inlink)尊为大帝，号称威廉大帝（William the great）。

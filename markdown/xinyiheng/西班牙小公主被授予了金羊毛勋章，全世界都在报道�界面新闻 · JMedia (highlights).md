@@ -1,0 +1,5 @@
+- Full Title:: 西班牙小公主被授予了金羊毛勋章，全世界都在报道|界面新闻 · JMedia
+- Category:: #articles
+- URL:: [🔗](https://www.jiemian.com/article/3861258.html)
+- ### Highlights first synced by #Readwise [[April 13th, 2023]]
+    - 金羊毛勋章项链是由黄金绵羊垂饰和镶嵌燧石的黄金链组成，在项链的镂空部位呈现出代表着勃艮第（Burgundy）“B”的造型。项链的正面刻有骑士团的格言：“Pretium Laborum Non Vile”（辛劳必得回报），反面刻有菲利普三世的格言：“Non Aliud”（不从他人）。

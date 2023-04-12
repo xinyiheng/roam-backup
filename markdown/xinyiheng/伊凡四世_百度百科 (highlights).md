@@ -1,0 +1,5 @@
+- Full Title:: 伊凡四世_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E4%BC%8A%E5%87%A1%E5%9B%9B%E4%B8%96/1082096?fromModule=lemma_inlink)
+- ### Highlights first synced by #Readwise [[April 13th, 2023]]
+    - 在1547-1552年的远征中灭亡了喀山汗国（[喀山攻城战](/item/%E5%96%80%E5%B1%B1%E6%94%BB%E5%9F%8E%E6%88%98/22589003?fromModule=lemma_inlink)），这是俄罗斯历史上重大的转折点，标志着从此以后俄罗斯力量强于鞑靼人的力量，为俄罗斯越过[乌拉尔山脉](/item/%E4%B9%8C%E6%8B%89%E5%B0%94%E5%B1%B1%E8%84%89?fromModule=lemma_inlink)吞并地域辽阔的[西伯利亚](/item/%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9A?fromModule=lemma_inlink)扫平了道路。

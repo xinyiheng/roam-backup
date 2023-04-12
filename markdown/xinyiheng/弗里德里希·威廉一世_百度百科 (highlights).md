@@ -1,0 +1,7 @@
+- Full Title:: 弗里德里希·威廉一世_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%A8%81%E5%BB%89%E4%B8%80%E4%B8%96/22877432)
+- ### Highlights first synced by #Readwise [[April 13th, 2023]]
+    - 弗里德里希·威廉一世身高二米有余，体重一百多公斤，平时暴饮暴食，烟瘾极大。他于1740年5月31日在[柏林](/item/%E6%9F%8F%E6%9E%97?fromModule=lemma_inlink)去世，终年51岁。
+    - 弗里德里希·威廉一世施行极端的[军国主义](/item/%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89?fromModule=lemma_inlink)政策。他大大加重赋税，把普鲁士军队从3.8万人增加至8.3万人（占人口的百分之四），由此普鲁士成为欧洲第三军事强国。弗里德里希·威廉一世在位时，与[奥地利](/item/%E5%A5%A5%E5%9C%B0%E5%88%A9?fromModule=lemma_inlink)、[英国](/item/%E8%8B%B1%E5%9B%BD/144602?fromModule=lemma_inlink)关系冷淡，只与法国结盟。弗里德里希·威廉一世的普鲁士参加了反对瑞典霸权的[大北方战争](/item/%E5%A4%A7%E5%8C%97%E6%96%B9%E6%88%98%E4%BA%89?fromModule=lemma_inlink)，但所得甚微。只是由于[彼得大帝](/item/%E5%BD%BC%E5%BE%97%E5%A4%A7%E5%B8%9D?fromModule=lemma_inlink)的[俄罗斯帝国](/item/%E4%BF%84%E7%BD%97%E6%96%AF%E5%B8%9D%E5%9B%BD?fromModule=lemma_inlink)打败了瑞典，弗里德里希·威廉一世得到了直到[奥得河](/item/%E5%A5%A5%E5%BE%97%E6%B2%B3/2079248?fromModule=lemma_inlink)河口的[波美拉尼亚](/item/%E6%B3%A2%E7%BE%8E%E6%8B%89%E5%B0%BC%E4%BA%9A?fromModule=lemma_inlink)。弗里德里希·威廉一世是一位性格严厉、穷兵黩武的战士国王，他以极其粗暴的军人作风对待臣民，把军事训练的严酷推向极至，创立了“服从、服从、再服从”的“普鲁士精神”。这为普鲁士日后的扩张准备了坚实的军队和经济基础。弗里德里希·威廉一世时期普鲁士军纪严格，校阅军队成了他最大的消遣。
+    - 1719年，他解放自己领地上的所有农奴，废除世袭租佃制度。他提倡重商主义，发展工业。由于弗里德里希·威廉一世对王储弗里茨过分苛刻，禁止他接触法国文学、拉丁文和音乐，反对儿子与英国王室联姻，经常对儿子进行体罚，造成了父子关系紧张。1730年弗里茨企图逃亡英国未遂，被捕，弗里茨的同伙被处决，自己也险些丧命。

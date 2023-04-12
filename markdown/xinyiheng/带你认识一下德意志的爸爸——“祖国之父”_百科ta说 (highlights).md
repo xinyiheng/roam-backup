@@ -1,0 +1,6 @@
+- Full Title:: 带你认识一下德意志的爸爸——“祖国之父”_百科ta说
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/tashuo/browse/content?id=16fee1f3a49090c735babf4d&lemmaId=67146&fromLemmaModule=pcBottom&lemmaTitle=%E5%A5%A5%E6%89%98%E4%B8%80%E4%B8%96&fromModule=lemma_bottom-tashuo-article)
+- ### Highlights first synced by #Readwise [[April 13th, 2023]]
+    - 如果非要说从什么时候开始定义德国历史的开端，那大概就是从被后人称为“祖国之父”的奥托大帝吧。
+    - 在加冕后不久，奥托大帝就与教皇签订了《奥托特权协定》，规定教皇要忠于皇帝，教皇由皇帝任命，并通过联姻获得了东罗马帝国的承认。这一系列的举动，使得中世纪凌驾于一切世俗权力之上的教权开始屈居于王权之下，就连神也不得不在权力之下被控制——然而这仅限于战功赫赫的奥托大帝在位期间，奥托死后不到一个世纪，欧洲就掀起了教俗之争的浪潮，教权与王权相互倾轧，争夺不休
