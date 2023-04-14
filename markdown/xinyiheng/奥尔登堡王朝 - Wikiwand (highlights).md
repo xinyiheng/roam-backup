@@ -1,0 +1,5 @@
+- Full Title:: 奥尔登堡王朝 - Wikiwand
+- Category:: #articles
+- URL:: [🔗](https://www.wikiwand.com/zh/%E5%A5%A5%E5%B0%94%E7%99%BB%E5%A0%A1%E7%8E%8B%E6%9C%9D)
+- ### Highlights first synced by #Readwise [[April 14th, 2023]]
+    - 今天奥尔登堡王朝最著名的成員有英国国王[查爾斯三世](/zh/查爾斯三世 "查爾斯三世")和[西班牙](/zh/西班牙 "西班牙")的王后索菲亞。

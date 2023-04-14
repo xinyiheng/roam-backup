@@ -1,0 +1,5 @@
+- Full Title:: 一位只喜欢男人的英国国王，为此折了情人丢了皇位_百科ta说
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/tashuo/browse/content?id=71260de10c7f44fc91d3133b&fromModule=tashuo-article_tashuo-tab-item)
+- ### Highlights first synced by #Readwise [[April 14th, 2023]]
+    - 他还是第一位在牛津和剑桥创办学院的国王，他还下令印制精美的诗集和福音书。不过这些对于一个连自己王位都保不住的国王而言一钱不值。

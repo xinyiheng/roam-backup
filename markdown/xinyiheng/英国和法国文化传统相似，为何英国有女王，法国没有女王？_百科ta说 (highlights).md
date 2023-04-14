@@ -1,0 +1,6 @@
+- Full Title:: 英国和法国文化传统相似，为何英国有女王，法国没有女王？_百科ta说
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/tashuo/browse/content?id=fbc778d5b62e0c1876e1a5f7&lemmaId=9098899&fromLemmaModule=pcBottom&lemmaTitle=%E6%B3%95%E5%9B%BD%E5%9B%BD%E7%8E%8B&fromModule=lemma_bottom-tashuo-article)
+- ### Highlights first synced by #Readwise [[April 14th, 2023]]
+    - 为了回避《萨利克法典》，1384年，波兰女王玛丽亚在继承王位时，只能玩起文字游戏，宣称自己是国王，而非女王。
+    - 《萨利克法典》由法国墨洛温王朝的创始人克洛维一世颁布，源于萨利克部族中通行的各种习惯法，因而得名。《萨利克法典》规定，女儿不得继承父亲留下的土地，只能属于男性。法国贵族据此引申为，女性没有王位的继承权。
