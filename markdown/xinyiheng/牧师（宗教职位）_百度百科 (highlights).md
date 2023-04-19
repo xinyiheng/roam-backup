@@ -1,0 +1,5 @@
+- Full Title:: 牧师（宗教职位）_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E7%89%A7%E5%B8%88/27121?fromModule=lemma_sense-layer)
+- ### Highlights first synced by #Readwise [[April 20th, 2023]]
+    - 神甫（父）与牧师不同。神甫（父）是罗马天主教的宗教职位，千百年来只有男性才可担当此职位，而且他们终身皆不可结婚，近年有天主教改革派人物曾倡导容许由女性担任神甫（父），但被教会内的保守派拒绝。而牧师可以结婚，女性亦可以成为牧师。

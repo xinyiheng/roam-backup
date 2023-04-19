@@ -1,0 +1,5 @@
+- Full Title:: 早春时节花朵优雅的银莲花，喜欢冷凉的环境，特别怕炎热_百科ta说
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/tashuo/browse/content?id=4a78326fca93fe4f2e1086d3&lemmaId=14215&fromLemmaModule=pcBottom&lemmaTitle=%E9%93%B6%E8%8E%B2%E8%8A%B1&fromModule=lemma_bottom-tashuo-article)
+- ### Highlights first synced by #Readwise [[April 20th, 2023]]
+    - 银莲花的花苞还没打开的时候，看起来像郁金香花朵，花朵完全打开后，又有点像虞美人。它是一种植株低矮的草本植物，花杆也不高。在春季的时候就开花特别灿烂，适合在冷凉的环境下栽种。

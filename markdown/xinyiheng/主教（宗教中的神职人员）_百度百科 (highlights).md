@@ -1,0 +1,5 @@
+- Full Title:: 主教（宗教中的神职人员）_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E4%B8%BB%E6%95%99/65724)
+- ### Highlights first synced by #Readwise [[April 20th, 2023]]
+    - 主教的礼仪服饰为表明主教的职务与地位，在礼仪中，均有特别的标志：礼服、高冠、权杖、权戒、小圆帽。礼服因身份层级不同，颜色就不同。（1）教宗：着白色，又称白衣主教。（2）枢机主教：着红色，又称红衣主教。（3）总主教、主教：着紫色，又称紫衣主教。

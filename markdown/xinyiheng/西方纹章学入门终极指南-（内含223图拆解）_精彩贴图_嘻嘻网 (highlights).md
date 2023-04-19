@@ -1,0 +1,6 @@
+- Full Title:: 西方纹章学入门终极指南-（内含223图拆解）_精彩贴图_嘻嘻网
+- Category:: #articles
+- URL:: [🔗](http://m.news.xixik.com/content/78496731ba71f34c/)
+- ### Highlights first synced by #Readwise [[April 20th, 2023]]
+    - 在纹章学中，区别标记（Label）是一种类似挂在战马胸前挂着吊坠的带子符号。
+    - 冠饰（Crown）这个装饰部位在纹章学中很重要，纹章中不同的冠，代表着的等级也不同。虽然每个国家冠饰图案看起来有的类似，但实际上各不相同。

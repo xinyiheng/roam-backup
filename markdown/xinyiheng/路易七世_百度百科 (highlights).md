@@ -1,0 +1,5 @@
+- Full Title:: 路易七世_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E8%B7%AF%E6%98%93%E4%B8%83%E4%B8%96?fromModule=lemma_inlink)
+- ### Highlights first synced by #Readwise [[April 20th, 2023]]
+    - 路易与埃莉诺离婚。埃莉诺转嫁给安茹伯爵亨利，当亨利于1154年成为英格兰国王[亨利二世](/item/%E4%BA%A8%E5%88%A9%E4%BA%8C%E4%B8%96/9816015?fromModule=lemma_inlink)时，阿基坦也一道落入英国王室（金雀花王朝）手中。路易曾两次与亨利作战，未能夺回领地。此后卡佩王朝与金雀花王朝的争斗就从未终止。

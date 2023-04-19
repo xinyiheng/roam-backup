@@ -1,0 +1,6 @@
+- Full Title:: 银莲花，一曲爱情的悲歌_百科ta说
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/tashuo/browse/content?id=936cd571099054d061412aa7&fromModule=tashuo-article_tashuo-tab-item)
+- ### Highlights first synced by #Readwise [[April 20th, 2023]]
+    - 以色列将银莲花誉为是国花，这对银莲花来说是一种莫大的殊荣与肯定。
+    - 银莲花的别名是风花、复活节花。银莲花的花朵打开的时候是因为有风的吹拂，所以它又被称之为风花；另外，在西方银莲花又象征着复活节，因此它又被誉为复活节花。银莲花是在每年的4月至7月开花，其花色有白色的或者是淡粉色的，呈卵形。
