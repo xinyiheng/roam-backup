@@ -1,0 +1,5 @@
+- Full Title:: 一切都不是偶然！乌克兰的“沧桑”历史，其实一直都是在“风中摇曳”。-腾讯新闻
+- Category:: #articles
+- URL:: [🔗](https://view.inews.qq.com/k/20221017A07RTU00?no-redirect=1&web_channel=wap&openApp=false)
+- ### Highlights first synced by #Readwise [[May 3rd, 2023]]
+    - 过乌克兰加入苏联后，过得并不好！特别是1932至1933年发生的苏联大饥荒，乌克兰是受灾最严重的地区，没有之一。据不完全统计：乌克兰人在苏联大饥荒中的死亡人数保守估计在250万到480万之间。而这场大饥荒，也让乌克兰人在情感上对俄罗斯人发生了大的裂痕。德军入侵苏联时，在乌克兰地区，甚至发生了民众夹道欢迎德国侵略者的“盛况”。
