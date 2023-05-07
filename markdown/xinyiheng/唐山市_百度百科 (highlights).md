@@ -1,0 +1,6 @@
+- Full Title:: 唐山市_百度百科
+- Category:: #articles
+- URL:: [🔗](https://baike.baidu.com/item/%E5%94%90%E5%B1%B1%E5%B8%82?fromModule=lemma_search-box)
+- ### Highlights first synced by #Readwise [[May 8th, 2023]]
+    - 唐山是中国[评剧](/item/%E8%AF%84%E5%89%A7/334034?fromModule=lemma_inlink)的发源地，素有“[冀东三支花](/item/%E5%86%80%E4%B8%9C%E4%B8%89%E6%94%AF%E8%8A%B1/1948740?fromModule=lemma_inlink)”之称的[皮影](/item/%E7%9A%AE%E5%BD%B1/1152663?fromModule=lemma_inlink)、[评剧](/item/%E8%AF%84%E5%89%A7/334034?fromModule=lemma_inlink)、[乐亭大鼓](/item/%E4%B9%90%E4%BA%AD%E5%A4%A7%E9%BC%93/802699?fromModule=lemma_inlink)，为国家级非物质文化遗产。
+    - 唐山因[唐太宗](/item/%E5%94%90%E5%A4%AA%E5%AE%97?fromModule=lemma_inlink)李世民东征[高句丽](/item/%E9%AB%98%E5%8F%A5%E4%B8%BD/181650?fromModule=lemma_inlink)驻跸而得名，素有“[北方瓷都](/item/%E5%8C%97%E6%96%B9%E7%93%B7%E9%83%BD/10009281?fromModule=lemma_inlink)”之称，是[省域副中心城市](/item/%E7%9C%81%E5%9F%9F%E5%89%AF%E4%B8%AD%E5%BF%83%E5%9F%8E%E5%B8%82/4364171?fromModule=lemma_inlink)

@@ -1,0 +1,5 @@
+- Full Title:: 兴城古城 - 维基百科，自由的百科全书
+- Category:: #articles
+- URL:: [🔗](https://zh.wikipedia.org/wiki/%E5%85%B4%E5%9F%8E%E5%8F%A4%E5%9F%8E)
+- ### Highlights first synced by #Readwise [[May 8th, 2023]]
+    - **兴城古城**位于中国[辽宁省](/wiki/%E8%BE%BD%E5%AE%81%E7%9C%81 "辽宁省")[兴城市](/wiki/%E5%85%B4%E5%9F%8E%E5%B8%82 "兴城市")，古称**宁远**，是现存最完整的明代卫城
