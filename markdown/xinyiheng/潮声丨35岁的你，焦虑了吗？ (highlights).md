@@ -1,0 +1,5 @@
+- Full Title:: 潮声丨35岁的你，焦虑了吗？
+- Category:: #articles
+- URL:: [🔗](https://tianmunews.com/news.html?id=2385952)
+- ### Highlights first synced by #Readwise [[May 16th, 2023]]
+    - 说到35岁“中国式中年”，人们又到底在关注和讨论些什么呢？笔者梳理盘点了下全网有关35岁的讨论，无外乎集中在婚育、职场和政策三个领域。
