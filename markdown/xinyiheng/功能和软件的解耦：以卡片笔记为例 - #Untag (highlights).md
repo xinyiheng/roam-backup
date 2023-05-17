@@ -1,0 +1,5 @@
+- Full Title:: 功能和软件的解耦：以卡片笔记为例 - #Untag
+- Category:: #articles
+- URL:: [🔗](https://utgd.net/article/20159)
+- ### Highlights first synced by #Readwise [[May 18th, 2023]]
+    - 一段连贯的文章，全然不同于个人博学的炫耀、个人思绪的流水账，也不是个人笔记的发表版本。——[美]史蒂芬·平克：《风格感觉》
