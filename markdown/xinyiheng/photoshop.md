@@ -1,0 +1,4 @@
+- [06 Photoshop平面设计软件（功能、界面、核心操作） - YouTube](https://www.youtube.com/watch?v=12r3DyOiHps) 
+- #[[关联概念]]
+    - [[illustrator]]
+    - [[InDesign]]
