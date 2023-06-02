@@ -20,11 +20,7 @@ Publication）的简称。这东西主要是为图书馆服务的，是一种检
 
 
 https://zhuanlan.zhihu.com/p/23148309 [Email Body](https://files.todoist.com/Ip9gUo-xrrUwGOT7JWORspUG4blGZ1tJreVnBr3FkT2I7WSoJ6uY0HbJKellr7xo/by/21878347/as/file.html)
-    - 国家新闻出版署_百度百科
+    - 国家新闻出版署
         - Annotations:
-
-* 中国机构编制网（中央编制委员会办公室）尚未公布国家新闻出版署的职能配置、内设机构和人员编制规定。
-
-
-
+中国机构编制网（中央编制委员会办公室）尚未公布国家新闻出版署的职能配置、内设机构和人员编制规定。
 https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%E7%BD%B2/24621068 [Email Body](https://files.todoist.com/8zo1ZNLS-N_KH7z7F7anlYIKb6OlUSGuQH26xHhIudMVGaeK4cveYjud5zuwjgm5/by/21878347/as/file.html)
