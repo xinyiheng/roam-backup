@@ -1,6 +1,15 @@
+- ### cache
+    - [[memo]]
+        - lastCompletedDate:: June 6th, 2023
 - ### data
     - The scholar's greatest weakness: calling procrastination research — Stephen King Share 
 #[[memo]]
+        - [[June 6th, 2023]] 🔵
+            - nextDueDate:: [[December 16th, 2023]]
+            - eFactor:: 2.68
+            - interval:: 193
+            - repetitions:: 6
+            - grade:: 4
         - [[March 2nd, 2023]] 🟢
             - nextDueDate:: [[May 31st, 2023]]
             - eFactor:: 2.68
@@ -38,6 +47,12 @@
             - repetitions:: 0
             - grade:: 2
     - 有些很棒的工作流程和软件功能设置好之后就以为自己已经也做到很棒了，这真是一种愚蠢的错觉。#[[memo]]
+        - [[June 6th, 2023]] 🔵
+            - nextDueDate:: [[November 23rd, 2023]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 170
+            - repetitions:: 6
+            - grade:: 4
         - [[February 19th, 2023]] 🟢
             - nextDueDate:: [[May 6th, 2023]]
             - eFactor:: 2.8000000000000003
@@ -69,6 +84,12 @@
             - repetitions:: 1
             - grade:: 5
     - roam memo加入的内容太多的话确实会roam变得很卡顿。如果每天复习的内容超过100个，那么daily note打开速度明显就会变慢。虽然很舍不得，但我还是把它删除了。间隔复习还是要做，看看怎么实现吧。先开始做起来再改进。这个插件还可以使用，但要注意每天添加的内容不能太多。#[[memo]] 
+        - [[June 6th, 2023]] 🔵
+            - nextDueDate:: [[October 13th, 2023]]
+            - eFactor:: 2.6
+            - interval:: 129
+            - repetitions:: 6
+            - grade:: 4
         - [[February 19th, 2023]] 🔵
             - nextDueDate:: [[April 22nd, 2023]]
             - eFactor:: 2.6

@@ -1,23 +1,14 @@
 - Imported Quick Capture items:
     - 阿塞拜疆 - 维基百科，自由的百科全书
     - 阿塞拜疆 - 维基百科，自由的百科全书
-        - Annotations:
-
-* “阿塞拜疆”这个地名原指伊朗阿塞拜疆，而现在的“阿塞拜疆”国名是在1918年的阿塞拜疆民主共和国时期第一次使用[29]，此后沿用至今。当时用此名称命名还得到伊朗政府的反对和抗议。
-
-
-
-http://zh.wikipedia.org/wiki/%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86 [Email Body](https://files.todoist.com/G1FakcztsABGNxZZv1wVQTy__cueMHzTW8u6k7mOr7aw8ukHI_jmpIgLfUT8Edic/by/21878347/as/file.html)
+        - “阿塞拜疆”这个地名原指伊朗阿塞拜疆，而现在的“阿塞拜疆”国名是在1918年的阿塞拜疆民主共和国时期第一次使用，此后沿用至今。当时用此名称命名还得到伊朗政府的反对和抗议。
+        - (https?://\S+) 
     - 巴克特里亚 - 维基百科，自由的百科全书
         - Annotations:
 
 * 巴克特里亚 （巴克特里亚语：βαχλο, Bakhlo；希腊语：Βακτριανα；波斯语：بـلـخ‎；亦有译巴克垂亚）是一个中亚古地名，主要指阿姆河以南，兴都库什以北地区。古希腊人在此地建立希腊-巴克特里亚王国，中国史记称之为大夏[1]，后来此地更名为吐火罗。
 
 * 巴克特里亚主要为今日阿富汗北部、塔吉克南部和乌兹别克东南部所组成，这辽阔的地区经常随著统治者不同，而有些改变。这是一个多山的地区，温和的气候，和充沛的雨量，也是伊朗许多部落的家园。
-
-
-
-https://zh.wikipedia.org/zh-hans/%E5%B7%B4%E5%85%8B%E7%89%B9%E9%87%8C%E4%BA%9E [Email Body](https://files.todoist.com/UWl_RdGZp3BSHZIN_G6cfrTuFbkobndZ9UrPapCm7s5pxEGKOSFGd57i8dRXc4Kx/by/21878347/as/file.html)
     - 中亚几个国家总是发生冲突？都是因为这块富饶的费尔干纳盆地_百科TA说
         - Annotations:
 
@@ -36,16 +27,10 @@ https://zh.wikipedia.org/zh-hans/%E5%B7%B4%E5%85%8B%E7%89%B9%E9%87%8C%E4%BA%9E [
 https://baike.baidu.com/tashuo/browse/content?id=84a16c8960ec6c4bf93dde7b&lemmaId=10806087&fromLemmaModule=pcRight&lemmaTitle=%E8%B4%B9%E5%B0%94%E5%B9%B2%E7%BA%B3%E7%9B%86%E5%9C%B0&fromModule=lemma_right-
 tashuo-article [Email Body](https://files.todoist.com/h-NCRCgnUSKptofkmwJ06fQU60g_xWbyHD1Rel3phmc4RdfT_ehQrVKaidVhjfeV/by/21878347/as/file.html)
     - 七河地区 - 《中国大百科全书》第三版网络版
-        - Annotations:
-
-* 七条河流是天山、巴尔喀什湖、伊塞克湖之间，源自天山冰川积雪融水、汇入巴尔喀什湖的伊犁河、卡拉塔尔河、毕也姆河、阿克苏河、列普瑟河、巴斯干河、阿亚古斯河。毕也姆河和巴斯干河现已干涸，仅余五河。或认为七河地区也包含未汇入巴尔喀什湖的楚河和纳伦河流域。七河哈萨克语为Jetisý或Жетісу，俄语为Семире́чье，英语为Zhetysu或Jeti-Suu，源自突厥语，意思均为七条河流。七河地区大致包括了今哈萨克斯坦境内的阿拉木图州、江布尔州及吉尔吉斯斯坦北部。
-
-七河地区在历史上曾为草原游牧区，多属游牧族群聚居地。中国秦代时属于塞人，秦汉之际月氏西迁击败塞人占有七河地区，西汉时乌孙击败月氏，�
-�有该地，建都伊塞克湖畔的赤谷城，直到魏晋时期。南北朝时，北匈奴移居该地，史称悦般，后属突厥。唐朝时在该地筑碎叶城（今吉尔吉斯斯坦托克马克），设镇与州县管辖。中唐时，葛逻禄部逐渐西迁七河，晚唐时回鹘西迁，与葛逻禄部融合建立喀喇汗国，立都八剌沙衮。金时契丹西迁建立西辽，建都该地的虎思斡鲁朵城。元时属窝阔台汗国，后属察合台汗国、东察合台汗国。明末清初属准噶尔汗国，18世纪中叶清军平定准噶尔，七河地区隶属于清朝伊犁将军辖区。1864年中俄签署《中俄勘分西北界约记》后，七河地区大部割属俄罗斯，成为沙俄土耳克斯坦总督区七河州辖域。1991年苏联解体后，七河地区划归哈萨克斯坦。
-
-
-
-https://www.zgbk.com/ecph/words?SiteID=1&ID=525950&Type=bkzyb [Email Body](https://files.todoist.com/0i903484PTeBuRzkfKhAt1N-hKGZVkwq5EEnpxp0eap6VVi7e1DMJYmGrblVVLqE/by/21878347/as/file.html)
+        - 七条河流是天山、巴尔喀什湖、伊塞克湖之间，源自天山冰川积雪融水、汇入巴尔喀什湖的伊犁河、卡拉塔尔河、毕也姆河、阿克苏河、列普瑟河、巴斯干河、阿亚古斯河。毕也姆河和巴斯干河现已干涸，仅余五河。或认为七河地区也包含未汇入巴尔喀什湖的楚河和纳伦河流域。七河哈萨克语为Jetisý或Жетісу，俄语为Семире́чье，英语为Zhetysu或Jeti-Suu，源自突厥语，意思均为七条河流。七河地区大致包括了今哈萨克斯坦境内的阿拉木图州、江布尔州及吉尔吉斯斯坦北部。
+        - 七河地区在历史上曾为草原游牧区，多属游牧族群聚居地。中国秦代时属于塞人，秦汉之际月氏西迁击败塞人占有七河地区，西汉时乌孙击败月氏，�
+        - �有该地，建都伊塞克湖畔的赤谷城，直到魏晋时期。南北朝时，北匈奴移居该地，史称悦般，后属突厥。唐朝时在该地筑碎叶城（今吉尔吉斯斯坦托克马克），设镇与州县管辖。中唐时，葛逻禄部逐渐西迁七河，晚唐时回鹘西迁，与葛逻禄部融合建立喀喇汗国，立都八剌沙衮。金时契丹西迁建立西辽，建都该地的虎思斡鲁朵城。元时属窝阔台汗国，后属察合台汗国、东察合台汗国。明末清初属准噶尔汗国，18世纪中叶清军平定准噶尔，七河地区隶属于清朝伊犁将军辖区。1864年中俄签署《中俄勘分西北界约记》后，七河地区大部割属俄罗斯，成为沙俄土耳克斯坦总督区七河州辖域。1991年苏联解体后，七河地区划归哈萨克斯坦。
+        - https://www.zgbk.com/ecph/words?SiteID=1&ID=525950&Type=bkzyb (https://files.todoist.com/0i903484PTeBuRzkfKhAt1N-hKGZVkwq5EEnpxp0eap6VVi7e1DMJYmGrblVVLqE/by/21878347/as/file.html)
     - 七河地区_百度百科
         - Annotations:
 

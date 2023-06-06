@@ -2,4 +2,4 @@
 - Category:: #articles
 - URL:: [🔗](https://book.douban.com/subject/36221918/)
 - ### Highlights first synced by #Readwise [[May 18th, 2023]]
-    - 用目的引导思维，而非思维引导目的。
+    - 用{c1:目的}引导思维，而非思维引导{c1:目的}。#[[srs/cloze]]
