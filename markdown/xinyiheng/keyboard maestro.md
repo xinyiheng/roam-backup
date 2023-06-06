@@ -1,5 +1,6 @@
 - 我是如何使用keyboard maestro从mac电脑不同的位置向[[Roam Research]]搬运内容并自动生成链接的？@评论:受到[[john15263]]设计的little john的启发。
-    - 实现了终极完美的阅读笔记功能，可以在浏览器阅读，把选中的内容直接复制到[[Roam Research]]中，然后还带着url链接。主要使用的软件是[[keyboard maestro]]，只使用了一点简单的[[Applescript]]脚本。#[[软件联动]]用[[BetterTouchTool]]设置了在[[触控板]]双指向左滑动就可以启动的#[[快捷方式]]然后还带着url链接。最困难的部分是怎样在roam research当中新建一个条目，最初的想法是用keyboard maestro当中的find image and click 的功能，这样准确率还可以，但是很难提高到100%。我后来想到可以查看roam resaerch当中的快捷键，发现有一个快捷方式可以快速跳转到最新的一个条目，一下豁然开朗。可以用模拟某个软件快捷按键的方式来实现很多功能。
+    - 实现了终极完美的阅读笔记功能，可以在浏览器阅读，把选中的内容直接复制到
+[[Roam Research]]中，然后还带着url链接。主要使用的软件是[[keyboard maestro]]，只使用了一点简单的[[Applescript]]脚本。#[[软件联动]]用[[BetterTouchTool]]设置了在[[触控板]]双指向左滑动就可以启动的#[[快捷方式]]然后还带着url链接。最困难的部分是怎样在roam research当中新建一个条目，最初的想法是用keyboard maestro当中的find image and click 的功能，这样准确率还可以，但是很难提高到100%。我后来想到可以查看roam resaerch当中的快捷键，发现有一个快捷方式可以快速跳转到最新的一个条目，一下豁然开朗。可以用模拟某个软件快捷按键的方式来实现很多功能。
 #[[阅读管理]]
         - 用法示例
             - 在[[得到电子书]]app网页版阅读书籍
@@ -25,6 +26,7 @@
                 - 这样的好处是可以永久保留网页。对于比较重要的网页可以取用这种方式。
             - 现在还可以在[[Marginnote]]阅读
 - 有很多mac中目前使用的打开软件的#[[快捷方式]]
+- 该软件使用的正则表达式为ICU正则表达式 [ICU 正则表达式 - IBM 文档](https://www.ibm.com/docs/zh/iad/7.2.1?topic=configuration-icu-regular-expressions)
 - triger里选择palette也有好处，我之前很少使用这种功能。
 - ### 如何把双击control键作为触发条件？
     - 为了方便唤起alfred，我把alfred搜索的触发键从双击control键转换为了 control+option+command+h，但是我又不像放弃原来的触发体验，所以用keiboard maestrol设置了一个快捷键，用双击contro触发control+option+command+h 🗒@评论:缺点是只能在外接键盘上使用，无法在内置键盘上使用。
