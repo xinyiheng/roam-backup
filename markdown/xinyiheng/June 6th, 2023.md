@@ -15,4 +15,4 @@ https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7jLgK3rbx6pNg
 
 
 https://www.douban.com/note/683257703/?_i=6018697gbuxlsi [Email Body](https://files.todoist.com/FO8Igkqo-_JLcwikVuSjx01DusxbIY6rzGxZerHexx4P2TeGD3gx3YTbNCu-fVRr/by/21878347/as/file.html)
-- #[[工具]] 
+- #[[工具]] apple vision pro上市，会是新一代颠覆性的电子设备吗？
