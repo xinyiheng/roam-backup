@@ -1,11 +1,7 @@
 - Imported Quick Capture items:
-    - “英国版光绪”理查二世，纵使一手好牌也打个稀烂，这到底怪谁？_百科TA说
-        - Annotations:
-    - 理查一面要解决国内外的棘手势力，还要为百年战争带来的高昂军费“擦屁股”。在继位之后，他的智囊团立即下令征收人头税，这种税费一般要经过议会或御前会议同意，是一种在特殊情况下才能开征的紧急税。然而，这次国王并没有经过臣民的统一，而且人头税一征就是三年起步，直闹得老百姓民意沸腾。因为当时的欧洲正流行过恐怖的黑死病，农民的生产和生活刚刚恢复正常。征收重税是于情于理都不合适的。
-    - https://baike.baidu.com/tashuo/browse/content?id=aa3243d229c59b1aa52f983e&fromModule=tashuo-
-    - article_tashuo-tab-item [Email Body](https://files.todoist.com/yocN8baxIbSHyw8NdsWriAUNitMSIKkNW-wM4gwmXZt79kUUrKNU3EKnAyNx-f7K/by/21878347/as/file.html)
-    - 该国独立向外借了两任国王，一个流亡，一个死亡成迷_百科TA说
-        - Annotations:
-    - 1913年3月18日，乔治一世被一个叫亚历山大·希纳斯从背后开枪打死。这名凶手声称国王拒绝给他钱，他才开枪射击的。随后希腊政府出面说解释，打死国王的希纳斯是一个醉汉和流浪者，但也有人认为并没有这样简单，至此乔治一世死亡成百年之谜。希腊百年前两借国王，两任国王都未善终。不过乔治一世的儿子康斯坦丁继位后，成为希腊末代国王。后来康斯坦丁下台后，希腊成为一个非君主制国家。
-    - https://baike.baidu.com/tashuo/browse/content?id=eba29de2a5f59cc00214e005&lemmaId=10495036&fromLemmaModule=pcBottom&lemmaTitle=%E4%B9%94%E6%B2%BB%E4%B8%80%E4%B8%96&fromModule=lemma_bottom-
-    - tashuo-article [Email Body](https://files.todoist.com/tkMIg9ajlPejCTBuKQ9wIP45m2cOSfEtarZMtRiDBFTU9C2-uUbEG7waQ6MinHJA/by/21878347/as/file.html)
+    - “英国版光绪”理查二世，纵使一手好牌也打个稀烂，这到底怪谁？
+        - 理查一面要解决国内外的棘手势力，还要为百年战争带来的高昂军费“擦屁股”。在继位之后，他的智囊团立即下令征收人头税，这种税费一般要经过议会或御前会议同意，是一种在特殊情况下才能开征的紧急税。然而，这次国王并没有经过臣民的统一，而且人头税一征就是三年起步，直闹得老百姓民意沸腾。因为当时的欧洲正流行过恐怖的黑死病，农民的生产和生活刚刚恢复正常。征收重税是于情于理都不合适的。
+        - [原文链接](https://baike.baidu.com/tashuo/browse/content?id=aa3243d229c59b1aa52f983e&fromModule=tashuo-article_tashuo-tab-item)
+    - 该国独立向外借了两任国王，一个流亡，一个死亡成迷
+        - 1913年3月18日，乔治一世被一个叫亚历山大·希纳斯从背后开枪打死。这名凶手声称国王拒绝给他钱，他才开枪射击的。随后希腊政府出面说解释，打死国王的希纳斯是一个醉汉和流浪者，但也有人认为并没有这样简单，至此乔治一世死亡成百年之谜。希腊百年前b两借国王，两任国王都未善终。不过乔治一世的儿子康斯坦丁继位后，成为希腊末代国王。后来康斯坦丁下台后，希腊成为一个非君主制国家。
+        - [原文链接](https://baike.baidu.com/tashuo/browse/content?id=eba29de2a5f59cc00214e005&lemmaId=10495036&fromLemmaModule=pcBottom&lemmaTitle=%E4%B9%94%E6%B2%BB%E4%B8%80%E4%B8%96&fromModule=lemma_bottom-tashuo-article)

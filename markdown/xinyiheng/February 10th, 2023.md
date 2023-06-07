@@ -302,37 +302,16 @@ https://baike.baidu.com/item/%E4%BA%A8%E5%88%A9%E4%B8%83%E4%B8%96/9483474 [Email
 
 https://baike.baidu.com/item/%E7%88%B1%E5%BE%B7%E5%8D%8E%E5%85%AD%E4%B8%96/4402915 [Email Body](https://files.todoist.com/S2n0bXXE2trjfGkAH0rK0fiSuhdSVUwNdlbmCTe6Xtew7bziEsg2CKE9xh8BaCwE/by/21878347/as/file.html)
 - Imported Quick Capture items:
-    - 隆庆皇帝有多低调？在位仅六年，却把世界一半的白银都赚回来了_朱载_嘉靖_明朝
-        - Annotations:
-
-* 以明朝最低调的一个皇帝来说，在位仅仅六年的时间，不仅将全世界一半的白银都赚回来，甚至还让整个明朝的发展往后推移了数十年。如果不是因为他，或许整个明朝都早就灭亡在万历皇帝的手里面了。
-
-而他便是明世宗嘉靖皇帝的第三个儿子明穆宗隆庆皇帝，在位期间，解决南倭北虏，帮助国家发展欣欣向荣。
-
-
-
-https://www.sohu.com/a/583833157_121180648 [Email Body](https://files.todoist.com/j7DmzBhtNVkMaVQowv-UIOYtaNf2LLK7XRbNvkEuDWWtc0CU5euCLL8wPkD4h0Tp/by/21878347/as/file.html)
-    - 查理五世（法兰西国王）_百度百科
-        - Annotations:
-
-* 查理五世（英明的）（法语：Charles V le Sage，1337年1月21日—1380年9月16日），法兰西瓦卢瓦王朝第三位国王（1364年—1380年在位）。他逆转了百年战争第一阶段的战局，使法国得以复兴。 [1]
-
-查理五世是好人约翰二世之子。1356年英格兰人在普瓦捷战役中俘虏了他的父亲约翰二世，查理五世遂成为国家的摄政者。事实证明他比父亲称职得多。
-
-
-
-https://baike.baidu.com/item/%E6%9F%A5%E7%90%86%E4%BA%94%E4%B8%96/14005?structureClickId=14005&structureId=6a0cd5ee244d63440288957b&structureItemId=db3f0c114fb066d5057ca713&lemmaFrom=starMapContent&fromModule=starMap_content [Email Body](https://files.todoist.com/8If8P1NNeQzMHH5HlbpSCwO-_YIGIGepCQxHGN-IgNG9QEoSjAyGt3p-ymAdDFWd/by/21878347/as/file.html)
-    - 约翰二世（法兰西国王）_百度百科
-        - Annotations:
-
-* 约翰二世（法语：Jean II，1319年4月16日—1364年4月8日），号称“好人约翰”（法语：Jean le Bon）。腓力六世与勃艮第的让娜之子，1319年生于法国勒芒。法兰西瓦卢瓦王朝第二位国王。
-
-约翰二世掌权后，法国正在面临诸多问题：令本国损失近一半人口的黑死病；法国北部爆发的扎克雷起义；雇佣兵对国土的劫掠。英格兰的侵略更是让法国的军力遭受灾难性的打击，最著名的是1356年普瓦捷之战，约翰二世在这场战役中被俘。
-
-在约翰二世被英国囚禁期间，王太子查理（即日后的查理五世）成为摄政并且镇压了多次叛乱。为了解救他的父亲，他签订了布勒丁尼和约，为此法国付出了大量领土和赎金的代价。在一次交换人质的行动中，约翰二世的三个儿子代替国王成为人质，国王则被放回国募集赎金。在他返回
-法国之前，他发行了法郎来稳定币值；并且与教皇沟通，试图发起一次十字军东征来摆脱雇佣兵对国家的劫掠。但教皇英诺森六世的死让这一切成为徒劳。1363年，代替他作人质的王子路易一世逃脱了英国的监禁，回国仅三年的约翰二世得知后自愿返回英格兰重新做了囚犯，这一举动让他得到了“好人”的称号。1364年，约翰二世死于伦敦索威宫（Savoy
-Palace），王太子查理五世即位。
-
-
-
-https://baike.baidu.com/item/%E7%BA%A6%E7%BF%B0%E4%BA%8C%E4%B8%96/8557796?structureClickId=8557796&structureId=6a0cd5ee244d63440288957b&structureItemId=4ca32cfe485cf9053540f6b2&lemmaFrom=starMapContent&fromModule=starMap_content [Email Body](https://files.todoist.com/FkiJ175xzixG7itlX0_N42bU5w1bDpkMsnmyWW97MMQIQ_xoALnTjX6Zi_4H-AQT/by/21878347/as/file.html)
+    - 隆庆皇帝有多低调？在位仅六年，却把世界一半的白银都赚回来了
+        - 以明朝最低调的一个皇帝来说，在位仅仅六年的时间，不仅将全世界一半的白银都赚回来，甚至还让整个明朝的发展往后推移了数十年。如果不是因为他，或许整个明朝都早就灭亡在万历皇帝的手里面了。
+        - 而他便是明世宗嘉靖皇帝的第三个儿子明穆宗隆庆皇帝，在位期间，解决南倭北虏，帮助国家发展欣欣向荣。)
+        - [原文链接](https://www.sohu.com/a/583833157_121180648)
+    - 查理五世（法兰西国王）
+        - 查理五世（英明的）（法语：Charles V le Sage，1337年1月21日—1380年9月16日），法兰西瓦卢瓦王朝第三位国王（1364年—1380年在位）。他逆转了百年战争第一阶段的战局，使法国得以复兴。
+        - 查理五世是好人约翰二世之子。1356年英格兰人在普瓦捷战役中俘虏了他的父亲约翰二世，查理五世遂成为国家的摄政者。事实证明他比父亲称职得多。
+        - [原文链接](https://baike.baidu.com/item/%E6%9F%A5%E7%90%86%E4%BA%94%E4%B8%96/14005?structureClickId=14005&structureId=6a0cd5ee244d63440288957b&structureItemId=db3f0c114fb066d5057ca713&lemmaFrom=starMapContent&fromModule=starMap_content)
+    - 约翰二世（法兰西国王）
+        - 约翰二世（法语：Jean II，1319年4月16日—1364年4月8日），号称“好人约翰”（法语：Jean le Bon）。腓力六世与勃艮第的让娜之子，1319年生于法国勒芒。法兰西瓦卢瓦王朝第二位国王。
+        - 约翰二世掌权后，法国正在面临诸多问题：令本国损失近一半人口的黑死病；法国北部爆发的扎克雷起义；雇佣兵对国土的劫掠。英格兰的侵略更是让法国的军力遭受灾难性的打击，最著名的是1356年普瓦捷之战，约翰二世在这场战役中被俘。
+        - 在约翰二世被英国囚禁期间，王太子查理（即日后的查理五世）成为摄政并且镇压了多次叛乱。为了解救他的父亲，他签订了布勒丁尼和约，为此法国付出了大量领土和赎金的代价。在一次交换人质的行动中，约翰二世的三个儿子代替国王成为人质，国王则被放回国募集赎金。在他返回法国之前，他发行了法郎来稳定币值；并且与教皇沟通，试图发起一次十字军东征来摆脱雇佣兵对国家的劫掠。但教皇英诺森六世的死让这一切成为徒劳。1363年，代替他作人质的王子路易一世逃脱了英国的监禁，回国仅三年的约翰二世得知后自愿返回英格兰重新做了囚犯，这一举动让他得到了“好人”的称号。1364年，约翰二世死于伦敦索威宫（Savoy Palace），王太子查理五世即位。
+        - [原文链接](https://baike.baidu.com/item/%E7%BA%A6%E7%BF%B0%E4%BA%8C%E4%B8%96/8557796?structureClickId=8557796&structureId=6a0cd5ee244d63440288957b&structureItemId=4ca32cfe485cf9053540f6b2&lemmaFrom=starMapContent&fromModule=starMap_content)
