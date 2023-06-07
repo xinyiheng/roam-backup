@@ -1,1 +1,0 @@
-- Imported Quick Capture items:
