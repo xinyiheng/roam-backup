@@ -115,23 +115,8 @@
         - 1618年6月26日，当时神圣罗马帝国境内有390个公国、侯国、宗教贵族领地、自由邦、自由城市、骑士领地等。对于哈布斯堡奥地利在帝国内部重振皇权政策的反感，以及因为宗教改革造成的占诸侯大多数的新教诸候对天主教皇帝的敌视，最终引发了三十年战争。三十年战争使得德意志地区的经济倒退了近200年，犹如回到了农奴制的封建时代；又因为《威斯特伐利亚和约》，神圣罗马帝国内的诸侯可享有自主权。这使得皇权进一步的被削弱，帝国境内的诸侯各自为政，他们的领地有如一个独立的王国。
         - [原文链接](https://baike.baidu.com/item/%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD/677929)
     - 为什么伏尔泰要说神圣罗马帝国是 既不神圣，也不罗马，更非帝国_百科TA说
-        - Annotations:
-
-* 一说起神圣罗马帝国，很自然的想到了伏尔泰最著名的那句话“既不神圣，也不罗马，更非帝国”。既然神圣罗马在欧洲历史上能够存在那么久，而且在不少时候还是有很大实力的。甚至以此为依据，将神圣罗马帝国贬低得一文不值。 
-
-
-
-https://baike.baidu.com/tashuo/browse/content?id=a2db9e0a98a1a8f4eeb77735&fromModule=tashuo-
-article_tashuo-tab-item [Email Body](https://files.todoist.com/5vGAX4cdW4EzEawMp5aRlPjsKCoM_0FVnLTXrgZT9klhFXBUiZ54gzFvICYL7Eu-/by/21878347/as/file.html)
-    - 哈布斯堡王朝（欧洲历史王朝）_百度百科
-        - https://baike.baidu.com/item/%E5%93%88%E5%B8%83%E6%96%AF%E5%A0%A1%E7%8E%8B%E6%9C%9D/436058 [Email Body](https://files.todoist.com/wJWold1dVaG2F0-EYXT7b6aMHXyZwFSHl8bYHfaQeZtSPRYbIrSRasfMCX5xkSaC/by/21878347/as/file.html)
-    - 十字军东征（中古欧洲历史事件）_百度百科
-        - https://baike.baidu.com/item/%E5%8D%81%E5%AD%97%E5%86%9B%E4%B8%9C%E5%BE%81/14290 [Email Body](https://files.todoist.com/SW-LPClQXiYcBnrJowV5StBEB_VGfCPdFQ1SmY8NTBG-NB7gKgrt-1CBctYGWdaN/by/21878347/as/file.html)
+        - 一说起神圣罗马帝国，很自然的想到了伏尔泰最著名的那句话“既不神圣，也不罗马，更非帝国”。既然神圣罗马在欧洲历史上能够存在那么久，而且在不少时候还是有很大实力的。甚至以此为依据，将神圣罗马帝国贬低得一文不值。 
+        - [原文链接](https://baike.baidu.com/tashuo/browse/content?id=a2db9e0a98a1a8f4eeb77735&fromModule=tashuo-article_tashuo-tab-item)
     - 欧洲民族大迁徙_百度百科
-        - Annotations:
-
-* 欧洲民族大迁徙是一个4到7世纪间，由匈人（Huns）入侵欧洲大陆所触发的一连串民族迁徙运动；在西方历史研究中，这段约四百年的时期，称为“民族大迁徙时期”（The Migration Period）。
-
-
-
-https://baike.baidu.com/item/%E6%AC%A7%E6%B4%B2%E6%B0%91%E6%97%8F%E5%A4%A7%E8%BF%81%E5%BE%99/3410083 [Email Body](https://files.todoist.com/pOemJve_yx0DoAp8Fej4sPKQA8YNpT2Y4ZJmcv1BqFLfJwY2nhx9Rs0H321Shu03/by/21878347/as/file.html)
+        - 欧洲民族大迁徙是一个4到7世纪间，由匈人（Huns）入侵欧洲大陆所触发的一连串民族迁徙运动；在西方历史研究中，这段约四百年的时期，称为“民族大迁徙时期”（The Migration Period）。
+        - [原文链接](https://baike.baidu.com/item/%E6%AC%A7%E6%B4%B2%E6%B0%91%E6%97%8F%E5%A4%A7%E8%BF%81%E5%BE%99/3410083)
