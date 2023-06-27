@@ -74,13 +74,8 @@
 
 https://baike.baidu.com/item/%E9%AB%98%E5%8D%A2/3153836 [Email Body](https://files.todoist.com/MglkD23aHNMfYGMkoDnsFLcZskU38EqPuSB79WcrEZ3mZayel2dzNRaHKSS9wIUe/by/21878347/as/file.html)
     - 草原帝国 (豆瓣)
-        - Annotations:
-
-* 你是否能够设想，汉武帝对匈奴的远征最后导致了西罗马帝国的覆灭，而唐太宗消灭西突厥最后的后果是产生了奥斯曼土耳其？当然，还有成吉思汗的伟大遗产，他间接地缔造了今天的俄罗斯。
-
-
-
-http://book.douban.com/subject/1057653/ [Email Body](https://files.todoist.com/lRplivzlqgI7VmBP1e31oyNeYgrdox23dRj1ka-XHZwc-9YN7TvLuMMggWoE_7-d/by/21878347/as/file.html)
+        - 你是否能够设想，汉武帝对匈奴的远征最后导致了西罗马帝国的覆灭，而唐太宗消灭西突厥最后的后果是产生了奥斯曼土耳其？当然，还有成吉思汗的伟大遗产，他间接地缔造了今天的俄罗斯。
+        - [原文链接](http://book.douban.com/subject/1057653/)
     - 图文解读欧洲行政和地理，高清地图可收藏 
         - [原文链接](https://zhuanlan.zhihu.com/p/483049351)
     - 法国的精神象征，为什么是“高卢雄鸡”？
