@@ -78,23 +78,13 @@ https://www.sohu.com/a/593445513_516458 [Email Body](https://files.todoist.com/J
 
 https://book.douban.com/subject/3900547/ [Email Body](https://files.todoist.com/8IfKIxyEbMzTpOunuh4Yh8bnRfhAAg9oSrsQsBr69URh6KUZwVGd7zblg128oJCM/by/21878347/as/file.html)
     - 阿里云的各种产品都是干什么的？ - 知乎
-        - Annotations:
-
-* ## 阿里云四大件
-
-分类说比较好理解，先说阿里云的明星产品四大件吧，即云服务器ECS、云数据库RDS、负载均衡SLB和对象存储OSS。
-
-* 负载均衡SLB
-
-负载均衡SLB：对多台云服务器进行流量分发服务。为了应对业务需求，企业往往会有多台云服务器提供服务器，负载均衡就是将用户的请求按照企业自定义的策略转发到最优的服务器。
-
-* 对象存储OSS
-
-如果企业静态文件较多（图片、视频等大文件），可以将大量的存储内容转移独立出来，放到对象存储OSS里面。
-
-
-
-https://www.zhihu.com/question/24795126 [Email Body](https://files.todoist.com/ukErzCjTOPTTkRtKbfd0G29z5ZXcB4S2s05D2YrBbCfur_dZkVNwomtH-MMsJHG-/by/21878347/as/file.html)
+        - ## 阿里云四大件
+        - 分类说比较好理解，先说阿里云的明星产品四大件吧，即云服务器ECS、云数据库RDS、负载均衡SLB和对象存储OSS。
+        - 负载均衡SLB
+        - 负载均衡SLB：对多台云服务器进行流量分发服务。为了应对业务需求，企业往往会有多台云服务器提供服务器，负载均衡就是将用户的请求按照企业自定义的策略转发到最优的服务器。
+        - 对象存储OSS
+        - 如果企业静态文件较多（图片、视频等大文件），可以将大量的存储内容转移独立出来，放到对象存储OSS里面。
+        - [原文链接](https://www.zhihu.com/question/24795126)
     - 模型思维 短评
         - Annotations:
 
