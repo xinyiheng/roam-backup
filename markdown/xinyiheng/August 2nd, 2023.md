@@ -1,0 +1,52 @@
+- Imported Quick Capture items:
+    - DX格式和FX格式 - 技术 2023
+        - Annotations:
+
+* 尼康DX格式是一种大约24 x 16毫米的图像传感器格式。它是由尼康创建的，作为其数码单反相机的一大特色，其中许多都标配有DX尺寸的传感器。这种格式的尺寸约为标准35毫米格式的2/3。
+
+* 全画幅数码单反相机（最广为人知的是尼康FX格式）是数码单反相机（或数码单反相机）。它配备了一个与标准35毫米相机胶片相同尺寸的图像传感器。
+
+
+
+https://cn.weblogographic.com/difference-between-dx-format-and-fx-format-6888 [Email Body](https://files.todoist.com/w0YZ976skgS4KMVRF4EY6GhoIYuvHT0bST_Hy_joX4FKDD1T_f9b6rEZ50Il90d4/by/21878347/as/file.html)
+    - 单反摄影小白入门 No.2焦距、等效焦距、视角、透视 - 知乎
+        - Annotations:
+
+* 在单反摄影中指的是镜头中心点到感光器平面的距离（镜片中心到底片或CCD等成像平面的距离），这个概念也不是很重要，大家就记住焦距决定了你拍摄照片时候的视角就可以了。
+
+* 那么等效焦距和焦距又有什么区别呢？要介绍等效焦距，首先要介绍一下传感器的种类，大致有：全画幅、APS-H，APS-C、M4/3、1英寸等，这里我们主要全画幅和APS-C（残画幅），这两种也是比较常见的。
+
+* 如果是全画幅相机，那镜头的焦距等于等效焦距，而对于APS-C相机，等效焦距是镜头的焦距乘以焦距转换系数，一般来说尼康和索尼是镜头焦距X1.5，佳能是镜头焦距X1.6，比如一个50mm的镜头，用全画幅拍摄就是50mm的焦距，但是如果是尼康和索尼的APS-C单反就相当于（50*1.5）=75mm，佳能的APS-C单反相当于（50*1.6）=80mm。
+
+* 焦距的数字越小，视角越宽，也就是说取景越宽，画面中物体，人，风景越多，但是每个角色在画面中的面积就越小。
+
+焦距的数字越大，视角越窄，也就是说取景越窄，画面中物体，人，风景越少，但是每个角色在画面中的面积就越大。
+
+
+
+https://zhuanlan.zhihu.com/p/35336515 [Email Body](https://files.todoist.com/rGdLYbRT6agU9kC8Wmj-6Kena10I1OTzAipTzX6pmaUTZGxOei2kRtO3867dTkvF/by/21878347/as/file.html)
+    - 单反、微单镜头基础知识：不懂镜头，就永远拍不出好照片 - 知乎
+        - Annotations:
+
+* 现在一些超大光圈可以做到1，甚至0.95，而最常用的则是1.4和1.8,后面依次是2.0、2.8、4、5.6、8、11、16、22等。数值越小光圈越大，光圈越大，则进光量越大，背景虚化效果也越好，对焦难度也越大。不过光圈越大，暗光条件拍摄就越好，可以获得更好的曝光，可以降低快门速度，可以降低ISO数值，可以获得更纯净更优质的画质。
+
+* 第五则是镜头卡口：不同的品牌都有自己的卡口标准，比如说尼康微单是Z卡口，而佳能微单则是RF卡口，卡口大小和规格都不一样，所以不能直接互相通用，当然有些可以通过转接环来变径，不过最好用口径匹配的镜头。
+
+
+
+https://zhuanlan.zhihu.com/p/462040887 [Email Body](https://files.todoist.com/Zen2YK73L5zOswPsN6azzbxJmMe-oGlXkTRwWuMpN6veuklsbj83zS9czzGSWnC_/by/21878347/as/file.html)
+    - 相机画幅究竟是什么，全画幅和半画幅有什么区别 - 知乎
+        - Annotations:
+
+* 目前，相机的区分总体上来讲是按照画幅来区分，大致分为：  
+1、大画幅，用生命描写世界的感觉，骨灰级玩家。  
+2、中画幅，哈苏、飞思、富士，多用于商业摄影，对画质要求极高。  
+3、全画幅，我们通常说的135画幅就是它。  
+4、APS-C画幅，就是半画幅，多用于入门机型。  
+5、M43画幅，富士、奥林巴斯还有生产。  
+6、一英寸，常见于卡片机、摄像机。  
+再小就是我们手机的感光元件了。
+
+
+
+https://zhuanlan.zhihu.com/p/36878963 [Email Body](https://files.todoist.com/KstW_HVrSSNWlYbpM4JI933ffl2wQA9gKHGyXIlEXo8DbpZi3c2nOBWlf05rQKwl/by/21878347/as/file.html)
