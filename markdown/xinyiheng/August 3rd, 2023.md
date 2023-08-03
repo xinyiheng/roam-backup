@@ -1,0 +1,105 @@
+- 
+- Imported Quick Capture items:
+    - 不是MP，这是手机摄像头的重要参数|传感器|相机|像素|mp_网易订阅
+        - Annotations:
+
+* 尽管品牌不断宣传其MP编号，但它们对图像质量的贡献不大。实际上，新的传感器尺寸是确定照片质量的参数之一。
+
+
+
+https://www.163.com/dy/article/FARS87F005457AHB.html [Email Body](https://files.todoist.com/9y1UY1UQweXGDJm3FKpi_mE4QYn1JS-yJ_7UEvB5dSouC9Qyr-N1ccwFfBGTr78d/by/21878347/as/file.html)
+    - 调色名词浅析——相机的 Log 模式 - 知乎
+        - Annotations:
+
+* 最近各个相机以及摄像机厂商纷纷推出了 Log 模式拍摄视频的功能，灰蒙蒙（低对比度、低饱和度）色调的原片成为了主流。
+
+* Log 模式的原片也进入了小成本视频制作团队的视线，大部分都是套一个原厂 Log 转 Rec.709 的 LUT 了事，其实 Log 模式还有更多调色空间。
+
+* 尼康也有类似于 Log 的函数，不过在尼康系统里称为 Flat，在 Nikon D810 以及以后的机型会支持这种格式，上一下曲线图：
+
+* 大疆也拥有自家的 Log 曲线，称之为 D-Log
+
+* 各位看官，看到这里，见了这么多不一样的灰，想必也是感觉“眼前的黑不是黑，你说的白是什么白。”
+
+
+
+https://zhuanlan.zhihu.com/p/35537490 [Email Body](https://files.todoist.com/OwAJFb6xgCruBcbGpjaxDrgCNzFMHXpxI3Fcx6vM22tDagshQGOZO99PSVsVqh1b/by/21878347/as/file.html)
+    - 【摄影器材】买镜头时你知道镜头也有画幅的区别吗？_感光
+        - Annotations:
+
+* 数码时代感光原件通常是CCD和CMOS（晕了是不，知道就行，不必记住），而现在几乎以CMOS为主。不论是CCD还是CMOS，都是将通过镜头接收到的光信号转化为电信号。
+
+
+
+https://www.sohu.com/a/322245124_784145 [Email Body](https://files.todoist.com/RRVy48mSWAohFm-KgqLSgPFdRLlZih8IegnCm_r1BoR6VBm0wsKTLYpucIWz_8nb/by/21878347/as/file.html)
+    - 什么是log？log有哪些优势？以索尼s-log为例 - 哔哩哔哩
+        - Annotations:
+
+* Log摄影对拍摄难以把控曝光的被摄体是非常有利的。例如拍摄逆光场景、光线较强的人像作品时，Log摄影可以将我们以往不得不舍弃的云层和天空的细节得到保留，甚至可以将人像的影子和高光部分都能表现出来。从风景到人像细节都可以得到很好的保留，这应该是谁都可以直观的感受到的Log摄影的优点了吧
+
+* 观察使用Log拍摄的影像，看起来饱和度较低，原因是使用709规格的监视器再现广色域条件下拍摄的素材，由于无法显示所有的拍摄颜色而产生的特有现象。毫无疑问，最终图像是采用709规格生成的。但是，若能利用比709拥有更多色彩信息进行影像记录，那么在摄影完成后的编辑过程中，就能利用丰富的色彩信息进行编辑。
+
+* Log与RAW的概念  
+在包括静态图像在内的影像数据中，细节保留最丰富的格式是RAW格式。如果仅能拍摄一张静态作品，包括卡片机在内的大部分相机都可以实现使用RAW格式记录。拍摄重要的图像时，可以利用RAW格式记录。不过，由于利用RAW格式拍摄时，其数据量非常庞大，所以很难实现利用RAW格式拍摄视频。相对RAW格式，Log正好是一种充分考虑“怎样将大量信息保留”的摄影手法。  
+
+* 使用3D LUT，用709规格简单再现色彩  
+
+使用Log摄影时，为在709规格的监视器上再现图像，摄影完成后必须进行色彩编辑(调色)。此时使用的就是LUT*5(Look Up
+Table)。最近，LUT多用于表示将拍摄的Log素材一次性转换为709规格图像的数据，原先表示各种各样的转换表格。为了在各色域中实现复杂的色彩变换，三维的LUT成为当今主流，被称为3D
+LUT。对于初学者而言，若不使用LUT处理已拍摄的Log影像，而是采用色调曲线或色相、饱和度等二维方法进行色彩编辑，将难以立即在709规格的色域范围内进行显示，而使用LUT将使这一过程变得简单。
+
+
+
+https://www.bilibili.com/read/cv444264/ [Email Body](https://files.todoist.com/aNHTfJ14pVW_nr2V4QNkHvmaoXYZTZe3WD3MHyPYbGiKmex9lS6vf4G8kk591xzl/by/21878347/as/file.html)
+    - What is Rec.709? Things You Must Know!! — Qazi & Co • Color Grading Studio
+        - Annotations:
+
+* 
+
+
+https://waqasqazi.com/blog/what-is-rec709-things-you-must-know [Email Body](https://files.todoist.com/0t1hMCi_NZAYvF2P6q76cmwO49u2F7uysNO6jIjy9JY6NrVA-gpLzbiwsSRUYqC9/by/21878347/as/file.html)
+    - 浅谈显示器色域：从sRGB到广色域 - 知乎
+        - Annotations:
+
+*   *   *   *   * 上图对大部分人而言可能很陌生，但是只要换一个角度去看，把视角改为俯视，就能看到我们最熟悉的色域图(图2)。
+
+* 图2中的三角形只是图1的立体图形在平面中的投影，至于那个灰色的“大饼”，则是全色域，是人眼能够感知到的所有色彩的集合。没想到吧？sRGB色域比全色域小那么多。
+
+* 灰色三角形的面积远大于sRGB对应的白色三角形面积，假如灰色三角形面积是白色三角形面积的120%，那我们就说，该显示器拥有120% sRGB【色域容积】。
+
+显然，【色域容积】和【色域覆盖率】是两个不同的概念，【色域容积】就算达到了120%甚至150%，其sRGB【色域覆盖率】可能依然不到100%。如果某个显示器的sRGB覆盖率不到100%，那必然有一些基于sRGB的颜色无法被这款显示器显示出来，也就是说，它的色彩是有缺失的。
+
+
+
+https://zhuanlan.zhihu.com/p/166413369 [Email Body](https://files.todoist.com/vaQwdfnc8c0v-aAMB0Tz_CZw_FzUBOqg5Pn2psl5AQCeLqE0DBWKwnVKb_5VCXgb/by/21878347/as/file.html)
+    - 互联网前夜的微光：从布什的《如我们所想》，到泰德·尼尔森的上都计划 - 少数派
+        - Annotations:
+
+* 「我们的图书馆已经爆满，知识不断地呈现指数级增长，然而就在这个庞大的知识宝库中，我们仍然在使用马车时代的方法寻找需要的材料。」
+
+这句话是一个叫做万尼瓦尔·布什的人，在1955年说的。
+
+* 1940年6月12日，他递给总统罗斯福一张纸条，上面用短短四段话表明了目的：建立一个「国防研究委员会」。10分钟之后，罗斯福在纸上批了两个单词：「可以，罗斯福。」
+
+这张字条改写了美国乃至世界通信的历史。
+
+科学家卢米斯曾说：「如果说1940年夏天，谁的死亡会对美国造成最大损失的话，第一位是总统，布什博士排在第二。」
+
+* 布什帮助国家赢得了战争，却一直没有忘记自己的梦想：用机器减轻人类思考的负担。
+
+战争结束之后，布什把一篇文章投给了《大西洋月刊》，1945年6月，这篇传世之作正式发表，名字叫做《如我们所想》（As We May
+Think）。三个月后，《生活》（Life）杂志刊登了这篇文章的精简配图版。
+
+* 文章的核心内容是「信息」，布什讨论了信息激增带来的问题，介绍了传统查阅信息的技术，并且设想了一种未来的设备，他给这台设备起了个名字，叫做Memex。
+
+
+
+https://sspai.com/post/79224 [Email Body](https://files.todoist.com/gC95BZKz_agHEdBcClPz0M9RyE3SWp2wX_7OQ72_KHcAfe9HzuBkFZxMtkw0W40S/by/21878347/as/file.html)
+    - Memex Explained: Everything You Need to Know - History-Computer
+        - Annotations:
+
+* The word memex came from combining portions of the words (mem)ory and (ex)tender.
+
+
+
+https://history-computer.com/memex-guide/ [Email Body](https://files.todoist.com/VA5J5F5AOhPt7eHg0tEv9RJywrUap4A5Bx9CtWK5aTpLr5ELJSNsD2-LVjOzxbGn/by/21878347/as/file.html)
