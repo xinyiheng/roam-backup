@@ -1,7 +1,7 @@
 - Author:: [[くすり]]
 - Full Title:: Lists、Moments 和 Collection ：我的 Twitter 工作流 | 2016 与我的数字生活 - 少数派
 - Category:: #articles
-- Document Tags:: #[[twitter]]
+- Document Tags:: #[[Twitter]]
 - URL:: https://sspai.com/post/37475
 - ### Highlights first synced by #Readwise [[January 22nd, 2023]]
     - Collection 网址形如：
@@ -11,13 +11,13 @@
 
 
 你看，它实际上就被定义为一个特殊的 timeline ，你可以自己选择什么出现在上面，什么不出现，并将它分享或自用。当然，我是锁了自己的推的，所以这个 Collection 对我来说更像是一个爱豆相关的备忘录，但它还可以有更多的用途。
-    - Collection 是个很特殊的功能，你甚至不能在 Twitter Help Center 中找到它的身影，它几乎只出现在 Twitter Developer Documentation 页面。我使用它，是因为它和 Tweetdeck 配合得几乎天衣无缝。
+    - Collection 是个很特殊的功能，你甚至不能在 [[Twitter]] Help Center 中找到它的身影，它几乎只出现在 [[Twitter]] Developer Documentation 页面。我使用它，是因为它和 Tweetdeck 配合得几乎天衣无缝。
 
 
-Tweetdeck 原本是第三方服务， Twitter 于 2011 年收购了它，因此它多多少少也能算「官方服务」或者「亲儿子」。它曾经有过客户端，但现在没记错的话几乎全都取消了，你只需要一个网址：
+Tweetdeck 原本是第三方服务， [[Twitter]] 于 2011 年收购了它，因此它多多少少也能算「官方服务」或者「亲儿子」。它曾经有过客户端，但现在没记错的话几乎全都取消了，你只需要一个网址：
 
 
-`https://tweetdeck.twitter.com/`
+`https://tweetdeck.[[Twitter]].com/`
 
 
 就可以通过浏览器在任何平台上访问它，享受它的全部特性。

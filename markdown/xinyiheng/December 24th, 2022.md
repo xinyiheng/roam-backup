@@ -14,21 +14,15 @@ https://cn.ceibs.edu/people-stories/21701 [Email Body](https://files.todoist.com
 https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652090683&idx=1&sn=e7479ccde24d6e3b6fd989e1eed60ae2&chksm=5dbf95a96ac81cbfed4b89470f58708d0261fdc052048b40e3ee812c5c55dad385b7572779b7&scene=132 [Email Body](https://files.todoist.com/zhE1lOGlkIIEh87CqZXPvkP2Yh1N54aqsKaXr8_tt-iAkzKnvZAqNOn6hKREc39q/by/21878347/as/file.html)
     - 设计、体验都出彩，白板工具的又一选择：Muse - 少数派
         - Annotations:
-* 在 Muse 中，最基础的概念是「卡片」(Card)，它可以是一段文字、一张图片、GIF、一个网页链接，甚至是一段视频。
+在 Muse 中，最基础的概念是「卡片」(Card)，它可以是一段文字、一张图片、GIF、一个网页链接，甚至是一段视频。
+整理方式也相当符合直觉：用手拖动想要分组的卡片，手动对齐，没有多余的辅助设定，你都只能依赖自己的感觉来布置归纳现有的内容。
+ macOS 端更多时候充当的是一个信息整理的入口：将浏览器中的各种内容直接拖拽进 Muse 中保存并简单整理。搭配目前处于 Beta 测试阶段的 Muse 浏览器插件，也能更快速地批量将网页收纳进 Muse 画板中。
+ iPadOS 版本的 Muse 也支持了原生的多窗口操作，让本来并不高效的 iPadOS 端也有了一定程度上的多层级画板内容编辑能力。
+ 我也最近开始使用Muse，不过Muse在国区定价相对较低：普通7元/月，70元/年；pro 15元/月，153元/年。
+ 期待 iOS 16 的 Freeform
 
-* 整理方式也相当符合直觉：用手拖动想要分组的卡片，手动对齐，没有多余的辅助设定，你都只能依赖自己的感觉来布置归纳现有的内容。
-
-* macOS 端更多时候充当的是一个信息整理的入口：将浏览器中的各种内容直接拖拽进 Muse 中保存并简单整理。搭配目前处于 Beta 测试阶段的 Muse 浏览器插件，也能更快速地批量将网页收纳进 Muse 画板中。
-
-* iPadOS 版本的 Muse 也支持了原生的多窗口操作，让本来并不高效的 iPadOS 端也有了一定程度上的多层级画板内容编辑能力。
-
-* 我也最近开始使用Muse，不过Muse在国区定价相对较低：普通7元/月，70元/年；pro 15元/月，153元/年。
-
-* 期待 iOS 16 的 Freeform
-
-* miro也蛮好用的 上百人同时编辑不会卡顿
-
-* 篇文章启发了我OneNote怎么用的灵感
+miro也蛮好用的 上百人同时编辑不会卡顿
+这篇文章启发了我OneNote怎么用的灵感
 
 Tags: Muse
 https://sspai.com/post/74009 [Email Body](https://files.todoist.com/fq6LlpZSHRFFZIJkyY8jwIvrMIXf54n9UbRDJLvMHwnngErdE-myelcfwGDXrWbX/by/21878347/as/file.html)
@@ -417,29 +411,16 @@ Tags: 人口 老龄化
 
 http://finance.sina.com.cn/zl/china/2022-12-01/zl-imqqsmrp8177470.shtml [Email Body](https://files.todoist.com/IYTJ8WWBWkRgqd8efLxomXTb4vaIVIze8FgruF6lkYNlzJlnowRaDlY9XUDdb6QU/by/21878347/as/file.html)
     - 设计、体验都出彩，白板工具的又一选择：Muse - 少数派
-        - Annotations:
-
-* 在 Muse 中，最基础的概念是「卡片」(Card)，它可以是一段文字、一张图片、GIF、一个网页链接，甚至是一段视频。
-
-* 整理方式也相当符合直觉：用手拖动想要分组的卡片，手动对齐，没有多余的辅助设定，你都只能依赖自己的感觉来布置归纳现有的内容。
-
-* macOS 端更多时候充当的是一个信息整理的入口：将浏览器中的各种内容直接拖拽进 Muse 中保存并简单整理。搭配目前处于 Beta 测试阶段的 Muse 浏览器插件，也能更快速地批量将网页收纳进 Muse 画板中。
-
-* iPadOS 版本的 Muse 也支持了原生的多窗口操作，让本来并不高效的 iPadOS 端也有了一定程度上的多层级画板内容编辑能力。
-
-* 我也最近开始使用Muse，不过Muse在国区定价相对较低：普通7元/月，70元/年；pro 15元/月，153元/年。
-
-* 期待 iOS 16 的 Freeform
-
-* miro也蛮好用的 上百人同时编辑不会卡顿
-
-* 篇文章启发了我OneNote怎么用的灵感
-
-Tags: Muse
-
-
-
-https://sspai.com/post/74009 [Email Body](https://files.todoist.com/T8mLSKt-0FRqzhl10mJ1ETchFAS5NRNKQZVYmS3ZWlBaMOl7ozyNw3WDyVWN60Od/by/21878347/as/file.html)
+        - 在 Muse 中，最基础的概念是「卡片」)，它可以是一段文字、一张图片、GIF、一个网页链接，甚至是一段视频。
+        - 整理方式也相当符合直觉：用手拖动想要分组的卡片，手动对齐，没有多余的辅助设定，你都只能依赖自己的感觉来布置归纳现有的内容。
+        - macOS 端更多时候充当的是一个信息整理的入口：将浏览器中的各种内容直接拖拽进 Muse 中保存并简单整理。搭配目前处于 Beta 测试阶段的 Muse 浏览器插件，也能更快速地批量将网页收纳进 Muse 画板中。
+        - iPadOS 版本的 Muse 也支持了原生的多窗口操作，让本来并不高效的 iPadOS 端也有了一定程度上的多层级画板内容编辑能力。
+        - 我也最近开始使用Muse，不过Muse在国区定价相对较低：普通7元/月，70元/年；pro 15元/月，153元/年。
+        - 期待 iOS 16 的 Freeform
+        - miro也蛮好用的 上百人同时编辑不会卡顿
+        - 篇文章启发了我OneNote怎么用的灵感
+        - Tags: Muse
+        - [原文链接](https://sspai.com/post/74009)
     - 超大城市更有范儿！“三线”“三生”助力北京可持续发展（解读总规第四集）_政策解读_北京市规划和自然资源委员会
         - Annotations:
         - 第一条红线是人口规模上限。北京是一座特别缺水的城市，我们要根据可供水资源量和人均水资源量来严格控制常住人口规模。
@@ -723,29 +704,16 @@ http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166639.ht
 我到底需要保存文章全文还是重点的标记？我后续会怎样利用这些文章和标记？卡片模式和page 模式各有什么优劣？
 https://sspai.com/post/75567 [Email Body](https://files.todoist.com/QlXI0BLCmT_TeR5FrxxQm3paxf7WCWoNXziF8nBLaNe6xDT8SiVibXXn-JrmKYK4/by/21878347/as/file.html)
     - 设计、体验都出彩，白板工具的又一选择：Muse - 少数派
-        - Annotations:
-
-* 在 Muse 中，最基础的概念是「卡片」(Card)，它可以是一段文字、一张图片、GIF、一个网页链接，甚至是一段视频。
-
-* 整理方式也相当符合直觉：用手拖动想要分组的卡片，手动对齐，没有多余的辅助设定，你都只能依赖自己的感觉来布置归纳现有的内容。
-
-* macOS 端更多时候充当的是一个信息整理的入口：将浏览器中的各种内容直接拖拽进 Muse 中保存并简单整理。搭配目前处于 Beta 测试阶段的 Muse 浏览器插件，也能更快速地批量将网页收纳进 Muse 画板中。
-
-* iPadOS 版本的 Muse 也支持了原生的多窗口操作，让本来并不高效的 iPadOS 端也有了一定程度上的多层级画板内容编辑能力。
-
-* 我也最近开始使用Muse，不过Muse在国区定价相对较低：普通7元/月，70元/年；pro 15元/月，153元/年。
-
-* 期待 iOS 16 的 Freeform
-
-* miro也蛮好用的 上百人同时编辑不会卡顿
-
-* 篇文章启发了我OneNote怎么用的灵感
-
-Tags: Muse
-
-
-
-https://sspai.com/post/74009 [Email Body](https://files.todoist.com/IvRVuOWPZYLXWKb6ByQFZdOq8Skd6kwr2C_TcXAWxl2EtLr3ZKjwSpcCiAWMD7Wb/by/21878347/as/file.html)
+        - 在 Muse 中，最基础的概念是「卡片」)，它可以是一段文字、一张图片、GIF、一个网页链接，甚至是一段视频。
+        - 整理方式也相当符合直觉：用手拖动想要分组的卡片，手动对齐，没有多余的辅助设定，你都只能依赖自己的感觉来布置归纳现有的内容。
+        - macOS 端更多时候充当的是一个信息整理的入口：将浏览器中的各种内容直接拖拽进 Muse 中保存并简单整理。搭配目前处于 Beta 测试阶段的 Muse 浏览器插件，也能更快速地批量将网页收纳进 Muse 画板中。
+        - iPadOS 版本的 Muse 也支持了原生的多窗口操作，让本来并不高效的 iPadOS 端也有了一定程度上的多层级画板内容编辑能力。
+        - 我也最近开始使用Muse，不过Muse在国区定价相对较低：普通7元/月，70元/年；pro 15元/月，153元/年。
+        - 期待 iOS 16 的 Freeform
+        - miro也蛮好用的 上百人同时编辑不会卡顿
+        - 篇文章启发了我OneNote怎么用的灵感
+        - Tags: Muse
+        - [原文链接](https://sspai.com/post/74009)
     - 正则表达式速查表_脚本之家
         - Tags: 编程 正则表达式
 

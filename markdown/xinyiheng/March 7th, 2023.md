@@ -56,19 +56,12 @@ https://www.yuque.com/kenshin/simpread/em4qai [Email Body](https://files.todoist
         - https://simpread.pro/@wangyiheng/add/?token=cw0a3f8zej-
 ttxuocrdty3hp2xhcowmlkqqk7e60cc87gxzulcq0o3k2mmuyd [Email Body](https://files.todoist.com/DeoFjuMBJH35w2yMtgt9VipubuJoxHt8EU5NSoYRwdF2EkdcH99GB75TgxVduC9s/by/21878347/as/file.html)
     - 让 Obsidian 更好用，这些社区插件值得试试 - 少数派
-        - Annotations:
-
-* 文章代表作者个人观点，少
-
-*     * 按照传统笔记的思维，层级结构基本为「笔记本组——笔记本——章节——页面」，文件列表内文件夹用来分类形成目录（为了有序还会使用编码系统），只有页面能承载笔记，还需要使用 Tag 插件与文件列表配合形成网状联系；
-* 按照 MOC 的思维，所有笔记不分权重全部放入一个 Content 文件夹，通过双向链接与文件夹外部的 Index 笔记来联系，使用关系图谱插件来观察网状联系。
-* 按照 DailyNote 的思维，所有笔记都记在每日日记里，使用卢曼序号或时间戳来标记每日日记里的笔记，最终形成的是以日期和笔记两种双向链接交织的网状联系。
-
-Tags: obsidian
-
-
-
-https://sspai.com/post/66094 [Email Body](https://files.todoist.com/uPMIXwB3JKNdup5wI3Ug1oo0jCRejgN7t7sywzg77lRagaKxWiT3dueAwBLeiJIU/by/21878347/as/file.html)
+        - 文章代表作者个人观点，少
+        - * 按照传统笔记的思维，层级结构基本为「笔记本组——笔记本——章节——页面」，文件列表内文件夹用来分类形成目录（为了有序还会使用编码系统），只有页面能承载笔记，还需要使用 Tag 插件与文件列表配合形成网状联系；
+        - 按照 MOC 的思维，所有笔记不分权重全部放入一个 Content 文件夹，通过双向链接与文件夹外部的 Index 笔记来联系，使用关系图谱插件来观察网状联系。
+        - 按照 DailyNote 的思维，所有笔记都记在每日日记里，使用卢曼序号或时间戳来标记每日日记里的笔记，最终形成的是以日期和笔记两种双向链接交织的网状联系。
+        - Tags: obsidian
+        - [原文链接](https://sspai.com/post/66094)
     - Obsidian | Ob中真正的Notion Database功能，配置极简，体验极佳
         - https://www.diigo.com/item/image/783rf/75680525 [Email Body](https://files.todoist.com/KHERd-5i_bJNmLzpOzlQ2JJSKAYx2bYTUot1-0qIFlm1aRUxvNGNMs-LP78oBXqQ/by/21878347/as/file.html)
     - 信息管理，从高效收集信息开始 - 少数派
@@ -111,14 +104,8 @@ https://sspai.com/post/66094 [Email Body](https://files.todoist.com/uPMIXwB3JKNd
 https://www.bilibili.com/video/BV1KP4y1B7bd/?spm_id_from=333.337.search-
 card.all.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/5ZQ5nue0UcwMvs4X-_p0DX8uKQzzZ5DtOjYrNuH8uLBPUPdIB69F9hVwHn5J6oC4/by/21878347/as/file.html)
     - 连接obsidian和marginNote两个知识星球? 踩坑Obsidian-Bridge插件_哔哩哔哩_bilibili
-        - Annotations:
-
-* 亲测iPadOS下的Obsidian和marginnote也可以用，分屏就行了，当然10.9寸确实有点难受。
-
-
-
-https://www.bilibili.com/video/BV1W3411376v/?spm_id_from=333.337.search-
-card.all.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/2oqEptzZPI-TX0qI7Bpj_UTsk2w6LJQI1Ype6qS0RKHSrCF2iodGb2-tC0b8EkWs/by/21878347/as/file.html)
+        - 亲测iPadOS下的Obsidian和marginnote也可以用，分屏就行了，当然10.9寸确实有点难受。
+        - [原文链接](https://www.bilibili.com/video/BV1W3411376v/?spm_id_from=333.337.search-card.all.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
 - #[[工具]] 今天按照简悦的设置完成了简悦的稍后读和obsidian的联动。感觉不错。配置有点乱，一步出错就会影响结果。阅读了obsidian的一些插件介绍。obsidian以后要用起来，取代印象笔记。
 - [anki经验万字合集|比较anki supermemo|解决anki碎片化、间隔过长、卡片积压 - 知乎](https://zhuanlan.zhihu.com/p/270135184)
 - [连接obsidian和marginNote两个知识星球? 踩坑Obsidian-Bridge插件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1W3411376v/?spm_id_from=333.337.search-card.all.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
