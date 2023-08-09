@@ -1,10 +1,29 @@
 - Imported Quick Capture items:
     - 一鍵自動生成知識地圖，Heuristica 用AI心智圖工具輔助知識學習
         - ### 一鍵自動生成知識地圖，Heuristica 用AI心智圖工具輔助知識學習 
-        - * 取得連結
-        - Facebook
-        - Twitter
-        - Pinterest
-        - 以電子郵件傳送
-        - 其他應用程式
         - [原文链接](https://www.playpcesor.com/2023/06/heuristica-ai.html)
+    - How to Summarize Books Using ChatGPT: 7 Experiments in AI Distillation
+        - How to Summarize Books Using ChatGPT: 7 Experiments in AI Distillation
+        - Tags: chatgpt
+        - [原文链接](https://fortelabs.com/blog/how-to-summarize-books-using-chatgpt/)
+    - 微信公众平台
+        - 分析数据、做封面、出文案……AI帮这本书的编辑用几个小时干完了一个月的工作
+        - Tags: chatgpt
+        - [原文链接](https://mp.weixin.qq.com/s?__biz=MjM5OTU5MDYyMw==&mid=2653426627&idx=1&sn=5ffb454c8807387593616dcdf530f21c&chksm=bce59c738b9215650a501a4fc38224936bd313181415b6c8ec22165b2225c267640159e9cad4&mpshare=1&scene=1&srcid=0524l5i9o4WTmxPRPxjNfwMQ&sharer_sharetime=1684916825826&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86)
+    - 我们尝试了主流AIGC工具，出版效率究竟提升了多少？
+        - 在外版书的出版过程中，我们一直面临着2个痛点：翻译周期长和翻译质量良莠不齐，严重制约了外版书的出版效益。以我们团队为例，一本300页左右的书，用纯人工的方式翻译平均需要5个月，用“AI+人工”（AI翻译+人工审核）的方式来翻译则只需要1个月，效率提升了80%。AIGC工具不仅大大提升了翻译的效率，而且也极大地提升了译稿的质量。如果人工审核的工作做到位，几乎不会存在错别字和病句，从而大大提升编辑、复审、终审、排版、校对等各个环节的效率，缩短整个出版周期。
+        - Tags: 出版
+        - [原文链接](https://mp.weixin.qq.com/s?__biz=MjM5OTU5MDYyMw==&mid=2653427628&idx=1&sn=111f56564b70d5ffd59c08ca38421294&chksm=bce5981c8b92110a1486e3d9df786fa79d7f188ee08c622cff283f612af10b579cdc0d9caa3c&mpshare=1&scene=1&srcid=0609d1SeNou0tyoXdoHnpTwm&sharer_sharetime=1686297729285&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86)
+    - [为什么南方人叫阿珍阿强，而北方人叫小王小张？](https://mp.weixin.qq.com/s?__biz=MzI2NjAzNzA4OQ==&mid=2650025135&idx=1&sn=2f15b2eb2b8126f5de2ebbc407f21e6d&chksm=f294bea1c5e337b75b267aad51c3deb032bfbcdfa4f02727ebb9ba8179f374a32369433af606&mpshare=1&scene=1&srcid=0529x79HDWelajmZUnDqAL0y&sharer_sharetime)
+        - 但到了宋朝，阿字用作亲属称谓在北方日渐稀少，取而代之的是叠字称谓。南宋倪思的《经鉏堂杂志》中，曾记载过这么一段：
+        - 慈福庆寿，寿皇新作一袍，刺绣甚华，慈福见之云：“哥哥寻常不曾着此衣服，今何故如此？”
+        - 寿皇对 云：“政为妈妈万寿献杯之故。”
+        - 慈福云：“哥哥可谓孝顺。”
+        - 阿字在南方保持兴盛之时，北方悄然流行另外一种叫法：小张。
+        - 小张小王的叫法起源于何时，已经不太好考证，但可以确定的是，在二十世纪三四十年代已经通行于北方。同样在老舍的《四世同堂》里，有位年纪不大的洋车夫姓崔，从开局到他被侵华日军砍了头，这位洋车夫都叫小崔，全名没能出现过一次。
+        - 但今天流行的小张小王，却并非直接承自于民国，而是与红军的称呼有一定关系。在二十世纪二三十年代，蓬勃发展的红军也要解决称呼问题。革命队伍讲究平等，非必要不称呼职务，大家都叫同志，但这个同志前边总得加点什么好知道指的是谁。同时，革命队伍中大量青少年追随，对这些人的称呼也犯了难。红军主要兴盛于南方，用湖南江西那块的方言，对十几岁的可以叫小鬼或者细伢子，突出一个亲昵；但对二十多的就不好这么叫了，已经不是伢子了。
+        - 于是从北方传来的称呼“小张”正好合用。非正式场合叫小张，正式场合加个同志，既突出人人平等，又带点亲昵，还有对年轻人的期许，这个叫法简直一举三得。
+        - 随着新中国成立，这种对年轻人的小字称呼成为一种标准叫法。北方的大国企多一些，而且一个工厂往往是一个小社会，于是这种称呼很快就风靡起来。不过这种叫法也是在国营单位等场合更多些，九十年代起混录像厅、网吧的人们可从来不叫人小张小王，反倒是从港片里学的阿飞更流行。
+        - 可以近似理解为，小张小王存在于国营工厂内，阿珍阿强则流行于街头巷尾。
+        - 那么既属于南方，又有大量国营工厂的上海是怎么称呼人的呢？为此笔者特意采访了一位与共和国同龄的上海老技工华师傅，师傅表示自己年轻时进厂就被称小华，后来自己熬出了资历，小字就传给了新来的年轻人，这是国营大厂的普遍叫法。不过有些私营的工厂就不这么喊，还是阿字打头称名，主打一个亲昵。国营厂的小华去私营厂办事，往往能碰到阿华，但后者并不姓华，而是名字里带华。
+        - [原文链接](https://mp.weixin.qq.com/s?__biz=MzI2NjAzNzA4OQ==&mid=2650025135&idx=1&sn=2f15b2eb2b8126f5de2ebbc407f21e6d&chksm=f294bea1c5e337b75b267aad51c3deb032bfbcdfa4f02727ebb9ba8179f374a32369433af606&mpshare=1&scene=1&srcid=0529x79HDWelajmZUnDqAL0y&sharer_sharetime=1685324600193&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86)
