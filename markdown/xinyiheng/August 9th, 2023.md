@@ -1,0 +1,10 @@
+- Imported Quick Capture items:
+    - 一鍵自動生成知識地圖，Heuristica 用AI心智圖工具輔助知識學習
+        - ### 一鍵自動生成知識地圖，Heuristica 用AI心智圖工具輔助知識學習 
+        - * 取得連結
+        - Facebook
+        - Twitter
+        - Pinterest
+        - 以電子郵件傳送
+        - 其他應用程式
+        - [原文链接](https://www.playpcesor.com/2023/06/heuristica-ai.html)
