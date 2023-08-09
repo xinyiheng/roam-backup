@@ -3,7 +3,7 @@
     - {{[[DONE]]}} 《给我100天，大多数事都能成》版式
     - 《做孩子最好的学习规划师》(即升学九成靠父母)核对
     - 《好人只会越当越委屈》外审
-    - 中信书店重点书ppt
+    - {{[[DONE]]}} 中信书店重点书ppt
 - Imported Quick Capture items:
     - 序章：为什么都 2023 年了，我还在用 Roam Research 写笔记？ - 少数派
         - Obsidian 的口号：A second brain, for you, forever.

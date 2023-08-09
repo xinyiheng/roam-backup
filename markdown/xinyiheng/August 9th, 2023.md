@@ -28,25 +28,13 @@
         - 那么既属于南方，又有大量国营工厂的上海是怎么称呼人的呢？为此笔者特意采访了一位与共和国同龄的上海老技工华师傅，师傅表示自己年轻时进厂就被称小华，后来自己熬出了资历，小字就传给了新来的年轻人，这是国营大厂的普遍叫法。不过有些私营的工厂就不这么喊，还是阿字打头称名，主打一个亲昵。国营厂的小华去私营厂办事，往往能碰到阿华，但后者并不姓华，而是名字里带华。
         - [原文链接](https://mp.weixin.qq.com/s?__biz=MzI2NjAzNzA4OQ==&mid=2650025135&idx=1&sn=2f15b2eb2b8126f5de2ebbc407f21e6d&chksm=f294bea1c5e337b75b267aad51c3deb032bfbcdfa4f02727ebb9ba8179f374a32369433af606&mpshare=1&scene=1&srcid=0529x79HDWelajmZUnDqAL0y&sharer_sharetime=1685324600193&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86)
     - 1999年，国家是怎么成功解决失业的？
-        - Annotations:
-
-* 1999年高校历史性的扩招了47.4%，未来几年也以每年 40 万 50 万人的速度扩大高校招生，10年间增长了5倍。
-
-* 9月，国家决定部署西部大开发战略  
-
-* 98年房改，商品房横空出世。  
-
-99年，各地房交会、房展会开始火爆，房地产开始成为拉动经济最大的火车头，商品房开始成为消费最大的抓手。
-
-* 11月，入世最后一次谈判完成
-
-* 总的来说，就是三驾马车：  
-投资基建：西部大开发，保八。  
-
-拉动内需：贷款买房，大学扩招，黄金周，互联网。  
-
-扩大出口：加入WTO。
-
-
-
-https://mp.weixin.qq.com/s?__biz=MzA4Mzg3MjExNQ==&mid=2653994827&idx=1&sn=33e4c8cb108e56c7f1200fb29f0e9254&chksm=842bcf57b35c4641f0f6d2902d809037bdffed8609e3ca5b02651bd050ed67f325ae099ea88a&mpshare=1&scene=1&srcid=0529e6CjaNoGs1nO0iYbmlgb&sharer_sharetime=1685329253796&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86 [Email Body](https://files.todoist.com/qac7wKwFnAXpKc_DnBqhKlVc4x1Ws691Fq1Bycf7K1z_8fYxHosMy_Z9JfDiDhIh/by/21878347/as/file.html)
+        - 1999年高校历史性的扩招了47.4%，未来几年也以每年 40 万 50 万人的速度扩大高校招生，10年间增长了5倍。
+        - 9月，国家决定部署西部大开发战略  
+        - 98年房改，商品房横空出世。  
+        - 99年，各地房交会、房展会开始火爆，房地产开始成为拉动经济最大的火车头，商品房开始成为消费最大的抓手。
+        - 11月，入世最后一次谈判完成
+        - 总的来说，就是三驾马车：  
+            - 投资基建：西部大开发，保八。  
+            - 拉动内需：贷款买房，大学扩招，黄金周，互联网。  
+            - 扩大出口：加入WTO
+        - [原文链接](https://mp.weixin.qq.com/s?__biz=MzA4Mzg3MjExNQ==&mid=2653994827&idx=1&sn=33e4c8cb108e56c7f1200fb29f0e9254&chksm=842bcf57b35c4641f0f6d2902d809037bdffed8609e3ca5b02651bd050ed67f325ae099ea88a&mpshare=1&scene=1&srcid=0529e6CjaNoGs1nO0iYbmlgb&sharer_sharetime=1685329253796&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86)
