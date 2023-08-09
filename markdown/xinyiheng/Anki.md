@@ -21,8 +21,8 @@
 - #[[参考资料]]
     - [Ankify Anything - Anki Is Not Just For Raw Facts - YouTube](https://www.diigo.com/outliner/diigo_items/904019/12128769/558931919?key=34d57b46e1)
     - 我知道的最好的介绍anki的人——公众号[学习骇客](https://mp.weixin.qq.com/mp/publictag?action=get&tag_id=7929779980957908993#wechat_redirect)的主理人，LEO
-    - [个人使用anki经验合集](https://roamresearch.com/#/app/hjp_study/page/ej9GS-bFZ)
-    -  下午2:26@评论:这是一个人用roam research写的，看来对anki很有研究
+    - [个人使用anki经验合集](https://roamresearch.com/#/app/hjp_study/page/ej9GS-bFZ)下午2:26@评论:这是一个人用roam research写的，看来对anki很有研究
+    - [导入 得到APP 的笔记到 Anki，程序仍然由ChatGPT 编写 ｜学习骇客](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzU2NDI1Mzg2NQ==&mid=2247495304&idx=1&sn=b1a109e06ae68a52b037718104530364#wechat_redirect)
 - ### Anki插件
     - 在手机端使用anki来查看记忆资料
         - 使用图床功能之后，添加截图就方便多了。
