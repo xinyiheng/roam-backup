@@ -8,4 +8,7 @@
     - [无名图书 | 一个好看的电子书网站](https://www.book123.info/)
     - [BookAI.chat](https://www.bookai.chat/)
 - [Microsculpture - The Insect Portraits of Levon Biss](http://microsculpture.net/levon_biss.html)
-- 
+- #[[人工智能]]
+    - [Toolify - 为你的需求找到最好的人工智能AI网站和工具](https://www.toolify.ai/zh/) 🗒@评论:一个汇总各种人工智能软件的网站
+- #[[心理学]]
+    - [设计师口袋心理学 | 按编号排序](https://iason.notion.site/6719c7650fd1406c92287f556520fbc3?v=a38e4e6416c24047afba6685f5269566) 🗒@评论:可视化
