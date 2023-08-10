@@ -39,7 +39,7 @@
             - 扩大出口：加入WTO
         - [原文链接](https://mp.weixin.qq.com/s?__biz=MzA4Mzg3MjExNQ==&mid=2653994827&idx=1&sn=33e4c8cb108e56c7f1200fb29f0e9254&chksm=842bcf57b35c4641f0f6d2902d809037bdffed8609e3ca5b02651bd050ed67f325ae099ea88a&mpshare=1&scene=1&srcid=0529e6CjaNoGs1nO0iYbmlgb&sharer_sharetime=1685329253796&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86)
 - #[[工作]]
-    - 查看NHK纪录片中选题的可能性、
+    - 查看NHK纪录片中选题的可能性
 - #[[技能]]
     - [How I Plan My Weekly Tasks | PARA Method - Part 3](https://www.youtube.com/watch?v=MyWmGDnWhjE&list=TLGGXujRMX9-kRgwOTA4MjAyMw)
     - [2:07](https://www.youtube.com/watch?v=MyWmGDnWhjE&list=TLGGXujRMX9-kRgwOTA4MjAyMw&t=127)
