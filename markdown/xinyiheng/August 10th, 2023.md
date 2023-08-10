@@ -2,3 +2,8 @@
     - 购买了磁力黑板，搭配了一些小的配件，包括6寸的相框和3个迷你小灯。
 - #[[技能]]
     - roam research的graph功能完成了更新，这是这一软件许久没有的重大更新了。感觉还不错，可以选中特定主体显示。
+    - 英语学习 [沉浸式翻译（插件），让你轻松阅读英语资料 | 学习骇客](https://mp.weixin.qq.com/s?__biz=MzU2NDI1Mzg2NQ==&mid=2247495919&idx=1&sn=06a6eaa20d0dbdbafa4af278e03f2908&chksm=fc4f7529cb38fc3fa798308f1f46909eb90c11120688d93ac227836bbb4619fc54e73ac7a416&mpshare=1&scene=1&srcid=0809mlAG7hsf931UYPkDJ1Gj&sharer_sharetime=1691637580734&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86#rd)  🗒@评论:可以把英文网站逐段翻译成中文的插件，还可以支持deepl等翻译
+- #[[找书]]
+    - [BookAuthority: The Most Recommended Books By Thought Leaders](https://bookauthority.org/)
+    - [无名图书 | 一个好看的电子书网站](https://www.book123.info/)
+    - [BookAI.chat](https://www.bookai.chat/)
