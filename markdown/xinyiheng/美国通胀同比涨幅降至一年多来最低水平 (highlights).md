@@ -5,3 +5,9 @@
 - ### Highlights first synced by #Readwise [[January 18th, 2023]]
     - 美联储正在密切关注服务业通胀——在能源、食品和住房相关成本被剔除之后；官员们称，服务业通胀与劳动力市场以及工资上涨（源自雇主试图克服严重的员工短缺）密切相关。工资涨速已从峰值回落，但就业增长依然强劲，失业率仍徘徊在历史低位附近。 ([View Highlight](https://read.readwise.io/read/01gq0zrpnp1pztpbeg7fjcdkxa))
         - **Note**: 就业充分
+- Full Title:: 美国通胀同比涨幅降至一年多来最低水平
+- Category:: #articles
+- URL:: [🔗](http://www.ftchinese.com/story/001098451)
+- ### Highlights first synced by #Readwise [[August 11th, 2023]]
+    - 美联储正在密切关注服务业通胀——在能源、食品和住房相关成本被剔除之后；官员们称，服务业通胀与劳动力市场以及工资上涨（源自雇主试图克服严重的员工短缺）密切相关。工资涨速已从峰值回落，但就业增长依然强劲，失业率仍徘徊在历史低位附近。 ([View Highlight](https://read.readwise.io/read/01gq0zrpnp1pztpbeg7fjcdkxa))
+        - **Note**: 就业充分
