@@ -1,2 +1,33 @@
 - [Explain This Paper Like I'm 5](https://app.copilothub.ai/chat?id=9352) #[[科研]] 🗒@评论:解释论文的内容
-- 
+- #[[技能]]
+    - 试用chatgpt4
+        - 为《打造第二大脑》写出吸引人的文案需要注意以下几点：
+        - 1. 突出该书的卖点：该书的主题是什么？它能够解决读者的哪些问题？它有哪些独特之处？在文案中要突出这些卖点，让读者一眼就能够看出该书的价值。
+        - 2. 使用生动的语言：文案中使用生动、有趣的语言可以吸引读者的注意力，让他们更愿意了解该书。比如，可以使用比喻、幽默和故事等元素来增加文案的趣味性。
+        - 3. 引用权威人士的评价：如果该书已经得到了某些权威人士的赞扬，可以在文案中引用他们的评价，以增加该书的信誉度和吸引力。
+        - 4. 突出目标读者：在文案中要清楚地说明该书的目标读者是谁，以便吸引到对该主题感兴趣的读者。
+        - 5. 使用图片和排版：使用高质量的图片和合适的排版可以让文案更加吸引人。图片可以用来突出该书的卖点，排版可以让文案更加易读。
+        - 希望这些提示能够对您有所帮助！
+    - claude回复
+        - 这里是一些写出吸引人文案的建议:
+        - 强调《打造第二大脑》的核心价值和益处。比如提高效率、组织信息、提升创造力等。用简洁有力的语言突出这本书的独特卖点。
+        - 使用诱人的开头来吸引读者的兴趣。比如“想成为组织和创造力大师吗?《打造第二大脑》将教你如何做到!”
+        - 使用积极的动词和描述性语言,如“改变你的思维方式”“掌握管理信息的技巧”来描绘读这本书后的收获。
+        - 使用问句来引发读者的兴趣和思考,比如“你的大脑是否已经过载?《打造第二大脑》将教你如何整理思路,提升工作效率。”
+        - 使用真实的读者反馈,比如“改变我工作方式的必读书籍!”“帮助我实现了组织生活的突破”来建立书的可信度。
+        - 突出作者的专业背景,比如他在知识管理领域的丰富经验,来增加书籍的说服力。
+        - 使用简短清晰的句子和段落,避免长且复杂的描述。保持文案的可读性。
+        - 在文案中适当融入书中精彩片段,来吸引读者的兴趣,给他们一瞥书的精华内容。
+    - bard回复
+        - Here are some tips on how to write engaging copy for Building a Second Brain:
+        - **Start with a strong headline.** Your headline is the first thing people will see, so make sure it's attention-grabbing and relevant to your topic.
+        - **Use clear and concise language.** Avoid jargon and technical terms that your audience may not understand.
+        - **Keep your copy concise.** People are busy and don't have time to read long, drawn-out copy. Get to the point quickly and make sure your copy is easy to scan.
+        - **Use visuals.** Images and videos can help b
+        - reak up your text and make your copy more visually appealing.
+        - **Tell a story.** People are more likely to remember information that is presented in a story format. Use storytelling techniques to engage your audience and make your copy more memorable.
+        - **Use humor.** If you can make your audience laugh, you're more likely to keep their attention. Use humor to add some levity to your copy and make it more enjoyable to read.
+        - **Be personal.** People are more likely to connect with copy that is written in a personal voice. Use first-person pronouns and anecdotes to connect with your audience on a personal level.
+        - **End with a call to action.** Tell your audience what you want them to do after reading your copy. Do you want them to sign up for your newsletter, download your ebook, or visit your website? Make sure your call to action is clear and concise.
+        - Following these tips will help you write engaging copy that will capture your audience's attention and keep them reading.
+- 购买了テレ東biz视频的会员，每月550日元。
