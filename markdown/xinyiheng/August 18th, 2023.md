@@ -1,0 +1,4 @@
+- Imported Quick Capture items:
+    - 巴别图书馆计划（一）：为什么，以及如何用 Calibre 统一管理书籍 
+        - 借 Hum 的话，这里也有一个不可能三角，使用门槛、阅读体验与数据自主权终难面面兼顾。
+        - [原文链接](https://utgd.net/article/20253)
