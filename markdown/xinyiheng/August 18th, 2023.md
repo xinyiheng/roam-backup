@@ -12,6 +12,8 @@
     - 购买国际机器人大会的门票
     - 最重要的是保证高质量的相处时间，即真的在交流。 
     - https://dida365.com/webapp/#p/inbox/tasks/64df3348236d510287370702
+    - https://dida365.com/webapp/#p/inbox/tasks/64deea6de4b0a1270583b8f6 [当代年轻人图鉴：靠咖啡续命，靠多巴胺治愈](http://mp.weixin.qq.com/s?__biz=MjM5MDU1Mzg3Mw==&mid=2651529257&idx=1&sn=ec50f5a6554570c69f000fd6ca40b7f6&chksm=bdbc82578acb0b412f3360c0d182eaf88a9da1b01e2652039cffbb51165973ce9771c9ca7d9c&mpshare=1&scene=1&srcid=081820TVzLgQvc1OBmk6EcPq&sharer_sharetime=1692330596559&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86#rd)
+    - https://dida365.com/webapp/#p/inbox/tasks/64deea7fe4b03421cc07445a
 - #[[工作]]
     - 编辑资格考试报名及缴费🗒@评论:去年因为疫情取消了
     - 《做孩子最好的学习规划师》审读
