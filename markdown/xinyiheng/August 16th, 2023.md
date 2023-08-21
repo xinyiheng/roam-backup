@@ -31,3 +31,5 @@
         - **End with a call to action.** Tell your audience what you want them to do after reading your copy. Do you want them to sign up for your newsletter, download your ebook, or visit your website? Make sure your call to action is clear and concise.
         - Following these tips will help you write engaging copy that will capture your audience's attention and keep them reading.
 - 购买了テレ東biz视频的会员，每月550日元。
+- #[[家庭]]
+    - 今天晚上麻豆和爸妈从大连回来。去朝阳站接站。回来收拾行李的时候爸头碰到了橱子jian
