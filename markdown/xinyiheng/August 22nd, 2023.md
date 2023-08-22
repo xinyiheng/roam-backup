@@ -12,6 +12,9 @@
         - [ChatDOC](https://chatdoc.com/chatdoc/#/chat/58d35f20-b1e7-4ca8-98f1-b6ec547dab0e)
     - #[[人工智能]] [[ Excel ]] 用人工智能来处理表格数据 #[[数据]]
         - [Rows](https://rows.com/hawkeye-7b406f5a)
+    - 购买了midjourney的充值计划，每月10美元，用的我自己的账号
+    - 设置了chatgpt的custom instruction
+    - 
 - #[[健康]]
     - 最近中午会午睡一会，尽管睡不着，但总比刷短视频好
 - #[[洞见]]
