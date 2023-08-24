@@ -1,5 +1,7 @@
 - #[[技能]]
     - 购买bookmark账户
+    - 按照twitter上的介绍制作了三个人工智能生成的视频
+    - 
 - [The Future of Text](https://thefutureoftext.org/)
 - {{[[search]]: 人工智能}}
 - 
