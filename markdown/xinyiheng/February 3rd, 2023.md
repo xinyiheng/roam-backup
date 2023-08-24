@@ -260,27 +260,15 @@ Tags: 生成式AI
 
 https://wallstreetcn.com/articles/3680808 [Email Body](https://files.todoist.com/ZFj_aWeJvITbCT2Y1_jlttI-SIZvoCEU9iOpQLCXpu48T39Gfe3eEKc3yAFYKyfm/by/21878347/as/file.html)
     - ChatGPT创始人的个性和经历将如何影响它的未来？_腾讯新闻
-        - Annotations:
-
-* ChatGPT 的火热让它有可能造就人工智能领域的“iPhone 时刻”，就是那种终于突破了可用边界，一下子让它开启下一个时代的时刻。
-
-* OpenAI 创始人 Sam Altman 早年曾经加入著名的硅谷孵化器 Y Combinator，并在 2014 年被 YC 创始人 Paul Graham 任命为新掌门。在他的任期内，YC 投资了 Airbnb、Dropbox、Stripe、Reddit、Pinterest 等知名公司，2015 年所投公司总估值已超过 15 亿美元，是当时最成功的年轻投资人之一。
-
-* 2015 年，Altman 联合马斯克、彼得·泰尔、AWS、印度 Infosys 和 YC 等作为出资方创办了 OpenAI，其目标是以最有可能造福人类，而不是伤害人类的方式推进人工智能。
-
-* 它起初是一个非营利组织，但开出了业界最顶尖的 AI 研究者名单并且一个一个去挖，给的工资也和大厂看齐。此后陆续有高级 AI 人才因 OpenAI 的大牛密度和理想愿景而加入，这是 GPT-3 和 DALL-E 做成的一个必要条件。
-
-* Altman 的意识形态取向比较偏民主党，相比之下马斯克此前对特朗普的赞许在硅谷显得另类。
-
-* 微软与 OpenAI 关系密切，DALL-E 已经被整合到 Microsoft 365 中。二者合作的传闻愈演愈烈，有的说必应搜索会集成 ChatGPT，有的说 Office 会集成 ChatGPT，有的说 Windows 12 会集成，还有的说微软会收购 OpenAI。
-
-* 在 OpenAI 创办早期，其运营成本的超过 1/4 用于购买算力。微软对 OpenAI 的最新融资将有很大一部分是折算为 Azure 算力来兑付的，这避免了大量现金交割。ChatGPT 从这个角度来说还只是相当于“举国体制”下高成本炼丹，它距离摊薄成本让大家都能以低价乃至免费应用，还差得远。
-
-* 此前有人测算过，ChatGPT 一次模型底座的训练需要 500 万美元的算力成本，一次问答的综合成本在 0.8 美元。这也是谷歌难以在搜索业务部署深度学习产品的原因之一。
-
-
-
-https://new.qq.com/rain/a/20230203A015Z400 [Email Body](https://files.todoist.com/gBtmssc1cZQ0PMvypNVpaNGqccj-ias9jd0vkP1Rfd9B5OIrPCDYktuU-wM8FUkq/by/21878347/as/file.html)
+        - ChatGPT 的火热让它有可能造就人工智能领域的“iPhone 时刻”，就是那种终于突破了可用边界，一下子让它开启下一个时代的时刻。
+        - OpenAI 创始人 Sam Altman 早年曾经加入著名的硅谷孵化器 Y Combinator，并在 2014 年被 YC 创始人 Paul Graham 任命为新掌门。在他的任期内，YC 投资了 Airbnb、Dropbox、Stripe、Reddit、Pinterest 等知名公司，2015 年所投公司总估值已超过 15 亿美元，是当时最成功的年轻投资人之一。
+        - 2015 年，Altman 联合马斯克、彼得·泰尔、AWS、印度 Infosys 和 YC 等作为出资方创办了 OpenAI，其目标是以最有可能造福人类，而不是伤害人类的方式推进人工智能。
+        - 它起初是一个非营利组织，但开出了业界最顶尖的 AI 研究者名单并且一个一个去挖，给的工资也和大厂看齐。此后陆续有高级 AI 人才因 OpenAI 的大牛密度和理想愿景而加入，这是 GPT-3 和 DALL-E 做成的一个必要条件。
+        - Altman 的意识形态取向比较偏民主党，相比之下马斯克此前对特朗普的赞许在硅谷显得另类。
+        - 微软与 OpenAI 关系密切，DALL-E 已经被整合到 Microsoft 365 中。二者合作的传闻愈演愈烈，有的说必应搜索会集成 ChatGPT，有的说 Office 会集成 ChatGPT，有的说 Windows 12 会集成，还有的说微软会收购 OpenAI。
+        - 在 OpenAI 创办早期，其运营成本的超过 1/4 用于购买算力。微软对 OpenAI 的最新融资将有很大一部分是折算为 Azure 算力来兑付的，这避免了大量现金交割。ChatGPT 从这个角度来说还只是相当于“举国体制”下高成本炼丹，它距离摊薄成本让大家都能以低价乃至免费应用，还差得远。
+        - 此前有人测算过，ChatGPT 一次模型底座的训练需要 500 万美元的算力成本，一次问答的综合成本在 0.8 美元。这也是谷歌难以在搜索业务部署深度学习产品的原因之一。
+        - [原文链接](https://new.qq.com/rain/a/20230203A015Z400)
     - OpenAI CEO：AI创业热点，是模型和应用的“中间层”_腾讯新闻
         - Annotations:
 
@@ -313,21 +301,12 @@ AlphaFold。这些都会增加巨大的价值，你会看到这种方式越来�
 
 https://new.qq.com/rain/a/20230131A02XYJ00 [Email Body](https://files.todoist.com/fz0JqpUjrFjQQyrGPpqdGjW5zfukKi3pgUwhmKf50QTAyQjoGJwZISxWTdh-Bj73/by/21878347/as/file.html)
     - 盖茨盛赞ChatGPT：人工智能历史意义不亚于“PC或互联网诞生”_腾讯新闻
-        - Annotations:
-
-* 盖茨盛赞ChatGPT：人工智能历史意义不亚于“PC或互联网诞生”
-
-* 盖茨今日接受采访时表示:“AI将成为2023年最热门的话题。这是不可避免的。”他随后补充道:“ChatGPT将变得与个人电脑、互联网同样重要。”
-
-* 瑞银最新的研究显示，ChatGPT创下了用户增长最快的记录。该公司表示，估计ChatGPT在1月份的月活跃用户已超过1亿，而这距离它推出仅仅两个月。它实现这个里程碑的速度甚至比TikTok等顶级应用还要快。
-
-* 去年12月，谷歌发布了针对ChatGPT的“红色警报”。据报道，自11月30日最新版ChatGPT发布以来，谷歌及其母公司Alphabet的首席执行官桑达尔·皮采已经召集了几次会议，讨论谷歌的AI战略，以应对聊天机器人对该公司搜索引擎的威胁。
-
-另有报道称，谷歌还请来了该公司联合创始人拉里·佩奇和谢尔盖·布林帮助应对这个问题。当时，有消息称微软计划使用ChatGPT为自己的搜索引擎必应提供支持。
-
-
-
-https://new.qq.com/rain/a/20230203A00YGN00 [Email Body](https://files.todoist.com/Mp_oyDiCgJNp8kLpuqKvNIc68woM89IJ5lNwl6wlmN-8WFgCIwFd_r1PMZtFaRu5/by/21878347/as/file.html)
+        - 盖茨盛赞ChatGPT：人工智能历史意义不亚于“PC或互联网诞生”
+        - 盖茨今日接受采访时表示:“AI将成为2023年最热门的话题。这是不可避免的。”他随后补充道:“ChatGPT将变得与个人电脑、互联网同样重要。”
+        - 瑞银最新的研究显示，ChatGPT创下了用户增长最快的记录。该公司表示，估计ChatGPT在1月份的月活跃用户已超过1亿，而这距离它推出仅仅两个月。它实现这个里程碑的速度甚至比TikTok等顶级应用还要快。
+        - 去年12月，谷歌发布了针对ChatGPT的“红色警报”。据报道，自11月30日最新版ChatGPT发布以来，谷歌及其母公司Alphabet的首席执行官桑达尔·皮采已经召集了几次会议，讨论谷歌的AI战略，以应对聊天机器人对该公司搜索引擎的威胁。
+        - 另有报道称，谷歌还请来了该公司联合创始人拉里·佩奇和谢尔盖·布林帮助应对这个问题。当时，有消息称微软计划使用ChatGPT为自己的搜索引擎必应提供支持。
+        - [原文链接](https://new.qq.com/rain/a/20230203A00YGN00)
     - 八次危机 (豆瓣)
         - Annotations:
 
