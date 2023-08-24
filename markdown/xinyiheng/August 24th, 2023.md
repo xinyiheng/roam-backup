@@ -1,0 +1,5 @@
+- #[[技能]]
+    - 购买bookmark账户
+- [The Future of Text](https://thefutureoftext.org/)
+- {{[[search]]: 人工智能}}
+- 
