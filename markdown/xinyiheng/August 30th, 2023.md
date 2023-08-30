@@ -1,0 +1,3 @@
+- 
+- [7×24小时陪伴型直播 一个躺着就能创业的新项目 我来手把手教你怎么搞 - YouTube](https://www.youtube.com/watch?v=Ko20sPb93fo)
+- [借鸡生蛋赚钱神器！ChatGPT教我制作Chrome Extension通过最简单的自动化方法赚钱，代码免费送你！| ChatGPT赚钱 | AI自动化赚钱 | 思维潘多拉 - YouTube](https://www.youtube.com/watch?v=526-0LVewus)🗒@评论:编写chrome插件
