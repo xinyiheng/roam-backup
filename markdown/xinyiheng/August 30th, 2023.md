@@ -3,8 +3,7 @@
     - 尝试使用了heygen中的数字人来生成视频
 - #[[工作]]
     - {{[[DONE]]}} 《给我100天，大多数事情都能成》一校
-        - 完成一校
-    - 
+    - {{[[DONE]]}} 《如何管理10人以下小团队》加印 🗒@评论:已下厂
 - [Royalty Free Music | Download Free Music for Videos - FiftySounds](https://www.fiftysounds.com/)🗒@评论: 配乐 背景音乐
 - {{[[search]]: 背景音乐}}
 - [7×24小时陪伴型直播 一个躺着就能创业的新项目 我来手把手教你怎么搞 - YouTube](https://www.youtube.com/watch?v=Ko20sPb93fo)
