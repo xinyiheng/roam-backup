@@ -1,6 +1,5 @@
 - #[[技能]]
-    - 大致弄好了24小时在b站直播的设置No Text in Clipboard🦩[OpenAI, LLC](https://pay.openai.com/c/pay/cs_live_a1kl3n3584U9Z06MwFuWtKrvr7gaRZFChWkrXXzsVMOsriQfEgzySsKIRV#fid1d2BpamRhQ2prcSc%2FJ0xrcWB3JykndnBndmZ3bHVxbGprUGtsdHBga2B2dkBrZGdpYGEnP3F3cGApJ2R1bE5gfCc%2FJ3VuWmlsc2BaMDRNSndWckYzbTRrfUJqTDZpUURiV29cU3d%2FMWFQNmNTSmRnfEZmTlc2dWdAT2JwRlNEaXRGfWF9RlBzaldtNF1ScldkZlNsanNQNm5JTnN1bm9tMkx0blI1NWxdVHZvajZrJyknY3dqaFZgd3Ngdyc%2FcXdwYCknaWR8anBxUXx1YCc%2FJ3Zsa2JpYFpscWBoJyknYGtkZ2lgVWlkZmBtamlhYHd2Jz9xd3BgeCUl) 
-    - 
+    - 大致弄好了24小时在b站直播的设置 
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F7wrHLAZDIH.png?alt=media&token=75e9fc22-c03f-4f9b-be7d-9802b76d85d5)
 - #[[工作]]
     - 《以为爸妈不会老》选题评估
