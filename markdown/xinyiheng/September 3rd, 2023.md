@@ -1,2 +1,4 @@
-- 
-- neon lights🦩[Ideogram: Helping people become more creative.](https://ideogram.ai/) 🦩[Ideogram: Helping people become more creative.](https://ideogram.ai/) 
+- #[[育儿]]
+    - 带麻豆去体校体验篮球，决定报名，每周学六次，感觉强度有点大
+    - 去朝阳公园骑了一会车
+    - 带麻豆做编程题目
