@@ -1,5 +1,5 @@
 - #[[工作]]
-    - 下午阿正老师来访
+    - 下午阿正老师来
 - Imported Quick Capture items:
     - Untitled0.ipynb - Colaboratory
         - Annotations:
