@@ -15,5 +15,4 @@
 * [中文播客榜](https://sspai.com/link?target=https%3A%2F%2Fxyzrank.com%2F%23%2F)
 * [一些不错的中文播客 podcasts](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2Ffffx%2Fawesome-chinese-podcasts)
 * [华语播客专辑](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2FtheJian%2FCollection-of-Chinese-Podcasts)
-    - **视频字幕**：对于 YouTube、Bilibili 等网站，存在一些字幕下载工具。比如，下载B站字幕的 [BiliBiliCCSubtitle](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2Fnathanli97%2FBiliBiliCCSubtitle)，针对通用视频网站字幕下载的 [DownSub](https://sspai.com/link?target=https%3A%2F%2Fdownsub.com%2Fzh%2Fsite%2Fbilibili%2F)、[SaveSubs](https://sspai.com/link?target=https%3A%2F%2Fsavesubs.com%2Fzh) 等。其中，Youtube、视频本身支持**字幕自动生成及翻译服务**。此外，也可以使用 [YouTube™ 双字幕](https://sspai.com/link?target=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fyoutube-dual-subtitles%2Fhkbdddpiemdeibjoknnofflfgbgnebcm%3Fhl%3Dzh-CN) 浏览器插件辅助生成中英文双字幕。至于哔哩哔哩，已经支持了自动翻译字幕功能、双语字幕功能。如果不太满意的话，也可以安装使用**彩云小译**等浏览器插件，自动实时翻译外文字幕。
     - **使用时间戳功能**：在视频的特定时间节点，添加笔记内容。点击对应的时间戳，便可以跳转至特定的视频进度。时间戳功能有助于建立视频节点和笔记内容之间的双向联系。目前，Roam Research、Logseq、Obsidian 等笔记软件提供了基于 Youtube、Bilibili 等视频的时间戳服务。
