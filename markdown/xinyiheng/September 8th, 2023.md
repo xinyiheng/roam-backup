@@ -1,3 +1,1 @@
-- 
-- https://www.bing.com/🦩[Chrome Web Store - Extensions](https://chrome.google.com/webstore/category/extensions?hl=en-GB) 
-- https://chat.openai.com/
+- 并不是所有的网站
