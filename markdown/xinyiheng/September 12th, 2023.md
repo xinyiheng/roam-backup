@@ -7,3 +7,7 @@
     - 搬运了一条twitter上的吉卜力风格的视频
     - 自己投稿了一个使用pika lab的camera控制功能创作的视频
     - [Prompt Basic Structure | Learning Prompt --- 提示 基本结构 | 学习提示](https://learningprompt.wiki/docs/midjourney/mj-tutorial-basics/midjourney-basics-prompt)
+    - 尝试将视频转化为动画风格
+        - stable diffusion
+        - codef
+        - 
