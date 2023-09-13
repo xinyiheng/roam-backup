@@ -7,15 +7,11 @@
         - 第二，前后的断代，可以说有着“几百年的历史”之类的词汇来形容这个品牌有点夸张，现在我们所用到的MOLESKINE，始于1996年以后。
         - 第三，在以前，moleskine确切的来说并不是一个牌子，确切的来说，是一种本子款式。人们统一将这种绑着皮筋的小本子叫作moleskine，而如今的MOLESKINE已经是一个品牌。
         - [原文链接](https://www.zhihu.com/question/19555454)
-    - 什么是品牌智能直播间_品牌智能直播间-阿里云帮助中心
-        - Annotations:
-
-* 什么是品牌智能直播间
-
-
-
-https://help.aliyun.com/document_detail/272512.html?spm=a2c4g.272510.4.1.14a131d6M4M3uL&scm=20140722.H_272512._.ID_272512-OR_rec-
-V_1 [Email Body](https://files.todoist.com/cusHR1QjcWZVeDQMCubISRK4xjgnjfeV9hm_DowvaTikzV3CtgsUzU03SXTIxSR-/by/21878347/as/file.html)
-- 
+- #[[技能]]
+    - 清理b站上关注的账号，终于减少到比粉丝少的程度了。感觉也是很好的断舍离过程。
+- #[[育儿]]
+    - 麻豆班级今天又调座位了，麻豆好像是去了第六排
+    - 麻豆今天收到老师表扬了，说在什么位置坐都很听话。麻豆很开心。不过今天班级里有6个去看电影的名额，没有麻豆，他有些失望。
+    - 麻豆在体校的篮球服到了，今天第一次穿着去。上衣是双面的，外边是绿色，里面是粉色，昨天还以为就是粉色的。
 - [AiRoad](https://airoad.io/tools) 🗒@评论:人工智能工具大全
 - [Tools for better thinking | Untools](https://untools.co/) 🗒@评论:思考模型 
