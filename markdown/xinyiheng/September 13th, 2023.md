@@ -12,6 +12,8 @@
 - #[[育儿]]
     - 麻豆班级今天又调座位了，麻豆好像是去了第六排
     - 麻豆今天收到老师表扬了，说在什么位置坐都很听话。麻豆很开心。不过今天班级里有6个去看电影的名额，没有麻豆，他有些失望。
-    - 麻豆在体校的篮球服到了，今天第一次穿着去。上衣是双面的，外边是绿色，里面是粉色，昨天还以为就是粉色的。
+    - 麻豆在体校的篮球服到了，今天第一次穿着去。上衣是双面的，外边是绿色，里面是粉色，昨天还以为就是粉色的。s
+    - aThe man's eyes in the scene are full of passion, as if they could ignite everything.🦩[(249) Discord | #generate-1 | Pika](https://discord.com/channels/1123665496148017235/1123665843365093487/1151547307171528744) 
+    - 
 - [AiRoad](https://airoad.io/tools) 🗒@评论:人工智能工具大全
 - [Tools for better thinking | Untools](https://untools.co/) 🗒@评论:思考模型 
