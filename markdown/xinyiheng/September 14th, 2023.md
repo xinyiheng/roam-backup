@@ -1,0 +1,2 @@
+- 
+- background of the scene is a tranquil pasture, with a herd of cows grazing in the distance🦩[(262) Discord | #newbies-4 | Midjourney](https://discord.com/channels/662267976984297473/976997386436104202/1151695062326071327) 
