@@ -1,0 +1,3 @@
+- Imported Quick Capture items:
+    - 實體娃娃的入門介紹視頻，打開新世界大門的鑰匙 - YouTube
+        - https://www.youtube.com/watch?v=E2BXZ6dfmG4 [Email Body](https://files.todoist.com/nj7jAiYTx3DtN03b4NdE7nO7Ilh87LyySB-NcnYpUCrfZB0Ov1LEjtVaVnXZghpV/by/21878347/as/file.html)
