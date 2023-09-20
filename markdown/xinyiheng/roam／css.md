@@ -1,13 +1,5 @@
 - ```css
-/* 默认隐藏所有卡片 */
-.flow-mode .roam-article > div:first-child .roam-block-container {
-    display: none;
-}
 
-/* 只显示第一张卡片 */
-.flow-mode .roam-article > div:first-child .roam-block-container:first-of-type {
-    display:fixed;
-}
 /* 修改reference部分的背景颜色 */
 .rm-reference-item {
     background-color: rgba(255,255,255,0)
