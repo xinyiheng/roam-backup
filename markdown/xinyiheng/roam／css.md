@@ -24,6 +24,8 @@ Background-color:#F9EC7BA5;
     border-radius: 10px;
      box-shadow: 8px 8px 16px 0 rgb(0 0 0 / 22%), -8px -8px 16px 0 rgb(16 22 26 / 0%)!important;
 }
+
+
 /*修改右侧边栏背景样式*/
 .sidebar-content {
   background:#F99F8328
