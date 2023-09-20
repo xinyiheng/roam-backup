@@ -1,5 +1,13 @@
 - ```css
+/* 默认隐藏所有卡片 */
+.flow-mode .roam-article > div:first-child .roam-block-container {
+    display: none;
+}
 
+/* 只显示第一张卡片 */
+.flow-mode .roam-article > div:first-child .roam-block-container:first-of-type {
+    display:fixed;
+}
 /* 修改reference部分的背景颜色 */
 .rm-reference-item {
     background-color: rgba(255,255,255,0)
@@ -7,6 +15,7 @@
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue){
   margin:10px 20px 10px 10px;
 }
+
 /*修改引用的样式*/
 .rm-bq {
   font-family:简宋!important;
