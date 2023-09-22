@@ -1,0 +1,1 @@
+- [When GPT meet visualization — Generating charts, images, and videos in one sentence | by Xuanhun | Sep, 2023 | Medium --- 当 GPT 遇到可视化--一句话生成图表、图像和视频 | 作者：Xuanhun | 2023年9月 | Medium](https://medium.com/@xuanhun9/when-big-models-meet-visualization-generating-charts-images-and-videos-in-one-sentence-8b434208758e)
