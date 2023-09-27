@@ -1,0 +1,7 @@
+- Full Title:: Change Your Focus, Change the Future
+- Category:: #articles
+- URL:: [🔗](https://newsletter.osv.llc/p/change-your-focus-change-the-future?r=4emk&utm_campaign=post&utm_medium=email)
+- ### Highlights first synced by #Readwise [[September 27th, 2023]]
+    - You become what you focus on. ([View Highlight](https://read.readwise.io/read/01hbbdxzez1n0v4nm0mwztxczm))
+    - talking points ([View Highlight](https://read.readwise.io/read/01hbbe2cz7amstadqdsa7edfk9))
+    - This is one of the biggest frustrations I have with behavioral finance. We’ve *known* about all of this for over 70 years. Book after book, article after article, explanation after explanation, have been published and published and read and read, and yet, very few of us manage to change our behavior. ([View Highlight](https://read.readwise.io/read/01hbbe4qzez4v4n0wkw54yeyej))

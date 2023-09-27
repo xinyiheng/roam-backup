@@ -1,0 +1,10 @@
+- Full Title:: 链家降中介费，有买房者哭晕了
+- Category:: #articles
+- URL:: [🔗](https://mp.weixin.qq.com/s?__biz=MTA3NDI5ODU0MQ==&mid=2656000665&idx=1&sn=5ffd6f8b2f67bd258f8c81a45e3f344f&chksm=738c735b44fbfa4d0aabd751b4dcce343bb4977ceb5ec24665689ab691a6473572f8531fdcb8)
+- ![](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_458621/0)
+- ### Highlights first synced by #Readwise [[September 27th, 2023]]
+    - 从目前来看，尽管我国多数城市，都是买卖双方共同承担中介费，但也有买家单方承担中介费的城市，比如北京。“北京长期以来由买家单方承担佣金，这加重了购房人负担。” ([View Highlight](https://read.readwise.io/read/01hbbe9xs9c8w4yak7897nbsjp))
+    - “中介费从2.7%下降至2%，相当于我们的收入，一下子降了25.9%。”链家房产中介郭燃告诉「市界」，链家是分段提佣的。“经纪人的提佣，在之前就降低了，这一次中介费下调，不知道提佣会不会有变化。” ([View Highlight](https://read.readwise.io/read/01hbbed03jn2smj5d1kf7rd1rr))
+- ### New highlights added [[September 27th, 2023]] at 10:01 PM
+    - 空白研究院创始人杨现领有自己的看法。他认为，目前北京房源在售量超过16万，在售房源去化周期超过12个月，只有不到10%的房子具备真正可售的机会。 ([View Highlight](https://read.readwise.io/read/01hbbek0k8zvqg1h9z6gapfjgv))
+    - “与此同时，二手房的挂牌价到成交价的降价空间普遍在10%左右。所以市场担心卖方将1%的中介费转嫁到买方身上的情况，也基本不会存在。交易摩擦成本降低，买卖双方的博弈也会减少。现在市场已经有卖方主动承担一部分中介费的情况。”杨现领提到。 ([View Highlight](https://read.readwise.io/read/01hbbekghajm3k6m5v53d4qktf))
