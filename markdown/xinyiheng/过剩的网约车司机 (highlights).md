@@ -1,0 +1,9 @@
+- Full Title:: 过剩的网约车司机
+- Category:: #articles
+- URL:: [🔗](https://qnmlgb.tech/v1/articles?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcnRpY2xlX2lkIjoiNjQ5NGUyZTA0OGVmYzhlNDNkOTAyZjhhIiwidXNlcl9pZCI6IjVkMmU1OTQ2NDk3ZmY0NWNlNjlmZjdmYSJ9.0SgTnFn2Ihkodm-SOmwJpBCd-stnC9NKIVV07qK2jl4)
+- ### Highlights first synced by #Readwise [[September 28th, 2023]]
+    - 他的精力都用在开车赚钱上，从出车到收车，一天要在车上18个小时，他是其他网约车司机嘴里“快要住在车上”的人。 ([View Highlight](https://read.readwise.io/read/01hbd3tsxk7qsphn330m44jkmf))
+    - 老黄今年37岁，一个月不休息，刨去成本，能靠开网约车到手拿到2万到2万5千元左右，这笔钱是靠每单平均20块的特惠订单攒出来的。**这是多数快车司机痛恨，却不得不接的。**老黄比其他人坦然，抢短途的特惠单，一公里赚2块钱，他不嫌便宜。每天跑个“一管半”，即电车充一次电，跑1.5倍续航，大约700公里，刨去空跑的里程，一天还能有500—600公里的跑车距离。 ([View Highlight](https://read.readwise.io/read/01hbd3taysknspfkc3r08kdqbs))
+    - 平台的目的只有一个：为了试出这个价格低到多少，才既有人接单，又能保持价格优势。 ([View Highlight](https://read.readwise.io/read/01hbd3xkwvdkyacr76rdzsafxn))
+    - 王振坚持下去的理由是他起码在用自己的车干活，而一些在上海租车的网约车司机，每月光租金就要付掉6000—7200元左右，加上吃饭，租房，一些网约车司机最后到手只剩六七千元，有些人指望这份工作养老婆孩子一家。 ([View Highlight](https://read.readwise.io/read/01hbd3z1hhdhh4g45d6v0dr2tj))
+    - 2023年5月，“人证”数量已经是2020年10月末的2倍，但订单量的总增长只有16.67%。 ([View Highlight](https://read.readwise.io/read/01hbd44pwssvwmm5thef0rxkbf))
