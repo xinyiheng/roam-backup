@@ -1,0 +1,6 @@
+- Full Title:: The Written Word
+- Category:: #articles
+- URL:: [🔗](https://collabfund.com/blog/the-written-word/)
+- ### Highlights first synced by #Readwise [[September 28th, 2023]]
+    - **Good writing is a performance**. ([View Highlight](https://read.readwise.io/read/01hbcqbmzhkvq92ask3c1smek2))
+    - Writing is an efficiency game ([View Highlight](https://read.readwise.io/read/01hbcq94wwahztnpr19v5knpw8))
