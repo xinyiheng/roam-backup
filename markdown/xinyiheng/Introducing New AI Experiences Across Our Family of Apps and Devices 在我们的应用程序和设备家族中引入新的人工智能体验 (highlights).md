@@ -1,0 +1,5 @@
+- Full Title:: Introducing New AI Experiences Across Our Family of Apps and Devices 在我们的应用程序和设备家族中引入新的人工智能体验
+- Category:: #articles
+- URL:: [🔗](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/)
+- ### Highlights first synced by #Readwise [[September 28th, 2023]]
+    - Meta AI 是一个全新的助手，您可以像与人互动一样与它互动，它可以在 WhatsApp、Messenger、Instagram 上使用，并即将在雷朋 Meta 智能眼镜和 Quest 3 上使用。 ([View Highlight](https://read.readwise.io/read/01hbdhfw9ar4w7ndc1ra87821r))
