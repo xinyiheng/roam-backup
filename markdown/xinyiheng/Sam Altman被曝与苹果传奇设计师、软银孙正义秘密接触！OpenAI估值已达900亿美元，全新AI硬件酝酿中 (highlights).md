@@ -1,0 +1,7 @@
+- Full Title:: Sam Altman被曝与苹果传奇设计师、软银孙正义秘密接触！OpenAI估值已达900亿美元，全新AI硬件酝酿中
+- Category:: #articles
+- URL:: [🔗](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652385378&idx=2&sn=a96d760725bd65795efef15af0ec49a1&chksm=f12b4493c65ccd857e2f994092af8e439a843c14fed0e34f45281aae82c6c4d31e25d6839036)
+- ### Highlights first synced by #Readwise [[September 28th, 2023]]
+    - 刚刚有外媒曝出，OpenAI CEO Sam Altman正在和前苹果首席设计师Jony Ive和软银集团CEO孙正义两人私下接触，据说是计划搞出全新的AI硬件产品。 ([View Highlight](https://read.readwise.io/read/01hbdtdmmvdac6dj50qe9cayqs))
+    - ![Image](https://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb1TD0MmK75riarQFUAxTTUJzNm8lDib9HySTwiaphkXCLOyX4zyJAaiaOKMDgHiaWXpHHAdqe7AnOoib4Cg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1) ([View Highlight](https://read.readwise.io/read/01hbdtd843s4k0xh4p1e6fw0e2))
+    - ![Image](https://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb1TD0MmK75riarQFUAxTTUJzUL3anmExwhJWTWF4ic2ZYibTo7hEQLyID7gDF5SjggNCNINsfa8krs0g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1) ([View Highlight](https://read.readwise.io/read/01hbdtcyv74byrnw722p5p34k2))
