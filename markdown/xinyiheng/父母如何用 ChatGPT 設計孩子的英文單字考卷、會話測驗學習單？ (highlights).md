@@ -1,0 +1,6 @@
+- Full Title:: 父母如何用 ChatGPT 設計孩子的英文單字考卷、會話測驗學習單？
+- Category:: #articles
+- URL:: [🔗](http://www.playpcesor.com/2023/09/ChatGPT-Quiz.html)
+- ### Highlights first synced by #Readwise [[September 29th, 2023]]
+    - ![](https://blogger.googleusercontent.com/img/a/AVvXsEjm_dwk9jKx00O4l4819zDzrFjKjJ3abKd6tRXgxye48ORZFtSG8-LbmKEejh5V97UHzRKql6qtBGY7FgMOsqLKnQSqubiIcCAtxZx4AOwtmE4lKxuuLbYyIqd_9pecSy0lsG0HFINelRUFtNm1qDAuV47JO59qllkG_NbFacGKQieiREjzvU1xuQ=w640-h368) ([View Highlight](https://read.readwise.io/read/01hbfhrcft7b5tcfgp3m57ezq5))
+    - ![](https://blogger.googleusercontent.com/img/a/AVvXsEg1bSpqc3IEyd0hqVPDgjzrRkeTNtyi_Blc5O2tNcVUc6Cq0o6k5POWpGvekyvwZ73OlRba26UYuiC_MezF-EO2pUObL54-U4Yhbllv50Z0sKda8a5P3epuf1ZpQQVq5vMSLPpwhrEMuNm1X-HwjOUXosr-RJATZitAxZqY5K0YPL-xT7tWFATlAw=w640-h296) ([View Highlight](https://read.readwise.io/read/01hbfhqxek461g37pvt9am4ccw))
