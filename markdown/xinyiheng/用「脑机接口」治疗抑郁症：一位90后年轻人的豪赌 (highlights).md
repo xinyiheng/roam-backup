@@ -1,0 +1,5 @@
+- Full Title:: 用「脑机接口」治疗抑郁症：一位90后年轻人的豪赌
+- Category:: #articles
+- URL:: [🔗](https://qnmlgb.tech/v1/articles?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcnRpY2xlX2lkIjoiNjUxMzhlZmI0OGVmYzhlNDNkNThhNjM0IiwidXNlcl9pZCI6IjVkMmU1OTQ2NDk3ZmY0NWNlNjlmZjdmYSJ9.etPHJJy9Gp_XgVS_grAn-FsI-TXflgLOc8gHyBBLLUs)
+- ### Highlights first synced by #Readwise [[September 29th, 2023]]
+    - 研究表明，一位使用大脑刺激治疗抑郁症长达7年的患者，在焦点小组中表示对自身身份倍感困惑，开始怀疑他与他人交往方式是自主决定的，还是由所佩戴设备所决定。这 ([View Highlight](https://read.readwise.io/read/01hbf0cqgnh8716qwv1av0g5k3))
