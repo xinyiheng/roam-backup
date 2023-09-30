@@ -1,0 +1,5 @@
+- Full Title:: 我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起
+- Category:: #articles
+- URL:: [🔗](https://sspai.com/post/83198)
+- ### Highlights first synced by #Readwise [[September 30th, 2023]]
+    - ![](https://cdn.sspai.com/2023/09/25/a01c0b40603378f9b4a105023dad216c.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) ([View Highlight](https://read.readwise.io/read/01hbhjn47a6dtggnnw8rtp35ad))
