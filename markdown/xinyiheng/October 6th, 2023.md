@@ -1,6 +1,7 @@
 - 
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FdjLy-rpKce.jpeg?alt=media&token=dc66797c-5c50-49fc-a457-e100eecb92b8)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FC8pG1_AEz-.jpeg?alt=media&token=26edb46f-cdb5-4910-9a65-9ba9c8ca764d)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FbfIJsFbjFk.jpeg?alt=media&token=4f2d0c35-27b7-405b-aa7d-dbdfe4f00d83)
 - Imported Quick Capture items:
     - ChatGPT
         - Annotations:
