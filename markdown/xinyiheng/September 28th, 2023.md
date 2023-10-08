@@ -27,3 +27,5 @@ https://weekly.caixin.com/2021-09-18/101774969.html [Email Body](https://files.t
 
 
 https://weekly.caixin.com/2021-09-18/101774972.html?p0 [Email Body](https://files.todoist.com/nUIskgJE5GSjXJZuLSg0uJhWTu-1EiFsv4nsj6s0rzDaYw_4Hg2qIzzRsU6FPNPU/by/21878347/as/file.html)
+- #[[人际]]
+    - 方老师带着月饼来公司，我请大家去咖啡馆，在外边聊了一下午
