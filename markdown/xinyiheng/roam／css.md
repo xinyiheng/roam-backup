@@ -7,7 +7,28 @@
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue){
   margin:10px 20px 10px 10px;
 }
+.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
+    /* 调整便签的外观 */
+    background-color: #FFEB3B;
+    border: 1px dashed #FFC107; /* 使用虚线边框模拟手撕纸的效果 */
+    padding: 15px 20px;
+    position: relative; /* 设置为relative，以便之后的图钉样式可以正确定位 */
+    border-radius: 5px; /* 为便签增加轻微的圆角 */
 
+    /* 为便签增加阴影效果 */
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+/* 添加图钉样式 */
+.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue)::before {
+    content: '';
+    width: 24px; /* 根据图钉图片的大小调整 */
+    height: 24px; /* 根据图钉图片的大小调整 */
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F0WJTr89C1L.png?alt=media&token=6210c70c-637b-4705-bc16-08fa96e7adf7');
+    background-size: cover; /* 确保图片完整地覆盖整个区域 */
+    position: absolute;
+    top: -10px;
+    left: 100px;
+}
 /*修改引用的样式*/
 .rm-bq {
   font-family:简宋!important;
@@ -89,7 +110,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 }
 /*修改笔记主题的字体*/
 div {
-    font-family:简宋!important;
+    font-family: 宋体!important;
 }
 
 :root {
@@ -214,7 +235,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 /* 笔记处于行选中状态时，卡片呈现的样式 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
-background-color:#EF1529A3;
+background-color:#9C1A26;
   border-radius: 10px;
  margin: 10px 20px 10px 20px;
   padding: 10px 0 10px 0;
