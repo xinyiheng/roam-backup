@@ -2,6 +2,7 @@
 #[[prompt]]
 - 
 - 
+- [Chrome 应用商店 - 搜索结果](https://chromewebstore.google.com/search/gramar?hl=zh-CN)
 - Imported Quick Capture items:
     - Artificial Intelligence: Threat, Opportunity, and Shimmr
         - Annotations:
