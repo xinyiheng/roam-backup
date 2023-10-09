@@ -9,8 +9,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 }
 .rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
     /* 调整便签的外观 */
-    background-color: #FFEB3B;
-    border: 1px dashed #FFC107; /* 使用虚线边框模拟手撕纸的效果 */
+    background-color: #CEF89E!important;
     padding: 15px 20px;
     position: relative; /* 设置为relative，以便之后的图钉样式可以正确定位 */
     border-radius: 5px; /* 为便签增加轻微的圆角 */
@@ -27,7 +26,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     background-size: cover; /* 确保图片完整地覆盖整个区域 */
     position: absolute;
     top: -10px;
-    left: 100px;
+    left: 300px;
 }
 /*修改引用的样式*/
 .rm-bq {
@@ -110,7 +109,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 }
 /*修改笔记主题的字体*/
 div {
-    font-family: 宋体!important;
+    font-family: 简宋!important;
 }
 
 :root {
@@ -152,9 +151,7 @@ a {
 }
 /*修改最顶端栏目的背景*/
 .rm-topbar {
-  background-size:100%;
-  
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9d28jUaTRF.jpg?alt=media&token=d238cc32-e9a5-4263-a24e-e1b5d1e9f178
+   background-color:#09507100;
     );
 }
 /*修改unlinked references字体颜色*/
@@ -211,7 +208,7 @@ textarea {
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
      background-size:100% 100%;
      
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9d28jUaTRF.jpg?alt=media&token=d238cc32-e9a5-4263-a24e-e1b5d1e9f178
+  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fuu6OOl7bAb.png?alt=media&token=5b7d52f6-bd48-4f4e-93d8-0a94a0b9852f
   );
    
 }
@@ -235,7 +232,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 }
 /* 笔记处于行选中状态时，卡片呈现的样式 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
-background-color:#9C1A26;
+background-color:;
   border-radius: 10px;
  margin: 10px 20px 10px 20px;
   padding: 10px 0 10px 0;
@@ -244,7 +241,7 @@ background-color:#9C1A26;
 /* 笔记中包含光标时，卡片的样式*/
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
-  background-color: #F2E9E96D;
+background-color: #F2E9E96D;
  border-radius:10px;
   box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0!important;
     margin: 10px 20px 10px 20px;

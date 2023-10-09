@@ -10,4 +10,4 @@
     - 《给我100天，大多数事都能成》二校返稿
 - [在浏览器里使用机械翻译和电子词典 - 少数派](https://sspai.com/post/83385)🗒 #[[翻译]]
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F0WJTr89C1L.png?alt=media&token=6210c70c-637b-4705-bc16-08fa96e7adf7)
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F4GFf9-FOqP.png?alt=media&token=28042e04-f3d0-4805-987e-f4a13a85c866)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fuu6OOl7bAb.png?alt=media&token=5b7d52f6-bd48-4f4e-93d8-0a94a0b9852f)
