@@ -4,6 +4,15 @@
 .rm-reference-item {
     background-color: rgba(255,255,255,0)
 }
+
+/* 修改标签的字体并隐藏# */
+.rm-page-ref--tag{font-family:简宋!important;
+                  }
+
+
+}
+
+
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue){
   margin:10px 20px 10px 10px;
 }
