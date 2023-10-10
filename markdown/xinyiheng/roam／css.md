@@ -9,7 +9,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 }
 .rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
     /* 调整便签的外观 */
-    background-color: #CEF89E!important;
+    background-color: #8BC34A00!important;
     padding: 15px 20px;
     position: relative; /* 设置为relative，以便之后的图钉样式可以正确定位 */
     border-radius: 5px; /* 为便签增加轻微的圆角 */
