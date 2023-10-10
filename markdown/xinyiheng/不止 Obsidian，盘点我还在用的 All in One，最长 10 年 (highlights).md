@@ -4,3 +4,5 @@
 - ### Highlights first synced by #Readwise [[October 10th, 2023]]
     - > An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more. ([View Highlight](https://read.readwise.io/read/01hcccf6nezae7rrrgh1xy4p4j))
     - 插件类拓展 ([View Highlight](https://read.readwise.io/read/01hcccgkwavpe093pvmmf9f7ea))
+- ### New highlights added [[October 10th, 2023]] at 5:14 PM
+    - 在使用过程中，我会不断根据自身工作流程对笔记进行调整，这次更多是对一些新用途的补充，主要依赖插件 [Custom Frame](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2FEllpeck%2FObsidianCustomFrames)。 ([View Highlight](https://read.readwise.io/read/01hccd8v6adeehz6t941ezftv4))
