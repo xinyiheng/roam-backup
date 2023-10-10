@@ -1,0 +1,6 @@
+- Full Title:: 不止 Obsidian，盘点我还在用的 All in One，最长 10 年
+- Category:: #articles
+- URL:: [🔗](https://sspai.com/post/83315)
+- ### Highlights first synced by #Readwise [[October 10th, 2023]]
+    - > An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more. ([View Highlight](https://read.readwise.io/read/01hcccf6nezae7rrrgh1xy4p4j))
+    - 插件类拓展 ([View Highlight](https://read.readwise.io/read/01hcccgkwavpe093pvmmf9f7ea))
