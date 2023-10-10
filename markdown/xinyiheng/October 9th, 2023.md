@@ -11,3 +11,7 @@
 - [在浏览器里使用机械翻译和电子词典 - 少数派](https://sspai.com/post/83385)🗒 #[[翻译]]
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F0WJTr89C1L.png?alt=media&token=6210c70c-637b-4705-bc16-08fa96e7adf7)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fuu6OOl7bAb.png?alt=media&token=5b7d52f6-bd48-4f4e-93d8-0a94a0b9852f)
+- 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FZ0gk7T0KBj.png?alt=media&token=4c568164-a2ba-4623-867a-feaf1489080b)
+    - 
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FzA1TYVCcp3.png?alt=media&token=04f5aafa-92cb-495b-859f-357b6b2c842f)

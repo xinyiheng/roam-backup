@@ -160,8 +160,8 @@ a {
 }
 /*修改最顶端栏目的背景*/
 .rm-topbar {
-   background-color:#09507100;
-    );
+   background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FZ0gk7T0KBj.png?alt=media&token=4c568164-a2ba-4623-867a-feaf1489080b);
+    background-size:100% 100%;
 }
 /*修改unlinked references字体颜色*/
 strong {
@@ -217,8 +217,8 @@ textarea {
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
      background-size:100% 100%;
      
-  background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fuu6OOl7bAb.png?alt=media&token=5b7d52f6-bd48-4f4e-93d8-0a94a0b9852f
-  );
+  background-image:url(
+  https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fuu6OOl7bAb.png?alt=media&token=5b7d52f6-bd48-4f4e-93d8-0a94a0b9852f);
    
 }
 /*设置左侧边栏背景色*/
