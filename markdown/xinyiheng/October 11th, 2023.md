@@ -3,6 +3,7 @@
 - #[[技能]]
     - chatgpt给我开通dall 3的权限了，试用了一下，感觉并没有那么好用，可能和我的网速很慢有关。
     - 今天获得了chatgpt的语音对话功能，感觉和真人说话非常类似，有些激动。可以用它来训练和麻豆日常对话，学习英语
+    - 感觉抖音的带货短视频才是抖音变现的最重要的方式啊。所谓粉丝量看起来根本就不重要，重要的可能是标签和产品的匹配度。
 - Imported Quick Capture items:
     - (1) X 上的 歸藏：“Adobe发布了firefly image 2 Beta测试版本，增加了非常多的功能，模型质量也强了好多，卷起来了。我试了一下发现image 2模型的图片分辨率默认居然是2048*2048的，太强了。 图片是image 1、image 2和DALL-E 3相同提示词的对比。 这次更新的主要功能有： Firefly image 2 模型： 具有更高​质量​的​图像… https://t.co/sz7xepnmh1” / X
         - [原文链接](https://promptperfect.jina.ai/a/NEW
