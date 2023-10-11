@@ -6,4 +6,4 @@
     - (1) X 上的 歸藏：“Adobe发布了firefly image 2 Beta测试版本，增加了非常多的功能，模型质量也强了好多，卷起来了。我试了一下发现image 2模型的图片分辨率默认居然是2048*2048的，太强了。 图片是image 1、image 2和DALL-E 3相同提示词的对比。 这次更新的主要功能有： Firefly image 2 模型： 具有更高​质量​的​图像… https://t.co/sz7xepnmh1” / X
         - [原文链接](https://promptperfect.jina.ai/a/NEW
         - Tags: 知识管理 笔记 工具
-        - [原文链接](https://twitter.com/op7418/status/1711785830623428897)
+        - [原文链接](https://twitter.com/op7418/status/1711785830623428897)[新标签页](chrome://new-tab-page/)
