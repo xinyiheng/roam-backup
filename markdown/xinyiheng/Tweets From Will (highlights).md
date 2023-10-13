@@ -54,3 +54,48 @@ youtube是更复杂，更深度的生态。调研了几个产品，7成用户来
 
 **结论与建议:**
 推特是一个强大的工具，它为AI领域的专业人士提供了一个信息交流和个人发展的平台。通过合理利用推特，人们不仅能够保持对AI领域的前沿了解，还能够建立和展示自己的专业品牌。同时，也建议投资者和专业人士通过推特来探索新的投资和发展机会，以及了解和分析市场的最新动态。 ([View Tweet](https://twitter.com/FinanceYF5/status/1711441029050884292))
+- ### New highlights added [[October 13th, 2023]] at 9:33 AM
+    - 刚刚发现DALL-E 3真的很擅长做贴纸设计。
+
+您可以一次生成一整包贴纸！
+
+这是提示：
+9 different stickers featuring [objects] with vibrant colors and white borders on a minimal background.
+9 种不同的贴纸，以[物体]为特色，在最小的背景上具有鲜艳的色彩和白色边框。
+
+3个额外提示：
+
+1. 有时贴纸边框是方形的。
+
+如果您希望围绕设计边缘切割边框，请在提示中添加"die cut"“模切”一词。
+
+2. 您可以在提示中显示多个对象。
+
+例如：
+- crazy ninja cats fighting chickens 
+- christmas trees, reindeer, baubles and snowflakes
+- 疯狂的忍者猫打鸡
+- 圣诞树、驯鹿、小玩意和雪花
+
+下图 ALT 中的更多示例。
+
+3. 将它们变成WA贴纸：
+
+a) 使用 Clipdrop 删除背景。
+b) 剪掉每个贴纸。
+c) 使用免费工具，例如 WA Sticker Maker。
+
+Prompts:
+
+9 different stickers featuring cacti and succulents with vibrant colors and white borders on a minimal background
+
+9 different stickers featuring crazy ninja cats fighting chickens with vibrant colors and white borders on a minimal background
+
+9 different stickers featuring desserts, fruits and cakes with vibrant colors and white borders on a minimal background
+
+9 different stickers featuring Christmas trees, reindeer, baubles and snowflakes with vibrant colors and white borders on a minimal background
+
+目前为止就这样了。我希望您觉得这很有用！
+
+原作者：
+@chaseleantj ([View Tweet](https://twitter.com/FinanceYF5/status/1712322313981677797))
