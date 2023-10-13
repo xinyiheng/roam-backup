@@ -1,6 +1,6 @@
 - ### cache
     - [[memo]]
-        - lastCompletedDate:: October 10th, 2023
+        - lastCompletedDate:: October 13th, 2023
 - ### cache
     - [[memo]]
         - lastCompletedDate:: August 23rd, 2023
@@ -99,6 +99,12 @@
             - repetitions:: 1
             - grade:: 5
     - roam memo加入的内容太多的话确实会roam变得很卡顿。如果每天复习的内容超过100个，那么daily note打开速度明显就会变慢。虽然很舍不得，但我还是把它删除了。间隔复习还是要做，看看怎么实现吧。先开始做起来再改进。这个插件还可以使用，但要注意每天添加的内容不能太多。#[[memo]] 
+        - [[October 13th, 2023]] 🔵
+            - nextDueDate:: [[July 7th, 2024]]
+            - eFactor:: 2.6
+            - interval:: 268
+            - repetitions:: 7
+            - grade:: 4
         - [[June 6th, 2023]] 🔵
             - nextDueDate:: [[October 13th, 2023]]
             - eFactor:: 2.6
