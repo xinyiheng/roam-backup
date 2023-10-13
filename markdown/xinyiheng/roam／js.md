@@ -19,19 +19,17 @@ document.addEventListener('keydown', function(e) {
 function togglerandom() {
     // 弹出对话框询问用户要查询的data-page-title
     var pageTitle = prompt("请输入要查询的data-page-title：");
-    console.log("输入的data-page-title:", pageTitle);
 
     // 使用Roam API查询特定data-page-title下的block
     var blocks = window.roamAlphaAPI.q(`[:find [(rand 1 ?block-uid)] :where [?e :block/page ?page-title] [?e :block/uid ?block-uid] [(= "${pageTitle}" ?page-title)]]`);
-    console.log("查询结果:", blocks);
 
-    // 如果找到了block
-    if (blocks.length > 0) {
+    // 检查blocks变量的值
+    if (blocks && blocks.length > 0) {
         var randomBlockUid = blocks[0][0];
-        console.log("随机选择的block UID:", randomBlockUid);
         window.roamAlphaAPI.ui.mainWindow.openBlock({ block: { uid: randomBlockUid } });
     } else {
         alert("未找到与该data-page-title匹配的block。");
     }
 }
+
 ```
