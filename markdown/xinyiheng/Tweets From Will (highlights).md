@@ -60,7 +60,8 @@ youtube是更复杂，更深度的生态。调研了几个产品，7成用户来
 您可以一次生成一整包贴纸！
 
 这是提示：
-9 different stickers featuring [objects] with vibrant colors and white borders on a minimal background.
+-
+    - 
 9 种不同的贴纸，以[物体]为特色，在最小的背景上具有鲜艳的色彩和白色边框。
 
 3个额外提示：
