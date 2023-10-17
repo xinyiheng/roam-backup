@@ -1,0 +1,5 @@
+- Full Title:: Adobe 老树开新花：生成式 AI 功能一站式体验
+- Category:: #articles
+- URL:: [🔗](https://sspai.com/post/83561)
+- ### Highlights first synced by #Readwise [[October 17th, 2023]]
+    - 是时候来验证一下它的可用性了，到底能不能给设计师的工作添砖加瓦，能不能扭转大家的心理认知，是骡子是马就拉过来遛遛好了。
