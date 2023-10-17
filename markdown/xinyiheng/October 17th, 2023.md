@@ -34,3 +34,11 @@ harnessing the power of technology to enhance your own cognitive abilities.
 
 
 https://chat.openai.com/share/e52c1293-1e2d-48cd-a903-b34c9fcdd59b [Email Body](https://files.todoist.com/NwbD-wbMAKx9mAApHg6A5BJ3-lh5UVOqDEotzG7GE7WnbNJI-CM8sGiM4ftceZr7/by/21878347/as/file.html)
+    - 简悦 | 学海无涯但不用苦做舟：打造我的学习能力与通路系统
+        - Annotations:
+
+* 原则：硬核内容 + 兴趣探索 + 广义信息流 = 有效信息饱腹感
+
+
+
+http://localhost:7026/reading/43 [Email Body](https://files.todoist.com/zzU-2pZLY6WcmU0Vy8XVfLuHSsO8elJXZLqS3OdUOC-ZSnezTW1EK57hNfCUFjQw/by/21878347/as/file.html)
