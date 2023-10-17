@@ -65,3 +65,11 @@ Deep Chat一个完全可定制的 AI 聊天组件，可以连接到任何API，�
 
 GitHub：https://t.co/8OGeqjOSSM
 网站：https://t.co/rl4wn2G36d ([View Tweet](https://twitter.com/xiaohuggg/status/1713922172559970541))
+- ### New highlights added [[October 17th, 2023]] at 2:10 PM
+    - Pi
+
+现在
+
+可以联网了…👏
+
+可以访问网络上最新的信息了… https://t.co/OrYAEQ0Gan ([View Tweet](https://twitter.com/xiaohuggg/status/1714139977976885398))
