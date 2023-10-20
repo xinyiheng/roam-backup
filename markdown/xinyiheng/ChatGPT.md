@@ -1,5 +1,22 @@
 - 目前无法在中国大陆注册账号，我在淘宝上买了一个账号使用。回答问题的水平比一般人强很多。
 - [ChatGPT](https://chat.openai.com/chat)
+- ChatGPT是一个的大语言模型(LLM)，它的工作原理是怎样的？
+    - [Generative AI exists because of the transformer ](https://ig.ft.com/generative-ai/)
+    - ### 四个难关
+        - 模型如何认识词汇
+            - word embeding
+        - 如何认识词汇之间的关系
+            - 从RNNs到tranformer
+        - 预测的局部最优与全局最优
+            - 逐个选出最好的单词，未必组合生成的文章整体就是最好的，从greedy search到beam search
+        - 如何减少hallucination
+            - 和搜索的事实数据比较，提供出处。grouding
+    - 附加的好处
+        - 不仅可以生成文字，还可以生成图形和音乐
+    - 最关键的一篇论文 attention is all you need ,其中最关键的模型叫作transformer
+    - [Transformers: the Google scientists who pioneered an AI revolution](https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50)
+    - 
+- Generative AI exists because of the transformer --- 生成式人工智能的存在是因为变压器
 - [ChatGPT搭配闪击PPT三分钟生成PPT，你只需要输入一个标题_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oj411G7QV/?spm_id_from=333.1007.tianma.5-3-17.click)
 - #[[参考资料]]
     - [2023年最火的赛道已经出现](https://36kr.com/topics/2111377671047299)

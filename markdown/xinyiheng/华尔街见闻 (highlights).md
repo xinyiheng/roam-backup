@@ -7,7 +7,7 @@
 - Author:: [[wallstreetcn.com]]
 - Full Title:: 华尔街见闻
 - Category:: #articles
-- Document Tags:: #[[chatgpt]] #[[人工智能]]
+- Document Tags:: #[[ChatGPT]] #[[人工智能]]
 - URL:: https://wallstreetcn.com/articles/3680847
 - ### Highlights first synced by #Readwise [[February 2nd, 2023]]
     - ChatGPT vs Claude，聊天机器人大战打响了？

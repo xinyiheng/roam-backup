@@ -81,14 +81,14 @@
         - Tags: 芯片 商业
         - [原文链接](https://www.huxiu.com/article/782933.html)
     - 文案工作者会失业吗？Open AI写作——Obsidian插件TextGenerator
-        - #[[chatgpt]]
+        - #[[ChatGPT]]
         - Obsidian插件TextGenerator
         - [原文链接](https://www.bilibili.com/video/BV1pY411Q7AW/?spm_id_from=333.1007.tianma.2-2-5.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
     - 1个方法，找到领域所有强相关文献、重大节点文献（附超详细案例演示）_哔哩哔哩_bilibili
         - Tags: 科研 connected papers
         - [原文链接](https://www.bilibili.com/video/BV1Es4y1s72f/?spm_id_from=333.1007.tianma.2-1-4.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
     - 用AI艺术和ChatGPT快速创建网页设计｜无需代码
-        - #[[人工智能]] #[[chatgpt]]#[[人工智能画画]]
+        - #[[人工智能]] #[[ChatGPT]]#[[人工智能画画]]
         - 在本视频中，“Codex Community”将使用midjourney,生成网站设计，这是一种用于创建图像的AI艺术工具。然后，将跳到ChatGPT中为网站创建书面内容，最后将所有内容放在Editor X中，这是一个用于创建网站的无编码工具Nocode和人工智能辅助艺术必将成为未来！
         - midjourney：[原文链接](https://www.midjourney.com/) 
 Editor X:[原文链接](https://www.editorx.com/editor-x/codex)
@@ -97,7 +97,7 @@ Editor X:[原文链接](https://www.editorx.com/editor-x/codex)
         - * 把bilibili打造成视频学习的助理网站。
         - [原文链接](https://www.bilibili.com/video/BV1oD4y1E7zU/?spm_id_from=333.1007.tianma.4-1-11.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
     - 与chatGPT 卡片盒交流_哔哩哔哩_bilibili
-        - Tags: #[[chatgpt]]
+        - Tags: #[[ChatGPT]]
         - [原文链接](https://www.bilibili.com/video/BV1iT411f7dJ/?spm_id_from=444.41.list.card_archive.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
     - 影视从业者 AI 工具指南 Midjourney+Chatgpt_哔哩哔哩_bilibili
         - #[[人工智能]] #[[midjourney]]
