@@ -1,3 +1,4 @@
 - #[[技能]] #[[写作]]
     - 语雀也可以当作一个免费建站的工具。我看有人在语雀中分享长篇的内容，展示效果也很棒。
-- #[[]]
+- 
+- https://personalknowledgegraphs.com/?ref=knowledgework.one#/page/pkg#[[]]
