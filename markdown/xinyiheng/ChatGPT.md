@@ -9,7 +9,7 @@
             - 从RNNs到tranformer
         - 预测的局部最优与全局最优
             - 逐个选出最好的单词，未必组合生成的文章整体就是最好的，从greedy search到beam search
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FjW3x-1WwAP.png?alt=media&token=2b859043-565b-4bdc-be01-94d7624627d2)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FjW3x-1WwAP.png?alt=media&token=2b859043-565b-4bdc-be01-94d7624627d2
         - 如何减少hallucination
             - 和搜索的事实数据比较，提供出处。grouding
     - 附加的好处
