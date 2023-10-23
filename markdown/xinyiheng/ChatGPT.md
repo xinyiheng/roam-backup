@@ -9,6 +9,7 @@
             - 从RNNs到tranformer
         - 预测的局部最优与全局最优
             - 逐个选出最好的单词，未必组合生成的文章整体就是最好的，从greedy search到beam search
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FjW3x-1WwAP.png?alt=media&token=2b859043-565b-4bdc-be01-94d7624627d2)
         - 如何减少hallucination
             - 和搜索的事实数据比较，提供出处。grouding
     - 附加的好处
@@ -19,6 +20,8 @@
 - Generative AI exists because of the transformer --- 生成式人工智能的存在是因为变压器
 - [ChatGPT搭配闪击PPT三分钟生成PPT，你只需要输入一个标题_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oj411G7QV/?spm_id_from=333.1007.tianma.5-3-17.click)
 - #[[参考资料]]
+    - [‬⁢⁣⁡‍‍‬‬​⁣⁤‌​⁣⁡‬⁤﻿​﻿‍​​⁡‬﻿‌‍‬﻿‬​‬​⁡﻿⁤​‬‬﻿‬⁢⁤‌‌The Document is All You Need！一站式 LLM底层技术原理入门指南 - 飞书云文档](https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc) 
+🗒@评论:看到的最好的介绍LLM原理的入门资料
     - [2023年最火的赛道已经出现](https://36kr.com/topics/2111377671047299)
     - [ChatGPT搭配闪击PPT三分钟生成PPT，你只需要输入一个标题_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oj411G7QV/?spm_id_from=333.1007.tianma.5-3-17.click)
     - [网友要我们聊聊ChatGPT，其实都是老知识点了](https://mp.weixin.qq.com/s/N4yuqp0zPXjzX4RhQ7Qchg)
