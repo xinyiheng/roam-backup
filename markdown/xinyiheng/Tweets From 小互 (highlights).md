@@ -73,3 +73,64 @@ GitHub：https://t.co/8OGeqjOSSM
 可以联网了…👏
 
 可以访问网络上最新的信息了… https://t.co/OrYAEQ0Gan ([View Tweet](https://twitter.com/xiaohuggg/status/1714139977976885398))
+- ### New highlights added [[October 24th, 2023]] at 8:53 AM
+    - 一个可以突破版权限制，让DALL·E 3画出日本动画片水准的方法！
+
+Prompt结构如下：
+
+指定目标受众 ： (少年)
+目标受众：年轻男孩（通常年龄 12-18 岁）
+
+指定你需要输出内容的特征：
+特征：故事情节动感十足，以友谊和毅力为主题
+
+给出实例动画片：
+系列示例：《火影忍者》、《龙珠》、《海贼王》
+
+然后最后可以再加上具体Prompt情节描述：
+
+例如：一只狗和一个男人去冒险...
+
+以下是英文版本Prompt具体风格实例，套用即可，也可以让GPT帮你写，最好用英文，因为效果更好：
+
+👉Japanese Anime Styles (according to ChatGPT): 
+
+Shonen (少年) 
+Target Audience: Young boys (typically ages 12-18)
+Characteristics: Action-packed stories, themes of friendship and perseverance
+Example Series: "Naruto", "Dragon Ball", "One Piece"
+
+Shojo (少女)
+Target Audience: Young girls (typically ages 12-18)
+Characteristics: Romantic plots, emotional depth, often has intricate art
+Example Series: "Sailor Moon", "Fruits Basket", "Ouran High School Host Club"
+
+Seinen (青年)
+Target Audience: Adult men (18+)
+Characteristics: More mature themes, can include gore, psychological elements, and deep philosophical questions 
+Example Series: "Berserk", "Tokyo Ghoul", "Black Lagoon"
+
+Josei (女性) 
+Target Audience: Adult women (18+)
+Characteristics: Realistic romance, deals with women's issues, often more mature and dramatic
+Example Series: "Nana", "Paradise Kiss", "Honey and Clover"
+
+Mecha (メカ) 
+Characteristics: Focuses on robots or mechanical suits Themes: War, technology, and the relationship between humans and machines
+Example Series: "Mobile Suit Gundam", "Neon Genesis Evangelion", "Code Geass"
+
+Isekai (異世界)
+Characteristics: Protagonist gets transported to, reborn, or trapped in a parallel universe or fantasy world 
+Themes: Adventure, magic, battles, and adapting to a new world
+Example Series: "Re:Zero", "Sword Art Online", "No Game No Life"
+
+Slice of Life (スライス・オブ・ライフ)
+Characteristics: Depicts everyday life scenarios, often with a touch of humor or drama
+Themes: Friendship, love, challenges of daily life
+Example Series: "Clannad", "March Comes in Like a Lion", "Barakamon"
+
+Chibi (ちび or チビ)
+Characteristics: Characters are drawn in a cute, small, and deformed manner, often with big heads and tiny bodies Used for comedic effect or to depict childlike cuteness 
+Example Series: "Attack on Titan: Junior High", "Hetalia", "Dragon Ball SD"
+
+以上信息来自 @LearnAI_MJ ([View Tweet](https://twitter.com/xiaohuggg/status/1716353451989536897))
