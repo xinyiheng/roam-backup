@@ -27,3 +27,13 @@ https://36kr.com/p/2126177181608961 [Email Body](https://files.todoist.com/Flmi2
 
 
 https://finance.sina.cn/2023-02-13/detail-imyfpfsz2563335.d.html?from=wap [Email Body](https://files.todoist.com/OZaMzHcA-UoXYWAonoeLOVumwUJD7HaICScuv87DyQ4YLtwMTRCDKhEuM45EkUiD/by/21878347/as/file.html)
+    - How David Hume Helped Me Solve My Midlife Crisis - The Atlantic
+        - Annotations:
+
+* In my n 我的  own scientific papers I’d argued, like Hume, that the coherent self is an illusion.
+
+* My research had convinced me that our selves are something we construct, not something we discover.
+
+
+
+https://archive.ph/fb6yQ [Email Body](https://files.todoist.com/zZMLedMaoq1yUZOjEzVcVIEBlN4dOf6i2ktS-CJC9B2aQ1FZk9dePBTrl-4tQ3bw/by/21878347/as/file.html)
