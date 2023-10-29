@@ -106,4 +106,3 @@
 -via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
         - 我曾在飞机上遇到一个三四岁的小女孩，她自己拿着绘本，安安静静、翻来覆去地读了二三十分钟。我观察她看书的方式，发现她的目光不是停留在文字上，而是停留在画面上，很显然她还不太识字，但她看书时的专注程度、专注时间，都让人可以肯定，她是真的“读”进去了。
 -via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
-- 

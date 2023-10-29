@@ -1,4 +1,4 @@
-- Author:: [[）]]
+- Author:: 
 - Full Title:: 爱德华一世 - Wikiwand
 - Category:: #articles
 - URL:: https://www.wikiwand.com/zh-hans/%E7%88%B1%E5%BE%B7%E5%8D%8E%E4%B8%80%E4%B8%96
