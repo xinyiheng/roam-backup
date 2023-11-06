@@ -45,3 +45,15 @@
 提供欧美各国和亚洲等地的虚拟电话，无需注册，不支持中文
 
 来源于零度解说 ([View Tweet](https://twitter.com/Crypto_QianXun/status/1714846322430464073))
+- ### New highlights added [[November 6th, 2023]] at 5:02 PM
+    - 发现一个免费的无痛练口语的一个小程序‼️
+
+里面连雅思最新题库都有，跟模拟考官聊天那种感觉，挺真实的，说错了什么，它还能帮你抓语法和发音的错误
+
+要是脑子一空不知道咋回答，还有贴心的学习小贴士，词汇啊例句啊统统都有
+
+想练习口语的都可以试试，真的是社恐人士的福音！ https://t.co/UQWLL5TVfh https://t.co/0CUNcIiMeG
+
+![](https://pbs.twimg.com/media/F-ON_p8asAAL9Ur.jpg)
+
+![](https://pbs.twimg.com/media/F-OPdxNbMAAeDQ8.jpg) ([View Tweet](https://twitter.com/Crypto_QianXun/status/1721377757731684771))
