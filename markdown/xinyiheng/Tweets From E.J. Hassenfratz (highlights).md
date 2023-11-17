@@ -1,0 +1,5 @@
+- Full Title:: Tweets From E.J. Hassenfratz
+- Category:: #tweets
+- URL:: [🔗](https://twitter.com/eyedesyn)
+- ### Highlights first synced by #Readwise [[November 17th, 2023]]
+    - Hey Android users!  @MoveAI_ just announced they're opening up the waiting list for Move One for Android devices!  Sign up here: https://t.co/tfFJdpTXiH https://t.co/MzTjDYb3I5 ([View Tweet](https://twitter.com/eyedesyn/status/1725235586737353065))
