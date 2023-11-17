@@ -100,3 +100,9 @@ Prompts:
 
 原作者：
 @chaseleantj ([View Tweet](https://twitter.com/FinanceYF5/status/1712322313981677797))
+- ### New highlights added [[November 17th, 2023]] at 4:46 PM
+    - 将您的涂鸦变成动态代码 🤯 
+
+tldraw 允许您勾勒出一个想法，链接您的 OpenAI API 密钥，并立即将您的草图变成工作代码。
+
+以下是10个令人震惊的例子 <video controls><source src="https://video.twimg.com/ext_tw_video/1725409660675784704/pu/pl/zqUtPYdEpNh_n6oA.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1725409660675784704/pu/vid/avc1/480x270/KZhXb2aIPuVFW-5P.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1725409660675784704/pu/vid/avc1/640x360/dv7ov3x_42MH3Bw6.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1725409660675784704/pu/vid/avc1/960x540/DfK140MsjBgR52sg.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> ([View Tweet](https://twitter.com/FinanceYF5/status/1725410074435420611))
