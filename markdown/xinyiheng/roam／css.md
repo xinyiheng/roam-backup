@@ -163,7 +163,7 @@ a {
    background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F_8MCr3wC3S.png?alt=media&token=ef04fdac-e06e-4c94-bf3d-d8710d83e5db);
   background-position:bottom; /* 将图片的底部对齐到容器的底部 */
   background-repeat: no-repeat; /* 防止背景图片重复 */
-  background-size:100%;
+    background-size:120%;
     
 }
 /*修改unlinked references字体颜色*/
