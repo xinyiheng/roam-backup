@@ -26,7 +26,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     /* 为便签增加阴影效果 */
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
 }
-/* 添加图钉样式 */
+/* 添加图钉样式 
 .rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue)::before {
     content: '';
     width: 24px; /* 根据图钉图片的大小调整 */
@@ -36,7 +36,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     position: absolute;
     top: -10px;
     left: 300px;
-}
+}*/
 /*修改引用的样式*/
 .rm-bq {
   font-family:简宋!important;
@@ -160,7 +160,7 @@ a {
 }
 /*修改最顶端栏目的背景*/
 .rm-topbar {
-   background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FYHGFG56sY8.png?alt=media&token=ae8ea8c8-eba6-485c-9ccb-1aa7fdb52d68);
+   background-image:url();
     background-size:100% 100%;
 }
 /*修改unlinked references字体颜色*/
@@ -218,8 +218,8 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
      background-size:100% 100%;
      
   background-image:url(
-  https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fuu6OOl7bAb.png?alt=media&token=5b7d52f6-bd48-4f4e-93d8-0a94a0b9852f);
-   
+  https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FBlOKPQW3Cf.jpg?alt=media&token=96e3b788-7b5b-4f31-ba2b-f1db596050a0);
+   rgba(235,217,217,0)：60%;
 }
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
