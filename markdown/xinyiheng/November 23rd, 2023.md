@@ -12,3 +12,17 @@ forte也算是PKM界里算比较知名的人物了，PARA分类法以及渐进�
 
 
 https://book.douban.com/subject/35761116/ [Email Body](https://files.todoist.com/H-aeMwqFgh6C4Fya-_qY1FZqR2UyYWEFKclbxloPorrtFBreDTMr-R-f_wJujccb/by/21878347/as/file.html
+- #[[工作]]
+    - 问题
+        - 电子书和纸质书应该同步上新吗
+    - {{[[TODO]]}} 一句话推荐《打造第二大脑》
+    - {{[[TODO]]}} 提到本书或直接相关的文章和视频
+    - {{[[TODO]]}} 可能会购买本书的社群
+    - 做的事情
+        - 打听营销
+            - 豆瓣上的土豆鼹鼠郑连娟
+        - 联系寄书
+            - 张旭和john
+        - 沟通延迟上架电子书
+        - 
+        - 
