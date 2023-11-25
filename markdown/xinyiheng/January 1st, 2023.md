@@ -22,7 +22,7 @@
     - 我以前买过研报分享的知识星球，100多块钱。
 - Imported Quick Capture items:
     - 用 Obisidian 制作 Anki 里面用的代码 - 哔哩哔哩
-        - {{[[TODO]]}} Annotations:
+        -  Annotations:
         - # 配置 AnkiConnect
         - `{  
         - "apiKey": null,  
