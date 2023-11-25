@@ -4,7 +4,7 @@
         - SD则能给使用者很大的探索优化自由度和局部调整的可能。下限低，但上限很高。在C站上有很多大神的模型/插件，可用来搞出很多神级效果。SD能本地私有化部署，还能够精准局部调优，甚至能给模特穿衣服、给衣服找模特、制作海报这种需求，这些你指望midjourney是不可能的。
         - 小结：mj可看做创意概念玩具，降低门槛、提高普通人的作画能力，但六脉神剑一样时灵时不灵；SD开始成为专业生产工具，给设计师等专业人士更高的效率和设计可能。
         - [原文链接](https://www.zhihu.com/search?type=content&q=civitai)
-- #[[编辑]] 怎样打造创意生产流水线？
+- #[[编辑]] 怎样打造创意生产流水线？ #[[读客]]
     - 创意的16字原则：文化母体、购买理由、超级符号、货架思维
         - 文化母体
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fw9mUwukXXM.png?alt=media&token=47a3b723-ec23-4f23-9d5f-45eb600e7370)
