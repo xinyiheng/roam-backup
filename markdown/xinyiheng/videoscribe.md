@@ -1,0 +1,7 @@
+- 
+- 您好！订单3645465084744143325
+- 您好！关于您购买的【手绘视频动画Videoscribe2023中文竖屏书单短视频制作软件教程】已发货，以下是您的卡密信息：手绘视频动画Videoscribe2021中文竖屏书单短视频制作软件教程手绘视频动画Videoscribe链接：https://pan.baidu.com/s/1x9vjQFMaI3ZbX1-YCuhCJg提取码：by2z先装英文版 再装汉化补丁 最最后装VS4.2就可以了 汉化补丁双击就行 安装好有两个图标手绘教程链接：https://pan.baidu.com/s/1PQvQN7AR58TqwU--bID3aQ提取码：2222手绘素材链接：链接: https://pan.baidu.com/s/11rx2lC9lpxGzvZ7Apwh3Vw 提取码: zs6k
+- 软件 Videoscribe链接：https://pan.baidu.com/s/1x9vjQFMaI3ZbX1-YCuhCJg提取码：by2z24小时内带字全伍wu星+好hao评后可免费赠送百度网盘扩2T空间和高速下载+全网VIP影视追剧
+- 祝您今天好心情，工作顺利，生活甜美！
+- 
+- 【超级会员V6】通过百度网盘分享的文件：mac链接：https://pan.baidu.com/s/1qs07aZXuWHkayYXsGFREdw 提取码：b516 复制这段内容打开「百度网盘APP 即可获取」
