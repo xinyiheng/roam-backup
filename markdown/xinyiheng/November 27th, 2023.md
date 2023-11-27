@@ -2,6 +2,12 @@
     - 关注《打造第二大脑》在得到app上的表现。写了一个评论。
     - 整理社群渠道
         - 维客笔记 除了公众号还在知识星球有一个Obisidian星球https://public.zsxq.com/groups/15528128258142.html
-    - 讲述稿
+        - xbeta 善用佳软
+        - 知乎 林宜丙
+        - logseq discord
+            - [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
+    - 讲书稿
     - 相关文章汇总
     - 中信书店ppt
+    - 应该考虑从社群仅仅获取信息变为通过参与社群的活动来把社群改造为自己发声的渠道。
+    - 
