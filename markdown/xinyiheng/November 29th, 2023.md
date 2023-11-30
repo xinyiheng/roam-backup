@@ -1,96 +1,44 @@
 - Imported Quick Capture items:
     - 年度征文 | 超越效率：10x 提升阅读体验后，我有哪些反思？ - 少数派
-        - Annotations:
-
-* Tiago 的 CODE 框架是一种更加明确的提取和总结方式，它由 Capture（捕获）、Organize（组织）、Distill（提取）、Express（表达）四个阶段组成，而在 Distill 阶段的渐进式总结 Workflow 中，每个层级的筛选过程和提取比例都是逐步降低的。
-
-* 第一层是 Note，通过加粗高亮的方式对原文内容进行筛选，并以视觉化的方式标注出来；
-* 第二层是 Mini Summary，用自己做一个简短的总结，然后跟自己的其他笔记 Remix，最终变成属于自己的东西；
-* 第三层是 Q&A，提问的方式来对关键概念进行总结，最终混合出属于自己的知识结构。
-
-
-
-https://sspai.com/post/78124 [Email Body](https://files.todoist.com/9Z5iQTNePSCbFzbwsz0t77-2IU5iZCXKmpKtDxkcZeiXydFsD4SyCjV2KXE7WAzd/by/21878347/as/file.html)
+        - Tiago 的 CODE 框架是一种更加明确的提取和总结方式，它由 Capture（捕获）、Organize（组织）、Distill（提取）、Express（表达）四个阶段组成，而在 Distill 阶段的渐进式总结 Workflow 中，每个层级的筛选过程和提取比例都是逐步降低的。
+        - 第一层是 Note，通过加粗高亮的方式对原文内容进行筛选，并以视觉化的方式标注出来；
+        - 第二层是 Mini Summary，用自己做一个简短的总结，然后跟自己的其他笔记 Remix，最终变成属于自己的东西；
+        - 第三层是 Q&A，提问的方式来对关键概念进行总结，最终混合出属于自己的知识结构。
+        - [原文链接](https://sspai.com/post/78124)
     - 零碎的卡片笔记谁最擅长整理输出？flomo、Seeds 和 Writeathon 对比 - 少数派
-        - Annotations:
-
-*   * 尤其是英文名，陌生的名字往往直接就略过了。为了应对这个坏习惯，我每次读到某个观点的出处，都会强制自己给这个人名加一张引用卡。比如第一次见到 Tiago Forte 这个名字，尽管无感，还是用一张单独的卡片记下他。
-
-* 我是间隔很久、在不同场景下记录了和 Tiago Forte 相关的卡片，若不是通过这个人，这几个观点也基本不会串联到一起，那么通过人物这个节点，我还可以把本来不相关的一些知识，串联到一起，诞生出新的想法。
-
-
-
-https://sspai.com/post/79373 [Email Body](https://files.todoist.com/d16oS2t1y8TsdiXrU7_q3wN7rMN2K0MOHcrL7S5AaJ4D6GNxNGGwysfu6muNSDZc/by/21878347/as/file.html)
+        - 尤其是英文名，陌生的名字往往直接就略过了。为了应对这个坏习惯，我每次读到某个观点的出处，都会强制自己给这个人名加一张引用卡。比如第一次见到 Tiago Forte 这个名字，尽管无感，还是用一张单独的卡片记下他。
+        - 我是间隔很久、在不同场景下记录了和 Tiago Forte 相关的卡片，若不是通过这个人，这几个观点也基本不会串联到一起，那么通过人物这个节点，我还可以把本来不相关的一些知识，串联到一起，诞生出新的想法。
+        - [原文链接](https://sspai.com/post/79373)
     - 与知识库对话、用嘴找笔记：Notion AI 对话模式体验 - 少数派
-        - Annotations:
-
-* 找笔记一直是个让我头疼的事情，虽然我已经在很多地方用上了 Tiago Forte 的 PARA 框架，根据的时效性将信息放在不同的位置流动管理，写要长期复用的笔记时，也会为标题选择匹配的风格，但有些笔记就是很难找到。
-
-
-
-https://sspai.com/post/84597 [Email Body](https://files.todoist.com/539DX12xHRU1a4xtMlNfIVPqVCEm_9DmyDeyjYjjd7e9ocltiiFlnFr4jWeReFop/by/21878347/as/file.html)
+        - 找笔记一直是个让我头疼的事情，虽然我已经在很多地方用上了 Tiago Forte 的 PARA 框架，根据的时效性将信息放在不同的位置流动管理，写要长期复用的笔记时，也会为标题选择匹配的风格，但有些笔记就是很难找到。
+        - [原文链接](https://sspai.com/post/84597)
     - 我对 PARA 的理解与实践 - 少数派
-        - Annotations:
-
-* PARA 的作者 Tiago Forte 是世界上最著名的生产力专家之一。其名称是由 4 个单词的首字母组合而成：
-
-P（Projects）：项目
-
-A（Areas）：领域
-
-R（Resources）：资源
-
-A（Archives）：归档
-
-
-
-https://sspai.com/post/78349 [Email Body](https://files.todoist.com/A2WKee-7uoGE1DGG8OEIYyYBYuJ_87tyn7znvWzJlkj7pyHNm14iRj5gJx36MRzx/by/21878347/as/file.html)
+        - PARA 的作者 Tiago Forte 是世界上最著名的生产力专家之一。其名称是由 4 个单词的首字母组合而成：
+        - P（Projects）：项目
+        - A（Areas）：领域
+        - R（Resources）：资源
+        - A（Archives）：归档
+        - [原文链接](https://sspai.com/post/78349)
     - DEVONthink + Notion，共同搭建了我 2019 年的知识体系 - 少数派
-        - Annotations:
-
-* 知识管理有一个重要的使命就是帮助你强化自己的某一项长处，让它成为你的核心竞争力。所以在面对信息爆炸的时候，我们更应该做好知识管理，避免注意力分散，让自己成为「韩梅梅」。
-
-* ### Notion：PARA
-
-由于 Notion 是一个真正无限层级的笔记软件，而杜威十进制分类法的三级分类显然不适用于 Notion，否则就限制了它 Wiki 的能力，因此我采用
-PARA 的方式进行分类。
-
-PARA 是 Facebook 上一位 Notion 大 V 用的信息管理系统，把 Page 按照以下模块进行分类：
-P：Project，一个个与目标相关的项目；A：Area，一个个领域，我的理解就是你的身份角色；R：Resource，持续关注的主题；A：Archive，其他
-
-* PARA 是 Facebook 上一位 Notion 大 V 用的信息管理系统，把 Page 按照以下模块进行分类： P：Project，一个个与目标相关的项目；A：Area，一个个领域，我的理解就是你的身份角色；R：Resource，持续关注的主题；A：Archive，其他
-
-Tags: 知识管理
-
-
-
-https://sspai.com/post/58696 [Email Body](https://files.todoist.com/xPiIXwWoZU3R5VkHh6hd8qaxQWm5WQqehYs4T47C8CqsnLu_ebfK9potvcGAE_Hz/by/21878347/as/file.html)
+        - 知识管理有一个重要的使命就是帮助你强化自己的某一项长处，让它成为你的核心竞争力。所以在面对信息爆炸的时候，我们更应该做好知识管理，避免注意力分散，让自己成为「韩梅梅」。
+        - ### Notion：PARA
+        - 由于 Notion 是一个真正无限层级的笔记软件，而杜威十进制分类法的三级分类显然不适用于 Notion，否则就限制了它 Wiki 的能力，因此我采用
+        - PARA 的方式进行分类。
+        - PARA 是 Facebook 上一位 Notion 大 V 用的信息管理系统，把 Page 按照以下模块进行分类：
+        - P：Project，一个个与目标相关的项目；A：Area，一个个领域，我的理解就是你的身份角色；R：Resource，持续关注的主题；A：Archive，其他
+        - PARA 是 Facebook 上一位 Notion 大 V 用的信息管理系统，把 Page 按照以下模块进行分类： P：Project，一个个与目标相关的项目；A：Area，一个个领域，我的理解就是你的身份角色；R：Resource，持续关注的主题；A：Archive，其他
+        - Tags: 知识管理
+        - [原文链接](https://sspai.com/post/58696)
     - 抗拒生活的赛博化，照顾我身体里的原始人 - 少数派
-        - Annotations:
-
-* 抗拒生活的赛博化，照顾我身体里的原始人
-
-* 我一天的生活，就是让不同尺寸不同用途的屏幕因为我而亮起，彼此接力，直到我入睡为止。
-
-
-
-https://sspai.com/post/80216 [Email Body](https://files.todoist.com/SV5rN5y9125_p6jEkuV68HLu67BsBWQDL2tRmRU9aZpPUvK_cyIs3aTGwBmftOcb/by/21878347/as/file.html)
+        - 抗拒生活的赛博化，照顾我身体里的原始人
+        - 我一天的生活，就是让不同尺寸不同用途的屏幕因为我而亮起，彼此接力，直到我入睡为止。
+        - [原文链接](https://sspai.com/post/80216)
     - P.B.A.T. —— 基于 Notion 的人生管理 - 少数派
-        - Annotations:
-
-* P.B.A.T. 是我上手 Notion2 周后，给自己搭建的一套 Notion 数据和页面体系，以及对应的工作流。从命名上可知，我有借鉴 Tiago Forte 的 P.A.R.A 体系，其实研究过程还有关注 Zettelkasten 卡片笔记法，August Bradley 的 PPV 体系等等。大师们的体系都很厉害，但适合自己的才是最好的。感谢 Notion 是这样一个高自由度的产品，让我摸索着打造出了属于自己的一套方法。
-
-
-
-https://sspai.com/post/61243 [Email Body](https://files.todoist.com/Pj8UFE5NeiL2XmhBAaBcNHEJmnpfagaDlPNyCQtHOl4KPjxPimXFRNcZaVOds3Kg/by/21878347/as/file.html)
+        - P.B.A.T. 是我上手 Notion2 周后，给自己搭建的一套 Notion 数据和页面体系，以及对应的工作流。从命名上可知，我有借鉴 Tiago Forte 的 P.A.R.A 体系，其实研究过程还有关注 Zettelkasten 卡片笔记法，August Bradley 的 PPV 体系等等。大师们的体系都很厉害，但适合自己的才是最好的。感谢 Notion 是这样一个高自由度的产品，让我摸索着打造出了属于自己的一套方法。
+        - [原文链接](https://sspai.com/post/61243)
     - 如何用3步，榨干一本书的价值 - 少数派
-        - Annotations:
-
-* 这一步借鉴了《Build Your Second Brain》中提及的四步归纳法，其实你可以根据自己的需要按任意的层级和规则进行归纳。这本书讲了一个非常好的归纳原则：归纳给未来的自己，把未来的自己当做老板。
-
-
-
-https://sspai.com/post/83320 [Email Body](https://files.todoist.com/sXLyJV-W3M9_yWr-YAk2Q1ju_7T9m6wqeq8AwLXRN_Dn5hVd9mRxoBKM4HeZg5tF/by/21878347/as/file.html)
+        - 这一步借鉴了《Build Your Second Brain》中提及的四步归纳法，其实你可以根据自己的需要按任意的层级和规则进行归纳。这本书讲了一个非常好的归纳原则：归纳给未来的自己，把未来的自己当做老板。
+        - [原文链接](https://sspai.com/post/83320)
     - DPS 周刊 115 - 如何更有效地做读书笔记？ - 少数派
         - Annotations:
 
@@ -105,69 +53,34 @@ https://sspai.com/post/83320 [Email Body](https://files.todoist.com/sXLyJV-W3M9_
 
 https://sspai.com/post/83142 [Email Body](https://files.todoist.com/_h5QcJNmkuMoC5jNCoTRpF0JTzxeKeotDkBES9A1U7kj4eGauqaA_mHPgysrxmqv/by/21878347/as/file.html)
     - 浅析两种不同的知识管理思路 - 少数派
-        - Annotations:
-
-* 这两天在群里看到仝佬分享了这样一张图片。这张图瞬间激起了大家的表达欲，纷纷试图把自己归入其中某一类。
-
-* 相比于 Tiago Forte 对知识管理的四种分类（建筑师、园丁、图书管理员、学生），这个两分法似乎更简单粗暴一些，却也体现了当前知识管理的两种思路，即自由化和结构化。
-
-
-
-https://sspai.com/post/83843 [Email Body](https://files.todoist.com/sKMJn4oPIhBnaCH0kIlm8X49NWKDssJLq0Mm3tu6MEF3fWkEKrtDCZKmM2D3H0-z/by/21878347/as/file.html)
+        - 这两天在群里看到仝佬分享了这样一张图片。这张图瞬间激起了大家的表达欲，纷纷试图把自己归入其中某一类。
+        - 相比于 Tiago Forte 对知识管理的四种分类（建筑师、园丁、图书管理员、学生），这个两分法似乎更简单粗暴一些，却也体现了当前知识管理的两种思路，即自由化和结构化。
+        - [原文链接](https://sspai.com/post/83843)
     - 我的生成学习方法 - 少数派
-        - Annotations:
-
-* ### PARA
-
-PARA 是一种知识/信息的管理方法，其中一个 A 是指
-Area，也就是你收集的信息和知识应该围绕少数几个领域，这样可以帮助你保持专注，并且让知识更容易形成聚集，知识之间更容易相互联结，对于意义构建阶段会比较有帮助。
-
-
-
-https://sspai.com/post/84626 [Email Body](https://files.todoist.com/3iVNxCScAL83LfASWjgas5G7djxd2ufxPu-cYEuBN1Ot-pSl0QOAMtK7IARhw05W/by/21878347/as/file.html)
+        - ### PARA
+        - PARA 是一种知识/信息的管理方法，其中一个 A 是指
+        - Area，也就是你收集的信息和知识应该围绕少数几个领域，这样可以帮助你保持专注，并且让知识更容易形成聚集，知识之间更容易相互联结，对于意义构建阶段会比较有帮助。
+        - [原文链接](https://sspai.com/post/84626)
     - 拒绝一键收藏 - 少数派
-        - Annotations:
-
-* Tiago Forte 是国外知名的知识管理大咖，他提到的知识获取的七条原则也和本文有一定的关联，与墨宝们一起分享：‌
-
-* 互动重于消费：投入时间和精力而不是简单收藏
-* 平衡细节与可发现性：过于细节太冗长，过于简略无法找到
-* 有选择的压缩知识：挑重点的来
-* 直觉大于分析：我们本身的思维就不精密
-* 将大部分注意力集中在最有价值的信息上：一本书只记得一句话，也没什么不好的
-* 隐性知识高于显性知识：属于你自己的独特观点和反馈，别人拿不走的
-* 重视问题，轻视答案：发现问题的质量，是解决方案质量的基石
-
-
-
-https://sspai.com/post/66416 [Email Body](https://files.todoist.com/hUot5ulv2u7Bk6lBKIKDXBCHIrkc0bcqzVmTFKt8YEqZuQfbV5iuLVCP57vunYAk/by/21878347/as/file.html)
+        - Tiago Forte 是国外知名的知识管理大咖，他提到的知识获取的七条原则也和本文有一定的关联，与墨宝们一起分享：‌
+        - 互动重于消费：投入时间和精力而不是简单收藏
+        - 平衡细节与可发现性：过于细节太冗长，过于简略无法找到
+        - 有选择的压缩知识：挑重点的来
+        - 直觉大于分析：我们本身的思维就不精密
+        - 将大部分注意力集中在最有价值的信息上：一本书只记得一句话，也没什么不好的
+        - 隐性知识高于显性知识：属于你自己的独特观点和反馈，别人拿不走的
+        - 重视问题，轻视答案：发现问题的质量，是解决方案质量的基石
+        - [原文链接](https://sspai.com/post/66416)
     - 剪裁网页增强、标注文章、笔记导出……这 5 个第三方工具让 Notion 更好用 - 少数派
-        - Annotations:
-
-*   * Notion 页面小组件：Indify.co
-
-Tags: notion
-
-
-
-https://sspai.com/post/63355 [Email Body](https://files.todoist.com/vEg2od2GWeQfHCZxcHNSHHRvDPD2JQ7JGkQbsMH8yP-bYn--pDAH-yraViFsEqtT/by/21878347/as/file.html)
+        - * Notion 页面小组件：Indify.co
+        - Tags: notion
+        - [原文链接](https://sspai.com/post/63355)
     - 内容目录&更新时间表 - 少数派
-        - Annotations:
-
-* PARA 知识管理系统搭建篇
-
-* PARA 个人知识库详解 ① | 传统笔记分类方法的困局
-* PARA 个人知识库详解 ② | 聚焦项目和领域，打造更快「变现」的笔记系统
-* PARA 个人知识库详解 ③ | 储备知识、发散兴趣；归档领域、冷却冲动
-
-
-
-https://sspai.com/post/80637 [Email Body](https://files.todoist.com/uLXpb8NFLAE9rGWwSfk715W70VNgkkSWbBEhRreF5idCLYGhNjyuVqVuin5TSDAd/by/21878347/as/file.html)
+        - PARA 知识管理系统搭建篇
+        - PARA 个人知识库详解 ① | 传统笔记分类方法的困局
+        - PARA 个人知识库详解 ② | 聚焦项目和领域，打造更快「变现」的笔记系统
+        - PARA 个人知识库详解 ③ | 储备知识、发散兴趣；归档领域、冷却冲动
+        - [原文链接](https://sspai.com/post/80637)
     - 数字花园之问 - 少数派
-        - Annotations:
-
-* 在这个流量时代，除了「Tiago Forte」等屈指可数的效率达人，我们辛苦打理的「数字花园」又有何人会观看呢？
-
-
-
-https://sspai.com/post/80238 [Email Body](https://files.todoist.com/pzNP3oteogOsBD8vDQY9nP3ErCkjZEsUmEY7EPdhBsYbKY8fBwWfg3_Nl03xioCd/by/21878347/as/file.html)
+        - 在这个流量时代，除了「Tiago Forte」等屈指可数的效率达人，我们辛苦打理的「数字花园」又有何人会观看呢？
+        - [原文链接](https://sspai.com/post/80238)

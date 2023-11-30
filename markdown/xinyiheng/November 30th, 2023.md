@@ -1,0 +1,3 @@
+- pdf to flipbook
+    - flipbook可以在网页上模拟翻书的效果
+    - [Flipbook](https://cms1.publuu.com/flipbooks)
