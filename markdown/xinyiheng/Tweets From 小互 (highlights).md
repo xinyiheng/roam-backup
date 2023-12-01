@@ -134,3 +134,23 @@ Characteristics: Characters are drawn in a cute, small, and deformed manner, oft
 Example Series: "Attack on Titan: Junior High", "Hetalia", "Dragon Ball SD"
 
 以上信息来自 @LearnAI_MJ ([View Tweet](https://twitter.com/xiaohuggg/status/1716353451989536897))
+- ### New highlights added [[December 1st, 2023]] at 2:52 PM
+    - WeChatMsg：一个提取微信聊天记录的工具
+
+它可以将微信聊天记录导出为HTML、Word、CSV格式的文档，并对聊天记录进行分析，生成年度聊天报告等！
+
+感觉可以用来导入到GPTs，克隆一个自己😂
+
+主要功能：
+
+1.破解微信数据库：该工具能够破解手机（安卓或苹果）和PC端微信的数据库。
+
+2.还原微信聊天界面：支持将文本、图片和表情包等内容还原为微信聊天界面的样式。
+
+3.导出聊天记录：用户可以将聊天记录导出为HTML、Word、CSV等格式的文档，方便永久保存。
+
+4.聊天数据分析：工具提供了对聊天数据的分析功能，可以生成可视化的年度聊天报告。
+
+5.项目正在持续更新中，未来可能会支持更多功能，如导出全部表情包、合并多个备份数据等。
+
+GitHub：https://t.co/oN4BFAbgoc<img src='https://pbs.twimg.com/media/GAMUbzqbIAA6v5N.jpg'/> ([View Tweet](https://twitter.com/xiaohuggg/status/1730249158605594870))
