@@ -3,10 +3,7 @@
 #[[博物学]]
 - Imported Quick Capture items:
     - Weixin Official Accounts Platform
-        - Annotations:
-
-* 新的一年快来了，我被很多人问过以后要怎么办，远方的家人、亲近的朋友、通过豆瓣帖子找来的网友。坦白说，我从没想明白过。唯一确定的是，我决定继续留下来，就像一颗掉落在小岛的互花米草种子。
-
-
-
-https://mp.weixin.qq.com/s/XUsFvJQHDoYMFBugsjUt-w [Email Body](https://files.todoist.com/FOb8cOr9H5JVURC2xZn35JH6Vo8XDmtkPkXRUA4z1TXEa1dorBwhH6IpmXysHnA5/by/21878347/as/file.html)
+        - 新的一年快来了，我被很多人问过以后要怎么办，远方的家人、亲近的朋友、通过豆瓣帖子找来的网友。坦白说，我从没想明白过。唯一确定的是，我决定继续留下来，就像一颗掉落在小岛的互花米草种子。
+        - [原文链接](https://mp.weixin.qq.com/s/XUsFvJQHDoYMFBugsjUt-w)
+- 东岠岛
+    - 
