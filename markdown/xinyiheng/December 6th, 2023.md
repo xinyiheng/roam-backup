@@ -5,5 +5,9 @@
     - Weixin Official Accounts Platform
         - 新的一年快来了，我被很多人问过以后要怎么办，远方的家人、亲近的朋友、通过豆瓣帖子找来的网友。坦白说，我从没想明白过。唯一确定的是，我决定继续留下来，就像一颗掉落在小岛的互花米草种子。
         - [原文链接](https://mp.weixin.qq.com/s/XUsFvJQHDoYMFBugsjUt-w)
+    - 岛上书店｜一书一世界-广告片:旅游视频-新片场
+        - https://www.xinpianchang.com/a12561895?kw=%E7%BA%A2%E8%8C%B6&type=creator&from=search_post [Email Body](https://files.todoist.com/JrbJHWWoRLX-BE6Nb2s-QB6x7P8HxpkoERqgjDf-JaPm_pXG8w2m4gHYj_BGBdrU/by/21878347/as/file.html)
 - 东岠岛
+    - [迷茫的年轻人，去只有老人的小岛隐居了](https://mp.weixin.qq.com/s/XUsFvJQHDoYMFBugsjUt-w)
+    - 欢喜书店
     - 
