@@ -1,1 +1,1 @@
-- https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FGvTt2_h_l1.json?alt=media&token=c8db1f40-b2fa-4679-976b-fa03082f0dfa
+- https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F6UrNZzA-20.json?alt=media&token=24afc3ba-36b6-4f9e-a6b5-d7be35be6200
