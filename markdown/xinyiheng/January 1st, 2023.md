@@ -5,7 +5,6 @@
     - 打印家里用的物品标签。好久没用喵喵机打印了，弄了好久连不上。在ipad上重新下载了一个app才连接上。
     - 帮着准备一下午饭。
     - 目前roam research已经非常棒了。但我还是对于{c1:白板}和在{c1:ipad上}整理笔记念念不忘。obsidian出了白板功能之后实在是太棒了。到底obsidian现在需要和roam切割使用还是另起炉灶呢？#[[srs/cloze]]
-[January 1st, 2023](https://roamresearch.com/#/app/xinyiheng/page/01-01-2023)
     - 如何整合多种视角的笔记？#[[srs/cloze-g]]
 [January 1st, 2023](https://roamresearch.com/#/app/xinyiheng/page/01-01-2023)
         - 把思维导图、roam、the brain和notion、白板当作看待同一个内容的{c1:不同视角}，尽情地去完善每个视角，然后整合到一起即可。而阅读清单，笔记，以及自己的思考和问题，也可以作为笔记的{c1:不同板块}。

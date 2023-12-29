@@ -3,7 +3,7 @@
     - 想要删除inoreader中的大部分订阅源，太多了反而什么也不愿意看了
     - 想要重新在scrivener中写内容。
     - 下载了dropbox，我以前以为必须付费才行，仔细看有免费2g空间，同步scrivenner够用了。
-    - 精神食粮和精神鸦片
+    - 精神食粮和精神鸦片 #[[阅读]] #[[心态]]
 - Imported Quick Capture items:
     - 年度盘点 | 最值得读的5本书 · 商业管理篇
         - Annotations:
