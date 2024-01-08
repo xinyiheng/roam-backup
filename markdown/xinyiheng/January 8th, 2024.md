@@ -1,0 +1,5 @@
+- #[[工作]]
+    - [[选题]]
+        - 查看选题，应该筛选一下国外重点经管图书的来源。
+        - 确定好对标
+    - 查看《打造第二大脑》的推荐视r[Penguin Random House](https://www.penguinrandomhouse.com/)
