@@ -224,3 +224,29 @@ DreamTuner 可以用于个性化的图像创作、动漫艺术设计、广告创
 项目及演示：https://t.co/se9B2OeeZS
 论文：https://t.co/mVRNdQ516e
 GitHub：coming soon...<img src='https://pbs.twimg.com/media/GCBuzxra4AAt8ux.jpg'/> ([View Tweet](https://twitter.com/xiaohuggg/status/1738511391093608762))
+- ### New highlights added [[January 20th, 2024]] at 7:24 AM
+    - 微软推出针对学生的AI阅读教练工具：Reading Coach
+
+你可以选择角色和设定，创建独特的AI生成故事。通过AI驱动的故事和个性化练习吸引学生阅读并提高阅读流畅度。
+
+当你阅读时，语音转文本AI分析阅读流利性，检测学习者挑战的词汇，并记录阅读的准确性、速度和时间。
+
+用来改进你的阅读和语音语法问题。
+
+**以下是其主要功能：**
+
+**1、个性化阅读练习：**提供个性化、有趣、一致且独立的阅读流利性练习。
+
+2、AI生成故事：学习者可以选择角色和设定，创建独特的AI生成故事。故事内容经过内容质量、安全性和适龄性的审核，符合Microsoft的负责任AI指南。
+
+**3、沉浸式阅读器：对**有阅读障碍（如诵读困难）的学习者，内置的沉浸式阅读器提供支持。
+
+**4、即时反馈：**阅读时，语音转文本AI分析阅读流利性，检测学习者挑战的词汇，并记录阅读的准确性、速度和时间。
+
+**5、互动性阅读：**学习者在故事章节中做出选择，通过故事导航自己的阅读旅程。上一章节中挑战的词汇会自动纳入下一章节，实现即时适应性练习。
+
+**6、流利性教练：**在每个故事章节后，提供针对挑战词汇的流利性指导。
+
+**7、激励机制：**通过努力为中心的徽章，解锁新角色和设定，以保持学习者的阅读动力。
+
+🔗：https://t.co/k4kv6M5H4N<video controls><source src="https://video.twimg.com/ext_tw_video/1748208834680852480/pu/vid/avc1/1280x720/c_vUo6ByP-JOgloS.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1748208834680852480/pu/pl/SNqBch2wpH3OMxMA.m3u8?tag=12&container=fmp4" type="application/x-mpegURL"><source src="https://video.twimg.com/ext_tw_video/1748208834680852480/pu/vid/avc1/480x270/5R1y2LhdbhOssf9y.mp4?tag=12" type="video/mp4"><source src="https://video.twimg.com/ext_tw_video/1748208834680852480/pu/vid/avc1/640x360/LAiarQ0uzL9OdQFe.mp4?tag=12" type="video/mp4">Your browser does not support the video tag.</video> ([View Tweet](https://twitter.com/xiaohuggg/status/1748295530382528713))
