@@ -9,3 +9,11 @@
         - [原文链接](https://www.amazon.com/Flying-Blind-Tragedy-Fall-Boeing-ebook/dp/B08P98854S/ref=pd_sim_d_sccl_1_3/131-7262733-6090842?pd_rd_w=9AcAb&content-id=amzn1.sym.1cc0fdf4-3e04-416c-b652-2d2ef8929f1d&pf_rd_p=1cc0fdf4-3e04-416c-b652-2d2ef8929f1d&pf_rd_r=86E98HC4MMP93WVMBETC&pd_rd_wg=u7Klh&pd_rd_r=08317fd5-f090-4848-a4c9-db63c5c93266&pd_rd_i=B08P98854S&psc=1)
     - Amazon.com: Exactly What to Say: The Magic Words for Influence and Impact eBook : Jones, Phil M: Kindle Store
         - [原文链接](https://www.amazon.com/Exactly-What-Say-Influence-Impact-ebook/dp/B073SF65ZZ/ref=sr_1_4?crid=3TRAJRWVJY91V&keywords=Consumer+Behavior&qid=1706018874&refinements=p_72%3A1248987011&rnid=133140011&s=digital-text&sprefix=consumer+behavior%2Cdigital-text%2C954&sr=1-4)
+    - 得到APP - 知识就是力量，知识就在得到
+        - Annotations:
+
+* 形
+
+
+
+https://www.dedao.cn/course/detail?id=9LnlWEqDj76VzmMsAkKmOA4epMBPxa [Email Body](https://files.todoist.com/ABV1EBiILmdqxhSb_rAKk85axbr7Mxc796ISoDIeHh5RIQzzG-rqZ33J-5_DdcFX/by/21878347/as/file.html)
