@@ -1,0 +1,3 @@
+- Imported Quick Capture items:
+    - 《10人以下小团队管理手册》电子书在线阅读-【日】堀之内克彦-得到APP
+        - https://www.dedao.cn/ebook/detail?id=DGgybmrKYXmzPQ5bgJEjMdeOxDlyn0MPLGw2GaRN8k4p6B1oArL9Z7qvVRp8O126 [Email Body](https://files.todoist.com/SjjRkHuA8KRRJ2gfa_EZ0-OpsCnXxwCM7DDveZT4fJhhQeXpPMJe6whK-E8gEBSj/by/21878347/as/file.html)
