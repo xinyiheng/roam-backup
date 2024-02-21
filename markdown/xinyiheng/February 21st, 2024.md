@@ -107,3 +107,11 @@ bin%3A2656020011&s=books&sr=1-86&unfiltered=1 [Email Body](https://files.todoist
 
 
 https://www.amazon.com/dp/1983847542?ref=yb_qv_ov_prnt_dp_rw [Email Body](https://files.todoist.com/CbSx6Wvenhp5HhfwqkDnvgcr_Kn-PhJDskcvaCllHplNwxOaHCYT8g-lq1fRpbhZ/by/21878347/as/file.html)
+    - The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World: Stone, Brad: 9780316388399: Amazon.com: Books
+        - Annotations:
+
+*     * 中文版中信出版了，评价一般
+
+
+
+https://www.amazon.com/dp/0316388394?ref=yb_qv_ov_prnt_dp_rw [Email Body](https://files.todoist.com/_G7zuFoHPbhlfLDFKleOA30Mw9MKOo4lM2Fe0VBR6WMjf6WsZxwizJIEcr_Hsfy7/by/21878347/as/file.html)
