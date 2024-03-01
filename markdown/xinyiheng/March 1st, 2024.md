@@ -34,3 +34,14 @@ https://press.uchicago.edu/ucp/books/book/chicago/W/bo212549914.html [Email Body
 
 
 https://www.wikiwand.com/en/Penguin_Books [Email Body](https://files.todoist.com/tjAngbz38QrJP9Jq6r7Y5-MLEmCPOpPUc9Ulxfp7bHCXYUa-0JjmzIXb5j2HLcjF/by/21878347/as/file.html)
+    - Portfolio - Penguin Books
+        - Annotations:
+
+* 家私营小型出版公司。后来他转到普特南的编辑部，在主编菲利斯·格兰的领导下。
+
+
+在加入企鹅集团之前，他编辑和出版了许多畅销书，其中包括吉姆·柯林斯的《从优秀到卓越》；斯蒂芬·波伦和马克·莱文的《破碎》；斯科特·亚当斯的呆伯特原理；大卫·帕卡德的《惠普之道》；和鲨鱼一起游泳，没有被哈维·麦凯活活吃掉。
+
+
+
+https://www.penguin.com/portfolio-overview/ [Email Body](https://files.todoist.com/wi_3vPNJGfcL1qmZbbu8k99tHnQV6_-BEVthQhF4_DdX1O_MxGIQgWgxmTwqb49r/by/21878347/as/file.html)
