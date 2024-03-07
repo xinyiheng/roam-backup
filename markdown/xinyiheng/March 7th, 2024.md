@@ -41,3 +41,12 @@ https://www.amazon.com/dp/1541675126?ref=yb_qv_ov_prnt_dp_rw [Email Body](https:
 
 
 https://www.amazon.com/dp/110703325X?ref=yb_qv_ov_prnt_dp_rw [Email Body](https://files.todoist.com/u5ZmgB8-xi0msajtilan6RF9rdoII_H715jG5YNPsDKdTFZmY98vwLuRfJg10gBg/by/21878347/as/file.html)
+    - The Algebra of Wealth: A Simple Formula for Financial Security: Galloway, Scott: 9780593714027: Amazon.com: Books
+        - Annotations:
+
+* W
+
+
+
+https://www.amazon.com/Algebra-Wealth-Formula-Financial-
+Security/dp/0593714024/ref=sr_1_1?crid=T4WYKY354CB7&dib=eyJ2IjoiMSJ9.1zIBYnxzb5cx6WSnsipks6c35qO7qw60muueWp6ZinIUfpYf7MSMD2cFO7sxKaJefsMWyWmzpLferzIEnVZ8q_6bFrAuUnqWNpsAhJKis4Z9nR8hxq_C1KAUyZlKxuiBppX4TK6VD5GV_w5i0g_cJ3kHL2yZe0awaehcKTCfxiZ9637hmxYCypBLIHTm9UzPSjzFUKG9_YpQegr3luwIxjBIEqxufnsCVrQ6HcbFWeY.ISJoJa4YVe1R5xcGqpBBMCkZk_L6985YoWNV0JV9qDM&dib_tag=se&keywords=the+algebra+of+wealth&qid=1709014042&s=books&sprefix=the+algebra+of+wealth%2Cstripbooks [Email Body](https://files.todoist.com/pfDUNyYf29fssvquM7rrmbA1g7GysFAWUpgJpChtHvn-IjUmiNoUqM8EmW5CyHDy/by/21878347/as/file.html)
