@@ -41,3 +41,11 @@ https://book.douban.com/subject/30192338/ [Email Body](https://files.todoist.com
 
 
 https://book.douban.com/subject/36133504/ [Email Body](https://files.todoist.com/wopykh_7_HPQZfn9nJKa5NwJUMY4Ws4jlrGvK7ysRvyGPns14nSQlsn9E9EKDC86/by/21878347/as/file.html)
+    - 冲击波 (豆瓣)
+        - Annotations:
+
+*     * 销售表现确实很不好。
+
+
+
+https://book.douban.com/subject/35960156/ [Email Body](https://files.todoist.com/qCRvsN75Vp8mY6T2LQ40lpLdNFbFw4J47WvHr3HqcrWID-Xy5giuMQ46J1xn3jDU/by/21878347/as/file.html)
