@@ -1,5 +1,5 @@
 - Imported Quick Capture items:
-    - Citic | Dealmaker | Publishers Marketplace
+    - Search Results | Publishers Marketplace
         - Annotations:
 
 * THE POWER OF INSTINCT
