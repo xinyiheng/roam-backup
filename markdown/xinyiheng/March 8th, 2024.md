@@ -1,22 +1,12 @@
 - Imported Quick Capture items:
     - Search Results | Publishers Marketplace
-        - Annotations:
-
-* THE POWER OF INSTINCT
-
-* 博达发过这本书的信息，我自己错过了。
-
-* Sasha Tao
-
-* 很少和这个人联系。这家出版公司其实主要做的书和我们的选题方向也不契合。
-
-* TELLTALE HEARTS
-
-* 有待查清楚授权渠道，我没收到邮件。这本书预计2024年7月出版。中信知道信息时间并不算太早。我们和public affairs合作很少，可以主动搜索新书，然后询问博达。貌似该公司的书的信息最早可以在amazon上搜到。
-
-
-
-https://www.publishersmarketplace.com/dealmakers/detail.cgi?id=12555 [Email Body](https://files.todoist.com/HqYUm4L3iK694h_nz1i3qsf7r5nnhGx1EfyTgjC6UM9KuMxkH6VpQ5qLCUB-n1Nw/by/21878347/as/file.html)
+        - THE POWER OF INSTINCT
+        - 博达发过这本书的信息，我自己错过了。
+        - Sasha Tao
+        - 很少和这个人联系。这家出版公司其实主要做的书和我们的选题方向也不契合。
+        - TELLTALE HEARTS
+        - 有待查清楚授权渠道，我没收到邮件。这本书预计2024年7月出版。中信知道信息时间并不算太早。我们和public affairs合作很少，可以主动搜索新书，然后询问博达。貌似该公司的书的信息最早可以在amazon上搜到。
+        - [原文链接](https://www.publishersmarketplace.com/dealmakers/detail.cgi?id=12555)
     - The Darkness Manifesto: On Light Pollution, Night Ecology, and the Ancient Rhythms That Sustain Life: Eklöf, Johan, DeNoma, Elizabeth: 9781668000908: Amazon.com: Books
         - Annotations:
 
@@ -34,18 +24,8 @@ https://www.amazon.com/dp/1668000903?ref=yb_qv_ov_prnt_dp_rw [Email Body](https:
 
 https://book.douban.com/subject/30192338/ [Email Body](https://files.todoist.com/dGHDBSW-80j10qk1-PHuTThKFDa4gmsB7WEjwi3TZS9tQpMh31owYfYBU5LTgpB8/by/21878347/as/file.html)
     - 燃烧吧，能量 (豆瓣)
-        - Annotations:
-
-*     * 新书也被中信买了ADAPTABLEHow Our Clever Bodies ThriveBy Herman Pontzer[US — Avery, UK — Allen Lane, JAPAN — Soshisha, CHINA — CITIC; Draft Manuscript; Pub Date: Spring2025; 100,000 words]Evolutionary anthropologist Herman Pontzer provides a new understanding of how our bodies work, how tokeep them healthy, and how our biological diversity unites us rather than divides us.How does the body work—and why does it seem to work so differently for each of us? Why do we grow tall orshort, obese or slim? Why do some of us stay healthy despite our bad habits while others who do all the rightthings fall ill? When we look around the planet, why do people vary in skin color, facial features, stature, bodyproportions, and disease risk?The answer is both simple and powerful: we're different because we're adaptable. Over the past 100,000 years,as humans expanded into every biome on the planet, our bodies were fine-tuned to our local environments.Adaptability is at the heart of being human and the engine of our diversity. Variation isn't a bug, it's a feature.Working with human populations around the globe, Pontzer's research embraces our incredible diversity,documenting the connections between lifestyle, landscape, local adaptations, and health.Adaptable takes us on a tour of human body. In each chapter, we learn how our bodies navigate an uncertainworld: how we grow and mature, how our brains develop and learn, how our hearts, lungs, and digestivesystems deliver oxygen and nutrients, how we manage toxins, temperature, and water balance, how we moveand reproduce, how our immune system keeps invaders at bay, and how we age and decline. Along the way, welearn how to keep our remarkable bodies healthy, and that the universe of healthy lifestyles is vast (we don'tneed the latest fad diet or cleanse!) We also learn how our bodies evolved to thrive in nearly any habitat onearth, from sea to mountains, ice caps to deserts, and how our adaptability enabled our species' globalexpansion.Brockman, Inc. London 2024 Hotlist- -9
-
-
-
-https://book.douban.com/subject/36133504/ [Email Body](https://files.todoist.com/wopykh_7_HPQZfn9nJKa5NwJUMY4Ws4jlrGvK7ysRvyGPns14nSQlsn9E9EKDC86/by/21878347/as/file.html)
+        - * 新书也被中信买了
+        - [原文链接](https://book.douban.com/subject/36133504/)
     - 冲击波 (豆瓣)
-        - Annotations:
-
-*     * 销售表现确实很不好。
-
-
-
-https://book.douban.com/subject/35960156/ [Email Body](https://files.todoist.com/qCRvsN75Vp8mY6T2LQ40lpLdNFbFw4J47WvHr3HqcrWID-Xy5giuMQ46J1xn3jDU/by/21878347/as/file.html)
+        - * 销售表现确实很不好。
+        - [原文链接](https://book.douban.com/subject/35960156/)
