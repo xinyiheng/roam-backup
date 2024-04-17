@@ -1,12 +1,18 @@
 - ### cache
     - [[memo]]
-        - lastCompletedDate:: November 23rd, 2023
+        - lastCompletedDate:: April 17th, 2024
 - ### cache
     - [[memo]]
         - lastCompletedDate:: August 23rd, 2023
 - ### data
     - The scholar's greatest weakness: calling procrastination research — Stephen King Share 
 #[[memo]]
+        - [[April 17th, 2024]] 🔵
+            - nextDueDate:: [[June 5th, 2025]]
+            - eFactor:: 2.68
+            - interval:: 414
+            - repetitions:: 7
+            - grade:: 4
         - [[June 6th, 2023]] 🔵
             - nextDueDate:: [[December 16th, 2023]]
             - eFactor:: 2.68

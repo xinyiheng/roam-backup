@@ -160,8 +160,8 @@ a {
 }
 /*修改最顶端栏目的背景*/
 .rm-topbar {
-   background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F_8MCr3wC3S.png?alt=media&token=ef04fdac-e06e-4c94-bf3d-d8710d83e5db);
-  background-position:bottom; /* 将图片的底部对齐到容器的底部 */
+   background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLdvi6J-jSG.png?alt=media&token=072a0a85-a788-4d5b-949e-547cdee0288d);
+  background-position:top; /* 将图片的底部对齐到容器的底部 */
   background-repeat: no-repeat; /* 防止背景图片重复 */
     background-size:120%;
     
@@ -219,7 +219,7 @@ textarea {
 
 div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
      background-size:100% 100%;
-   background-image: url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F2ouqvQHaT7.png?alt=media&token=1a8ac75e-e423-4512-bdd8-03221c084273);
+   background-image: url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLdvi6J-jSG.png?alt=media&token=072a0a85-a788-4d5b-949e-547cdee0288d);
 }
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
