@@ -1,4 +1,5 @@
 - #[[家庭]]
     - 送麻豆的路上他又有点想哭，反复念叨着姥姥是否会按时来接他。几乎每天都能找到担心的事情，反复念叨。我今天感觉特别生气。
     - 开始和老婆计划五一期间去长沙旅游
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLdvi6J-jSG.png?alt=media&token=072a0a85-a788-4d5b-949e-547cdee0288d)
+- 图片
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLdvi6J-jSG.png?alt=media&token=072a0a85-a788-4d5b-949e-547cdee0288d)
