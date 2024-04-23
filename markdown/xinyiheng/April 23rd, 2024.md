@@ -2,8 +2,13 @@
 - #[[洞见]] 思考并解决真正的问题
 - #[[洞见]] 用笔记来改善自己的处境。
 - #[[工作]]
+    - 新书推荐中的书籍列出一些关联图书
+        - 
     - 列举一些自己感兴趣的话题并长期关注
         - 明星企业的经营理念
         - 跨界之作
         - 知识管理
-        - 家庭驾驭
+        - 家庭教育的重磅作品
+        - 重磅的科普作品
+- Don't get stuck in infinite browsing mode.
+- that's what life tends to give us：not brave,big moments,but a stream of little ordinary moments out of which we must make our own meaning 
