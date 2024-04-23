@@ -24,3 +24,5 @@
 
 https://nextbigideaclub.com/magazine/dedicated-case-commitment-age-infinite-
 browsing-bookbite/27934/ [Email Body](https://files.todoist.com/YHhaH2PJHq5SQAxEUzaVywMskoqY33kXnEBJAkZZi7uwH0Vel6ePezuTWk8wju0E/by/21878347/as/file.html)
+    - 《计算机是怎样跑起来的》([日]矢泽久雄)【简介_书评_在线阅读】 - 当当图书
+        - https://product.dangdang.com/29242365.html [Email Body](https://files.todoist.com/DoJN9Pmp1jFyZ67uAKjwHI-cNCierJoYEc7ILPOATzrwzrmABgmKD129G0esp-3G/by/21878347/as/file.html)
