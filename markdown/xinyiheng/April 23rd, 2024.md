@@ -14,15 +14,8 @@
 - that's what life tends to give us：not brave,big moments,but a stream of little ordinary moments out of which we must make our own meaning 
 - Imported Quick Capture items:
     - Dedicated: The Case for Commitment in an Age of Infinite Browsing
-        - Annotations:
-
-* Don’t get stuck in Infinite Browsing Mode.
-
-* That’s what life tends to give us: not big, brave moments, but a stream of little, ordinary ones out of which we must make our own meaning.
-
-
-
-https://nextbigideaclub.com/magazine/dedicated-case-commitment-age-infinite-
-browsing-bookbite/27934/ [Email Body](https://files.todoist.com/YHhaH2PJHq5SQAxEUzaVywMskoqY33kXnEBJAkZZi7uwH0Vel6ePezuTWk8wju0E/by/21878347/as/file.html)
-    - 《计算机是怎样跑起来的》([日]矢泽久雄)【简介_书评_在线阅读】 - 当当图书
-        - https://product.dangdang.com/29242365.html [Email Body](https://files.todoist.com/DoJN9Pmp1jFyZ67uAKjwHI-cNCierJoYEc7ILPOATzrwzrmABgmKD129G0esp-3G/by/21878347/as/file.html)
+        - Don’t get stuck in Infinite Browsing Mode.
+        - That’s what life tends to give us: not big, brave moments, but a stream of little, ordinary ones out of which we must make our own meaning.
+        - [原文链接](https://nextbigideaclub.com/magazine/dedicated-case-commitment-age-infinite-browsing-bookbite/27934/)
+- #[[育儿]]
+    - 麻豆在家准备期中考试，没有去上篮球课。最近都是周一至周三上篮球课。
