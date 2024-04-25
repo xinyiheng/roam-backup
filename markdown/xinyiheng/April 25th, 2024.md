@@ -11,3 +11,8 @@
     - 去长沙的火车票买到了，五一可以去长沙玩了
 - #[[技能]]
     - 想要读的书很多，也在豆瓣标注了很多想读的书，但是又舍不得真花好几个小时去读一本书。感觉读了也没有什么功利性的收获。
+- #[[科普]] #[[生物学]]
+    - [【科普】DNA、基因和染色体傻傻分不清？一张图帮你搞清楚 - 知乎](https://zhuanlan.zhihu.com/p/466232888)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FMXomDpLC6b.png?alt=media&token=98a41d4f-dc54-44ed-8fa5-8d6dff099571)
+        - 基因
+            - 人体内大约有 20,000 到 25,000 个基因(应该是指每个细胞内的数量，因为每个细胞内的基因都一样)
