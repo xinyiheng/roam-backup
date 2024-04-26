@@ -10,6 +10,8 @@
 - ### 如何生成一个网站的rss？
     - 对于我自己希望阅读但是没有提供rss源的网站我是用的是[[feed43]]这个网站来为自己希望定制的网站生成rss。
     - RSSHub😀😀PublicVia[DIYgod/RSSHub: 🍰 Everything is RSSible](https://github.com/DIYgod/RSSHub#/) [[20220120]] 下午12:37 @评论:好像门槛有点高
+    - [Free realtime RSS and Atom feed to email service. Get your favourite blogs, feeds, and news delivered to your inbox.](https://blogtrottr.com/
+    - [Dashboard - Rss Everything](https://rsseverything.com/dashboard)
 - ### 订阅的内容太多，读不过来怎么办？
     - 目前我觉得订阅的内容是在是太多了，完全读不过来，精简订阅源还是非常重要的。
     - 如何在短时间内处理完rss信息
