@@ -9,4 +9,13 @@
     - 麻豆知道期中成绩了，自己写了这张纸
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FC9vCUvgwFH.png?alt=media&token=396b70ef-ac52-44c5-b204-20e870f3b554)
         - 对数学不太满意，我引导他期末争取考满分。每周学五次数学，每次20分钟左右，我给他出题。
+        - 可用的数学学习资源
+            - 嘟嘟数学
+            - 火花思维
+            - 漫画
+                - [小学数学早开窍，就看漫画哈哈笑（全10册） - 得到APP](https://www.dedao.cn/ebook/reader?id=EJmMZXq1b8qOpBlD69XAdP7LEGaKJWEm4znWxRnme5vrVzo4QMZYgNyk2jNA5467)
+            - [吴正宪答小学数学教学50问-吴正宪等编著-微信读书](https://weread.qq.com/web/bookDetail/1b3329007219803d1b32e53)
+            - 可汗数学
+            - 数学游戏启蒙
+            - [数学家讲解小学数学](hook://file/f9slrwkkW?p=d2FuZ3hpYW9odWkvRGVza3RvcA==&n=%E6%95%B0%E5%AD%A6%E5%AE%B6%E8%AE%B2%E8%A7%A3%E5%B0%8F%E5%AD%A6%E6%95%B0%E5%AD%A6%20%28%5B%E7%BE%8E%5D%E4%BC%8D%E9%B8%BF%E7%86%99%20%28Hung%2DHsi%20Wu%29%29%20%28Z%2DLibrary%29%2Epdf)
 - 
