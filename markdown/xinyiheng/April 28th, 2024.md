@@ -5,3 +5,8 @@
     - 要快速地浏览一些图书，已经标注了近两千本图书，根本不可能全部认真阅读。
     - 《给孩子的人工智能通识课》装前样审核
     - 
+- #[[育儿]]
+    - 麻豆知道期中成绩了，自己写了这张纸
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FC9vCUvgwFH.png?alt=media&token=396b70ef-ac52-44c5-b204-20e870f3b554)
+        - 对数学不太满意，我引导他期末争取考满分。每周学五次数学，每次20分钟左右，我给他出题。
+- 
