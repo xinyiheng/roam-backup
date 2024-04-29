@@ -1,5 +1,6 @@
 - #[[生活]]
     - 妈今天回大连，接姥姥去大连住一个月左右。
+- 
 - #[[工作]]
     - 阅读《金钱心理学》，感觉有些轶事挺出乎意料的，但整体表达的观点并没有什么特别之处，国内销售火爆完全是国外带动的原因。
     - 要快速地浏览一些图书，已经标注了近两千本图书，根本不可能全部认真阅读。
@@ -15,7 +16,9 @@
             - 数学家的故事
             - 可汗数学
             - 漫画
-                - 
+                - [糕太郎数学漫画书:让孩子轻松搞定数学应用题的数学漫画书！ (豆瓣)](https://book.douban.com/subject/36432976/) 🗒@评论：适合我还麻豆一起练习
+                - [这才是孩子爱看的漫画数学](https://www.zhihu.com/tardis/zm/art/549085232?source_id=1003)🗒@评论：这本已经购买，还有物理和化学系列，让麻豆自己看
+                - [漫画数学家 - 得到APP](https://www.dedao.cn/ebook/reader?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWrDqb2wdLygv94jYmnENDxAMZJBkbNzEblg)
             - [吴正宪答小学数学教学50问-吴正宪等编著-微信读书](https://weread.qq.com/web/bookDetail/1b3329007219803d1b32e53)
             - 数学游戏启蒙
             - [数学家讲解小学数学](hook://file/f9slrwkkW?p=d2FuZ3hpYW9odWkvRGVza3RvcA==&n=%E6%95%B0%E5%AD%A6%E5%AE%B6%E8%AE%B2%E8%A7%A3%E5%B0%8F%E5%AD%A6%E6%95%B0%E5%AD%A6%20%28%5B%E7%BE%8E%5D%E4%BC%8D%E9%B8%BF%E7%86%99%20%28Hung%2DHsi%20Wu%29%29%20%28Z%2DLibrary%29%2Epdf)
