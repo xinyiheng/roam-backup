@@ -1,2 +1,3 @@
 - #[[技能]]
     - 把anki重新用起来，重新熟悉在{c1:chrome}和roam research里快速添加anki卡片的方#[[srs/cloze]]
+    - 
