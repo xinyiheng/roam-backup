@@ -44,7 +44,7 @@
 12. https://t.co/xwJx9ntTmU
 提供欧美各国和亚洲等地的虚拟电话，无需注册，不支持中文
 
-来源于零度解说 ([View Tweet](https://twitter.com/Crypto_QianXun/status/1714846322430464073))
+来源于零度解说 ([View Tweet](https://twitter.com/Crypto_QianXun/status/1714846322430464073))n+447418620921🦩[ChatGPT - ChatPDF](https://chatgpt.com/g/g-lijo49FhM-chatpdf/c/6d620ac1-7a4b-4b6f-9728-81ef902aa8ac) 
 - ### New highlights added [[November 6th, 2023]] at 5:02 PM
     - 发现一个免费的无痛练口语的一个小程序‼️
 
