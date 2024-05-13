@@ -1,0 +1,8 @@
+- Author:: [[J Storrs Hall]]
+- Fuory:: #booksll Title:: Where Is My Flying Car?: A Memoir of Future Past
+- Categ
+- ![](https://res.weread.qq.com/wrepub/CB_0DYAbgAciF3s6jk6kh2m39Gr_parsecover)
+- ### Highlights first synced by #Readwise [[May 13th, 2024]]
+    - 飞机的价格是70年代的十倍多。飞机只是普遍的“成本病”趋势的又一个例子，尽管是一个特别明显和极端的例子。
+    - 使生活质量得到重大改善的伟大发明大多出现在1960年之前：冰箱、冰柜、真空吸尘器、煤气炉和电炉、和洗衣机；室内管道、洗涤剂和除臭剂；电灯；汽车、卡车和公共汽车；拖拉机和联合收割机；化肥；航空旅行、集装箱货运、真空管和晶体管；电报、电话、留声机、电影、收音机和电视——而这些都是私人发展起来的
+    - 20世纪上半叶，科技飞速发展，但直到下半叶，教育才开始腾飞。所以很显然，高等教育并不是真正为技术的迅猛发展负责的。但如果是这样的话，谁还在乎教育呢？

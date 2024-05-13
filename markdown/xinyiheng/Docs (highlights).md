@@ -16,3 +16,10 @@
 - URL:: https://thc4xpukay.feishu.cn/file/boxcnMer1WR3SWqfhUZtyDRKkqf
 - ### Highlights first synced by #Readwise [[March 10th, 2023]]
     - “社会上确实存在着愚昧无知的人，”朱莉告诉我，“他们坚持固有偏见。因为有些孩子出身贫苦，没有接受过教育的家长就认为这些孩子必然是愚钝的。但我们并不愚钝，我也不愚钝。有很多孩子都很聪明。我们可以深入理解很多事情。这只与个人选择有关。这就是为什么我会说国际象棋确实帮助我做出了正确的选择。”
+- Author:: [[thc4xpukay.feishu.cn]]
+- Fuory:: #articlesll Title:: Docs
+- Categ
+- URL:: https://thc4xpukay.feishu.cn/docx/PDBSdMnnMoqYA3xo8GLcTVw3nTb
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+- ### Highlights first synced by #Readwise [[May 13th, 2024]]
+    - 「TRIZ（出自俄语：теории решения изобретательских задач）」，意思是「发明家式的解决任务理论」，中文有时候译为「萃思」，取“萃取思考”之义。
