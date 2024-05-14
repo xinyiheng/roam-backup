@@ -41,11 +41,11 @@
             - 现在我已经羞于跟人说我读过这本书。10个字可以讲明白的事，非得拉扯一个故事出来，而且这个事也是很简单的、中国人肯定全都知道的事。唯一不变的就是变，每个中国人都知道啊，咱们改革开放不就是这个吗。2004?读过
             - 这本书应该是现代鸡汤文的始祖吧？记得当时这本只有90页的书却以十几元的价格出售但还是销量巨好，但觉得它本身不是应该被批评的，它带动的抄袭风才是恶劣的地方，几个月后我就在各书店里看到各种《谁动了XX》，后来的就看到各种《我的野蛮XX》、模仿易中天的《品XX》…
             - 当年简直炒上了天，吹捧得太厉害。实际上是很浅显的道理
-            - https://m.douban.com/book/subject/1021056/ [Email Body](https://files.todoist.com/k5prCUW9wtTO3BV1bnnjqEN1eOaFBsSVOMQTeZ100K_rIZo2FWywu-zTLwQ_XI7u/by/21878347/as/file.html)
+            - [原文链接](https://m.douban.com/book/subject/1021056/)
     - [JimmyLv/styled-roam: 😉 Roam Research roam/js extension for Writing with your lovely cards and beautiful theme](https://github.com/JimmyLv/styled-roam)
     - Roaming through contexts with Roam: How I use it - strategic structures
         - Tags: 工作流 知识管理
-    - https://www.diigo.com/item/image/783rf/ydcr [Email Body](https://files.todoist.com/RjI0qhtdoZIkFhmB92MmsH0h6qa_t7rrqF5S3jl8BDdYVcNObNJKxNNQcmbM-JN-/by/21878347/as/file.html)
+    - [原文链接](https://www.diigo.com/item/image/783rf/ydcr)
 - ### 今日摘要
     - # 12月30日
     - ## 已完成
