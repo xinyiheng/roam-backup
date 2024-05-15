@@ -1,4 +1,4 @@
-- ```plain text
+- ```css
 
 /* 修改reference部分的背景颜色 */
 .rm-reference-item {
@@ -11,24 +11,11 @@
 
 
 }
-.roam-block-container {
-    border: none !important;
-    box-shadow: none !important;
-}
 
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue){
   margin:10px 20px 10px 10px;
 }
-.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
-    /* 调整便签的外观 */
-    background-color: #8BC34A00!important;
-    padding: 15px 20px;
-    position: relative; /* 设置为relative，以便之后的图钉样式可以正确定位 */
-    border-radius: 5px; /* 为便签增加轻微的圆角 */
 
-    /* 为便签增加阴影效果 */
-    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
-}
 /* 添加图钉样式 
 .rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue)::before {
     content: '';
@@ -39,7 +26,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     position: absolute;
     top: -10px;
     left: 300px;
-}*/
+}*/*/
 /*修改引用的样式*/
 .rm-bq {
   font-family:简宋!important;
@@ -81,14 +68,6 @@ span[data-link-title$="2022"] .rm-page-ref-link-color::before{
     align-items: flex-start;
     justify-content: flex-start;
     overflow:scroll;
-}
-/* card-list-mode 卡片之间设置空隙 */
-div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
-    background-color: #F2E9E96D;
-    border-radius:10px;
-  box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0!important;
-    margin: 10px 20px 10px 20px;
-    padding: 10px 0 10px 0;
 }
 
 
@@ -161,14 +140,7 @@ a {
 .rm-page-ref__brackets{
   display:none;
 }
-/*修改最顶端栏目的背景*/
-.rm-topbar {
-   background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLdvi6J-jSG.png?alt=media&token=072a0a85-a788-4d5b-949e-547cdee0288d);
-  background-position:top; /* 将图片的底部对齐到容器的底部 */
-  background-repeat: no-repeat; /* 防止背景图片重复 */
-    background-size:120%;
-    
-}
+
 /*修改unlinked references字体颜色*/
 strong {
   	color:rgb(217,36,36)!important;
@@ -217,13 +189,7 @@ textarea {
     color: #111418;
 }
 
-/*设置笔记主题的背景色和背景图片*/
 
-
-div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
-     background-size:100% 100%;
-   background-image: url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLdvi6J-jSG.png?alt=media&token=072a0a85-a788-4d5b-949e-547cdee0288d);
-}
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
      background-color: #F2E9E96D;
@@ -242,23 +208,16 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
     height: 99%;
     align-content: flex-start;
 }
-/* 笔记处于行选中状态时，卡片呈现的样式 */
-div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
-background-color:;
-  border-radius: 10px;
- margin: 10px 20px 10px 20px;
-  padding: 10px 0 10px 0;
-  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
-} 
-/* 笔记中包含光标时，卡片的样式*/
-div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
-div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
-background-color: #F2E9E96D;
- border-radius:10px;
-  box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0!important;
-    margin: 10px 20px 10px 20px;
-    padding: 10px 0 10px 0;
+
+
+```
+- ```css
+.flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self:hover {
+ box-shadow: inset 16px 16px 12px 0 #9E9E9E(17 177 19 / 6%),  -3px -3px 6px 0 #fff;
+  
 }
+```
+- ```css
 /*设置卡片模式下卡片的颜色和背景阴影的颜色，我花了很多时间才学会*/
 .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self {
     width:12.7cm;
@@ -272,12 +231,91 @@ background-color: #F2E9E96D;
   )!important;
     padding: 20px 16px 16px 0;
 }
-
-
-
+```
+- ```css
 .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self:hover {
  box-shadow: inset 16px 16px 12px 0 #9E9E9E(17 177 19 / 6%),  -3px -3px 6px 0 #fff;
   
+}```
+- ```css
+/*设置卡片模式下卡片的颜色和背景阴影的颜色，我花了很多时间才学会*/
+.flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self {
+    width:12.7cm;
+    height: 7.6cm;
+    margin: 20px;
+    box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0;
+    border-radius: 0px;
+    background-size: 100% 100%;
+    background-position: 0px 2px;
+    background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9d28jUaTRF.jpg?alt=media&token=d238cc32-e9a5-4263-a24e-e1b5d1e9f178
+  )!important;
+    padding: 20px 16px 16px 0;
+}
+```
+- ```plain text
+/* 笔记中包含光标时，卡片的样式*/
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
+background-color: #F2E9E96D;
+ border-radius:10px;
+  box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0!important;
+    margin: 10px 20px 10px 20px;
+    padding: 10px 0 10px 0;
+}
+
+```
+- ```css
+/* 笔记处于行选中状态时，卡片呈现的样式 */
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
+background-color:;
+  border-radius: 10px;
+ margin: 10px 20px 10px 20px;
+  padding: 10px 0 10px 0;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+} 
+```
+- 
+- ```plain text
+.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
+    /* 调整便签的外观 */
+    background-color: #8BC34A00!important;
+    padding: 15px 20px;
+    position: relative; /* 设置为relative，以便之后的图钉样式可以正确定位 */
+    border-radius: 5px; /* 为便签增加轻微的圆角 */
+
+
+    /* 为便签增加阴影效果 */
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}```
+- 
+- ```plain text
+/* card-list-mode 卡片之间设置空隙 */
+div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
+    background-color: #F2E9E96D;
+    border-radius:10px;
+  box-shadow:8px 8px 16px 0 rgb(16 22 26 / 50%), -8px -8px 16px 0 #fff0!important;
+    margin: 10px 20px 10px 20px;
+    padding: 10px 0 10px 0;
+}
+```
+- 修改顶部图片
+    - ```plain text
+/*修改最顶端栏目的背景*/
+.rm-topbar {
+   background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLdvi6J-jSG.png?alt=media&token=072a0a85-a788-4d5b-949e-547cdee0288d);
+  background-position:top; /* 将图片的底部对齐到容器的底部 */
+  background-repeat: no-repeat; /* 防止背景图片重复 */
+    background-size:120%;
+    
+}```
+- 修改背景图片
+    - ```plain text
+/*设置笔记主题的背景色和背景图片*/
+
+
+div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
+     background-size:100% 100%;
+   background-image: url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLdvi6J-jSG.png?alt=media&token=072a0a85-a788-4d5b-949e-547cdee0288d);
 }```
 - 分列效果
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPcxSe5o-k.png?alt=media&token=d3ab6a1d-503a-4633-ad8e-c8a5f09f5d06)
