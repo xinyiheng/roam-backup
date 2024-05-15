@@ -48,7 +48,7 @@ Background-color:#F9EC7BA5;
 
 /*修改右侧边栏背景样式*/
 .sidebar-content {
-  background:#F99F8328
+  background:rgba(250,247,246,0)
 }
 div
 {
@@ -121,7 +121,7 @@ div {
     --block-widths: 1500px; /* Roam native: 800px; Murf's favorite: 1500px; Full screen: 3400px; */
 }
 .rm-bullet__inner {
-  background-color:#095071;
+  background-color:#1B1B19;
 }
 /*修改鼠标选中某个block时候的背景色*/
 /*.roam-block-container:hover {
@@ -264,7 +264,7 @@ background-color: #F2E9E96D;
 }
 
 ```
-- ```css
+- ```plain text
 /* 笔记处于行选中状态时，卡片呈现的样式 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
 background-color:;
