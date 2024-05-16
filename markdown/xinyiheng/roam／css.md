@@ -34,7 +34,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 /*修改referenc标题样式*/
 .rm-mentions .rm-ref-page-view .rm-title-arrow-wrapper {border-style:outset;    
 border-width:2px;
-Background-color:#F9EC7BA5;
+Background-color:#7FBBEABA;
                                                        }
 /*修改referenc卡片样式*/
 .flex-align-start {
