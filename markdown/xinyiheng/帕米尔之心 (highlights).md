@@ -1,0 +1,7 @@
+- Document Note::  从空中看，帕米尔高原如同一个卧在欧亚大陆上的巨大手掌一一小拇指是天山山脉，无名指是昆仑山脉， 中指是喀喇昆仑山脉，食指是喜马拉雅山脉，大拇指是兴都库什山脉。这五条山脉像捆扎在地球上的五条绳索，为了“系牢”地球，它们收拢于一个点，并以此为中心结实地打了一个结，这个山结中心便是帕米尔高原。
+- URL:: https://readwise.io/reader/document_raw_content/174312073
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+- ### Highlights first synced by #Readwise [[May 16th, 2024]]
+    - ![](https://readwise-assets.s3.amazonaws.com/media/reader/pub/7d4b26cebdd888d8722c4dab3cbc93ba.png) ([View Highlight](https://read.readwise.io/read/01hy0wk63k0edx69ak15n4ar5c))
+- ### New highlights added [[May 16th, 2024]] at 10:44 PM
+    - ![](https://readwise-assets.s3.amazonaws.com/media/reader/pub/e4b6425b238233b00265be8adf2a8aec.png) ([View Highlight](https://read.readwise.io/read/01hy0xb8gge2ep81gyk8q5hfk1))
