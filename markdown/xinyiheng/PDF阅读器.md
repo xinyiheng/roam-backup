@@ -2,7 +2,7 @@
     - 我利用pdf阅读器希望实现的功能是可以手写。以前花了很多时间来寻找在surface上手写标注pdf文档的软件，后来发现实际这个需求也实际上很少使用。
     - [[LiquidText]]
         - 目前在ipad最为满意的工具就是liquid了。
-    - onenote
+    - onenote 🗒@评论：目前基本已经不使用了。
         - 在surface上，目前我认为最好的工具还是onenote，可以把文章保存到onenote上再用笔的工具手写。如果希望深度阅读的文章，可以通过sony阅读器或者ipad上面的marginnote或者liquid来完成。
         - 如果只是轻阅读，但是希望可以写写画画，我觉得surface逐一截图还是不错的选择。我非常喜欢surface pen上铅笔的写字感觉。
         - onenote算是最好的选择了，因为我发现在onenote上也可以用surface pen的铅笔标注。
@@ -14,3 +14,4 @@
 - [[wps]] 🗒@评论:wps阅读pdf文档的时候可以开启编辑功能，比如修改pdf中的文字或者删除某些内容，有点类似chrome中的[[print friendly]]
 - pdf expert
     - 这一款软件在mac口碑也非常好。如果阅读一些不太重要的内容可以使用这一款软件。启动成本比较低。
+- [[skim]] 支持深度链接
