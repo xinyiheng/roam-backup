@@ -1,0 +1,7 @@
+- Summary:: This text is a report on the low-altitude economy industry by the Deep Enterprise Production Industry Research Institute in 2024.
+- URL:: https://readwise.io/reader/document_raw_content/174281524
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
+- ### Highlights first synced by #Readwise [[May 16th, 2024]]
+    - 低空经济是指在低空空域范围内，以民用有人驾驶和无人驾驶航 空器为载体，以载人、载货及其他作业等多场景低空飞行活动为牵引， 带动相关领域融合发展的综合性经济业态。低空空域通常是指距正下 方地平面垂直距离在 1000 米以内的空域，根据不同地区特点和实际 需要可延伸至 3000 米。低空飞行航空器包括各种直升机、固定翼飞 行器、电动垂直起降飞行器 eVTOL、工业无人机、消费无人机、城市 治理无人机等，未来将以 eVTOL 和无人机为主流。 ([View Highlight](https://read.readwise.io/read/01hy0tnvctjyf499p7jc3nd7tf))
+        - **Note**: 什么是低空经济？
+    - 航空消费类 ([View Highlight](https://read.readwise.io/read/01hy0tjb21nym9f640vqqyjf34))
