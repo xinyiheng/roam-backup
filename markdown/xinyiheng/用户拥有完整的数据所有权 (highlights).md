@@ -13,9 +13,7 @@
 ● [加入 Pocket 后自动保存到简悦的稍后读（包含快照）](https://github.com/Kenshin/simpread/discussions/3024) ⤴️   
 ● [Raindrop.io 加星后自动导入到简悦并生成本地快照](https://github.com/Kenshin/simpread/discussions/3021) ⤴️
     - 联动 Inoreader  
-  
 将 Inoreader 的某个条目加星操作，然后这个 URL 对应的快照就会出现在你坚果云的相应文件夹中，同时也会出现在简悦的稍后读中，而后方便你在稍后读中对它进行二次加工。  
-  
 ●[Inoreader 加星后自动保存到简悦的稍后读以及生成本地快照](https://zhuanlan.zhihu.com/p/429713070) ⤴️  
 ●Inoreader 打星的文章生成 RSS 再导入到简悦的方式。（利用上面的方法）  
   

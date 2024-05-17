@@ -1,7 +1,0 @@
-- Author:: [[简悦]]
-- Full Title:: 好照片也能「好便宜」，收下这份普通家庭也能游刃有余的相机推荐
-- Category:: #articles
-- URL:: https://sspai.com/post/77560
-- ### Highlights first synced by #Readwise [[January 7th, 2023]]
-    - 我也在当初胶片狂热的年代购入过价格更加昂贵的胶片器材，比如 Leica M6、Nikon FM2、 Konica Hexar AF（柯尼卡 巧思）等等，但使用体验和作品创作上并
-    - 佳能 EOS7 实在是太好用了，操作起来几乎像一台成熟的现代相机（事实上它正是胶片时代末期的技术机皇），配合永诺小痰盂（也是第三方的便宜镜头）指哪打哪，对焦精准快速，非常适合拍摄人像和日常小品类的摄影，下文夜晚人像的样张使用的胶卷是柯达 Colorplus 200，扫描仪则是基础的诺日士。
