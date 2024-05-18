@@ -1,0 +1,4 @@
+- URL:: https://sspai.com/post/88260
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+- ### Highlights first synced by #Readwise [[May 18th, 2024]]
+    - 了解 RetroArch长话短说，RetroArch 是一个模拟器的「前端」，即它本身并不是一个特定主机的模拟器，而是类似一个「模拟器集合」的玩意儿。毫不夸张的讲，有了 RetroArch，你将不再需要其他任何模拟器。并且它并不只把很多模拟器聚合在一起这么简单，作为一个独立软件，它有很多很 cooooool 的高级功能，例如「CRT 滤镜」，极大提升画面观感：

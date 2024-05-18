@@ -1,0 +1,4 @@
+- URL:: https://sspai.com/post/75427
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+- ### Highlights first synced by #Readwise [[May 18th, 2024]]
+    - 稍后读系统支持的样式和效果
