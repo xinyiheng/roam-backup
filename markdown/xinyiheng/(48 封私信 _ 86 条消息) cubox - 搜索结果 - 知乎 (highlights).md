@@ -1,0 +1,4 @@
+- URL:: https://www.zhihu.com/search?type=content&q=cubox
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+- ### Highlights first synced by #Readwise [[May 21st, 2024]]
+    - cubox 的功能就是集各路软件文本类信息于一身的，都说秦王扫六合，一统天下立大功。这款软件让阅读体验统一，不管是哪个网页的文章，需不需要魔法，只要页面可分享，都能导入 cubox 里，阅读体验直接统一，这点该款软件无出其右。

@@ -1,0 +1,5 @@
+- URL:: https://mp.weixin.qq.com/s?__biz=MzAxMjU2NzUyMA==&mid=2657472455&idx=1&sn=54468317765432f454c051d3ea735821&chksm=8149236b267b289beaf79181d51ba78bf685c3256cf420ddf67816a257039a78e4a1e277e0f1
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+- ### Highlights first synced by #Readwise [[May 21st, 2024]]
+    - 除却面和汤，朝鲜冷面的 “浇头”，同样也别具一格。清脆的黄瓜丝，微甜的辣白菜，加上东北特有的苹果梨，将汤汁调配得酸甜适宜。早年间，为了让冷面更加沁凉，不少人会在面汤里添加小苏打，大约是 “功能” 相似，现在越来越多的人选择用雪碧将其替代。
+    - 冷却后，牛肉汤的表层，往往会凝结一层薄薄的牛油，将其撇去后，便可直接浇在冷面上。
