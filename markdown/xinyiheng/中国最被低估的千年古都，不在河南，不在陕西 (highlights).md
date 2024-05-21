@@ -1,0 +1,6 @@
+- URL:: https://mp.weixin.qq.com/s/Q-lthZmLlskKgtPXzo954A
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+- ### Highlights first synced by #Readwise [[May 21st, 2024]]
+    - 在这里，赵武灵王推行胡服骑射，造就战国七雄中能与秦国一较高下的北方霸主；汉高祖刘邦大战匈奴，崛起中的大汉与巅峰时期的草原雄主展开极限交锋；北魏孝文帝在此厉行改革，浇灌出盛世的种子，余秋雨评价 “中国由此迈向大唐”……这就是——大同
+- ### New highlights added [[May 21st, 2024]] at 11:58 AM
+    - 地上文物看山西，沉浸式穿越 2300 年
