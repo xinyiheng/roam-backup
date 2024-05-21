@@ -1,0 +1,4 @@
+- URL:: https://cubox.pro/my/card?id=7192516844639486693
+- ![](https://image.cubox.pro/cover/45a4ba6wo1enxyrni79l6ipbv3qe4mtjb96ity81pn7ifo75na)
+- ### Highlights first synced by #Readwise [[May 21st, 2024]]
+    - 在温哥华TED的演讲中，她首次向全球公众介绍了“空间智能

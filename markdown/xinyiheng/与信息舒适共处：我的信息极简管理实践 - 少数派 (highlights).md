@@ -1,0 +1,8 @@
+- URL:: https://cubox.pro/my/card?id=7192511918190363791
+- ![](https://image.cubox.pro/1716280047889/159761/image.png)
+- ### Highlights first synced by #Readwise [[May 21st, 2024]]
+    - 当然也包括了开头那个从 OmniFocus 一路尝试各种 GTD 工具，最后放弃 GTD 只使用 Things 清单的故事。我的工作效率似乎并没有因此有任何下降。
+    - 虚幻的正反馈，被创造的需求
+    - 最终帮助我养成习惯的不是这些 app，而是心底驱动的真正的热爱。比如寒风里等待几个小时，终于拍摄到一张美景；比如长途骑行，风吹过脸颊时不自觉浮现的微笑…… 这些经历本身所能带来的强大反馈比一个勾、一次打卡、一个赞更震撼。
+    - 距离 iPhone 3G 的广告 There’s An App For That 过去十多年了，谁想到现今的 App 生态如此繁荣，当年的广告语放在今天，终于可以说是毫不夸张。但，There’s an app for that 并不代表 you need an app for that. 使用某个 App，
+    - com
