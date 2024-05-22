@@ -1,7 +1,5 @@
 - URL:: https://cubox.pro/my/card?id=7192780255742919847
 - ![](https://image.cubox.pro/cover/37ifkv0dh6an79567blk83jllb7ka0c2th6e2gfie3pioqxpuu)
-- ### Highlights first synced by #Readwise [[May 22nd, 2024]]
-    - 与作者交流，加工作微信yike6099
 - ### New highlights added [[May 22nd, 2024]] at 10:33 AM
     - 御史台中有柏树，野乌鸦数千栖居其上，故称御史台为“乌台”。 
    苏轼因诗文论罪，“乌台诗案”由此得名。
