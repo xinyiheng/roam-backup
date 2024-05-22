@@ -1,0 +1,4 @@
+- URL:: https://cubox.pro/my/card?id=7192780255742919847
+- ![](https://image.cubox.pro/cover/37ifkv0dh6an79567blk83jllb7ka0c2th6e2gfie3pioqxpuu)
+- ### Highlights first synced by #Readwise [[May 22nd, 2024]]
+    - 与作者交流，加工作微信yike6099
