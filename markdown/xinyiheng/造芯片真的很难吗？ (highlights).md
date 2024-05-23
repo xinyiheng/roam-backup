@@ -1,0 +1,5 @@
+- URL:: https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691425475&idx=2&sn=e41151ab7db9ce387e43ce5f548bc56a&chksm=a9ea5b189e9dd20ef8b68a8ef874a96fff7dd3f3d667daba4d1a8c74b6d87b901211edce75bf
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+- ### Highlights first synced by #Readwise [[May 23rd, 2024]]
+    - 问题一：晶圆为什么要是圆形的？
+    - 把多晶硅转换为单晶硅。目前，半导体行业常用的办法是柴可拉斯基法（Czochralski process）。按照柴可拉斯基法，先在坩锅中把多晶硅加热到熔融状态，然后加入 “晶种”（通常是一小块单晶硅），此时晶体就会 “生长”，硅元素不断附着于晶种，得到越来越大的单晶硅晶体，也就是 “晶棒”。不断旋转晶棒并向上提拉，同时坩锅以反方向旋转——当然，坩锅转速、晶棒转速、提拉速度、坩锅温度都需要极为精确的控制，最后就可以得到一根较大的、圆柱体形状的纯净的硅晶棒。
