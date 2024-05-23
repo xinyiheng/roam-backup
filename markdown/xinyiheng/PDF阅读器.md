@@ -6,7 +6,7 @@
         - 在surface上，目前我认为最好的工具还是onenote，可以把文章保存到onenote上再用笔的工具手写。如果希望深度阅读的文章，可以通过sony阅读器或者ipad上面的marginnote或者liquid来完成。
         - 如果只是轻阅读，但是希望可以写写画画，我觉得surface逐一截图还是不错的选择。我非常喜欢surface pen上铅笔的写字感觉。
         - onenote算是最好的选择了，因为我发现在onenote上也可以用surface pen的铅笔标注。
-    - noteboox
+    - noteboox 🗒@评论：目前基本不使用surface了
         - surface上还有一款软件叫做noteboox，类似marginote，虽然还比较初级，但已经是windows系统下最接近marginote的软件了。这款软件不支持手写，但是作为windows端阅读器还不错。
     - drawboard
         - surface上还有一款软件，drawboard，算是标注pdf比较优秀的软件。不过我觉得还不是很满意。
