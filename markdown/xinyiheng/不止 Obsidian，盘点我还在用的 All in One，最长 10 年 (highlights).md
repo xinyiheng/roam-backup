@@ -10,3 +10,6 @@
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 - ### Highlights first synced by #Readwise [[May 23rd, 2024]]
     - Custom Frames 用途Trello：团队协作。
+- ### New highlights added [[May 23rd, 2024]] at 5:30 PM
+    - MacroDroid自从 Ob 的全平台适用后，我的工作内容也开始大量涉及手机操作，使用频率激增，就产生了一个想法：「把手机打造成生产力工具」，而不仅仅是以 PC 为第一生产力。毕竟手机的使用时间远比 PC 多，也方便携带。能帮我实现这个想法的工具，是从接触 MacroDroid 开始。从功能来说，MacroDroid 可以看成是 IFTTT、HTTP 快捷方式、通知滤盒等的组合，也就是 All-in-One。
+    - 同类型还有 Automation、Task，但它们看着就没有想学的欲望。第一次接触 MacroDroid 的时候，马上被吸引住了，一下子就能看懂所有功能版块

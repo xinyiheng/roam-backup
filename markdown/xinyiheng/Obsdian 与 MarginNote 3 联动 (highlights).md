@@ -1,0 +1,4 @@
+- URL:: https://mp.weixin.qq.com/s?__biz=Mzg5Njk3MDUyMQ==&mid=2247487367&idx=1&sn=039439dd0aa2b11d5f3fb55803d101cb&chksm=c079b5f1f70e3ce7d3502ba0165ca7bbddb881c9459af344baad76a00b83e44175b9f5fa2e1d&cur_album_id=2918666965630566403&scene=189#wechat_redirect
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+- ### Highlights first synced by #Readwise [[May 23rd, 2024]]
+    - Obsidian bridge https://github.com/aidenlx/obsidian-bridge/releases
