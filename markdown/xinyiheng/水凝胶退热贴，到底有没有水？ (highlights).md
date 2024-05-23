@@ -1,0 +1,4 @@
+- URL:: https://mp.weixin.qq.com/s?__biz=MzA4NzEyNTE4OQ==&mid=2654690401&idx=2&sn=a3c3dfa253eba9b83bbe725a3918e3c1&chksm=8ae7a1b98b549950a29a6a6f10882acacaa92dd0bdcc6b1910f1bdf8c9b78c1904d0272e9f18
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+- ### Highlights first synced by #Readwise [[May 23rd, 2024]]
+    - 退热贴的主要原料叫做水凝胶（ Hydrogel ）。水凝胶聚合物是有一头亲水，一头疏水的。吸水时，亲水端会把水团团围住，而疏水端则形成屏障。这样就把水包裹得紧紧，形成了一个三维网状结构。
