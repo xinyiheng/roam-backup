@@ -1,0 +1,4 @@
+- URL:: https://mp.weixin.qq.com/s/eFW3UV-rEwq-zaa4xLv2uw
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
+- ### Highlights first synced by #Readwise [[May 24th, 2024]]
+    - 最开始的时候，世界上所有的半导体公司都是属于IDM公司，那个时候所有的公司都有自己的制造工厂和测试厂。这个现象直到有一个人的辞职，那就是张忠谋从德州仪器辞职，回到台湾创立了世界上第一家晶圆代工企业台积电。也就是这个开端，它让半导体产业门槛儿变低了，越来越多的fabless涌入半导体行业，直到现在这个局面。

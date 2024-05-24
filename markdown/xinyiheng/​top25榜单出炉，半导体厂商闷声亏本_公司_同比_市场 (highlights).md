@@ -1,0 +1,4 @@
+- URL:: https://www.sohu.com/a/752740217_121228203
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+- ### Highlights first synced by #Readwise [[May 24th, 2024]]
+    - 半导体研究机构TechInsights旗下负责半导体市场趋势研究的McCleanReport部门（原IC Insights）公布了2023年度半导体公司销售额前25位的厂商排名。

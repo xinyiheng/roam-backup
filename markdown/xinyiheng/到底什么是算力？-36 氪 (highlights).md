@@ -1,0 +1,5 @@
+- URL:: https://36kr.com/p/2519427688900099
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
+- ### Highlights first synced by #Readwise [[May 24th, 2024]]
+    - 按指令集架构的不同，CPU 可以分为 x86 架构与非 x86 架构。X86 架构大家都比较熟悉，是英特尔（Intel）公司首先开发并长期主导的，具有比较好的生态，市场占有率也比较高。非 x86 架构的类型比较多，这些年崛起速度很快，主要有 x86、ARM、MIPS、Power、RISC-V、Alpha 等。
+    - 根据数据显示，2021 年全国数据中心总用电量为 2166 亿千瓦时，占全国总用电量的 2.6%，相当于 2 个三峡水电站的年发电量，1.8 个北京地区的总用电量。
