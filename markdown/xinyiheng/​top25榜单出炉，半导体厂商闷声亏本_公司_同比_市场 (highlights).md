@@ -2,3 +2,6 @@
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 - ### Highlights first synced by #Readwise [[May 24th, 2024]]
     - 半导体研究机构TechInsights旗下负责半导体市场趋势研究的McCleanReport部门（原IC Insights）公布了2023年度半导体公司销售额前25位的厂商排名。
+- ### New highlights added [[May 25th, 2024]] at 5:13 PM
+    - 2023年销售额排名前25的半导体公司概况与上一年保持不变。前25家公司2023年的总收入为5168亿美元，同比下降11%，
+    - 2022年排名第一的三星，由于存储衰退和低迷，年减达到37%，这让台积电夺得第一。
