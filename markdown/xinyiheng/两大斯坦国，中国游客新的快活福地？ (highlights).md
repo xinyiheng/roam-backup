@@ -1,0 +1,5 @@
+- URL:: https://cubox.pro/my/card?id=7193911282909580320
+- ![](https://image.cubox.pro/cover/2cdsruyc6o57ycemjhr0p13yabmcwgx6y6bmi4oy49jwe2dsh)
+- ### Highlights first synced by #Readwise [[May 27th, 2024]]
+    - 阿拉木图位于七河流域。七河流域的主要范围是流向巴尔喀什湖的七条河流的广大地区，其中就包括发源于中国的伊犁河，而且伊犁河是其中水量最大最重要的一条，以至于巴尔喀什湖呈现出“西淡东咸”的特点。
+    - 历史名城托克马克就位于吉尔吉斯斯坦楚河州的北部，地处丝绸之路两条干线的交汇处，古时中西商人汇集于此，曾作为喀喇汗国、西辽的都城，中国唐代碎叶城遗址和布拉纳遗址都保存在这里。
