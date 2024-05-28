@@ -1,0 +1,4 @@
+- URL:: https://sspai.com/post/87071
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+- ### Highlights first synced by #Readwise [[May 29th, 2024]]
+    - KISS：Keep It Simple and Stupid.复杂的系统并不代表是好的系统。复杂系统本身就会带来很大的维护负担，再加上外界干扰（比如导师的夺命连环 call），自然导致系统难以持久维护。Eric S. Raymond 在《The Art of Unix Programming》 中基于 KISS 原则设计 Unix 操作系统，我也想打造出一个「简单愚蠢」的任务管理系统，以应对这个「草台班子」一样的世界。
