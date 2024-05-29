@@ -29,23 +29,13 @@
     - empty task
         -  [Email Body](https://files.todoist.com/6_CJE0Y5qysnGb1B1Vbe8t_RGJ2ctbqMst_kJumWpKvvYfvOLq0eB_jFGIVq8sbt/by/21878347/as/file.html)
     - 如云的剪辑笔记 - 知乎
-        - Annotations:
-
-*   * SDR 的亮度范围在 0.117nits - 100nits 之间，色彩空间也仅支持到 sRGB（有关色彩空间的解释可以参考之前的文章：调色名词浅析——色彩空间与色域）。
-
-这些标准其实都是来自 CRT（Cathode Ray Tube，阴极射线管）
-时代的遗产。现代的显示设备已经可以提供更高的亮度以及更丰富的色彩空间了，只是为了兼容 CRT 才一直使用 SDR 的标准。
-
-* 其实，自然界的光照远超 100nits 的标准，就拿拍摄的一朵花来说：
-
-* 在黄色花瓣部分最高亮度达到了 14700nits，显然一般的 SDR 标准显示器是没有办法完美还原这一亮度的。可见自然界比目前蓝光、影院再现的视频拥有更广的亮度范围，为了完美还原这些亮度，HDR 标准就应运而生了。
-
-* HDR 标准目前主要分为三类：
-
-* 杜比开发： Dolby Vision
-* 电视机制造联盟：HDR 10
-* 电视台主打： Hybrid Log-Gamma
-
-
-
-https://www.zhihu.com/column/FinalCut [Email Body](https://files.todoist.com/wyslDJfhBwuhJ34W3llauAfhswpckwezoWlCtUnd-KFZAHcVpH0q_L85O9OwoVvk/by/21878347/as/file.html)
+        - * SDR 的亮度范围在 0.117nits - 100nits 之间，色彩空间也仅支持到 sRGB（有关色彩空间的解释可以参考之前的文章：调色名词浅析——色彩空间与色域）。
+        - 这些标准其实都是来自 CRT（Cathode Ray Tube，阴极射线管）
+        - 时代的遗产。现代的显示设备已经可以提供更高的亮度以及更丰富的色彩空间了，只是为了兼容 CRT 才一直使用 SDR 的标准。
+        - 其实，自然界的光照远超 100nits 的标准，就拿拍摄的一朵花来说：
+        - 在黄色花瓣部分最高亮度达到了 14700nits，显然一般的 SDR 标准显示器是没有办法完美还原这一亮度的。可见自然界比目前蓝光、影院再现的视频拥有更广的亮度范围，为了完美还原这些亮度，HDR 标准就应运而生了。
+        - HDR 标准目前主要分为三类：
+        - 杜比开发： Dolby Vision
+        - 电视机制造联盟：HDR 10
+        - 电视台主打： Hybrid Log-Gamma
+        - [原文链接](https://www.zhihu.com/column/FinalCut)
