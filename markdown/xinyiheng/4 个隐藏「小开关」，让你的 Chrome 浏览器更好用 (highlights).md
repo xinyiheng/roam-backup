@@ -1,0 +1,4 @@
+- URL:: https://sspai.com/post/81982
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+- ### Highlights first synced by #Readwise [[May 29th, 2024]]
+    - side panel
