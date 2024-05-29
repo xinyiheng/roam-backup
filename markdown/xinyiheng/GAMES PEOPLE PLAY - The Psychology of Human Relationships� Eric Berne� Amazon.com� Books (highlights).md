@@ -1,0 +1,2 @@
+- URL:: https://www.amazon.com/Games-People-Play-Psychology-Relationships/dp/B005JKEOWQ/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9._D1352NscVVIjwPM1_dshwX1-ow3cjJ1K4Edww6pmrI4WpDOWWWKC26RUnk6MWB73Ryv8ZSoTFWXt3tzVNrgzOB7lJAnefh2Y1fMlorjVBG1PgDhVCdQJuTueeSxuRTapItkINy-juCWr5tIsOohacWweo2uKPu1qpgrR2T8hYHdjVPdHiiDW8xDacKaZocSP76CEC9XDMz0gqYsR73lJnjljat_hkz24wK2kGnDBEg.M2oiPEi1E7AVt2hxkxOMYYe-8HfYCmXgebibrh_mNLs&qid=1716967022&sr=8-1
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
