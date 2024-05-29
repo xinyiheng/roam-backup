@@ -308,6 +308,12 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     background-size:120%;
     
 }```
+- ```css
+ .roam-topbar {
+    background-color: white !important;
+    color: black !important; /* Changes text color to black for visibility */
+}
+```
 - 修改背景图片
     - ```plain text
 /*设置笔记主题的背景色和背景图片*/
