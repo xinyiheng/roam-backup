@@ -1,0 +1,4 @@
+- URL:: https://mp.weixin.qq.com/s?__biz=MzAxNjgwOTY0NA==&mid=2247501321&idx=1&sn=77c25eca04a2b23ab8d740ca2a3690de&chksm=9bedadcaac9a24dcf0c0c4e314bf8ce5413cec37297c68f7bbf6744f444a419fd8d7cf11eaeb&mpshare=1&scene=1&srcid=0528TnODiwPpley1HD94ixwg&sharer_shareinfo=5ae1f354a4d6eb1da9b1fc2657590b0a&sharer_shareinfo_first=5ae1f354a4d6eb1da9b1fc2657590b0a#rd
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+- ### Highlights first synced by #Readwise [[May 30th, 2024]]
+    - 半导体零部件多元化布局，耗材属性凸显。根据应用客户，公司生产的零部件可以分为两大类：一类应用于设备厂，包括工艺零部件和腔体等；另一类应用于晶圆厂，主要是用于
