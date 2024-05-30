@@ -34,7 +34,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 /*修改referenc标题样式*/
 .rm-mentions .rm-ref-page-view .rm-title-arrow-wrapper {border-style:outset;    
 border-width:2px;
-Background-color:#7FBBEABA;
+Background-color:#03A9F444;
                                                        }
 /*修改referenc卡片样式*/
 .flex-align-start {
@@ -48,7 +48,7 @@ Background-color:#7FBBEABA;
 
 /*修改右侧边栏背景样式*/
 .sidebar-content {
-  background:rgba(250,247,246,0)
+  background:rgba(238,223,223,0)
 }
 div
 {
@@ -1136,7 +1136,7 @@ span.rm-page-ref[data-tag="人际"] {
     font-weight: 500;
 }```
 - 数字花园[[hongse]] @评论:暂时暂停使用，因为和roam-tookit里面的功能冲突
-    - ```typescript
+    - ```css
 
 
 .roam-block-container {
