@@ -1,0 +1,4 @@
+- URL:: https://sspai.com/post/65244
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+- ### Highlights first synced by #Readwise [[May 30th, 2024]]
+    - Zotero 是开源、跨平台的，有强大的第三方插件。借助这些插件，实现更多高阶操作，比如借助 Zutilo 批量添加标签，随时优化自己的标签系统。使用 Mdnotes for Zotero 方便的将 Zotero 的笔记和 Roam Research、Obsidian 等软件进行联动。至于 OCR 功能，一个插件即可。如果这些还是不能满足你的需求，参考官方指引，编写脚本。自己动手，丰衣足食。
