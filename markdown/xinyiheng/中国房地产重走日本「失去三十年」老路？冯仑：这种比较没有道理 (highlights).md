@@ -1,0 +1,4 @@
+- URL:: https://mp.weixin.qq.com/s?__biz=MzI0ODEyMTM1OQ==&mid=2650051862&idx=1&sn=c6002f1ed3bc044a9f3cb54958694051&chksm=f0e90171585a1c70a9082688ba071a549566ece40660840203e7a0c25702b40b0da6747b4919
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+- ### Highlights first synced by #Readwise [[June 3rd, 2024]]
+    - 市场住房部分应由市场规律决定，取消所有带有「限」字的政策；保障住房部分归保障，这部分应保持限制措施，确保社会保障机制的公平和有效运行，这部分可以继续限制购房资格、公积金使用等，以保障低收入群体和特定人群的住房需求。
