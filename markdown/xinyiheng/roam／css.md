@@ -48,7 +48,7 @@ Background-color:#03A9F444;
 
 /*修改右侧边栏背景样式*/
 .sidebar-content {
-  background:rgba(238,223,223,0)
+  background:rgba(255,250,250,0)
 }
 div
 {
@@ -1136,7 +1136,7 @@ span.rm-page-ref[data-tag="人际"] {
     font-weight: 500;
 }```
 - 数字花园[[hongse]] @评论:暂时暂停使用，因为和roam-tookit里面的功能冲突
-    - ```css
+    - ```plain text
 
 
 .roam-block-container {
@@ -1244,7 +1244,7 @@ div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-ch
 }
 
 ```
-    - ```javascript
+    - ```plain text
 
 div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 800px) / 2);"], div[style*="padding-right: calc((100% - 568px) / 2); padding-left: calc((100% - 1032px) / 2);"] {
     
