@@ -9,7 +9,7 @@ O'Reilly Media, Inc.是世界上在 Unix、X、Internet 和其他开放系统图
 （被纽约公共图书馆评为20世纪最重要的50本书之一）到最早的Internet门户和商业网站GNN，再到第一个桌面PC的Web服务器软件WebSite，O'Reilly Media,Inc.一直处于Internet发展的最前沿。
 许多书店的反馈表明，O'Reilly Media, Inc.是最稳定的计算机图书出版商——每一本书都一版再版
 -via[黑客与画家 - 得到APP](https://www.dedao.cn/reader?id=exGM6Evn5byxq2PnXBz71AjZaol6R8WJDawOKpGkd4gmMLEJrYNQe9VvD8P4jLkK)
-    - 为什么说编程语言是设计而不是研究？什么
+    - 为什么说编程语言是设计而不是研究？
         - 如果把创造一种编程语言看成是设计问题，而不是科研方向，那么有何不同？
 最大的不同在于你会更多地考虑用户。设计的时候，一开始总是问：我为谁设计？他们需要什么？比如，优秀的建筑师不会先设计，然后强迫用户接受，而是先研究最终用户的需求，然后做出用户需要的设计。
     - 用户需求和用户要求有何不同？
