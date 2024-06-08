@@ -1,0 +1,2 @@
+- Imported Quick Capture items:
+    - 卡片

@@ -1,0 +1,5 @@
+- URL:: https://www.thepaper.cn/newsDetail_forward_19168688
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+- ### Highlights first synced by #Readwise [[June 9th, 2024]]
+    - 4L近视阻断疗法——灯光Light、红光Laser、周边离焦Lead、远像雾视Long已经聚齐，这套安全、易行、强效的组合拳，已经给我们带来很多惊喜，创造了诸多以往不敢想象的“神迹”，相信4L推广开来之后，一定会给我国儿童近视防控工作带来全新气象。
+        - **Note**: 同仁医院的医生说法也相互矛盾。宋红欣说红光治疗（哺光仪）应该禁止使用。
