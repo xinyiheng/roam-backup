@@ -1,0 +1,4 @@
+- ![](https://wfqqreader-1252317822.image.myqcloud.com/cover/926/573926/s_573926.jpg)
+- ### Highlights first synced by #Readwise [[June 11th, 2024]]
+    - 主要概念的小结
+        - **Note**: 貌似读好这一页就可以了
