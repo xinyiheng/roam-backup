@@ -36,6 +36,8 @@
             - __or a (( blockref here__
             - __or maybe DNP-1 for yesterday or DNP+1 for tomorrow__
             - __or go crazy and use DNP-365 to see what you were doing last year!__
+        - Keyboard Shortcut:
+            - __type one letter here__
         - Custom CSS:
             - ```css
 place any custom css in this code block```
@@ -52,8 +54,6 @@ place any custom css in this code block```
             - __or a (( blockref here__
             - __or maybe DNP-1 for yesterday or DNP+1 for tomorrow__
             - __or go crazy and use DNP-365 to see what you were doing last year!__
-        - Keyboard Shortcut:
-            - __type one letter here__
         - Custom CSS:
             - ```css
 place any custom css in this code block```
