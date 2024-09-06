@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-      - cron: "0 * * * *"
+    - cron: "0 * * * *"
 
 jobs:
   backup:
@@ -20,12 +20,18 @@ jobs:
         with:
           node-version: '16'
       
-      - name: Run Backup
+      - name: Install Dependencies and Fix Vulnerabilities
         run: |
           cd /tmp
           git clone -q https://github.com/everruler12/roam2github.git roam2github
-          cd $_
-          npm i
+          cd roam2github
+          npm install
+          npm audit fix
+          npm install inflight@latest rimraf@latest glob@latest puppeteer@latest
+      
+      - name: Run Backup
+        run: |
+          cd /tmp/roam2github
           npm run start -s
         env:
           R2G_EMAIL: ${{ secrets.R2G_EMAIL }}
