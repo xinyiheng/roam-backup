@@ -27,7 +27,7 @@ jobs:
           cd roam2github
           npm install
           npm audit fix
-          npm install inflight@latest rimraf@latest glob@latest puppeteer@10.0.0  # 降级 Puppeteer 版本
+          npm install inflight@latest rimraf@latest glob@latest puppeteer@latest
       
       - name: Run Backup
         run: |
