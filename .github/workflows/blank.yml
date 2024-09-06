@@ -18,7 +18,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
-          node-version: '16'
+          node-version: '18'  # 升级到 Node.js 18
       
       - name: Install Dependencies and Fix Vulnerabilities
         run: |
