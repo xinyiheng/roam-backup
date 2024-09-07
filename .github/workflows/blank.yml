@@ -30,7 +30,7 @@ jobs:
           git clone -q https://github.com/everruler12/roam2github.git roam2github
           cd roam2github
           echo "Cloned roam2github repository."
-          npm install
+          npm ci --verbose
           echo "Dependencies installed."
           npm run start -s
           echo "Backup script executed."
