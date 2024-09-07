@@ -27,6 +27,7 @@ jobs:
           cd roam2github
       
       - name: Install Dependencies and Fix Vulnerabilities
+        working-directory: /tmp/roam2github
         run: |
           npm install
           npm audit fix
@@ -38,8 +39,8 @@ jobs:
           git push origin main  # 推送更改到你的仓库
       
       - name: Run Backup
+        working-directory: /tmp/roam2github
         run: |
-          cd /tmp/roam2github
           npm run start -s
         env:
           R2G_EMAIL: ${{ secrets.R2G_EMAIL }}
