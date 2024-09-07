@@ -20,15 +20,6 @@ jobs:
         with:
           node-version: '20'  # 升级到 Node.js 20
       
-      - name: Install Dependencies and Fix Vulnerabilities
-        run: |
-          cd /tmp
-          git clone -q https://github.com/everruler12/roam2github.git roam2github
-          cd roam2github
-          npm install
-          npm audit fix
-          npm install rimraf@latest inflight@latest glob@latest puppeteer@latest  # 使用最新版本的包
-      
       - name: Run Backup
         run: |
           cd /tmp/roam2github
