@@ -22,7 +22,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
-          node-version: '20'
+          node-version: '14'
       
       - name: Run Backup
         run: |
@@ -43,3 +43,4 @@ jobs:
         uses: everruler12/git-auto-commit-action@latest
         with:
           commit_message: Automatic backup
+Outline
