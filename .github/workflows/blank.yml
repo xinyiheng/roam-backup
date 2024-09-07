@@ -41,9 +41,12 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git remote set-url origin https://xinyiheng:${{ secrets.GITHUB_TOKEN }}@github.com/xinyiheng/roam-backup.git
+          git add .
+          git commit -m "Temporary commit to allow rebase" || echo "No changes to commit"
+          git pull origin main --rebase
+          git reset HEAD~1  # 取消临时提交
           git add package-lock.json
           git commit -m "Update package-lock.json and dependencies" || echo "No changes to commit"
-          git pull origin main --rebase
           git push origin main  # 推送更改到你的仓库
       
       - name: Run Backup
@@ -59,4 +62,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Automated snapshot
-        
