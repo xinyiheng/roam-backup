@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-      - cron: "0 * * * *"
+    - cron: "0 * * * *"
 
 jobs:
   backup:
@@ -20,12 +20,26 @@ jobs:
         with:
           node-version: '20'
       
-      - name: Run Backup
+      - name: Clone roam2github Repository
         run: |
           cd /tmp
           git clone -q https://github.com/everruler12/roam2github.git roam2github
-          cd $_
-          npm i
+          cd roam2github
+      
+      - name: Install Dependencies and Fix Vulnerabilities
+        run: |
+          npm install
+          npm audit fix
+          npm install rimraf@latest inflight@latest glob@latest puppeteer@latest
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add package-lock.json
+          git commit -m "Update package-lock.json and dependencies"
+          git push origin main  # 推送更改到你的仓库
+      
+      - name: Run Backup
+        run: |
+          cd /tmp/roam2github
           npm run start -s
         env:
           R2G_EMAIL: ${{ secrets.R2G_EMAIL }}
