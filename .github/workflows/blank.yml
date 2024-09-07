@@ -5,13 +5,13 @@ on:
     branches:
       - main
   schedule:
-      - cron: "0 * * * *"
+    - cron: "0 * * * *"
 
 jobs:
   backup:
     runs-on: ubuntu-latest
     name: Backup
-    timeout-minutes: 10
+    timeout-minutes: 30  # 增加超时时间
     steps:
       - uses: actions/checkout@v2
       
@@ -19,14 +19,22 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '20'
+          cache: 'npm'  # 启用 npm 缓存
+      
+      - name: Configure npm to use faster mirror
+        run: npm config set registry https://registry.npmmirror.com  # 使用淘宝 npm 镜像
       
       - name: Run Backup
         run: |
+          echo "Starting backup process..."
           cd /tmp
           git clone -q https://github.com/everruler12/roam2github.git roam2github
-          cd $_
-          npm i
+          cd roam2github
+          echo "Cloned roam2github repository."
+          npm install
+          echo "Dependencies installed."
           npm run start -s
+          echo "Backup script executed."
         env:
           R2G_EMAIL: ${{ secrets.R2G_EMAIL }}
           R2G_PASSWORD: ${{ secrets.R2G_PASSWORD }}
