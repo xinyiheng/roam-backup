@@ -5,41 +5,41 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 * * * *"
+      # Here you can change how often your backup runs. See https://crontab.guru/examples.html
+      - cron: "0 * * * *"
 
 jobs:
   backup:
     runs-on: ubuntu-latest
     name: Backup
-    timeout-minutes: 20  # 增加超时时间
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v2
+        with:
+          repository: ${{ secrets.BACKUP_REPO }}
+          token: ${{ secrets.ACCESS_TOKEN }}
       
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
           node-version: '20'
       
-      - name: Configure npm to use faster mirror
-        run: npm config set registry https://registry.npmmirror.com  # 使用淘宝 npm 镜像
-      
       - name: Run Backup
         run: |
-          echo "Starting backup process..."
           cd /tmp
           git clone -q https://github.com/everruler12/roam2github.git roam2github
-          cd roam2github
-          echo "Cloned roam2github repository."
-          npm ci --verbose
-          echo "Dependencies installed."
-          npm run start -s
-          echo "Backup script executed."
+          cd $_
+          npm i
+          npm run backup -s
         env:
-          R2G_EMAIL: ${{ secrets.R2G_EMAIL }}
-          R2G_PASSWORD: ${{ secrets.R2G_PASSWORD }}
-          R2G_GRAPH: ${{ secrets.R2G_GRAPH }}
+          ROAM_EMAIL: ${{ secrets.ROAM_EMAIL }}
+          ROAM_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
+          ROAM_GRAPH: ${{ secrets.ROAM_GRAPH }}
+          BACKUP_EDN: true
+          BACKUP_JSON: true
+          BACKUP_MARKDOWN: true
 
       - name: Commit Changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: everruler12/git-auto-commit-action@latest
         with:
-          commit_message: Automated snapshot
+          commit_message: Automatic backup
