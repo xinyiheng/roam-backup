@@ -12,6 +12,7 @@ jobs:
   backup:
     runs-on: ubuntu-latest
     name: Backup
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v2
         with:
@@ -21,17 +22,8 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
-          node-version: '20'
+          node-version: '14'
       
-      -   name: Set up Python 3.9
-          uses: actions/setup-python@v1
-          with:
-            python-version: 3.9
-
-      -   name: Setup dependencies
-          run: |
-            pip install requests
-
       - name: Run Backup
         run: |
           cd /tmp
@@ -39,20 +31,16 @@ jobs:
           cd $_
           npm i
           npm run backup -s
-          cd /home/runner/work/roam2github-actions/roam2github-actions
-          curl https://raw.githubusercontent.com/JimmyLv/roam2github-actions/main/scripts/roam_image_backup.py -o roam_image_backup.py
-          mkdir -p ./markdown/${{ secrets.ROAM_GRAPH }}/images
-          python roam_image_backup.py json/${{ secrets.ROAM_GRAPH }}.json ./markdown/${{ secrets.ROAM_GRAPH }}/images
-          sed -i 's/- #/\n#/g;s/](</](/g;s/.md>)/.md)/g;s/- \([[:digit:]]*\)\./\n\1\./g;s~(https.*%2F\(.*\)\?alt=media.*)~(./images\/\1)~g' ./markdown/${{ secrets.ROAM_GRAPH }}/*.md
         env:
           ROAM_EMAIL: ${{ secrets.ROAM_EMAIL }}
           ROAM_PASSWORD: ${{ secrets.ROAM_PASSWORD }}
           ROAM_GRAPH: ${{ secrets.ROAM_GRAPH }}
-          BACKUP_EDN: true
-          BACKUP_JSON: true
+          BACKUP_EDN: false
+          BACKUP_JSON: false
           BACKUP_MARKDOWN: true
 
       - name: Commit Changes
         uses: everruler12/git-auto-commit-action@latest
         with:
           commit_message: Automatic backup
+Outline
