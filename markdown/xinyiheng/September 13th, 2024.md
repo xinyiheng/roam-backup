@@ -1,0 +1,2 @@
+- Imported Quick Capture items:
+    - 快速向 roam research 中发送文本

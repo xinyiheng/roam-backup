@@ -1,11 +1,18 @@
 - ### cache
     - [[memo]]
-        - lastCompletedDate:: June 27th, 2024
+        - lastCompletedDate:: August 17th, 2024
 - ### cache
     - [[memo]]
         - lastCompletedDate:: August 23rd, 2023
 - ### data
     - 俄罗斯在制造和获取芯片方面的持续困难解释了该国在乌克兰上空被击落的无人机中使用了大量外国微电子芯片的原因。这也解释了俄罗斯军队继续广泛依赖非精确制导弹药的原因。最近，人们对俄罗斯在另一场战争的一项分析发现，多达95%的投掷弹药是非制导的。俄罗斯在进入乌克兰几周内就面临巡航导弹短缺的事实，部分原因是其半导体行业的糟糕状况。#[[memo]]
+        - [[August 17th, 2024]] 🟢
+            - nextDueDate:: [[September 29th, 2024]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 43
+            - repetitions:: 4
+            - grade:: 5
+            - reviewMode:: SPACED_INTERVAL
         - [[June 27th, 2024]] 🟢
             - nextDueDate:: [[July 13th, 2024]]
             - eFactor:: 2.7
@@ -28,6 +35,13 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 《日本可以说“不”》引起了争议，并不是因为它的观点，而是因为事实。#[[memo]]
+        - [[August 17th, 2024]] 🟢
+            - nextDueDate:: [[September 29th, 2024]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 43
+            - repetitions:: 4
+            - grade:: 5
+            - reviewMode:: SPACED_INTERVAL
         - [[June 27th, 2024]] 🟢
             - nextDueDate:: [[July 13th, 2024]]
             - eFactor:: 2.7
@@ -51,6 +65,13 @@
             - reviewMode:: SPACED_INTERVAL
     - 按照行业标准，台积电的晶圆产能为180万片，三星的晶圆产能为250万片，而格芯的晶圆产能只有70万片。
 #[[memo]]
+        - [[August 17th, 2024]] 🟢
+            - nextDueDate:: [[September 29th, 2024]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 43
+            - repetitions:: 4
+            - grade:: 5
+            - reviewMode:: SPACED_INTERVAL
         - [[June 27th, 2024]] 🟢
             - nextDueDate:: [[July 13th, 2024]]
             - eFactor:: 2.7
@@ -73,6 +94,13 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 从第一天起，台积电就不是真正的私人企业，而是台湾当局的项目。#[[memo]]
+        - [[August 17th, 2024]] 🟢
+            - nextDueDate:: [[September 29th, 2024]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 43
+            - repetitions:: 4
+            - grade:: 5
+            - reviewMode:: SPACED_INTERVAL
         - [[June 27th, 2024]] 🟢
             - nextDueDate:: [[July 13th, 2024]]
             - eFactor:: 2.7
@@ -95,6 +123,13 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 2023年销售额排名前25的半导体公司概况与上一年保持不变。前25家公司2023年的总收入为5168亿美元，同比下降11%。2022年排名第一的三星，由于存储衰退和低迷，年减达到37%，这让台积电夺得第一。#[[memo]]
+        - [[August 17th, 2024]] 🟢
+            - nextDueDate:: [[September 29th, 2024]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 43
+            - repetitions:: 4
+            - grade:: 5
+            - reviewMode:: SPACED_INTERVAL
         - [[June 27th, 2024]] 🟢
             - nextDueDate:: [[July 13th, 2024]]
             - eFactor:: 2.7
@@ -117,6 +152,13 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 华为一个实验室的墙上写着“牺牲是军人最大的付出，胜利是军人最大的奉献”。但在芯片行业的背景下，任正非的战斗精神并不是那么独特。安迪·格鲁夫写了一本关于偏执好处的畅销书。与此同时，张忠谋表示，他仔细研究过斯大林格勒战役（第二次世界大战中最血腥的一场战役），以获得商业方面的教训。#[[memo]]
+        - [[August 17th, 2024]] 🟢
+            - nextDueDate:: [[September 29th, 2024]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 43
+            - repetitions:: 4
+            - grade:: 5
+            - reviewMode:: SPACED_INTERVAL
         - [[June 27th, 2024]] 🟢
             - nextDueDate:: [[July 13th, 2024]]
             - eFactor:: 2.7
@@ -139,6 +181,13 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 芯片公司不能忽视世界上最大的半导体市场。当然，芯片制造商小心翼翼地保护着其关键技术。但几乎每一家芯片公司都有非核心技术，在不领先的子行业，它们很乐意以一定的价格分享这些技术。此外，当失去市场份额或需要融资时，它们不会把重点放在长期的打算上。这为中国提供了强大的杠杆，促使外国芯片公司转让技术、开放生产工厂或许可知识产权。对于芯片公司来说，在中国筹集资金通常比在华尔街更容易。#[[memo]]
+        - [[August 17th, 2024]] 🟢
+            - nextDueDate:: [[September 29th, 2024]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 43
+            - repetitions:: 4
+            - grade:: 5
+            - reviewMode:: SPACED_INTERVAL
         - [[June 27th, 2024]] 🟢
             - nextDueDate:: [[July 13th, 2024]]
             - eFactor:: 2.7
@@ -161,6 +210,13 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 上图是明代的宋体，这个字比之前的楷体相对来讲，刻得更快、又省事，所以价格也会相对更便宜。那为什么明代刻出的字体叫宋体？这也有它的历史因素。在清内府的时候，为了区别毛笔写的楷书，就规定所有楷书写的字叫软体字，之后从宋代开始刻的，慢慢发生变化的字统称为宋体字。在中国台湾、香港和日本都叫明朝体，我们则是延续了清内府的叫法。#[[memo]]
+        - [[August 17th, 2024]] 🟢
+            - nextDueDate:: [[September 29th, 2024]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 43
+            - repetitions:: 4
+            - grade:: 5
+            - reviewMode:: SPACED_INTERVAL
         - [[June 27th, 2024]] 🟢
             - nextDueDate:: [[July 13th, 2024]]
             - eFactor:: 2.7
@@ -183,6 +239,13 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 孟德斯鸠就写道：“如果你希望自己幸福，这很容易；但如果你希望自己比别人更幸福，这就很难了，因为{c1:我们总是高估别人的幸福}。”#[[memo]]#[[srs/cloze]]
+        - [[August 17th, 2024]] 🟢
+            - nextDueDate:: [[September 29th, 2024]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 43
+            - repetitions:: 4
+            - grade:: 5
+            - reviewMode:: SPACED_INTERVAL
         - [[June 27th, 2024]] 🟢
             - nextDueDate:: [[July 13th, 2024]]
             - eFactor:: 2.7
@@ -206,6 +269,13 @@
             - reviewMode:: SPACED_INTERVAL
     - 支持摩尔定律即将结束这一论断的最佳论据是，所有这些针对特定用途，甚至是针对单个公司的活动，正在取代英特尔过去半个世纪不断推出的强大微处理器所带来的“通用”计算。尼尔·汤普森(Neil Thompson)和斯文贾·斯潘努斯(SvenjaSpanuth)甚至认为，我们正在看到“计算机作为通用技术的衰落”。他们认为，未来的计算将分为“使用强大的定制芯片的‘快车道’应用和使用通用芯片的‘慢车道’应用，而通用芯片的进步会趋缓”。
 #[[memo]]
+        - [[August 17th, 2024]] 🟢
+            - nextDueDate:: [[September 29th, 2024]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 43
+            - repetitions:: 4
+            - grade:: 5
+            - reviewMode:: SPACED_INTERVAL
         - [[June 27th, 2024]] 🟢
             - nextDueDate:: [[July 13th, 2024]]
             - eFactor:: 2.7
@@ -333,6 +403,13 @@
             - repetitions:: 1
             - grade:: 5
     - roam memo加入的内容太多的话确实会roam变得很卡顿。如果每天复习的内容超过100个，那么daily note打开速度明显就会变慢。虽然很舍不得，但我还是把它删除了。间隔复习还是要做，看看怎么实现吧。先开始做起来再改进。这个插件还可以使用，但要注意每天添加的内容不能太多。#[[memo]] 
+        - [[August 17th, 2024]] 🟢
+            - nextDueDate:: [[July 15th, 2026]]
+            - eFactor:: 2.7
+            - interval:: 697
+            - repetitions:: 8
+            - grade:: 5
+            - reviewMode:: SPACED_INTERVAL
         - [[October 13th, 2023]] 🔵
             - nextDueDate:: [[July 7th, 2024]]
             - eFactor:: 2.6
