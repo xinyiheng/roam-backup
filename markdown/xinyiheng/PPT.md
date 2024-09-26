@@ -7,3 +7,5 @@
     - 原来excel条件格式也能作图 如何制作项目管理的华夫饼图？ [post.smzdm.com](https://post.smzdm.com/p/aqnl9m97/)
     - [Tome - Tome — The AI-powered storytelling format](https://beta.tome.app/)🗒@评论:一款可以快速做出类ppt文件的网页应用。
         - [Tome](https://tome.app/xinyihengi)
+- 类似用markdown 的方式写 ppt
+    - [Marp: Markdown Presentation Ecosystem](https://marp.app/) 我安装了它的 vs'code 插件，应该可以在 vscode中把内容做成 ppt
