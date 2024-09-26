@@ -96,15 +96,10 @@ https://book.douban.com/subject/3900547/ [Email Body](https://files.todoist.com/
 
 https://book.douban.com/subject/34893628/comments/ [Email Body](https://files.todoist.com/PyIQV3mammVYHtHyUbhYhaPCfGT2eQEL2ep79icBqttCj9CKi2TBqK7HOO4basU5/by/21878347/as/file.html)
     - 01 环境配置与运行 - 少数派
-        - Annotations:
+        - Conda 与 pip
+Conda 和 pip 都是可以用来管理 Python 第三方库的管理工具，但是有时候 conda 不能装上的包就用可以用 pip 来装，两者相互补充使用。更多时候我会用 conda 来创建虚拟环境，而使用 pip 安装第三方库或依赖包，我也建议大家像我这样做。
 
-* Conda 与 pip
-
-* Conda 和 pip 都是可以用来管理 Python 第三方库的管理工具，但是有时候 conda 不能装上的包就用可以用 pip 来装，两者相互补充使用。更多时候我会用 conda 来创建虚拟环境，而使用 pip 安装第三方库或依赖包，我也建议大家像我这样做。
-
-* 所谓「第三方库」，你可以理解为已经写好特定功能的代码仓库。当你需要实现某些功能时，直接调用第三方库里的代码资源即可，不需要自己再从头写代码，节省了大量开发成本。本教程后面也会多次提及和应用代码库，此处先带你了解如何安装和调用第三方库。
-
-
+所谓「第三方库」，你可以理解为已经写好特定功能的代码仓库。当你需要实现某些功能时，直接调用第三方库里的代码资源即可，不需要自己再从头写代码，节省了大量开发成本。本教程后面也会多次提及和应用代码库，此处先带你了解如何安装和调用第三方库。
 
 https://sspai.com/post/61799 [Email Body](https://files.todoist.com/uNG8EncHsIbl_8QUxjSrTihgWd9Rvaz9MzOrMbHdx_lI6hbyOc04B1lCtRinf8Tc/by/21878347/as/file.html)
     - 赛车简史 (豆瓣)
