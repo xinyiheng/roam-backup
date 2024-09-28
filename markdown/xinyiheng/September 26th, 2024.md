@@ -8,4 +8,20 @@
 - #[[技能]]
     - 能否更加系统地学习一些计算机编程知识，来更好地做自己想要的项目？在人工智能的帮助下，原来难以想象的编程项目居然可以实现了。这对我来说也是很大的鼓励。
     - 又开始想要重新学习 python，至少能大致明白代码的意思。
-- 
+    - 时间管理，用滴答清单来回顾一周时间内的任务。
+        - 9月23日-9月29日
+        - ## 已完成
+            - [9月28日] [李飞飞最新创业瞄准“空间智能”，融资2.3亿美元，希望革新游戏和阅读体验 | 快刀广播站](https://d.dedao.cn/FrqKfJK8CE0C6bh6)
+            - [9月27日] 处理积累的杂项
+            - [9月27日] 洗漱
+            - [9月27日] [Amazon.com: Rapid Transformation: The Science of Achieving Impossible Goals eBook : Hardy, Benjamin: Kindle商店](https://www.amazon.com/Rapid-Transformation-Science-Achieving-Impossible-ebook/dp/B0D37M59XR/ref=sr_1_1?dib=eyJ2IjoiMSJ9.sRDObJotviVAOiOmhl1GNMHLz3xR6HzieAfIs8DIFiWFjIgiks89-YTaloV-_Dkfwak-xltaEYUYxy223KsmsQearehLdQv7X7U5ZUvTU62imw8Ezvc2_cLyNwAnyPs1seQL8Ay0sq7WMKDwpyoJvgjKDQMbi7EhGdsMsfU89v9VOasC-ya8vWQ4utwUyqv05YVMnyDX8rLCSoqVtXRIQSORf64SrvQsi_dzWVA56p8.MUJcYMnybiSIZQyRqZED_BybfoRM-dgLLSD47M_kqCE&dib_tag=se&qid=1722404409&refinements=p_30%3AHay+House+Business&s=books&sr=1-1)
+            - [9月27日] [【4K】有颜，有矿，有风度！什么是真正的鄂尔多斯？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1b94y1B7bt/?spm_id_from=333.1007.tianma.20-2-76.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
+            - [9月27日] [图书营销难题如何破解？这项新服务做到了!](http://mp.weixin.qq.com/s?__biz=MzAxNzAxNDcxMg==&mid=2651367996&idx=2&sn=c85e1c573e193e73bed810d0c1691993&chksm=811a206bf6fdae081679377765a5fdc34235225d23ac8ca700cad397048506ae6bb3280393c9&mpshare=1&scene=1&srcid=0926dn6zwsM3F6pqSm1X1xJz&sharer_shareinfo=6bf794933e1aab7c4f41329b7c728b80&sharer_shareinfo_first=6bf794933e1aab7c4f41329b7c728b80#rd)
+            - [9月27日] [「安さだけ」とは言わせない！“しまむら”イメージ激変の商品改革：読んで分かる「カンブリア宮殿」 | テレ東・ＢＳテレ東の読んで見て感じるメディア テレ東プラス](https://www.tv-tokyo.co.jp/plus/business/entry/202409/15737.html)
+            - [9月27日] 来自微信的图片
+            - [9月24日] [ビジネスの記事一覧 | テレ東・ＢＳテレ東の読んで見て感じるメディア テレ東プラス](https://www.tv-tokyo.co.jp/plus/business/)
+            - [9月23日] [Amazon.com: Making Work Visible: Exposing Time Theft to Optimize Work & Flow eBook : DeGrandis, Dominica: Kindle Store](https://www.amazon.com/Making-Work-Visible-Second-Exposing-ebook/dp/B09L3B9YK1/ref=zg_bs_g_154927011_sccl_10/133-5025650-3507547?psc=1)
+            - [9月23日] 9 月 21 日 编辑资格考试
+            - [9月23日] [Super 30: Changing the World 30 Students at a Time](https://book.douban.com/subject/34838227/)
+            - [9月23日] [我在AI教育前沿的旅程 | 盖茨笔记](http://mp.weixin.qq.com/s?__biz=MzI4MjU0MDcwOA==&mid=2247489270&idx=1&sn=c4a3a0b1ac8adc2ac29c4a15fb22eb5c&chksm=eb99393ddceeb02b877006e0c6468492c5af63554aa82b3c38a07b037c237cc70c04f2c88534&mpshare=1&scene=1&srcid=07116DAa1CtuIMtL9oic22q3&sharer_shareinfo=81e522b1cf23b460df0f8d35eb863d56&sharer_shareinfo_first=81e522b1cf23b460df0f8d35eb863d56#rd)
+            - [9月23日] [《催化剂:RNA与解开生命最深层秘密的探索》自发现双螺旋结构以来生物学领域最具变革性的突破](http://mp.weixin.qq.com/s?__biz=MzA4OTg4OTU3NQ==&mid=2650740416&idx=1&sn=837b4c11a9c45e5905d089b38749349a&chksm=881fb888bf68319e6a9eac32c478abc2e411c932f443664457e861024fc01ae5fb6d4fc68b11&mpshare=1&scene=1&srcid=0605SeYasv5Cmf7qCG5EpVIh&sharer_shareinfo=3dc4d4777ee3432562bc5266742ec7ac&sharer_shareinfo_first=3dc4d4777ee3432562bc5266742ec7ac#rd)
