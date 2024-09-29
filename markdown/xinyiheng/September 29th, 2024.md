@@ -1,2 +1,3 @@
 - #[[金句]] #[[自我察觉]] you can do anything,but you can't do everything.
-- 
+- #[[技能]]
+    - 研究人工智能辅助写作。
