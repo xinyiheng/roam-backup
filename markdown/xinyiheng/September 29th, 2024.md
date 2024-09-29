@@ -1,0 +1,2 @@
+- #[[金句]] #[[自我察觉]] you can do anything,but you can't do everything.
+- 
