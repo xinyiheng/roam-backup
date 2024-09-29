@@ -1,3 +1,4 @@
-- #[[金句]] #[[自我察觉]] you can do anything,but you can't do everything.
+- #[[金句]] #[[自我察觉]] you can do anything,but you can't do everything. #[[洞见]]
 - #[[技能]]
     - 研究人工智能辅助写作。
+    - 慢下来，真的要掌握和创造什么东西都是需要花时间的，我往往处于无限浏览的状态，难以在精神世界定居下来。#[[洞见]]  
