@@ -461,7 +461,7 @@ via[Python 标准库 — Python 3.9.1 文档](https://docs.python.org/zh-cn/3/li
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fxw1pAcoAHI.png?alt=media&token=5b0bc1dd-4cf2-4eba-9ed7-cbe474a54292)
 - 如何安装和设置运行环境
     - 下载python，可以去官网，相当于下载了python的解释器，所谓解释器，也就是让电脑可以明白python代码。还可以通过[[Homebrew]]直接安装python
-    - 除了解释器，有些python代码直接调用第三方库，因此需要配套下载还需要一些第三方库，[[Anaconda]]自带了一些python库，还可以用其中的[[conda]]安装第三方库
+    - 除了解释器，有些python代码直接调用第三方库，因此需要配套下载还需要一些第三方库，[[Anaconda]]自带了一些python库，还可以用其中的[[conda]]安装第三方库，有些库不支持使用 conda 安装，再辅助 pip 库管理工具，基本就可以安装所有需要的库了。
         - 参考：01 环境配置与运行
 via[01 环境配置与运行 - 少数派](https://sspai.com/post/61799)
 [[20201214]] 下午5:57
