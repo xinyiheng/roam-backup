@@ -1,0 +1,5 @@
+- 
+- [新手友好的 AI 学习指南](https://mp.weixin.qq.com/s?__biz=MzkxMTQ0ODE3Ng==&mid=2247487929&idx=1&sn=0635372611b0a7fbfa1962e9f99c360d&chksm=c11d50a6f66ad9b072a591c3a38356ea4ea0130ee919517ff9cac413de12360037ffd56037df&scene=21#wechat_redirect)   🗒@评论：很好的进阶道路。
+- #[[技能]]
+    - 掌握了通过提示词绘制 svg 图像的知识。pm 产品星球这个公众号的文章在这方面的探索很深，文章质量很高，更好的是，他们直接把提示词公开出来，谁都可以使用。
+        - [还能这么玩？用提示词画地图、算运势、建群聊…](https://mp.weixin.qq.com/s/WBDf4qH1yGLjq471jYwHLA)
