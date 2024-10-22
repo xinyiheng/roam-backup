@@ -3,3 +3,4 @@
 - #[[技能]]
     - 掌握了通过提示词绘制 svg 图像的知识。pm 产品星球这个公众号的文章在这方面的探索很深，文章质量很高，更好的是，他们直接把提示词公开出来，谁都可以使用。
         - [还能这么玩？用提示词画地图、算运势、建群聊…](https://mp.weixin.qq.com/s/WBDf4qH1yGLjq471jYwHLA)
+        - [空格的 Prompt 分享](https://pmplanet.notion.site/Prompt-112afd92150d80459b7de4857c7b823f)  🗒@评论：svg 画图的提示词都在这里
