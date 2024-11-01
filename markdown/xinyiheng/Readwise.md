@@ -7,3 +7,4 @@
     - This was your first sync with #Readwise! 🎉
     - From now on, new books/highlights will sync automatically with a link to your daily notes for the day it synced.
     - You can [tweak your syncing settings (and filter/add more books to sync) here](https://readwise.io/export/roam/preferences), read more about [how the Roam integration works here](https://docs.readwise.io/readwise/docs/exporting-highlights/roam), and as always feel free to reach out to us at hello@readwise.io with any questions
+- On [[November 1st, 2024]] at 5:24 PM Readwise synced 1 highlight from 1 book.
