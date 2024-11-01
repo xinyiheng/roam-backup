@@ -1,0 +1,7 @@
+- Author:: [[cubox.pro]]
+- Full Title:: 综合案例四：构造一个你自己的 Todo App - 少数派
+- Category:: #articles
+- URL:: https://cubox.pro/my/card?id=7240804951285301754
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+- ### Highlights first synced by #Readwise [[October 31st, 2024]]
+    - 当然在 Flask 之前，Python Web 圈的明星级项目 Django 这一框架被广泛用于早期的 Web 开发中。为什么要提 Django 呢？因为 Django 和 Flask 一直都可以说是被用来比较的两个极端：前者做到了无所不包（几乎能帮你做的都帮你做了），而后者则是大道至简（除了核心功能之外需要你自己实现）。

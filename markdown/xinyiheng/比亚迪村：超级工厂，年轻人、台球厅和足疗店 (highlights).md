@@ -1,0 +1,7 @@
+- Author:: [[cubox.pro]]
+- Full Title:: 比亚迪村：超级工厂，年轻人、台球厅和足疗店
+- Category:: #articles
+- URL:: https://cubox.pro/my/card?id=7250766822465605223
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+- ### Highlights first synced by #Readwise [[October 31st, 2024]]
+    - 回忆起早先厂里的生活，张载发现员工宿舍里称呼彼此，名字最不重要，大家都靠外貌特征，比如黄毛，比如小胖，比如豁牙，这里也没人谈未来谈理想，谈的都是女人和彩票，不打听隐私是基本礼貌，都有边界，也知道处不久，撑到底关系好了问个姓，大家的联系都淡淡的，因为随时有可能走掉，因此，大家都习惯了称呼外号，张载也有外号，叫“瘦猴”。

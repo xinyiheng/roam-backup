@@ -1,0 +1,7 @@
+- Author:: [[cubox.pro]]
+- Full Title:: 史铁生救不了年轻人 | 谷雨
+- Category:: #articles
+- URL:: https://cubox.pro/my/card?id=7250826878955555278
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+- ### Highlights first synced by #Readwise [[October 31st, 2024]]
+    - 至于年轻人喜欢史铁生，她给我从经济学的角度做了分析，“经济没那么好，对应的就业和社会环境没那么有力，人们要找寻价值观的锚点，从哪里能获得安慰呢？你看经济扩张的时候，人们就会去找很有野心的成功企业家，比如叫马云爸爸，那是一种侵略型的价值观。但现在行不通了，更有效的是内倾、关注自我的观念，越往下的人阵痛越明显，但每个人或许都能在史铁生这里得到安慰。”

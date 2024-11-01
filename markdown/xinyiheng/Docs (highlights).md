@@ -23,3 +23,23 @@
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 - ### Highlights first synced by #Readwise [[May 13th, 2024]]
     - 「TRIZ（出自俄语：теории решения изобретательских задач）」，意思是「发明家式的解决任务理论」，中文有时候译为「萃思」，取“萃取思考”之义。
+- Author:: [[thc4xpukay.feishu.cn]]
+- Full Title:: Docs
+- Category:: #articles
+- URL:: https://thc4xpukay.feishu.cn/docx/LwiFdb5iaoEZZOxm7XScJ8hIn2f
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+- ### Highlights first synced by #Readwise [[October 31st, 2024]]
+    - 新生代的稍后阅读工具，如 [Cubox](https://sspai.com/link?target=https%3A%2F%2Fcubox.cc%2F) 、 [iki.ai](https://sspai.com/link?target=https%3A%2F%2Fiki.ai%2F) ，可以自动对内容打标，让检索变得更容易。
+    - 同时，支持结构化阅读的工具如 [elmo](https://sspai.com/link?target=https%3A%2F%2Fwww.elmo.chat%2F) 、 [zKnown](https://sspai.com/link?target=https%3A%2F%2Freadknown.cn%2F) ，可以输出思维导图、要点等信息，并可以进一步提问进行对话式阅读。
+    - 信息获取流程变革为：信源订阅 => 信息整理 => 略读 => 稍后阅读 => 结构化+对话式阅读 => 原文阅读。并且各环节得到 优化和提效 。​
+    - 弱化了信息条目概念，不再看到数不清的红点，取而代之的是每日几条未读简报的红点。如果某段时间不想读，可随时一键关闭，或指定关闭某个 recipe。
+    - 结合强大的过滤器功能，帮助你聚焦于最感兴趣的内容。支持 AI Prompt 过滤及传统过滤，可以直接预览过滤效果，并通过逻辑短路算法、AI 调用前过滤逻辑判断等手段，尽量降低 token 消耗：
+    - 如果你想要：​•为资讯阅读建立秩序感​•提升资讯阅读效率​欢迎试试 [Tidyread](https://sspai.com/link?target=https%3A%2F%2Ftidyread.ai%2F) ，也许能帮你解决部分问题
+- Author:: [[thc4xpukay.feishu.cn]]
+- Full Title:: Docs
+- Category:: #articles
+- URL:: https://thc4xpukay.feishu.cn/docx/LzxLdCv2zoDfdoxQqBucvfoxncd
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+- ### Highlights first synced by #Readwise [[October 31st, 2024]]
+    - 每一条结果都包含了标题、来源链接、发表时间、作者、包含文本的前一千个字符（包括但不限于摘要），以及 exa 在采集文献时自动总结出来的高亮内容。这些信息让我们能够快速了解文献的核心内容，甚至判断其与主题的相关性。
+    - 第一个环节，是检索工具调用，名为 exa\_paper\_search。看过《 [如何轻松定制和调用你自己的 AI 工作流？](https://articles.zsxq.com/id_kmwc76rvs578.html) 》一文之后，你应该对 Exa 这款强大的 AI 搜索工具有印象。但当时我们使用的是 Exa 搜索 Tweets 的功能。其实，它也有专门的学术文献搜索类别，能够帮助我们快速找到相关的研究论文。

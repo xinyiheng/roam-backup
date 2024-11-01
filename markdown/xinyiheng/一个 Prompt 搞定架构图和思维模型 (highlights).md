@@ -1,0 +1,7 @@
+- Author:: [[cubox.pro]]
+- Full Title:: 一个 Prompt 搞定架构图和思维模型
+- Category:: #articles
+- URL:: https://cubox.pro/my/card?id=7247969127837469492
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+- ### Highlights first synced by #Readwise [[October 31st, 2024]]
+    - Artifacts 是在问答的基础上，加了一个可交互的窗口，可以查看模型生成的内容，代码生成后可以直接在 Artifacts 预览代码的前端效果，甚至做一个小游戏在 Artifacts 就可以玩起来。

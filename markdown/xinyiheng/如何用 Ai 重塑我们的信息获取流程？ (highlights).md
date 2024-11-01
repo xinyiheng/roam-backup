@@ -1,0 +1,8 @@
+- Author:: [[thc4xpukay.feishu.cn]]
+- Full Title:: 如何用 Ai 重塑我们的信息获取流程？
+- Category:: #articles
+- URL:: https://thc4xpukay.feishu.cn/docx/U0ugdWIiHox4WAxjHVcc3sR7nxg
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+- ### Highlights first synced by #Readwise [[October 31st, 2024]]
+    - 这一套方案用了一年多，但存在一些问题：​•无法订阅所有感兴趣的信源。一些网站找不到，也无法转化为 RSS 源。​•内容噪声过多。对一个源感兴趣不代表对它所有内容感兴趣，有些内容并非我此时需要的。​•阅读效率低​◦许多内容不需要看完，只需一段摘要了解发生了什么及其影响。​◦外语资讯源读起来效率低。​•稍后阅读工具不便于检索。虽然叫稍后阅读，但阅读的时机可能是在未来某天解决特定问题时，然而此时往往难以通过想象的关键词检索到特定内容。
+    - 阅读效率低的问题也可通过 Readwise Reader 的 AI 摘要能力部分改善。

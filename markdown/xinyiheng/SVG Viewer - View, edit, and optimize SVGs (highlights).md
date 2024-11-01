@@ -1,0 +1,7 @@
+- Author:: [[cubox.pro]]
+- Full Title:: SVG Viewer - View, edit, and optimize SVGs
+- Category:: #articles
+- URL:: https://cubox.pro/my/card?id=7248240029275783670
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+- ### Highlights first synced by #Readwise [[October 31st, 2024]]
+    - 6

@@ -1,0 +1,7 @@
+- Author:: [[jiemian.com]]
+- Full Title:: 从打鸡血到需要心灵按摩，三位“卖保险的”自述职业苦乐|界面新闻 · 正午
+- Category:: #articles
+- URL:: https://www.jiemian.com/article/11536433.html
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
+- ### Highlights first synced by #Readwise [[October 31st, 2024]]
+    - 据《2024中国保险发展报告》统计，截至2023年底，代理人数量减至281.34万，较2019年底下降了69%。也就是说，过去4年，约有600万人离开了这个行业。行内人士说，保险代理人的转型与清虚，始于2019年，在“报行合一”导致的佣金大降与行业转型的双重作用下，寿险业代理人队伍持续“瘦身”。

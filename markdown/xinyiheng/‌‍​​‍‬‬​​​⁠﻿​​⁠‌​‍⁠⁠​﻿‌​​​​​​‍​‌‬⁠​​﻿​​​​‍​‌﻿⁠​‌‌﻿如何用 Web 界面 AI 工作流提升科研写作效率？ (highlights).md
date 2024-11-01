@@ -1,0 +1,10 @@
+- Author:: [[thc4xpukay.feishu.cn]]
+- Full Title:: ‌‍​​‍‬‬​​​⁠﻿​​⁠‌​‍⁠⁠​﻿‌​​​​​​‍​‌‬⁠​​﻿​​​​‍​‌﻿⁠​‌‌﻿如何用 Web 界面 AI 工作流提升科研写作效率？
+- Category:: #articles
+- URL:: https://thc4xpukay.feishu.cn/docx/HF6wdyvGaoGBRfxpQARc4KCanKd
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+- ### Highlights first synced by #Readwise [[October 31st, 2024]]
+    - 我曾经有一段时间不大爱用 Roam Research 来记笔记，只把它当成了计划安排工具。其原因就是每次从大纲到文本，总有许多「粗活儿」要做，让人很烦恼。例如你可以看到，这里语音识别的结果有很多标点符号缺失；还有一些识别错误 —— 例如，「吴恩达」 被错误识别成了 「温达」 等。
+    - 这篇文章谈的问题是学术的，但风格非常口语化。因为我希望用最生动详细的方式向你讲解其工作原理，并告诉你如何使用。咱们就以它为例，来看看风格转化的工作流原理。​
+    - 风格转换是写作中的一项重要技巧。书面写作分为不同的类型。我平时撰写的博客文章和学术论文显然是两种不同的风格。
+    - 降低幻觉出现的概率。​为了达到「降低幻觉」这个目的，我要求它先输出一段话的前后几个文字，然后再给出对应的建议进行分析和评论。这样，大语言模型时刻都能清晰定位上下文。​之前时常进行的提示词工程尝试中，我发觉这种方法非常有效。在此前分享给你的 [写作博客](https://articles.zsxq.com/id_ka74k39bqwba.html) 和 [翻译](https://articles.zsxq.com/id_xdxgwpdwlfqt.html) 相关工作流中，这种方式反复出现，相信你已经比较熟悉了。
