@@ -1,0 +1,8 @@
+- Author:: [[36kr.com]]
+- Full Title:: 俄开发者遭Linux封杀？11人被无故除名，俄罗斯扬言：那我们自建社区-36氪
+- Category:: #articles
+- URL:: https://36kr.com/p/3017293853746438
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+- ### Highlights first synced by #Readwise [[November 2nd, 2024]]
+    - 一夕之间，“开源无国界”这句被很多人提及了多年的 Slogan 被蒙上了沉重的阴影。起因是一周前，Linux 社区在没有提前通知的情况下，突然除名了 11 位俄罗斯开发人员。
+    - 事情还要 10 月 18 日 Linux 内核开发人员 Greg Kroah-Hartman 在 Linux 内核邮件列表发布的一条消息谈起。
