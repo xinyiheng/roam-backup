@@ -1,7 +1,0 @@
-- Author:: [[xinyiheng.github.io]]
-- Full Title:: 简悦 | 全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客
-- Category:: #articles
-- URL:: https://xinyiheng.github.io/files_backup/56-%E5%85%A8%E6%96%B0%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%8F%91%E5%B8%83%E4%BD%93%E9%AA%8C%EF%BC%9A%E5%9C%A8%20Trilium%20%E7%94%A8%E3%80%8C%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E3%80%8D%E7%9A%84%E6%96%B9%E5%BC%8F%E5%8F%91%E5%8D%9A%E5%AE%A2.html
-- ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
-- ### Highlights first synced by #Readwise [[October 31st, 2024]]
-    - 就是个人笔记的输出，以上工具使笔记与博客

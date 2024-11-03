@@ -1,7 +1,0 @@
-- Author:: [[许超 华尔街见闻]]
-- Full Title:: 礼来暴跌，减肥药”撞墙“？
-- Category:: #articles
-- URL:: https://cubox.pro/my/card?id=7251955101613426066
-- ![](https://image.cubox.pro/cover/6a384e0hr3i8fg3o7cjjwiydv7bjxqea6dvby0is3r9042g03i)
-- ### Highlights first synced by #Readwise [[November 1st, 2024]]
-    - 受此影响，公司股价周三盘前一度大跌12%，全天收跌6%，击穿200日均线。
