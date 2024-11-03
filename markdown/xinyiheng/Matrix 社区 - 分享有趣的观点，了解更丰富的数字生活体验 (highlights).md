@@ -1,7 +1,0 @@
-- Author:: [[cubox.pro]]
-- Full Title:: Matrix 社区 - 分享有趣的观点，了解更丰富的数字生活体验
-- Category:: #articles
-- URL:: https://cubox.pro/my/card?id=7252626846783636563
-- ![](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
-- ### Highlights first synced by #Readwise [[November 3rd, 2024]]
-    - 晒出你的手机控制中心
