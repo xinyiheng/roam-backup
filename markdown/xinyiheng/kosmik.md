@@ -1,3 +1,3 @@
-- https://kosmik.app/
+- https://kosmik.app/  🗒@评论：上线一段时间之后又重构了，不知道什么时候再次上线。
 - @评论:原来还只是概念，目前已经做出了产品。既有ipad端也有mac端，但目前同步做得还不好。和muse的重合度很高。
 - [Kosmik 在 Twitter: "A lot of you have asked for this, and we've listened! A sneak peak of what's coming to Kosmik next year... 🎮🎮 https://t.co/CULichDCxT" / Twitter](https://twitter.com/messages/compose)
