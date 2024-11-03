@@ -4,9 +4,7 @@
 - URL:: https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650284761&idx=2&sn=5369502e13dca786bbb7aec063c5cc46&chksm=89804263bdce4721a5eb69ee941da41f0d75aadeadb8f14b39686e89fd65391af1890fbfe84e
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 - ### Highlights first synced by #Readwise [[October 31st, 2024]] 
-    -  **梭罗曾在《瓦尔登湖》中写下**#[[srs/cloze-g]]
-
-“大多数人都{c1:悄无声息}地过着绝望的生活。
+    -  **梭罗曾在《瓦尔登湖》中写下**#[[srs/cloze]]“大多数人都{c1:悄无声息}地过着绝望的生活。
 他们由衷地认为，自己别无选择。
 可清醒、健康之人都会记得，太阳亘古常新。
 抛弃我们的偏见，永不为迟。”
