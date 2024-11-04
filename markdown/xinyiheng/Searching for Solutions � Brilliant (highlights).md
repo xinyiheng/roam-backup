@@ -1,4 +1,4 @@
 - URL:: https://brilliant.org/courses/computer-science-essentials/tools-of-computer-science-12/searching-for-solutions-2/3/?from_llp=computer-science
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 - ### Highlights first synced by #Readwise [[May 31st, 2024]]
-    - A useful problem-solving technique is to list all the possible solutions and then check each solution.
+    - A useful problem-solving technique is to {c1:list all the possible solutions} and then check each solution. #[[srs/cloze]]

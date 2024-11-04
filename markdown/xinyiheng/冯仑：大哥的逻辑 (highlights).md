@@ -1,5 +1,5 @@
 - URL:: https://mp.weixin.qq.com/s?__biz=MzI0ODEyMTM1OQ==&mid=2650051231&idx=1&sn=fb31189b11f459d252710c8ac72c243c&chksm=f00574d08ec9e6314dcfd227e75ce7c6c19d68cf1be5eb71740b81d2411798be00ddd11cf1b2
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 - ### Highlights first synced by #Readwise [[June 3rd, 2024]]
-    - 但在江湖当中，我们把领导者称为大哥。大哥其实就是一种非正式组织当中最重要的一个角色，就是 CEO，就是董事长，就是组织中最有领导力的人。在一个组织里，能做好指道、扛事、买单这三件事，就是一个合格的领导者。
+    - 但在江湖当中，我们把领导者称为大哥。大哥其实就是一种非正式组织当中最重要的一个角色，就是 CEO，就是董事长，就是组织中最有领导力的人。在一个组织里，能做{c1:好指道、扛事、买单}这三件事，就是一个合格的领导者。 #[[srs/cloze]]
     - 如果说买不起单了，怎么办？那就是第四件事，牺牲。
