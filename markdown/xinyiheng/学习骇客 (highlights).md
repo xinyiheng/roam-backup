@@ -4,4 +4,4 @@
 - URL:: https://mp.weixin.qq.com/s/b27_59LHxa4XRPytUCvT9w
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 - ### Highlights first synced by #Readwise [[November 2nd, 2024]]
-    - 没有主题怎么办？首先，我们的关注领域要集中，不能今天想这个、明天看那个。
+    - 没有主题怎么办？首先，我们的关注领域要{c1:集中}，不能今天想这个、明天看那个。#[[srs/cloze]]

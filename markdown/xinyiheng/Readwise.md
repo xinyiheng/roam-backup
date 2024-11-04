@@ -1,4 +1,4 @@
 - Readwise 系统会自动按照{c1:记忆曲线}推送给你需要回顾的标注卡片，你可以设置每页上浏览的卡片张数，编辑或取消卡片，也可以选择重点回顾的卡片和设置不同卡片的复习频率，还可以用「Master」的功能将卡片制作成为简答题或者填空题。Via[将散落的标注收集在一处，Readwise 这样改善了我的信息输入 - 少数派](https://sspai.com/post/63879)[[20210105]] 下午11:10#[[srs/cloze]]
 - 之前 RoamReserch 和 Notion 之间的互通只能用复制黏贴的手段，而现在有了 Readwise 这个中间商，我和可以利用「自由输入」的特性同时在两个平台输入：在 Readwise 中选择自由输入，然后创建一个笔记本，将分散的想法（之前树状图中的 IDEA）输入到这个笔记本中保存，Readwise 就会自动将内容同步到 Notion 和 RoamReserch 中。Via[将散落的标注收集在一处，Readwise 这样改善了我的信息输入 - 少数派](https://sspai.com/post/63879)[[20210105]] 下午11:11
 - Readwise 为新注册用户提供近一个月的免费试用期，到期后可以通过分享给朋友注册再增加一个月，而目前的收费标准有 2 档，每月 7.99 美元的完整版可以将你的高亮笔记自动导出到 Notion，Evernote 和 Roamresearch，由于导出功能非常实用，因此建议有需求的朋友开通。Via[将散落的标注收集在一处，Readwise 这样改善了我的信息输入 - 少数派](https://sspai.com/post/63879)[[20210105]] 下午11:10
-- 现在我才发现，readwise reader用来阅读浏览类的pdf也非常好。在reader中的截图也可以自动同步到roam reasearch中来。
+- 现在我才发现，readwise reader用来阅读浏览类的pdf也非常好。在reader中的{c1:截图}也可以自动同步到roam reasearch中来。 #[[srs/cloze]]
