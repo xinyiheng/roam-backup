@@ -4,4 +4,4 @@
 - URL:: https://cubox.pro/my/card?id=7238861521646783956
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 - ### Highlights first synced by #Readwise [[October 31st, 2024]]
-    - 字据和凭证是真实的验证，在很多情况下更是超越真实的唯一证据。
+    - {c1:字据和凭证}是真实的验证，在很多情况下更是超越真实的唯一证据。#[[srs/cloze]]

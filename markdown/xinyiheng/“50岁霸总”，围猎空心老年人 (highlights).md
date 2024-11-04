@@ -4,4 +4,4 @@
 - URL:: https://cubox.pro/my/card?id=7250771431682739755
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 - ### Highlights first synced by #Readwise [[October 31st, 2024]]
-    - 短剧团队听花岛，曾总结出中老年人群的三大核心关切：让子女看到他们的付出、为子女解决问题、爱与被爱。
+    - 短剧团队听花岛，曾总结出中老年人群的三大核心关切：{c1:让子女看到他们的付出、为子女解决问题、爱与被爱}。 #[[srs/cloze]]

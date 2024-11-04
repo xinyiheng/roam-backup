@@ -1,4 +1,4 @@
 - URL:: https://www.36kr.com/p/2815015288916227
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 - ### Highlights first synced by #Readwise [[June 11th, 2024]]
-    - Apple Intelligence，可以让我们的 iPhone、iPad 和 Mac 理解、生成语言和图像，还能代替我们跨多个 app 交互，简化操作过程。 它最亮眼的地方，就在于理解我们的「个人情境」。
+    - Apple Intelligence，可以让我们的 iPhone、iPad 和 Mac 理解、生成语言和图像，还能代替我们跨多个 app 交互，简化操作过程。 它最亮眼的地方，就在于理解我们的「{c1:个人情境}」。#[[srs/cloze]]
