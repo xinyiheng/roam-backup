@@ -1,4 +1,4 @@
 - URL:: https://mp.weixin.qq.com/s?__biz=MzI0ODEyMTM1OQ==&mid=2650051229&idx=1&sn=21ec7d6546b6b7a923c63b2a641415cd&chksm=f0a4e7fe8e72ba224afb0403ee9c64017ba5f91e216df6d96c346cbf32634f38873d13071e17
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 - ### Highlights first synced by #Readwise [[June 3rd, 2024]]
-    - 「无所畏惧」是成事的基础，最易于理解也最难以实现。
+    - 「{c1:无所畏惧}」是成事的基础，最易于理解也最难以实现。 #[[srs/cloze]]
