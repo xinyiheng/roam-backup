@@ -220,7 +220,51 @@ textarea {
 }
 ```
 - ```css
-```
+:root {
+     --main-font: "Kaiti SC", "楷体", KaiTi, "楷体_GB2312", serif !important;
+}
+
+
+/* 主要内容区域 */
+.roam-body,
+.roam-block,
+.rm-block-text,
+.rm-title-display,
+.rm-reference-item,
+.rm-level1,
+.rm-level2,
+.rm-level3,
+/* 编辑状态的文本 - 新增具体类名 */
+.rm-block-input,
+.dont-unfocus-block,
+.rm-block__input,
+.rm-block__input--active,
+div[contenteditable=true],
+div[contenteditable=true]:focus,
+textarea,
+textarea:focus,
+.bp3-input,
+.bp3-input:focus {
+    font-family: var(--main-font) !important;
+}
+
+/* 确保编辑器中的字体 */
+.CodeMirror,
+.CodeMirror-line,
+.rm-block__input > span,
+.rm-block__input--active > span {
+    font-family: var(--main-font) !important;
+}
+
+/* 侧边栏 */
+.rm-sidebar-outline {
+    font-family: var(--main-font) !important;
+}
+
+/* 页面标题 */
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--main-font) !important;
+}```
 - ```javascript
 /*设置卡片模式下卡片的颜色和背景阴影的颜色，我花了很多时间才学会*/
 .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self {
@@ -971,7 +1015,7 @@ span[data-link-title^="软件联动"] .rm-page-ref {
   line-height: 1.4em;
 }```
     - {{[[roam/css]]}}
-        - ```plain text
+        - ```css
 
 /* Custom data tags */
 span.rm-page-ref[data-tag="memo"]:before {
