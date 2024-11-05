@@ -220,37 +220,7 @@ textarea {
 }
 ```
 - ```css
-:root {
-    --main-font: "Songti SC", "宋体", SimSun, serif !important;
-}
-
-/* 主要内容区域 */
-.roam-body,
-.roam-block,
-.rm-block-text,
-.rm-title-display,
-.rm-reference-item,
-.rm-level1,
-.rm-level2,
-.rm-level3 {
-    font-family: var(--main-font);
-}
-
-/* 侧边栏 */
-.rm-sidebar-outline {
-    font-family: var(--main-font);
-}
-
-/* 搜索框和其他输入框 */
-.bp3-input,
-textarea {
-    font-family: var(--main-font);
-}
-
-/* 页面标题 */
-h1, h2, h3, h4, h5, h6 {
-    font-family: var(--main-font);
-}```
+```
 - ```javascript
 /*设置卡片模式下卡片的颜色和背景阴影的颜色，我花了很多时间才学会*/
 .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self {
@@ -992,7 +962,7 @@ span.rm-page-ref[data-tag] {
   visibility: visible;
 }```
 - [[Tag Styles]][[lvse]]
-    - ```css
+    - ```python
 span.rm-page-ref[data-tag="笔记"],
 span[data-link-title^="软件联动"] .rm-page-ref {
   color: #fcb815;
@@ -1001,7 +971,7 @@ span[data-link-title^="软件联动"] .rm-page-ref {
   line-height: 1.4em;
 }```
     - {{[[roam/css]]}}
-        - ```css
+        - ```plain text
 
 /* Custom data tags */
 span.rm-page-ref[data-tag="memo"]:before {
