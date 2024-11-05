@@ -1,4 +1,4 @@
 - URL:: https://mp.weixin.qq.com/s?__biz=MjM5NjgzMzkwMQ==&mid=2653648491&idx=1&sn=8a2f69376d876ce7ff0f467fe0468ce7&chksm=bceb2eac5e7be33f2146bf477fb856ccc1d153580efb5e8c20871d5f9c20a00e13b5986481d8&xtrack=1&scene=90&subscene=93&sessionid=1716259864&flutter_pos=51&clicktime=1716261139&enterid=1716261139&finder_biz_enter_id=4&ranksessionid=1716258931&ascene=56&fasttmpl_type=0&fasttmpl_fullversion=7214796-zh_CN-zip&fasttmpl_flag=0&realreporttime=1716261139170&devicetype=android-33&version=2800313d&nettype=cmnet&abtest
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 - ### Highlights first synced by #Readwise [[May 22nd, 2024]]
-    - **朱啸虎**：创业者都比较浪漫，都讲无限可能和想象，而我们投资人比较“庸俗”，只看商业化。我一直和创业者说，千万不要追求技术的领先，不要纠结于产品中有多少是AI，有多少是人工，因为技术迭代太快了，**一定要追求能不能达到商业化质量，把客户、场景、数据抢在自己手上。**实际上，部分人工参与可能更适合中国创业者。就像当年百度和谷歌的竞争一样，谷歌完全依赖机器，而百度结合了机器和人工。
+    - **朱啸虎**：创业者都比较浪漫，都讲无限可能和想象，而我们投资人比较“庸俗”，只看商业化。我一直和创业者说，千万不要追求{c1:技术}的领先，不要纠结于产品中有多少是AI，有多少是人工，因为技术迭代太快了，**一定要追求能不能达到商业化质量，把客户、场景、数据抢在自己手上。**实际上，部分人工参与可能更适合中国创业者。就像当年百度和谷歌的竞争一样，谷歌完全依赖机器，而百度结合了机器和人工#[[srs/cloze]]
