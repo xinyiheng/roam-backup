@@ -221,9 +221,8 @@ textarea {
 ```
 - ```css
 :root {
-     --main-font: "Kaiti SC", "楷体", KaiTi, "楷体_GB2312", serif !important;
+    --main-font: "Kaiti SC", "楷体", KaiTi, "楷体_GB2312", serif !important;
 }
-
 
 /* 主要内容区域 */
 .roam-body,
@@ -234,7 +233,7 @@ textarea {
 .rm-level1,
 .rm-level2,
 .rm-level3,
-/* 编辑状态的文本 - 新增具体类名 */
+/* 编辑状态的文本 */
 .rm-block-input,
 .dont-unfocus-block,
 .rm-block__input,
@@ -244,7 +243,14 @@ div[contenteditable=true]:focus,
 textarea,
 textarea:focus,
 .bp3-input,
-.bp3-input:focus {
+.bp3-input:focus,
+/* 标签相关 */
+.rm-page-ref,
+.rm-page-ref-link-color,
+.rm-page-ref-tag,
+.rm-tags-wrapper,
+.tag[data-tag],
+.rm-hashtag {
     font-family: var(--main-font) !important;
 }
 

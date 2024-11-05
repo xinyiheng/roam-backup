@@ -1,8 +1,8 @@
 - URL:: https://mp.weixin.qq.com/s?__biz=MzkwMjUxNTkwNQ==&mid=2247600853&idx=1&sn=a04ac46748e51d1cdee8aa20aff34ddd&chksm=c155edd2f67a7ebac2ce4d1b2ccb6209d5a6e99747cda901cc2548920f1d16c7af9509635612
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 - ### Highlights first synced by #Readwise [[May 21st, 2024]]
-    - Stability AI 被曝出面临资金链断裂，恐怕即将要倒闭。Stability AI 是 AIGC 风口当中的明星公司，其开发的 Stable Diffusion 模型现在最受欢迎的文生图模型之一。
-    - 四年前成立，两年前爆红，如今面临倒闭危机，Stability AI 的人生就讲究个大起大落。
+    - Stability AI 被曝出面临资金链断裂，恐怕即将要倒闭。Stability AI 是 AIGC 风口当中的明星公司，其开发的 {c1:Stable Diffusion} 模型现在最受欢迎的文生图模型之一。#[[srs/cloze]]
+    - 四年前成立，两年前爆红，如今面临倒闭危，Stability AI 的人生就讲究个大起大落。
     - Stability AI 没有披露过财务数据，不过 2023 年 11 月媒体报道称，Stability AI 每个月大约要烧掉 800 万美元。另据 Information 报道，Stability AI 今年第一季度亏损额超过 3000 万美元，与每月烧掉 800 万美元也基本吻合。这意味着，1 亿美元的种子轮融资仅够 Stability AI 花一年而已。
     - Mostaque 创立 Stability AI 的最初目的，是要为开源的人工智能技术发展提供计算资源的支持。为此，Stability AI 在亚马逊云上运营了一个由 4000 多颗英伟达 A100 GPU 组成的计算集群。
     - Mostaque 曾经表示，他不理解为什么生成式 AI 创业公司会谈论商业化。Mostaque 用自动驾驶的例子作为论据，他表示自动驾驶领域已经烧掉了超过 100 亿美元，却几乎没有产生收入。相比之下，生成式 AI 将创造比自动驾驶更多的经济价值，“回报预期比我们所见过的任何东西都更清晰”。在他辞职后，有媒体引述内部人士的评论称：“Mostaque 根本就不关心商业化。”
