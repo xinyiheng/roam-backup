@@ -1,4 +1,4 @@
 - URL:: https://www.thepaper.cn/newsDetail_forward_17382357
 - ![](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 - ### Highlights first synced by #Readwise [[June 9th, 2024]]
-    - OK镜需要过矫，但应该控制在适度的范围，通常建议75~125度为佳，不同品牌稍有差异，一般不宜超过150度，否则对近视防控是不利的。
+    - OK镜需要{c1:过矫}，但应该控制在适度的范围，通常建议75~125度为佳，不同品牌稍有差异，一般不宜超过150度，否则对近视防控是不利的。 #[[srs/cloze]]
