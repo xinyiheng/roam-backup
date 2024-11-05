@@ -66,8 +66,6 @@ if (!existing) {
 }
 ```
     - 实验@评论:我自己学习js的时候尝试在roam中看看效果，目前并没有维护
-    - 在roam research中实现类似anki的间隔记忆
-        - roam/sr
     - masonry-vanilla @评论:数字花园
         - {{[[roam/js]]}}
             - ```javascript
