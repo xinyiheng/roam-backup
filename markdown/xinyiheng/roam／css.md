@@ -1,4 +1,4 @@
-- ```css
+- ```swift
 
 /* 修改reference部分的背景颜色 */
 .rm-reference-item {
@@ -211,13 +211,13 @@ textarea {
 
 
 ```
-- ```css
+- ```yaml
 .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self:hover {
  box-shadow: inset 16px 16px 12px 0 #9E9E9E(17 177 19 / 6%),  -3px -3px 6px 0 #fff;
   
 }
 ```
-- ```css
+- ```javascript
 /*设置卡片模式下卡片的颜色和背景阴影的颜色，我花了很多时间才学会*/
 .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self {
     width:12.7cm;
@@ -232,12 +232,12 @@ textarea {
     padding: 20px 16px 16px 0;
 }
 ```
-- ```css
+- ```javascript
 .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self:hover {
  box-shadow: inset 16px 16px 12px 0 #9E9E9E(17 177 19 / 6%),  -3px -3px 6px 0 #fff;
   
 }```
-- ```css
+- ```javascript
 /*设置卡片模式下卡片的颜色和背景阴影的颜色，我花了很多时间才学会*/
 .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self {
     width:12.7cm;
@@ -252,7 +252,7 @@ textarea {
     padding: 20px 16px 16px 0;
 }
 ```
-- ```css
+- ```plain text
 /* 笔记中包含光标时，卡片的样式*/
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
@@ -264,7 +264,7 @@ background-color: #F2E9E96D;
 }
 
 ```
-- ```css
+- ```plain text
 /* 笔记处于行选中状态时，卡片呈现的样式 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
 background-color:;
@@ -274,8 +274,7 @@ background-color:;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
 } 
 ```
-- 
-- ```css
+- ```clojure
 .rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
     /* 调整便签的外观 */
     background-color: #8BC34A00!important;
@@ -287,8 +286,7 @@ background-color:;
     /* 为便签增加阴影效果 */
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
 }```
-- 
-- ```css
+- ```plain text
 /* card-list-mode 卡片之间设置空隙 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
     background-color: #F2E9E96D;
@@ -299,7 +297,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 }
 ```
 - 修改顶部图片
-    - ```css
+    - ```plain text
 /*修改最顶端栏目的背景*/
 .rm-topbar {
    background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLdvi6J-jSG.png?alt=media&token=072a0a85-a788-4d5b-949e-547cdee0288d);
@@ -308,14 +306,14 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     background-size:120%;
     
 }```
-- ```css
+- ```yaml
  .roam-topbar {
     background-color: white !important;
     color: black !important; /* Changes text color to black for visibility */
 }
 ```
 - 修改背景图片
-    - ```css
+    - ```html
 /*设置笔记主题的背景色和背景图片*/
 
 
@@ -796,7 +794,7 @@ span.rm-page-ref[data-tag] {
   border-radius: 3px;    
   font-weight:500;
 }```
-    - ```css
+    - ```clojure
 :root{
   --col1: rgba(255, 243, 174, .8);
   --col2: rgba(255, 132, 132, .8);
