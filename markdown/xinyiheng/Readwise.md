@@ -3,3 +3,4 @@
 - Readwise 为新注册用户提供近一个月的免费试用期，到期后可以通过分享给朋友注册再增加一个月，而目前的收费标准有 2 档，每月 7.99 美元的完整版可以将你的高亮笔记自动导出到 Notion，Evernote 和 Roamresearch，由于导出功能非常实用，因此建议有需求的朋友开通。Via[将散落的标注收集在一处，Readwise 这样改善了我的信息输入 - 少数派](https://sspai.com/post/63879)[[20210105]] 下午11:10
 - 现在我才发现，readwise reader用来阅读浏览类的pdf也非常好。在reader中的{c1:截图}也可以自动同步到roam reasearch中来。 #[[srs/cloze]]
 - On [[November 6th, 2024]] at 11:03 AM Readwise synced 3 highlights from 1 book.
+- On [[November 6th, 2024]] at 11:14 AM Readwise synced 1 highlight from 1 book.
