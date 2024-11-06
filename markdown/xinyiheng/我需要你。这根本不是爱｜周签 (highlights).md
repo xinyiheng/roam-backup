@@ -1,0 +1,9 @@
+- Author:: [[cubox.pro]]
+- Full Title:: 我需要你。这根本不是爱｜周签
+- Category:: #articles
+- URL:: https://cubox.pro/my/card?id=7253671934699768489
+- ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+- ### Highlights first synced by #Readwise [[November 6th, 2024]]
+    - 它一针见血地指出，需要不是爱，需要是一种索取。
+    - 爱是“我在为你好”，需要则是“你必须接受我的好”。
+    - 妈妈建议孩子去学习、去写作业，这确实是为了孩子成绩好，是妈妈在对孩子表达关心、表达爱。但不允许孩子拒绝学习、拒绝写作业的时候，或许就是妈妈在满足自己对掌控感的需要了。
