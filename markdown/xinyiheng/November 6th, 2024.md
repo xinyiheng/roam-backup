@@ -1,6 +1,6 @@
 - #[[育儿]]
     - 今天麻豆早上起来写英语单词又很不高兴，我也挺生气。就让他读 reading a-z，对他磕磕绊绊的发音也很不满。还没有树立起对自己学习的高标准。没有完成从“要我学”到“我要学”的转变。
 - #[[技能]]
-    - 重新梳理自己阅读和整理笔记的流程，确定可以接受的妥协。我 目前阅读的主要窗口还是浏览器，尽管有时候是从 inoreader导入的。之所以执着于 diigo，还是因为直接在网页上标注感觉很好。目前，diigo 中的内容是通过 readwise 中转到 roam research 的。
+    - 重新梳理自己阅读和整理笔记的流程，确定可以接受的妥协。我 目前阅读的主要窗口还是浏览器，尽管有时候是从 inoreader导入的。之所以执着于 diigo，还是因为直接在网页上标注感觉很好。目前，diigo 中的内容有两种形式同步到 roam，一种是inoreader 订阅 diigo的 rss，再结合自动化，向 todolist 邮箱发邮件，然后通过Imported Quick Capture items插件，另一种是通过 readwise 中转到 roam research 的。
 - Imported Quick Capture items:
     - 可以在这里直接向 roam research添加笔记。
