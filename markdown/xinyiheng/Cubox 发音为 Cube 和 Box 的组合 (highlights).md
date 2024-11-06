@@ -1,4 +1,0 @@
-- URL:: https://cubox.pro/my/card?id=7192505429983757640
-- ![](https://image.cubox.pro/cover/2024011211405073267/20959.jpg)
-- ### Highlights first synced by #Readwise [[May 21st, 2024]]
-    - Cubox 则专为「阅读管理」而设计，旨在让每个人都能轻松地从日常碎片信息中汲取养分：通过收集、阅读标注、回顾来构建知识库，通过自动解析、智能分类、卡片式组织来轻松整理，无需丰富的写作或知识管理经验。
