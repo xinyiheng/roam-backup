@@ -2,16 +2,15 @@
 - #[[阅读]] 学习的目的是为了有更好的决策依据。这需要很多思维模型。
 - 看到有人用hepta做了一本书的读书笔记[《精准学习》](https://app.heptabase.com/w/dd90dec40bbb690551306bfbe0ac46a1787109d82f0eca4cf045502f9de6fa17)，是成甲的书《好好学习》的台湾版本。
 - #[[知识管理]] #[[搜索]] 发现用wikigraph搜索出来的知识图谱效果还不错，可以结合[[The Brain]]来使用，构建自己的知识图谱。我设置了一个alfred搜索快捷方式，可以快速在wikigraph里面搜索内容。#[[软件联动]] 
-- [[Heptabase]]在本质上和[[The Brain]]其实是一样的，只不过the brain给人的印象是节点，而不是卡片，是思维导图，而不是白板。
 - 整理当天阅读资料
     - ❆学习
         - 学习的目的是为了有更好的决策依据。 而决策依据的水准，主要取决于经过广泛验证的的原理和定律，这些「经过广泛验证的的原理和定律」就称为思维模型。 [[inoreader.com]][🔗](https://www.inoreader.com/article/3a9c6e7ad0ac36f1-)
     - ❆ 工具应用
         - Github Actions 是一个持续集成的自动化方案，具有很多玩法，春节期间抽时间用了用，所以诞生了这个项目，这个项目的特点是： [[inoreader.com]][🔗](https://www.inoreader.com/article/3a9c6e7ad62ec348-github-actions-telegram-1910-github-actions-api-telegram)
         - 開啟讓 YouTube 關閉影片畫面只聽聲音的專注學習純文字模式 取得連結 Facebook Twitter Pinterest 以電子郵件傳送 其他應用程式 作者 [[playpcesor.com]][🔗](https://www.playpcesor.com/2022/02/youtube.html)
-        - youtube的音乐模式，关闭画面。
+            - youtube的音乐模式，关闭画面。
         - Hack This Page留着愚人节用吧。 [[sspai.com]][🔗](https://sspai.com/post/71336)
-        - 修改网页上的信息玩
+            - 修改网页上的信息玩
     - ❆育儿
         - [Inoreader - 孩子的体格是随爸爸还是随妈妈？][🔗](https://www.inoreader.com/article/3a9c6e7ad09f9596-)
             - **有些现象要从进化的角度去理解。比如，孩子的体格是随爸爸还是随妈妈？答案是妈妈。** 有句老话说的好，“爹矮矮一个，娘矮矮一窝”，孩子的大小、至少在子宫内的大小基本上是随妈妈。 为什么呢？要是胎儿的大小遗传了身材高大的爸爸，那身材矮小的妈妈就会因为胎儿太大而难产死亡。
