@@ -1,8 +1,5 @@
 - Author:: [[穆斯塔法 苏莱曼]]
 - Full Title:: https://mp.weixin.qq.com/s/6effNNCrjOSBQ19YXheQtA
-- Category:: #articles
-- URL:: https://mp.weixin.qq.com/s/6effNNCrjOSBQ19YXheQtA
-- ![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 - ### Highlights first synced by #Readwise [[November 2nd, 2024]]
     - 比尔·盖茨在接受媒体采访时，再次预测AI未来：**“AI是第一个无限量的技术”。**
     - 我们该如何理解“无限”？DeepMind联合创始人、微软人工智能CEO穆斯塔法·苏莱曼在新书**《浪潮将至》**中，精准地阐释了AI的无限性将引发的新浪潮。比尔·盖茨强推这本书，并称之为**“在巨浪般的时代，一部为你指引航向的作品。”**
