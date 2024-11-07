@@ -1050,6 +1050,13 @@ span.rm-page-ref[data-tag="读书笔记"] {
     font-weight: 500;
     line-height: 2em;
 }
+span.rm-page-ref[data-tag="srs/cloze"] {
+    background: rgba(255,170,214,0.68) !important;
+    color: white !important;
+    padding: 3px 7px;
+    font-weight: 500;
+    line-height: 2em;
+}
 span.rm-page-ref[data-tag="低效"] {
     background: #B8B2B2 !important;
     color: white !important;

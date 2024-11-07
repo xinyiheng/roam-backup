@@ -1,5 +1,3 @@
-- Imported Quick Capture items:
-    - 不打开roam的前提下添加内容
 - #[[工作]]
     - 走云因系统
     - 阅读《穷查理宝典》
