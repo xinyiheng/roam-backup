@@ -1054,7 +1054,7 @@ span.rm-page-ref[data-tag="srs/cloze"] {
     background: rgba(255,170,214,0.68) !important;
     color: white !important;
     padding: 3px 7px;
-    font-weight: 500;
+    font-weight: 0;
     line-height: 2em;
 }
 span.rm-page-ref[data-tag="低效"] {
