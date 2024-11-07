@@ -21,7 +21,6 @@
         - [主页 / Twitter][🔗](https://www.diigo.com/outliner/diigo_items/1032604/12128769/621502999)
     - ❆出版
         - [冊子の製本と開き方の違いについて解説！ | 冊子製本お役立ちコラム | ウイルダイレクト][🔗](https://www.diigo.com/outliner/diigo_items/1032604/12128769/621414642)
-        - [冊子の製本と開き方の違いについて解説！ | 冊子製本お役立ちコラム | ウイルダイレクト][🔗](https://www.diigo.com/outliner/diigo_items/1032604/12128769/621414612)
     - ❆NFT
         - [Twitter 的创始人将一条亲笔签名的推文][🔗](https://www.theverge.com/2021/3/5/22316320/jack-dorsey-original-tweet-nft-cent-valuables)作为 NFT 出售 [[theverge.com]][🔗](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
     - ❆心理
@@ -34,7 +33,7 @@
 - #[[健康]] 今天骑行35公里，一个小时多一点。开始恢复骑行，之所以这么多天没骑是因为右腿膝盖疼。今天右腿感觉良好，但是左腿又开始不舒服。
 -  #[[知识管理]] 发现使用scapple来整理自己的思路很好，甚至有时感觉比在白纸上手写还好。我在内省的过程中发现，虽然都是关于知识管理的概念图，但从不同的问题出发整理出来的图完全不一样(这似乎显而易见，但不亲自绘制体会不深，根本没有意识到这一点)，这些图并不是简简单单切换视图就可以得到的。这需要先选定切入问题的视角，然后根据自己的思考主动绘制。我发现绘制这类图的时候并不需要参考多少外界的信息，基本全是我自己主动思考的产物。
 - #[[洞见]] 把图片和写作结合起来呈现，可能是我写作的差异化所在。
-- #[[洞见]] 以十万个为什么的方式来整理自己的笔记和写作。
+- #[[洞见]] 以{c1:十万个为什么}的方式来整理自己的笔记和写作。#[[srs/cloze]]
 - [[Inbox]]
     - [[xin]] at 23:48: #Photo
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FQ7PMZV43t?alt=media&token=36c6c509-cee9-4d4e-ba18-a3439f80c47c)
