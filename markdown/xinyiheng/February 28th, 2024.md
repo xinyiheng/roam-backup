@@ -1,6 +1,6 @@
 - Imported Quick Capture items:
     - Negotiate Without Fear: Strategies and Tools to Maximize Your Outcomes: Medvec, Victoria: 9781119719090: Amazon.com: Books
-        - * 好像还没有中文版。但沟通和谈判这类的书实在是太多了。
+        - 好像还没有中文版。但沟通和谈判这类的书实在是太多了。
         - [原文链接](https://www.amazon.com/dp/1119719097?ref=yb_qv_ov_prnt_dp_rw)
     - Money Magic: An Economist’s Secrets to More Money, Less Risk, and a Better Life: Kotlikoff, Laurence: 9780316541954: Amazon.com: Books
         - 是根据美国的情况写的，很多内容并不适合中国。中信引进了，但是基本上没有什么反响。

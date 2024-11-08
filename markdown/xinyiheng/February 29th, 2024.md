@@ -1,4 +1,4 @@
 - Imported Quick Capture items:
     - 光电帝国 (豆瓣)
-        - * 这里提到的商业史相关的图书可以关注。
+        - 这里提到的商业史相关的图书可以关注。
         - [原文链接](https://book.douban.com/subject/1476618/)
