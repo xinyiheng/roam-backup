@@ -1,8 +1,4 @@
-- Author:: [[cubox.pro]]
-- Full Title:: 李继刚全网首播干货分享整理 | Prompt（提示词）的道和术，另附分享彩蛋
-- Category:: #articles
 - URL:: https://cubox.pro/my/card?id=7248032151134799615
-- ![](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 - ### Highlights first synced by #Readwise [[October 31st, 2024]]
     - 如果让我用一句话来总结去年写的七八十个提示词，我浓缩一句话就是：清晰表达。
 就是你和大模型对话，你只要能清晰地把你真正想要的那个东西给表达出来，这个事就成了。至于说你用了什么语法，用了什么框架，那都是次要的，只要你能表达清楚，你就赢了，这是根本。
