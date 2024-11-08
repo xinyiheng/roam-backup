@@ -200,7 +200,7 @@ textarea {
   
 }
 ```
-- ```html
+- ```css
 :root {
     --main-font: "Kaiti SC", "楷体", KaiTi, "楷体_GB2312", serif !important;
 }
@@ -335,7 +335,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 - ```css
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
-     background-color: #F9F7F700;
+     background-color: white;
 }
 
 #roam-right-sidebar-content {
@@ -345,15 +345,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 div {
     font-family: !important;
 }
-.sidebar-content {
-    overflow: unset;
-    display: flex;
-    background-color: rgb(202,114,114);
-    flex-direction: column;
-    flex-wrap: wrap;
-    height: 99%;
-    align-content: flex-start;
-}
+
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
     color: #F5F8FA;
     background-color: #FF9800A5;
@@ -365,10 +357,18 @@ div {
 }
 
 
-element.style {
-}
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .top-row:hover {
     background-color: #FF9800A5;
+}
+
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
+    text-decoration: none;
+    font-family："Kaiti SC", "楷体", KaiTi, "楷体_GB2312", serif !important;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 4px 0px 4px 4px;
+    color: hsl(204, 20%, 45%);
 }```
 - 修改顶部图片
     - ```plain text
