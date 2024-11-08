@@ -1,2 +1,2 @@
-- [[roam/sr/review]]
-    - 注册制如何管理坏企业？#[[sr]]
+- roam/sr/review
+    - 注册制如何管理坏企业？

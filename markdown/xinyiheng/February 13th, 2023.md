@@ -1,4 +1,4 @@
-- Imported Quick Capture items:
+- Imported Quick Capture items: #[[历史]]
     - “英国版光绪”理查二世，纵使一手好牌也打个稀烂，这到底怪谁？
         - 理查一面要解决国内外的棘手势力，还要为百年战争带来的高昂军费“擦屁股”。在继位之后，他的智囊团立即下令征收人头税，这种税费一般要经过议会或御前会议同意，是一种在特殊情况下才能开征的紧急税。然而，这次国王并没有经过臣民的统一，而且人头税一征就是三年起步，直闹得老百姓民意沸腾。因为当时的欧洲正流行过恐怖的黑死病，农民的生产和生活刚刚恢复正常。征收重税是于情于理都不合适的。
         - [原文链接](https://baike.baidu.com/tashuo/browse/content?id=aa3243d229c59b1aa52f983e&fromModule=tashuo-article_tashuo-tab-item)

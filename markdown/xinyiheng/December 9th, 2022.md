@@ -1,4 +1,4 @@
-- [[roam/sr/review]]
+- roam/sr/review
 - [[Inbox]]
     - 16:35 为什么
     - 16:47 为啥

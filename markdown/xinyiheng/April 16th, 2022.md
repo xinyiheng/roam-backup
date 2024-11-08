@@ -1,3 +1,3 @@
-- [[roam/sr/review]]
-    - CRAAP#[[sr]]
+- roam/sr/review
+    - CRAAP
  #[[r/4]]

@@ -34,7 +34,7 @@
     16. 如何处理pdf？用marginnote阅读pdf的一个缺点是，这些笔记就保留在了里面的思维导图中，难以和[[Roam Research]]里面的内容产生关联。
     17. {{[[TODO]]}} [Export TheBrain to Obsidian, a small script - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/export-thebrain-to-obsidian-a-small-script/6641/3) #[[软件联动]]
 - ### 插件及功能
-    - 看板视图：其实[[Roam Research]]和[[Obsidian]]也都具有看板功能
+    - 看板视图：[[Roam Research]]和[[Obsidian]]也都具有看板功能
     - The Brain视图：[[Obsidian]]有一款插件，大体实现了the brain的效果，叫做[[Juggl]]
     - 让 Obsidian 更好用，这些社区插件值得试试Via[让 Obsidian 更好用，这些社区插件值得试试 - 少数派](https://sspai.com/post/66094) [[20220114]] 下午11:32
         - [玩转 Obsidian 08：利用 Dataview 打造自动化 HomePage - 少数派](https://sspai.com/post/73958)@评论:这个插件我感觉就像是query

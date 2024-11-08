@@ -39,7 +39,7 @@ via[记账神器 Beancount 教程 - 少数派](https://sspai.com/post/59777)
     - python读取pdf？
 via[(14 封私信 / 12 条消息) 首页 - 知乎](https://www.zhihu.com/)
 [[20201223]] 下午11:12
-- 把epub图书导入[[Roam Research]]
+- 把epub图书导入[[Roam Research]] 🗒@评论：我并不需要在 roam 中阅读，会太臃肿。
     - {{[[youtube]]: https://www.youtube.com/watch?v=xWNGPd3I63Q}}
         - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
         - 00:00:01 - 这个视频主要是讲怎样把epub图书导入到roam research当中阅读。

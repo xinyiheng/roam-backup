@@ -1,4 +1,0 @@
-- Imported Quick Capture items:
-    - 我做了一个「咒语库」，帮你从提示词入手用好 ChatGPT - 少数派
-        - Tags: chatgpt
-        - [原文链接](https://sspai.com/post/78581)

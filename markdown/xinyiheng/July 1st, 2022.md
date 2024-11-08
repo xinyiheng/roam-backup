@@ -1,2 +1,2 @@
-- [[roam/sr/review]]
-    - 怎样^^复习^^笔记内容#[[sr]] f #f #[[r/3]]
+- roam/sr/review
+    - 怎样^^复习^^笔记内容
