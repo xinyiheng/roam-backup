@@ -75,7 +75,7 @@ id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-811
         - * 中科书院引进了这本书
         - [原文链接](https://www.amazon.com/dp/0755607007?ref=yb_qv_ov_prnt_dp_rw)
     - 工作最怕光说不练 (豆瓣)
-        - * 案例太老了，但我对于组织内部的知识管理这类话题还是很感兴趣的。
+        - 案例太老了，但我对于组织内部的知识管理这类话题还是很感兴趣的。
         - [原文链接](https://book.douban.com/subject/4619376/)
     - Amazon.com: How to Measure Anything: Finding the Value of Intangibles in Business: 9781118539279: Hubbard, Douglas W.: Books
         - Annotations:
