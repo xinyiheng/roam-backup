@@ -30,27 +30,20 @@ https://sspai.com/post/74009 [Email Body](https://files.todoist.com/fq6LlpZSHRFF
         - Tags: 家族企业 传承
 https://m.huxiu.com/article/546286.html [Email Body](https://files.todoist.com/_JqNtLw8vxm3sF5kJTa9p3ydhXy_tiwMQ-CZXjPpmBaEkiTFmm7A-SJEG3u8L6cd/by/21878347/as/file.html)
     - 数字化监狱，现代人如何抵抗同质化暴力？ - 少数派
-        - Annotations:
-* 「知晓」并不等于「知道」，我们收藏的未消化的信息越多，内心的压力也就越大，而去主动学习和消化的动力就越小，直到曾费心收藏的内容被遗忘掉。而不断地切换和遗忘，造成了时间的徒然浪费。这还是文字，更遑论视频。
-* 我们收集的内容大多都是同质化的信息，这些信息的同质化让个人的信息系统变得臃肿和杂乱。
-这种臃肿和杂乱，最后会演变成「梗死」。
-局部组织由于血管阻塞、血流停止导致缺氧而发生的坏死，称为梗死。梗死的问题不是遭遇了病毒，而是积累了过多同质化的东西。就像一个人不断地吃下身体喜欢的食物，逐渐变得肥胖，行动缓慢，呼吸困难，血脂升高，然后肥胖成为了脑梗、心梗等疾病的重要影响因素。这种毫无节制地吃下自己喜爱的食物，也是一种同质化。
-* 信息梗死症
-* 建议一：阅读让自己感到痛苦的书
-* > 我们应永远铭记一点：越是难啃、越是不容易读的资料，往往越有价值。
-* 建议二：在深度无聊中深度思考
-* 我一直很羡慕能多线程做事的人，但是翻看《倦怠社会》后，我发现原来多线程做事（Mutitasking）这种注意力结构并不代表文明的进步，它甚至代表了一种倒退。
-
-* 动物不能专注，随时会被打断，但是这种宽广但肤浅的注意力结构根本不利于深度创作。
-
-人类在文化领域的成就，包括哲学思想，都归功于人类深刻、专一的注意力。
-
-* 《倦怠社会》里还说了一个概念叫「深度无聊」，说是精神放松的终极状态。就如同白日梦，让自己处在一种默认模式网络的状态里，这时候，我们不讲求效率，而是聚精会神地放松，在对自己有益的消极状态里沉思，进入从容、悠长的自在状态。
-* 建议三：关注身体，提升感受力
-* 文章的主旨让我想起了一本书 ：《把自己作为方法》
-人们思维的能力在各位3天学会xxx，5分钟了解xxx的趋势下，已经慢慢变弱
-比起“数字化监狱”，我觉得叫“数字化慢病”更加合适
-https://sspai.com/post/77017 [Email Body](https://files.todoist.com/9TQ1sphh3nSb4KF-QNkob_cHw976rNPhy-YXLZkp2RPT_TZIqhneelJthrsan5bS/by/21878347/as/file.html)
+        - 「知晓」并不等于「知道」，我们收藏的未消化的信息越多，内心的压力也就越大，而去主动学习和消化的动力就越小，直到曾费心收藏的内容被遗忘掉。而不断地切换和遗忘，造成了时间的徒然浪费。这还是文字，更遑论视频。
+        - 我们收集的内容大多都是同质化的信息，这些信息的同质化让个人的信息系统变得臃肿和杂乱。
+        - 这种臃肿和杂乱，最后会演变成「梗死」。
+        - 局部组织由于血管阻塞、血流停止导致缺氧而发生的坏死，称为梗死。梗死的问题不是遭遇了病毒，而是积累了过多同质化的东西。就像一个人不断地吃下身体喜欢的食物，逐渐变得肥胖，行动缓慢，呼吸困难，血脂升高，然后肥胖成为了脑梗、心梗等疾病的重要影响因素。这种毫无节制地吃下自己喜爱的食物，也是一种同质化。
+        - 信息梗死症
+        - 建议一：阅读让自己感到痛苦的书
+            - 我们应永远铭记一点：越是难啃、越是不容易读的资料，往往越有价值。
+        - 建议二：在深度无聊中深度思考
+            - 我一直很羡慕能多线程做事的人，但是翻看《倦怠社会》后，我发现原来多线程做事（Mutitasking）这种注意力结构并不代表文明的进步，它甚至代表了一种倒退。
+            - 动物不能专注，随时会被打断，但是这种宽广但肤浅的注意力结构根本不利于深度创作。人类在文化领域的成就，包括哲学思想，都归功于人类深刻、专一的注意力。
+            - 《倦怠社会》里还说了一个概念叫「深度无聊」，说是精神放松的终极状态。就如同白日梦，让自己处在一种默认模式网络的状态里，这时候，我们不讲求效率，而是聚精会神地放松，在对自己有益的消极状态里沉思，进入从容、悠长的自在状态。
+        - 建议三：关注身体，提升感受力。文章的主旨让我想起了一本书 ：《把自己作为方法》
+        - 人们思维的能力在各位3天学会xxx，5分钟了解xxx的趋势下，已经慢慢变弱，比起“数字化监狱”，我觉得叫“数字化慢病”更加合适。
+        - [原文链接](https://sspai.com/post/77017)
     - Inoreader - 世界杯，一门大生意
         - Annotations:
 
@@ -760,14 +753,7 @@ https://www.jb51.net/tools/regexsc.htm [Email Body](https://files.todoist.com/CO
         - Annotations:
         - 新总规明确了北京的战略定位是：全国政治中心、文化中心、国际交往中心、科技创新中心！突出“四个中心”，彰显首都风范！
         - 未来的北京，还将是一座人民的城市，我们的发展目标就是：建设国际一流的和谐宜居之都！
-        - 到2035年
-        - 公共交通更快更完善
-        - 轨道交通里程是现在的4倍那么长！
-        - 住有所居，未来5� �就要供应新房150万套以上！
-        - 教育资源会更均衡
-        - 医疗养老会更贴心
-        - 一刻钟生活服务圈，让你买菜、上学再也不用走远，出门不远就是�
-        - �园绿道，北京城天蓝水清森林环绕，胡同里有鸟鸣声绿荫环抱，中轴线大运河展示千年古都的骄傲，想想都觉得首都特别美妙！
+        - 到2035年，公共交通更快更完善，轨道交通里程是现在的4倍那么长！
         - 新总规部署了八大行动路线图。
         - 第一，优化城市空间布局，构建“一核一主一副、两轴多点一区”的空间结构。
         - 第二，有序疏解非首都功能，坚持疏解整治促提升。
@@ -777,7 +763,7 @@ https://www.jb51.net/tools/regexsc.htm [Email Body](https://files.todoist.com/CO
         - 第六，加强城乡统筹，实现城乡发展一体化
         - 第七，深入推进京津冀协同发展，建设以首都为核心的世界级城市群。
         - 第八，坚决维护总体规划的严肃性和权威性，实现一张蓝图绘到底。
-        - http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166743.html [Email Body](https://files.todoist.com/O19ntvqGiCzK4Ev3d7J57IB91Az9J9vhn9UnRUicikFVVQTX9FlPuOH76OcGE5Tk/by/21878347/as/file.html)
+        - http://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/zcjd/201912/t20191213_1166743.html 
     - 为什么骑自行车学会就忘不掉，可弹琴需要天天练？
         - Tags: 记忆
         - [原文链接](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652090683&idx=1&sn=e7479ccde24d6e3b6fd989e1eed60ae2&chksm=5dbf95a96ac81cbfed4b89470f58708d0261fdc052048b40e3ee812c5c55dad385b7572779b7&scene=132) 
@@ -785,35 +771,14 @@ https://www.jb51.net/tools/regexsc.htm [Email Body](https://files.todoist.com/CO
         - Annotations:
         - * ## 许小年最新演讲：创新是一种自我表达，企业家不要盯着宏观经济
         - 创新并不是以高科技为前提的，有，当然很好，但不是唯一条件。世界上创新分两类，一类是颠覆式创新，一类是改进式创新，颠覆式创新多来自于新型科技公司，而改进式创新大部分来自大公司。这两类创新都对企业效率的提高有着巨大作用。
-        - 海底捞总结出一套行之有效的自己培养店长的方法：用师徒制方法，店长可以带徒弟，徒弟学成之后可以出去自己开店，徒弟开的店的收益店长可以分享，这是它非常独特的地方。
-        - https://cn.ceibs.edu/people-stories/21701 [Email Body](https://files.todoist.com/HZaZvRR3Mc82NTCOFAmyhnAgfH014GXSEFyyuPbvOPhRGH9guFm7dhQolSsStGkj/by/21878347/as/file.html)
+        - 海底捞总结出一套行之有效的自己培养店长的方法：用师徒制方法，店长可以带徒弟，徒弟学成之后可以出去自己开店，徒弟开的店的收益店长可以分享，这是它非常独特的地方
+        - [原文链接](https://cn.ceibs.edu/people-stories/21701) 
     - [Roaming through contexts with Roam: How I use it - strategic structures](https://www.strategicstructures.com/?p=2357)
     - 用 Integrately 玩转 Cubox 和 Flomo API - 少数派
         - 由于 Integrately 每一个付费计划里支持的任务运行次数都是 Zapier 的翻倍。所以对于付费用户而言，Integrately 的性价比可能更高。哦哦
         - Tags: 自动化 软件联动
         - https://sspai.com/post/68627
-    - [如何将 Flomo 卡片自动导入 Roam Research？刚做了个 Flomo2Roam 的小示例，后边准备开发一些好玩儿的东西_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JY41147sc/?vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
-    - [Notion on Twitter](https://twitter.com/notionhq/status/1211733358809477120)
-        - Annotations:
-        - Keep an eye on this page? 
-        - https://twitter.com/notionhq/status/1211733358809477120 [Email Body](https://files.todoist.com/qyhtarSZH7v2CDSKaGX5ogLBjGRAAN5NDP8X0au59kCOH12ePl0rVL8fEGwlfur5/by/21878347/as/file.html)
-    - Notification欺诈游戏-哔哩哔哩 Bilibili
-        - https://search.bilibili.com/all?keyword=%E6%AC%BA%E8%AF%88%E6%B8%B8%E6%88%8F&search_source=1
-12/24/2022 6:51:00 AM
-12/24/2022 6:51:00 AM [Email Body](https://files.todoist.com/A5zyr2aBoH6okflsyYYHS7UMFdkDLI3Nykdkp0UWHujrKMLt11pX4NfBV_SETfKp/by/21878347/as/file.html)
-    - A Notion page has been updated.
-        - ℹ️ Notion Notification. A page in your Notion page has been updated.
-【高效学习02】如何在 Roam 里面实践渐进学习？轻松使用Roam
-Research，渐进阅读流程_哔哩哔哩_bilibilihttps://www.notion.so/02-Roam-Roam-Research-_-_bilibili-85d8a869f307496cbdc40b077b17fbe5
-[Sent with bardeen.ai] [Email Body](https://files.todoist.com/VDOBC-CoqOgmQIhIH-vLHI0MpacvJZSD0yjosBMknO5QSd0euoL-rSQrS1J-oT1Z/by/21878347/as/file.txt)
-    - Notification-【高效学习02】如何在 Roam 里面实践渐进学习？轻松使用Roam Research，渐进阅读流程 哔哩哔哩 bilibili
-        - 【高效学习02】如何在 Roam 里面实践渐进学习？轻松使用Roam Research，渐进阅读流程_哔哩哔哩_bilibilihttps://
-www.bilibili.com/video/BV1m44y1V7EG/?spm_id_from=333.788.recommend_more_video.12&vd_source=3d8ccab137cc879b5f9cbc14d68843ab
-12/24/2022 7:08:00 AM
-实验内容
-{{921312_properties.F{G\}}
-{{921312_properties.{{921312_properties.}k}j}}
-{{921312_properties.jksk}} [Email Body](https://files.todoist.com/a0AO2mSKcK-iL9csrtpsPRRnDC99kxSAaUhtsZcxoEBqsQInh5N8_lSFAxH2a14S/by/21878347/as/file.html)
+    - [如何将 Flomo 卡片自动导入 Roam Research？](https://www.bilibili.com/video/BV1JY41147sc/?vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
 - [[Inbox]]
 - #[[意识流笔记]]
     - 早上起来就设置软件联动，希望把flomo中的得到电子书标记自动发送到roam中，用到的工具是[[集简云]]和[[Todolist]]，成品参见链接：https://apps.jijyun.cn/data-pipeline。 豆瓣阅读来自豆瓣的标注，flomo来自得到标注，虽然已经实现了，但由于只能发送标题名称，内容不全。感觉不是很好用。
