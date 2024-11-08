@@ -200,7 +200,7 @@ textarea {
   
 }
 ```
-- ```css
+- ```html
 :root {
     --main-font: "Kaiti SC", "楷体", KaiTi, "楷体_GB2312", serif !important;
 }
@@ -335,13 +335,16 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 - ```css
 /*设置左侧边栏背景色*/
 .roam-body .roam-app .roam-sidebar-container {
-     background-color: #F2E9E96D;
+     background-color: #F9F7F700;
 }
 
 #roam-right-sidebar-content {
     overflow: auto !important;
 }
-#247EC2#1480D3#1476D3##C6C067
+/*修改笔记主题的字体*/
+div {
+    font-family: !important;
+}
 .sidebar-content {
     overflow: unset;
     display: flex;
@@ -359,6 +362,13 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover {
     color: #F5F8FA;
     background-color: #FF9800A5
+}
+
+
+element.style {
+}
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .top-row:hover {
+    background-color: #FF9800A5;
 }```
 - 修改顶部图片
     - ```plain text
