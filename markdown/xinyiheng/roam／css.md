@@ -1132,7 +1132,7 @@ span.rm-page-ref[data-tag="洞见"]:before {
 
 
 span.rm-page-ref[data-tag="Garden Notes"] {
-    color: #9DBC13;
+    color: #9DBC1300;
     padding: 3px 4px;
     font-weight: 700;
     line-height: 1.4em;
