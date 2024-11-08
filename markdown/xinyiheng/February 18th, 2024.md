@@ -86,13 +86,8 @@ id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-811
 
 https://www.amazon.com/dp/1118539273?ref=yb_qv_ov_prnt_dp_rw [Email Body](https://files.todoist.com/qg_oYTtBoJ6Vd6Ac8fKcGoc9i_i5EucjHUVR954KCY-JuWFeaT_yV20KTbeLs936/by/21878347/as/file.html)
     - Cities: The First 6,000 Years: Smith, Monica L.: 9780735223677: Amazon.com: Books
-        - Annotations:
-
-*     * 中科书院引进了这本书
-
-
-
-https://www.amazon.com/dp/073522367X?ref=yb_qv_ov_prnt_dp_rw [Email Body](https://files.todoist.com/efZ26g2aoBd99O-yGXHZg8CS0V7W8QL2NgeWUWA3wm_w7V-EuUzsNH0AOqxiTd5X/by/21878347/as/file.html)
+        - * 中科书院引进了这本书
+        - [原文链接](https://www.amazon.com/dp/073522367X?ref=yb_qv_ov_prnt_dp_rw)
     - The Warehouse: Workers and Robots at Amazon: Delfanti, Alessandro: 9780745342177: Amazon.com: Books
         - Annotations:
 

@@ -1,3 +1,2 @@
 - Imported Quick Capture items:
-    - 什么是MG动画（Motion Graphics） - 知乎
-    - 
+    - 什么是MG动画（Motion Graphics）  #[[视频]]

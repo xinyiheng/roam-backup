@@ -9,7 +9,5 @@
         - 责任与真的专业
         - [原文链接](https://www.dedao.cn/knowledge/note/detail?id=xbEGwQD09BNQW5VVxgdEZ1jZ2zkLNe)
     - 顶级讲师分走3000万，得到让知识分子富起来了？
-        - Annotations:
-
-* 仅仅刘润一位讲师就从得到分得3784万，薛兆丰也从得到获得了将近3000万的课程收益，而得到一年的净利润才5000万上下。
-https://www.notion.so/xinyiheng/3000-ab07a21e5a2244778896e5723b4ad404 [Email Body](https://files.todoist.com/hIWyMyvmPwxcDMqDjcDUiYwZju-fc0MN4OED7JTM5Ra48VZ2VD-Ai6-qRwODOX40/by/21878347/as/file.html
+        - 仅仅刘润一位讲师就从得到分得3784万，薛兆丰也从得到获得了将近3000万的课程收益，而得到一年的净利润才5000万上下。
+        - [原文链接](https://www.notion.so/xinyiheng/3000-ab07a21e5a2244778896e5723b4ad404) 

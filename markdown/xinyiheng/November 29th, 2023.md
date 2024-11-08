@@ -40,18 +40,12 @@
         - 这一步借鉴了《Build Your Second Brain》中提及的四步归纳法，其实你可以根据自己的需要按任意的层级和规则进行归纳。这本书讲了一个非常好的归纳原则：归纳给未来的自己，把未来的自己当做老板。
         - [原文链接](https://sspai.com/post/83320)
     - DPS 周刊 115 - 如何更有效地做读书笔记？ - 少数派
-        - Annotations:
-
-* 最近在读 Tiago Forte 的 Building A Second Brain 和 The PARA Method，有种相见恨晚的感觉。比如他在前一本书里提到了渐进式总结 (progressive summarization) 的方法，一共有四步：
-
-1. 第一次阅读时，将有用的段落摘抄到他的笔记里；
-2. 有时间的话，回顾这些摘抄的内容，将重要的内容加粗；
-3. 如果有些材料包含很多加粗的重要内容，就需要第三步，从这些加粗内容中找出最有用的信息，并把他们高亮；
-4. 如果你发现自己反复用到某些材料，那么这些材料对你格外有价值。这时你可能需要第四步：用自己的话来总结这些有价值的内容，最好是列出要点。
-
-
-
-https://sspai.com/post/83142 [Email Body](https://files.todoist.com/_h5QcJNmkuMoC5jNCoTRpF0JTzxeKeotDkBES9A1U7kj4eGauqaA_mHPgysrxmqv/by/21878347/as/file.html)
+        - 最近在读 Tiago Forte 的 Building A Second Brain 和 The PARA Method，有种相见恨晚的感觉。比如他在前一本书里提到了渐进式总结 (progressive summarization) 的方法，一共有四步：
+        - 1. 第一次阅读时，将有用的段落摘抄到他的笔记里；
+        - 2. 有时间的话，回顾这些摘抄的内容，将重要的内容加粗；
+        - 3. 如果有些材料包含很多加粗的重要内容，就需要第三步，从这些加粗内容中找出最有用的信息，并把他们高亮；
+        - 4. 如果你发现自己反复用到某些材料，那么这些材料对你格外有价值。这时你可能需要第四步：用自己的话来总结这些有价值的内容，最好是列出要点。
+        - [原文链接](https://sspai.com/post/83142)
     - 浅析两种不同的知识管理思路 - 少数派
         - 这两天在群里看到仝佬分享了这样一张图片。这张图瞬间激起了大家的表达欲，纷纷试图把自己归入其中某一类。
         - 相比于 Tiago Forte 对知识管理的四种分类（建筑师、园丁、图书管理员、学生），这个两分法似乎更简单粗暴一些，却也体现了当前知识管理的两种思路，即自由化和结构化。
@@ -72,7 +66,7 @@ https://sspai.com/post/83142 [Email Body](https://files.todoist.com/_h5QcJNmkuMo
         - 重视问题，轻视答案：发现问题的质量，是解决方案质量的基石
         - [原文链接](https://sspai.com/post/66416)
     - 剪裁网页增强、标注文章、笔记导出……这 5 个第三方工具让 Notion 更好用 - 少数派
-        - * Notion 页面小组件：Indify.co
+        - Notion 页面小组件：Indify.co
         - Tags: notion
         - [原文链接](https://sspai.com/post/63355)
     - 内容目录&更新时间表 - 少数派

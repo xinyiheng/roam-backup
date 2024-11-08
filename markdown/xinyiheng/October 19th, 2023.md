@@ -6,7 +6,7 @@
 - #[[技能]]
     - 跟chatgpt学习英语口语，感觉不错
 - Imported Quick Capture items:
-    - Park Scenery Appreciation Chat
+    - Park Scenery Appreciation Chat  #[[英语]]
         - "The river sparkles as the sunlight dances on its surface."
         - "The trees are in full bloom, creating a colorful canopy overhead."
         - "The gentle breeze carries the scent of wildflowers."

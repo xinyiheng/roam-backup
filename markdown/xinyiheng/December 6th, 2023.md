@@ -6,7 +6,7 @@
         - 新的一年快来了，我被很多人问过以后要怎么办，远方的家人、亲近的朋友、通过豆瓣帖子找来的网友。坦白说，我从没想明白过。唯一确定的是，我决定继续留下来，就像一颗掉落在小岛的互花米草种子。
         - [原文链接](https://mp.weixin.qq.com/s/XUsFvJQHDoYMFBugsjUt-w)
     - 岛上书店｜一书一世界-广告片:旅游视频-新片场
-        - https://www.xinpianchang.com/a12561895?kw=%E7%BA%A2%E8%8C%B6&type=creator&from=search_post [Email Body](https://files.todoist.com/JrbJHWWoRLX-BE6Nb2s-QB6x7P8HxpkoERqgjDf-JaPm_pXG8w2m4gHYj_BGBdrU/by/21878347/as/file.html)
+        -  [原文链接](https://www.xinpianchang.com/a12561895?kw=%E7%BA%A2%E8%8C%B6&type=creator&from=search_post)
         - [mtree的广播](https://www.douban.com/people/wanguuu/statuses?p=2)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FV-028IDA1z.png?alt=media&token=cbd13d95-b21a-48b5-8411-4362649d449e)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FbDsS6_7X--.png?alt=media&token=c8a34c7e-59da-4670-ac2a-f0a12a076dc1)

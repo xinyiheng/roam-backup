@@ -5,36 +5,26 @@
     - 麻豆这几天又咳嗽，挂了晚上的儿科号，去拿了一些药。回来停好车都接近九点了。
 - Imported Quick Capture items:
     - 练习英语散步聊天
-        - Annotations:
-
-* Building a second brain is all about enhancing your personal information management skills to become more organized, productive, and efficient in the digital age. Imagine it as creating a virtual extension of your own mind to store and retrieve information effectively.
-
-In today's fast-paced world, we're bombarded with information from emails,
-articles, documents, and more. It's easy to feel overwhelmed. But building a
-second brain is like having a digital assistant that helps you collect,
-organize, and utilize this information to your advantage.
-
-Think of it as a toolbox filled with techniques and tools to capture and
-manage information. It allows you to store important notes, ideas, and
-resources, making them easily accessible when you need them most.
-
-The concept of building a second brain is not just about managing data but
-also about fostering creativity and productivity. It frees up mental space, so
-you can focus on higher-level thinking and problem-solving.
-
-Whether you're a student, professional, or just someone looking to stay
-organized, the principles of building a second brain can be incredibly
-valuable. It's like having a secret weapon for staying on top of your digital
-life.
-
-So, if you've ever felt overwhelmed by the digital information age or if
-you're looking for ways to boost your productivity and creativity, exploring
-the idea of building a second brain could be a game-changer. It's all about
-harnessing the power of technology to enhance your own cognitive abilities.
-
-
-
-https://chat.openai.com/share/e52c1293-1e2d-48cd-a903-b34c9fcdd59b [Email Body](https://files.todoist.com/NwbD-wbMAKx9mAApHg6A5BJ3-lh5UVOqDEotzG7GE7WnbNJI-CM8sGiM4ftceZr7/by/21878347/as/file.html)
+        - Building a second brain is all about enhancing your personal information management skills to become more organized, productive, and efficient in the digital age. Imagine it as creating a virtual extension of your own mind to store and retrieve information effectively.
+        - In today's fast-paced world, we're bombarded with information from emails,
+        - articles, documents, and more. It's easy to feel overwhelmed. But building a
+        - second brain is like having a digital assistant that helps you collect,
+        - organize, and utilize this information to your advantage.
+        - Think of it as a toolbox filled with techniques and tools to capture and
+        - manage information. It allows you to store important notes, ideas, and
+        - resources, making them easily accessible when you need them most.
+        - The concept of building a second brain is not just about managing data but
+        - also about fostering creativity and productivity. It frees up mental space, so
+        - you can focus on higher-level thinking and problem-solving.
+        - Whether you're a student, professional, or just someone looking to stay
+        - organized, the principles of building a second brain can be incredibly
+        - valuable. It's like having a secret weapon for staying on top of your digital
+        - life.
+        - So, if you've ever felt overwhelmed by the digital information age or if
+        - you're looking for ways to boost your productivity and creativity, exploring
+        - the idea of building a second brain could be a game-changer. It's all about
+        - harnessing the power of technology to enhance your own cognitive abilities.
+        - [原文链接](https://chat.openai.com/share/e52c1293-1e2d-48cd-a903-b34c9fcdd59b)
     - 简悦 | 学海无涯但不用苦做舟：打造我的学习能力与通路系统
         - Annotations:
 
