@@ -362,16 +362,7 @@ div {
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .top-row:hover {
     background-color: #FF9800A5;
 }
-
-
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
-    text-decoration: none;
-    font-family："Kaiti SC", "楷体", KaiTi, "楷体_GB2312", serif !important;
-    cursor: pointer;
-    font-size: 14px;
-    padding: 4px 0px 4px 4px;
-    color: hsl(204, 20%, 45%);
-}```
+```
 - 修改顶部图片
     - ```plain text
 /*修改最顶端栏目的背景*/
