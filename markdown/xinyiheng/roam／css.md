@@ -349,7 +349,27 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     margin: 10px 20px 10px 20px;
     padding: 10px 0 10px 0;
 }
+
 ```
+- ```css
+/*设置左侧边栏背景色*/
+.roam-body .roam-app .roam-sidebar-container {
+     background-color: #F2E9E96D;
+}
+
+#roam-right-sidebar-content {
+    overflow: auto !important;
+}
+#247EC2#1480D3#1476D3##C6C067
+.sidebar-content {
+    overflow: unset;
+    display: flex;
+    background-color: rgb(202,114,114);
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 99%;
+    align-content: flex-start;
+}```
 - 修改顶部图片
     - ```plain text
 /*修改最顶端栏目的背景*/
@@ -835,9 +855,8 @@ roam-block-container rm-block rm-block--mine rm-block--open rm-not-focused block
   font-weight: 700px;
   border-bottom: none;
 }```
-- pdf优化
-    - ^^tag^^
-        - ```css
+- ^^tag^^
+    - ```html
 span.rm-page-ref[data-tag] {    
   background-color: #D2F89C;    
   color: black;    
@@ -848,6 +867,7 @@ span.rm-page-ref[data-tag] {
   border-radius: 3px;    
   font-weight:500;
 }```
+- pdf优化
     - ```clojure
 :root{
   --col1: rgba(255, 243, 174, .8);
@@ -956,7 +976,7 @@ span.rm-page-ref[data-tag] {
 ```
 - 极简模式
     - {{roam/css}}
-        - ```css
+        - ```plain text
 /* Bullet Zoom Focus v2.6 by Jeff Harris
   When zoomed in on a bullet add the tag #.rm-focus to the parent block to create a minimal writing environment. 
   This only works when zoomed in so there is no need to remove the tag when done.
@@ -1021,7 +1041,7 @@ span[data-link-title^="软件联动"] .rm-page-ref {
   line-height: 1.4em;
 }```
     - {{[[roam/css]]}}
-        - ```html
+        - ```css
 
 /* Custom data tags */
 span.rm-page-ref[data-tag="memo"]:before {
@@ -1195,7 +1215,7 @@ span.rm-page-ref[data-tag="人际"] {
     font-weight: 500;
 }```
 - 数字花园[[hongse]] @评论:暂时暂停使用，因为和roam-tookit里面的功能冲突
-    - ```plain text
+    - ```html
 
 
 .roam-block-container {
@@ -1303,7 +1323,7 @@ div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-ch
 }
 
 ```
-    - ```plain text
+    - ```html
 
 div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 800px) / 2);"], div[style*="padding-right: calc((100% - 568px) / 2); padding-left: calc((100% - 1032px) / 2);"] {
     
