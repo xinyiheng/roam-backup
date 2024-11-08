@@ -378,7 +378,7 @@ div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
 - 分列效果
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FaPcxSe5o-k.png?alt=media&token=d3ab6a1d-503a-4633-ad8e-c8a5f09f5d06)
 - 标签样式
-    - ```css
+    - ```html
 /* FLEETING NOTES */
 span[data-link-title="Fleeting Notes"]
 { background: #2d303c;
@@ -1021,7 +1021,7 @@ span[data-link-title^="软件联动"] .rm-page-ref {
   line-height: 1.4em;
 }```
     - {{[[roam/css]]}}
-        - ```css
+        - ```html
 
 /* Custom data tags */
 span.rm-page-ref[data-tag="memo"]:before {

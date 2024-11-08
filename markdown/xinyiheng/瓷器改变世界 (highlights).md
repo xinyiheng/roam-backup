@@ -1,4 +1,3 @@
-- ![](https://cdn.weread.qq.com/weread/cover/5/cpplatform_x5huwkxay6vx3tuugjehnc/s_cpplatform_x5huwkxay6vx3tuugjehnc1695712830.jpg)
 - ### Highlights first synced by #Readwise [[May 27th, 2024]]
     - 青花瓷在元代发展成熟，入明后被明皇廷所青睐，不仅成为宫廷用瓷，还成为当时郑和下西洋带出去的重要礼品瓷。明代前期郑和七下西洋和新航路的开辟，将中国瓷器的销售范围延伸至欧洲，形成了一条世界性的海上陶瓷之路。
     - 直到18世纪初，瓷器的制作在欧洲还是个难以破解的技术难题。
