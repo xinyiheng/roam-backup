@@ -56,4 +56,4 @@ World/dp/1781257930/ref=sr_1_68?crid=1C4USU3KDFC2Z&keywords=%23Economic+History&
 bin%3A3291437011&rnid=283155&s=books&sprefix=+economic+history%2Cstripbooks%2C462&sr=1-68 [Email Body](https://files.todoist.com/XtiE8im5pvBW0Pb2OASVhCE8mFfOmFMjm0J7fIRx7JqGT2oh1zKCX0os51ukXl6-/by/21878347/as/file.html)
     - No Hard Feelings: The Secret Power of Embracing Emotions at Work: Fosslien, Liz, West Duffy, Mollie: 9780525533832: Amazon.com: Books
         - https://www.amazon.com/No-Hard-Feelings-Embracing-
-Emotions/dp/0525533834/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr= [Email Body](https://files.todoist.com/-zqg7i_aT-ivi8_88hkAswhQxyxYrKlb6HnRcCDXUefM34qhTyPsUvbQeUadTCp3/by/21878347/as/file.html)
+Emotions/dp/0525533834/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr= [Email Body](https://files.todoist.com/-zqg7i_aT-ivi8_88hkAswhQxyxYrKlb6HnRcCDXUefM34qhTyPsUvbQeUadTCp3/by/21878347/as/file.html) 

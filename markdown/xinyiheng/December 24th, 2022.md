@@ -727,17 +727,17 @@ https://www.jb51.net/tools/regexsc.htm [Email Body](https://files.todoist.com/CO
 - Imported Quick Capture items:
     - 正则表达式速查表_脚本之家
         - Tags: 编程 正则表达式
-        - https://www.jb51.net/tools/regexsc.htm [Email Body](https://files.todoist.com/i3puia2Chz2OlFOxrETqDaDBYSgDTTOQqoDHyhMyGArM3-5wbNWrUwHYqUAiQq2c/by/21878347/as/file.html)
+        - https://www.jb51.net/tools/regexsc.htm 
     - 地产二代进退之间-36氪
         - "纪凯婷"
         - Tags: 家族企业 传承 房地产
-        - https://36kr.com/p/2016333917192707 [Email Body](https://files.todoist.com/YFwp2UWNKhzCKQnUU5xPQtIn_j-CZ2dU6IgumMMw4zQXV8Qk57QR7MMmdAqXx0kt/by/21878347/as/file.html)
+        - https://36kr.com/p/2016333917192707 
     - 如何在工作中学习 | plantegg
         - Tags: 学习
 
 
 
-https://plantegg.github.io/2018/05/23/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%AD%A6%E4%B9%A0/ [Email Body](https://files.todoist.com/E5zESLyrgoIiiy3sYmVPTH6NfQjj-6QeHdQ5qsDTSaT-r4sI5hmGVZrgXud3IbYk/by/21878347/as/file.html)
+https://plantegg.github.io/2018/05/23/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%AD%A6%E4%B9%A0/ 
     - 如何在工作中学习 | plantegg
         - Tags: 学习
         - https://plantegg.github.io/2018/05/23/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%AD%A6%E4%B9%A0/ [Email Body](https://files.todoist.com/cbZ0bP5LmJHGpcvX_GXugJpzS9t1tYQlF6ytSLYZvh4BU_YVscWjZqCcLplIUtBz/by/21878347/as/file.html)
