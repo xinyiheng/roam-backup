@@ -190,25 +190,6 @@ textarea {
 }
 
 
-/*设置左侧边栏背景色*/
-.roam-body .roam-app .roam-sidebar-container {
-     background-color: #F2E9E96D;
-}
-
-#roam-right-sidebar-content {
-    overflow: auto !important;
-}
-#247EC2#1480D3#1476D3##C6C067
-.sidebar-content {
-    overflow: unset;
-    display: flex;
-    background-color: rgb(202,114,114);
-    flex-direction: column;
-    flex-wrap: wrap;
-    height: 99%;
-    align-content: flex-start;
-}
-
 
 
 
@@ -369,6 +350,15 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     flex-wrap: wrap;
     height: 99%;
     align-content: flex-start;
+}
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
+    color: #F5F8FA;
+    background-color: #FF9800A5;
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover {
+    color: #F5F8FA;
+    background-color: #FF9800A5
 }```
 - 修改顶部图片
     - ```plain text
@@ -380,12 +370,6 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
     background-size:120%;
     
 }```
-- ```yaml
- .roam-topbar {
-    background-color: white !important;
-    color: black !important; /* Changes text color to black for visibility */
-}
-```
 - 修改背景图片
     - ```html
 /*设置笔记主题的背景色和背景图片*/
