@@ -2,5 +2,3 @@
 - Full Title:: 小岛经济学
 - Category:: #books
 - ### Highlights first synced by #Readwise [[December 26th, 2022]]
-    - 这是一本别具一格、引人入胜
-        - **Note**: 实验

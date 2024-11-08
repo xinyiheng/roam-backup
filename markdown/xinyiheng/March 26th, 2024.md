@@ -1,3 +1,3 @@
 - Imported Quick Capture items:
     - Huberman Lab
-        - http://www.hubermanlab.com/ [Email Body](https://files.todoist.com/sE6mkfnsR7Pt4EddCeqbI_vjTvLxOsiXAfXabTvh5n1MR2iexXpO7kbN0h8pPHDp/by/21878347/as/file.html)
+        - http://www.hubermanlab.com/   #[[作者]]

@@ -16,7 +16,7 @@
 - that's what life tends to give us：not brave,big moments,but a stream of little ordinary moments out of which we must make our own meaning 
 - Imported Quick Capture items:
     - Dedicated: The Case for Commitment in an Age of Infinite Browsing
-        - Don’t get stuck in Infinite Browsing Mode.
+        - Don’t get stuck in {c1:Infinite Browsing }Mode.#[[srs/cloze]]
         - That’s what life tends to give us: not big, brave moments, but a stream of little, ordinary ones out of which we must make our own meaning.
         - [原文链接](https://nextbigideaclub.com/magazine/dedicated-case-commitment-age-infinite-browsing-bookbite/27934/)
 - #[[育儿]]
