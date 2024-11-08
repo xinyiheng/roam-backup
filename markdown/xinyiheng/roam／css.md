@@ -10,8 +10,6 @@
                   }
 
 
-}
-
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue){
   margin:10px 20px 10px 10px;
 }
@@ -32,10 +30,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
   font-family:简宋!important;
 }
 /*修改referenc标题样式*/
-.rm-mentions .rm-ref-page-view .rm-title-arrow-wrapper {border-style:outset;    
-border-width:2px;
-Background-color:#03A9F444;
-                                                       }
+
 /*修改referenc卡片样式*/
 .flex-align-start {
     align-items: flex-start;
@@ -200,6 +195,13 @@ textarea {
   
 }
 ```
+- 修改引用样式
+    - ```elixir
+.rm-mentions .rm-ref-page-view .rm-title-arrow-wrapper {border-style:outset;  
+font-family:简宋!important;
+border-width:2px;
+Background-color:#03A9F444;
+                                                       }```
 - ```css
 :root {
     --main-font: "Kaiti SC", "楷体", KaiTi, "楷体_GB2312", serif !important;
@@ -1317,7 +1319,7 @@ div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-ch
 }
 
 ```
-    - ```html
+    - ```css
 
 div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 800px) / 2);"], div[style*="padding-right: calc((100% - 568px) / 2); padding-left: calc((100% - 1032px) / 2);"] {
     
