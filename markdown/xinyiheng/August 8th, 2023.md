@@ -13,17 +13,17 @@
         - ### 潮水退去，才发现没那么需要「知识管理」
         - AI
         - 时代的到来，将我对笔记的狂热逐渐浇灭。对比我在各种卡片、双链中投入的时间，以及它真正对我产生的帮助，似乎真的不是那么必要。大部分时间下，我只是在沉迷在一个叫做「建立第二大脑」的游戏中，为了记笔记而记笔记，被工具奴役了。
-        - > ChatGPT 就是一个互联网内容的模糊 JPEG。—— Ted Chiang
+            - ChatGPT 就是一个互联网内容的模糊 JPEG。—— Ted Chiang
         - 如果加了TLDR（Too Long Don't Read）可能大部分读者就没耐心读完了。不加它可能还是希望大家 "Though Long Do Read"（虽然长但求求看完吧T_T）
         - [原文链接](https://sspai.com/post/81585)
     - 我如何处理每天接收的信息 - 少数派
         - 其实与其说是在「记笔记」，我觉得更贴切的说法是我们在构建我们自己的「第二大脑」。我们本身的大脑的长处不是记东西，而是思考和创造。所以我们需要借助计算机创造一个我们的「第二大脑」，把我们见过的有价值的东西一直记住，等我们需要的时候再从里面找出来用。
-        - You have to keep a dozen of your favourite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say, “How did he do it? He must be a genius!
+        - You have to keep a dozen of your {c1:favourite problems }constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say, “How did he do it? He must be a genius! #[[srs/cloze]]
         - [原文链接](https://sspai.com/post/79792)
     - 寫筆記，是擴展思考的引擎，而非只是記憶的系統
         - 多年前，我在書上有一句話很受讀者喜愛：「記住，讓我們下一次做得更好。」
         - 只是因為當一個想法被寫下來，就有機會跟下一個想法連結組合。
-        - 第二大腦的目的，不只是記住複雜資料，也是幫助我們進行更複雜的思考。
+        - 第二大腦的目的，不只是記住複雜資料，也是幫助我們進行{c1:更複雜的思考}。#[[srs/cloze]]
         - 平靜穩定的思考，看似平凡，但是面對複雜的焦慮時，能夠安心下來好好想一想，卻正是我們最需要的。
         - 寫筆記從被動的整理外在資料，變成其實是主動的在建立我們自己的認知世界了。這是寫筆記真正的創造性。
         - [原文链接](https://www.playpcesor.com/2023/07/blog-post.html)
@@ -43,12 +43,3 @@
         - 上网课做笔记的问题忍了十年，终于我们做了一款 app 来解决
         - 我们做了VideoNotes，帮助你更好地上网课
         - [原文链接](https://sspai.com/post/80763)
-    - 讓免費版 ChatGPT 上傳文件的 Chrome 套件，可分析摘要超長內容
-        - ### 讓免費版 ChatGPT 上傳文件的 Chrome 套件，可分析摘要超長內容 
-        - * 取得連結
-        - Facebook
-        - Twitter
-        - Pinterest
-        - 以電子郵件傳送
-        - 其他應用程式
-        - [原文链接](https://www.playpcesor.com/2023/07/ChatGPT-File-Uploader-Extended.html)

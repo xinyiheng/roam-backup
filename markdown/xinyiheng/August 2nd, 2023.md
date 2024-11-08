@@ -1,4 +1,4 @@
-- Imported Quick Capture items:
+- Imported Quick Capture items: #[[摄影]]
     - DX格式和FX格式 - 技术 2023
         - 尼康DX格式是一种大约24 x 16毫米的图像传感器格式。它是由尼康创建的，作为其数码单反相机的一大特色，其中许多都标配有DX尺寸的传感器。这种格式的尺寸约为标准35毫米格式的2/3。
         - 全画幅数码单反相机（最广为人知的是尼康FX格式）是数码单反相机（或数码单反相机）。它配备了一个与标准35毫米相机胶片相同尺寸的图像传感器。
@@ -25,9 +25,7 @@
         - 再小就是我们手机的感光元件了。
         - [原文链接](https://zhuanlan.zhihu.com/p/36878963)
     - 全画幅镜头和半画幅镜头
-        - https://www.diigo.com/item/image/783rf/sp7g [Email Body](https://files.todoist.com/MSShi_8T8VSAtecnuUhjP-e2LjAJgraU57TI-NpoYQtFuOksFqtzaRs8St0FNqSy/by/21878347/as/file.html)
-    - empty task
-        -  [Email Body](https://files.todoist.com/6_CJE0Y5qysnGb1B1Vbe8t_RGJ2ctbqMst_kJumWpKvvYfvOLq0eB_jFGIVq8sbt/by/21878347/as/file.html)
+        - https://www.diigo.com/item/image/783rf/sp7g 
     - 如云的剪辑笔记 - 知乎
         - * SDR 的亮度范围在 0.117nits - 100nits 之间，色彩空间也仅支持到 sRGB（有关色彩空间的解释可以参考之前的文章：调色名词浅析——色彩空间与色域）。
         - 这些标准其实都是来自 CRT（Cathode Ray Tube，阴极射线管）

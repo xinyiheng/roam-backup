@@ -1,5 +1,5 @@
 - 
-- Imported Quick Capture items:
+- Imported Quick Capture items:  #[[摄影]]
     - 不是MP，这是手机摄像头的重要参数|传感器|相机|像素
         - 尽管品牌不断宣传其MP编号，但它们对图像质量的贡献不大。实际上，新的传感器尺寸是确定照片质量的参数之一。
         - [原文链接](https://www.163.com/dy/article/FARS87F005457AHB.html)
