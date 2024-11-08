@@ -1,12 +1,12 @@
 - Imported Quick Capture items:
     - Possible: How We Survive ) in an Age of Conflict: Ury, William: 9780063286900: Amazon.com: Books
-        - * 中信买了版权。
+        - 中信买了版权。
         - [原文链接](https://www.amazon.com/dp/0063286904?ref=yb_qv_ov_prnt_dp_rw)
     - The Age of Prediction: Algorithms, AI, and the Shifting Shadows of Risk: Tulchinsky, Igor, Mason, Christopher E.: 9780262047739: Amazon.com: Books
-        - * 中信拿下了版权
+        - 中信拿下了版权
         - [原文链接](https://www.amazon.com/dp/026204773X?ref=yb_qv_ov_prnt_dp_rw)
     - Amazon.com: Math-ish: Finding Creativity, Diversity, and Meaning in Mathematics: 9780063340800: Boaler, Jo: Books
-        - * 磨铁买了版权
+        - 磨铁买了版权
         - [原文链接](https://www.amazon.com/dp/0063340801?ref=yb_qv_ov_prnt_dp_rw)
     - Burnout Immunity: How Emotional Intelligence Can Help You Build Resilience and Heal Your Relationship with Work: Wiens, Kandi: 9780063323667: Amazon.com: Books
         - * 湛卢买了版权。

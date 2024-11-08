@@ -5,7 +5,7 @@
     - 《给我100天，大多数事情都能成》一校
 - Imported Quick Capture items:
     - 极简三步，我的个人知识管理工作流 - 少数派
-        - 我目前实践下来觉得很好用的知识加工方法，是个人知识管理专家 Tiago Forte 提出的渐进式总结法（Progressive Summarization） 。
+        - 我目前实践下来觉得很好用的知识加工方法，是个人知识管理专家 Tiago Forte 提出的{c1:渐进式总结法}（Progressive Summarization） 。#[[srs/cloze]]
         - 所谓「渐进」，是Tiago Forte把知识加工分为了从 0 到 5
         - 共六个层级，你不一定需要把每一个知识输入都严丝合缝地走完全部层级，但每一层级之间一定是循序渐进的，不能出现跃层。
         - [原文链接](https://sspai.com/post/81926)

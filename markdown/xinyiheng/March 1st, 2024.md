@@ -1,6 +1,6 @@
 - Imported Quick Capture items:
     - Raising Good Humans: A Mindful Guide to Breaking the Cycle of Reactive Parenting and Raising Kind, Confident Kids: Clarke-Fields MSAE, Hunter, Naumburg PhD, Carla: 9781684033881: Amazon.com: Books
-        - KJ Dell’Antonia，《 如何成为更快乐的父母  
+        - KJ Dell’Antonia，《 如何成为更快乐的父母 》
         - [原文链接](https://www.amazon.com/dp/1684033888?ref=yb_qv_ov_prnt_dp_rw)
     - Amazon.com: Real Magic: Ancient Wisdom, Modern Science, and a Guide to the Secret Power of the Universe: 9781524758820: Radin PhD, Dean: Books
         - 灵修类的图书。

@@ -6,11 +6,11 @@
         - How to Summarize Books Using ChatGPT: 7 Experiments in AI Distillation
         - Tags: chatgpt
         - [原文链接](https://fortelabs.com/blog/how-to-summarize-books-using-chatgpt/)
-    - 微信公众平台
+    - 微信公众平台  #[[出版]]
         - 分析数据、做封面、出文案……AI帮这本书的编辑用几个小时干完了一个月的工作
         - Tags: chatgpt
         - [原文链接](https://mp.weixin.qq.com/s?__biz=MjM5OTU5MDYyMw==&mid=2653426627&idx=1&sn=5ffb454c8807387593616dcdf530f21c&chksm=bce59c738b9215650a501a4fc38224936bd313181415b6c8ec22165b2225c267640159e9cad4&mpshare=1&scene=1&srcid=0524l5i9o4WTmxPRPxjNfwMQ&sharer_sharetime=1684916825826&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86)
-    - 我们尝试了主流AIGC工具，出版效率究竟提升了多少？
+    - 我们尝试了主流AIGC工具，出版效率究竟提升了多少？ #[[出版]]
         - 在外版书的出版过程中，我们一直面临着2个痛点：翻译周期长和翻译质量良莠不齐，严重制约了外版书的出版效益。以我们团队为例，一本300页左右的书，用纯人工的方式翻译平均需要5个月，用“AI+人工”（AI翻译+人工审核）的方式来翻译则只需要1个月，效率提升了80%。AIGC工具不仅大大提升了翻译的效率，而且也极大地提升了译稿的质量。如果人工审核的工作做到位，几乎不会存在错别字和病句，从而大大提升编辑、复审、终审、排版、校对等各个环节的效率，缩短整个出版周期。
         - Tags: 出版
         - [原文链接](https://mp.weixin.qq.com/s?__biz=MjM5OTU5MDYyMw==&mid=2653427628&idx=1&sn=111f56564b70d5ffd59c08ca38421294&chksm=bce5981c8b92110a1486e3d9df786fa79d7f188ee08c622cff283f612af10b579cdc0d9caa3c&mpshare=1&scene=1&srcid=0609d1SeNou0tyoXdoHnpTwm&sharer_sharetime=1686297729285&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86)
@@ -27,16 +27,16 @@
         - 可以近似理解为，小张小王存在于国营工厂内，阿珍阿强则流行于街头巷尾。
         - 那么既属于南方，又有大量国营工厂的上海是怎么称呼人的呢？为此笔者特意采访了一位与共和国同龄的上海老技工华师傅，师傅表示自己年轻时进厂就被称小华，后来自己熬出了资历，小字就传给了新来的年轻人，这是国营大厂的普遍叫法。不过有些私营的工厂就不这么喊，还是阿字打头称名，主打一个亲昵。国营厂的小华去私营厂办事，往往能碰到阿华，但后者并不姓华，而是名字里带华。
         - [原文链接](https://mp.weixin.qq.com/s?__biz=MzI2NjAzNzA4OQ==&mid=2650025135&idx=1&sn=2f15b2eb2b8126f5de2ebbc407f21e6d&chksm=f294bea1c5e337b75b267aad51c3deb032bfbcdfa4f02727ebb9ba8179f374a32369433af606&mpshare=1&scene=1&srcid=0529x79HDWelajmZUnDqAL0y&sharer_sharetime=1685324600193&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86)
-    - 1999年，国家是怎么成功解决失业的？
-        - 1999年高校历史性的扩招了47.4%，未来几年也以每年 40 万 50 万人的速度扩大高校招生，10年间增长了5倍。
+    - 1999年，国家是怎么成功解决失业的？#[[srs/cloze-g]]
+        - 1999年高校历史性的扩招了47.4%，未来几年也以每年 40 万 50 万人的速度{c1:扩大高校招生}，10年间增长了5倍。
         - 9月，国家决定部署西部大开发战略  
-        - 98年房改，商品房横空出世。  
+        - 98年房改，{c1:商品房}横空出世。  
         - 99年，各地房交会、房展会开始火爆，房地产开始成为拉动经济最大的火车头，商品房开始成为消费最大的抓手。
         - 11月，入世最后一次谈判完成
         - 总的来说，就是三驾马车：  
-            - 投资基建：西部大开发，保八。  
+            - 投资基建：{c1:西部大开发}，保八。  
             - 拉动内需：贷款买房，大学扩招，黄金周，互联网。  
-            - 扩大出口：加入WTO
+            - 扩大出口：{c1:加入WTO}
         - [原文链接](https://mp.weixin.qq.com/s?__biz=MzA4Mzg3MjExNQ==&mid=2653994827&idx=1&sn=33e4c8cb108e56c7f1200fb29f0e9254&chksm=842bcf57b35c4641f0f6d2902d809037bdffed8609e3ca5b02651bd050ed67f325ae099ea88a&mpshare=1&scene=1&srcid=0529e6CjaNoGs1nO0iYbmlgb&sharer_sharetime=1685329253796&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86)
 - #[[工作]]
     - 查看NHK纪录片中选题的可能性
