@@ -23,36 +23,18 @@
 流经过如何的业谷
 - #[[阅读]] 晚上睡觉前用文石阅读器阅读《打开心智》
 - Imported Quick Capture items:
-    - 老舍文学奖 - Wikiwand
-        - Annotations:
-
-* 老舍文学奖是北京市文学艺术方面的最高奖励，与茅盾文学奖、鲁迅文学奖、曹禺戏剧文学奖并称中国四大文学奖。
-
-
-
-https://www.wikiwand.com/zh/%E8%80%81%E8%88%8D%E6%96%87%E5%AD%A6%E5%A5%96 [Email Body](https://files.todoist.com/5-uVFxM4ODE11BZcrJ80br2B5u9CU2RJqp_MdlprdGL0e7QK_aBzW3X0SvXPn8u9/by/21878347/as/file.html)
+    - 老舍文学奖  #[[文学]]
+        - 老舍文学奖是北京市文学艺术方面的最高奖励，与茅盾文学奖、鲁迅文学奖、曹禺戏剧文学奖并称中国四大文学奖。
+        - [原文链接](https://www.wikiwand.com/zh/%E8%80%81%E8%88%8D%E6%96%87%E5%AD%A6%E5%A5%96)
     - 创作者的一天世界 短评
-        - Annotations:
-
-* 总结一下，规矩的作息+烟酒+散步，是激发创作的三大手段。
-
-
-
-https://book.douban.com/subject/30457509/comments/?limit=20&status=P&sort=score [Email Body](https://files.todoist.com/A8M4i8YSZvqfm04ac1L7nR_uZukgGaDCz5nCbZB1AHOshmJES-PxB7nPsakXGwPk/by/21878347/as/file.html)
+        - 总结一下，规矩的作息+烟酒+散步，是激发创作的三大手段。
+        - [原文链接](https://book.douban.com/subject/30457509/comments/?limit=20&status=P&sort=score)
     - 创作者的一天世界 短评
-        - Annotations:
-
-* 最大的感受是创作者们大都选择离群索居，找个安静的地方，大早上起来咖啡续命，努力干个三四个小时。下午都有各自的娱乐项目，散步，喝酒，迎来送往等。晚上都早早睡了。创作不仅仅是生产力、创造力，更需要的是安静！
-
-* 当那么多作家，音乐家的daily routine堆积在一起的时候，还挺无聊的。虽然我是那么喜欢八卦和看youtube上的routine vlog。
-
-* 很大程度上满足了我的好奇心，是一收到就迫不及待读起来的书。我时常想，生命的本质不过就是时间，而如何度过一天，就是在用实际行动回答生命本质问题。
-
-* 天才也有文思枯竭拖延逃避写作的时刻，启发很多安慰很多。
-
-
-
-https://book.douban.com/subject/30457509/comments/?start=20&limit=20&status=P&sort=score [Email Body](https://files.todoist.com/8GFSOYdFgezDiRgE3c5EfkFhhNAK4tSR_jYC78fBU3BB68sXt_tRek0ktPG1cgoj/by/21878347/as/file.html)
+        - 最大的感受是创作者们大都选择离群索居，找个安静的地方，大早上起来咖啡续命，努力干个三四个小时。下午都有各自的娱乐项目，散步，喝酒，迎来送往等。晚上都早早睡了。创作不仅仅是生产力、创造力，更需要的是安静！
+        - 当那么多作家，音乐家的daily routine堆积在一起的时候，还挺无聊的。虽然我是那么喜欢八卦和看youtube上的routine vlog。
+        - 很大程度上满足了我的好奇心，是一收到就迫不及待读起来的书。我时常想，生命的本质不过就是时间，而如何度过一天，就是在用实际行动回答生命本质问题。
+        - 天才也有文思枯竭拖延逃避写作的时刻，启发很多安慰很多。
+        - [原文链接](https://book.douban.com/subject/30457509/comments/?start=20&limit=20&status=P&sort=score)
 - #[[工作]]
     - 联系李会影修改《日本经济三十年史》
     - 《打造第二大脑》送质检，催定书名

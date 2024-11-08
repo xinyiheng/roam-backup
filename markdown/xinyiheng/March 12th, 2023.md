@@ -19,7 +19,7 @@
     - 高梁河 - Wikiwand
         - Annotations:
         - 高梁河，或称高梁水，金代称高良河，发源于平地泉（现今紫竹园湖）
-        - https://www.wikiwand.com/zh-hans/%E9%AB%98%E6%A2%81%E6%B2%B3 [Email Body](https://files.todoist.com/TdgfN54ZKiayeqy2pCe1nKwpdxUi4w3-J3rbi7eUGB7FmUBkYAYW2y4h-Q55xdjM/by/21878347/as/file.html)
+        - https://www.wikiwand.com/zh-hans/%E9%AB%98%E6%A2%81%E6%B2%B3 
     - 京密引水渠_百度百科
         - Annotations:
 * 2014年12月12日，南水北调中线一期工程通水后，北京市自来水厂主要使用南水替代密云水库向北京城区供水。
