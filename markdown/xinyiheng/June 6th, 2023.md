@@ -1,9 +1,9 @@
 - Imported Quick Capture items:
     - 《别让坏情绪，赶走好运气（修订版）》电子书在线阅读-【日】和田秀树-得到APP
-        - 不讲大道理，专治各种小情绪，善于控制情绪的人，运气都不会差。[原文链接](https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7jLgK3rbx6pNgznl9VZPLJQyEBodb89mqo)
+        - 不讲大道理，专治各种{c1:小情绪}，善于控制情绪的人，运气都不会差。#[[srs/cloze]][原文链接](https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7jLgK3rbx6pNgznl9VZPLJQyEBodb89mqo)
     - 坚定执行也是一种做事方式。#[[srs/cloze-g]]
 [Daily Notes](https://roamresearch.com/#/app/xinyiheng)
-        - 美国有位心理学家叫吉姆柯林斯，提出过一个二十英里法则，大意是从美国西海岸步行到圣地亚哥的某个地方，有3000英里路程。这段路程地貌复杂，天气复杂多变，怎么走才能最快走完这3000英里路呢？
+        - 美国有位心理学家叫吉姆柯林斯，提出过一个{c1:二十英里}法则，大意是从美国西海岸步行到圣地亚哥的某个地方，有3000英里路程。这段路程地貌复杂，天气复杂多变，怎么走才能最快走完这3000英里路呢？#[[srs/cloze]]
         - 答案是日行20英里，也就是每天坚持不懈地走32公里，平均150天，大概5-6个月的时间可以走完全程。
         - 有一类人，在天气晴好，路又顺的情况下，一天可以走40-50英里，但如果在前进的过程中一遇到路不好走，暴风雨这种恶劣天气时，他们会躲进帐篷里等待，等到恶劣天气过后再出来继续赶路。因为沿途等待的时间太多太频繁，走走停停，所以这一类人往往会花费8-10个月的时间才能走完。
         - [原文链接](https://www.douban.com/note/683257703/?_i=6018697gbuxlsi)
