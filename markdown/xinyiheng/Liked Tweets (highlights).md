@@ -907,7 +907,7 @@ Constraints are the key to getting things done ([View Tweet](https://twitter.com
     - @AntPStyle: How to start a Monday 🫡☕️✍️
 
 #morningpages
-#[[Untitled]] https://t.co/jYVXnCXpqd ([View Tweet](https://twitter.com/AntPStyle/status/1617534690663202820))
+#Untitled https://t.co/jYVXnCXpqd ([View Tweet](https://twitter.com/AntPStyle/status/1617534690663202820))
 - ### New highlights added [[January 25th, 2023]] at 10:26 PM
     - @make_hq: Bas from @ToolsonTech made an exciting video about hooking into @logseq using @nginx, @SSH, and Make to make Logseq available to the outside world. Watch the video to see his ideas for dozens of ways to use this clever #integration and get inspired. 👇 
 https://t.co/zP1xcKgRkM ([View Tweet](https://twitter.com/make_hq/status/1617939056142188559))
