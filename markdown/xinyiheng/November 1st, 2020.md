@@ -3,7 +3,7 @@
 - 查看了一个类似worldmex的可以查询自己过去网页浏览历史的插件
 - 有一款插件可以把网页直接保存到google keep中
 - 有一篇介绍notion各种插件的文章
-    - [剪裁网页增强、标注文章、笔记导出……这 5 个第三方工具让 Notion 更好用 - 少数派](https://sspai.com/post/63355) #[[Roam-Highlights]]
+    - [剪裁网页增强、标注文章、笔记导出……这 5 个第三方工具让 Notion 更好用 - 少数派](https://sspai.com/post/63355) #Roam-Highlights
         - <h2>幻灯片播放：Snackthis.co</h2>
         - <h2>__Notion 页面小组件：Indify.co__</h2>
 - 保存到noteboard的按钮在鼠标右键菜单里隐藏地很深，想要设置一种快捷方式。

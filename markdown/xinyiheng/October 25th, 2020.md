@@ -1,5 +1,5 @@
 - trello中快速归档卡片的快捷键是直接按C，这样非常方便
-- [iRightMouse：一款免费 Mac 鼠标右键增强神器 - 少数派](https://sspai.com/post/58772) #[[Roam-Highlights]]
+- [iRightMouse：一款免费 Mac 鼠标右键增强神器 - 少数派](https://sspai.com/post/58772) #Roam-Highlights
     - 「拷贝路径到剪贴板」Mac是直接支持的，右键后按住Option就会有拷贝路径的选项，但不管怎么说确实少了一步。
 - 了解什么是子弹笔记法
 - 在chrome里为常用的插件也设置快捷键盘按键#[[快捷方式]]
