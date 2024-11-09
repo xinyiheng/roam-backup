@@ -1,0 +1,2 @@
+- 李继刚可能是中国最会写提示词的人之一了。
+- [AshutoshShrivastava (@ai_for_success) / X](https://x.com/ai_for_success) 🗒@评论：这个人分享了很多关于提示词的内容。用 dall E 来保持生成图片的人物一致性问题就是他先提出的一个好用的 prompt。
