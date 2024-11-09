@@ -75,3 +75,24 @@ place any custom css in this code block```
         - Custom CSS:
             - ```css
 place any custom css in this code block```
+    - heptabase-like
+        - Left Sidebar:
+            - closed
+        - Right Sidebar:
+            - open
+        - Main Content:
+            - Lio1inXWn
+        - Left Sidebar:
+            - closed
+        - Right Sidebar:
+            - open
+        - Main Content:
+            - [[diagram]]
+        - Right Sidebar Content:
+            - ((0_1YJSE8f)),mentions,false
+                - {"includes":[],"removes":[]}
+            - [[Readwise]],outline,false
+                - {"includes":[],"removes":[]}
+        - Custom CSS:
+            - ```css
+place any custom css in this code block```
