@@ -14,17 +14,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
   margin:10px 20px 10px 10px;
 }
 
-/* 添加图钉样式 
-.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue)::before {
-    content: '';
-    width: 24px; /* 根据图钉图片的大小调整 */
-    height: 24px; /* 根据图钉图片的大小调整 */
-    background-image: url('https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F0WJTr89C1L.png?alt=media&token=6210c70c-637b-4705-bc16-08fa96e7adf7');
-    background-size: cover; /* 确保图片完整地覆盖整个区域 */
-    position: absolute;
-    top: -10px;
-    left: 300px;
-}*/*/
+
 /*修改引用的样式*/
 .rm-bq {
   font-family:简宋!important;
