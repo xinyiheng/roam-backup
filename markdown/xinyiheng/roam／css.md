@@ -274,7 +274,7 @@ h1, h2, h3, h4, h5, h6 {
  box-shadow: inset 16px 16px 12px 0 #9E9E9E(17 177 19 / 6%),  -3px -3px 6px 0 #fff;
   
 }```
-- ```javascript
+- ```css
 /*设置卡片模式下卡片的颜色和背景阴影的颜色，我花了很多时间才学会*/
 .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self {
     width:12.7cm;
@@ -289,7 +289,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 20px 16px 16px 0;
 }
 ```
-- ```css
+- ```plain text
 /* 笔记中包含光标时，卡片的样式*/
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
@@ -311,7 +311,7 @@ background-color:;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
 } 
 ```
-- ```css
+- ```plain text
 .rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
     /* 调整便签的外观 */
     background-color: #8BC34A00!important;
@@ -323,7 +323,7 @@ background-color:;
     /* 为便签增加阴影效果 */
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
 }```
-- ```css
+- ```plain text
 /* card-list-mode 卡片之间设置空隙 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
     background-color: #F2E9E96D;
