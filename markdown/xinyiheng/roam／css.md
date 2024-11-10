@@ -280,7 +280,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 ```
 - ```plain text
-/* 笔记中包含光标时，卡片的样式*/
+笔记中包含光标时，卡片的样式*/
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
 background-color: #F2E9E96D;
@@ -291,7 +291,7 @@ background-color: #F2E9E96D;
 }
 
 ```
-- ```elixir
+- ```plain text
 /* 笔记处于行选中状态时，卡片呈现的样式 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
 background-color:;
@@ -301,7 +301,7 @@ background-color:;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
 } 
 ```
-- ```plain text
+- ```css
 .rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
     /* 调整便签的外观 */
     background-color: #8BC34A00!important;
