@@ -8,7 +8,8 @@
 #[[memo]]
     - 用滴答清单的搜索功能来查询自己曾经添加过哪些关于roam research的任务
     - [说实话，第一次见到论文溯源分析图，确实是惊到了。。。。科技没有尽头！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1J3411x7h1/?p=1&share_medium=android&share_plat=android&share_session_id=a8c0d13b-f96d-4734-a62d-82b46797e0cb&share_source=COPY&share_tag=s_i&timestamp=1642258147&unique_k=KQBZLdb&vd_source=3d8ccab137cc879b5f9cbc14d68843ab) [[科研]]
-    - 有些很棒的工作流程和软件功能设置好之后就以为自己已经也做到很棒了，这真是一种愚蠢的错觉。#[[memo]]
+    - 有些很棒的工作流程和软件功能设置好之后就以为自己已经也做到很棒了，这真是一种愚蠢的错觉。
+#[[memo]]
     - marginnote中阅读的内容就在marginnote自带的系统中复习吧，因为有些标注只有在当时的语境中才有价值。再说marginote中的卡片间隔复习也已经很好用了。没有必要搬来搬去。可以按照标注的颜色导入需要复习的内容，这一点非常好，非常适合渐进式阅读。
     - 阅读收藏的[[豆瓣]]上的一些书的评价。确实，很多书籍的基本内容用一两句话就能够说明白，为什么非要把读书当作如此重要的事情呢？我到底想要从书中得到什么呢？
     - 在优先保证roam research中的快捷方式之后，使用roam research的体验好了很多。
