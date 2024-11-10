@@ -301,7 +301,7 @@ background-color: #F2E9E96D;
 }
 
 ```
-- ```css
+- ```elixir
 /* 笔记处于行选中状态时，卡片呈现的样式 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
 background-color:;
