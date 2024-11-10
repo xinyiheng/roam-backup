@@ -1,4 +1,4 @@
-- Author:: [[吕立青_JimmyLv]]
+- Author:: [[吕立青]]
 - Full Title:: 【年度】我的效率系统 2022 升级版（阅读篇）_哔哩哔哩_bilibili
 - Category:: #articles
 - URL:: https://www.bilibili.com/video/BV1k84y1e7fW/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab

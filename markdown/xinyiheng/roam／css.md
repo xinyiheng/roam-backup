@@ -1,4 +1,4 @@
-- ```swift
+- ```css
 
 /* 修改reference部分的背景颜色 */
 .rm-reference-item {
