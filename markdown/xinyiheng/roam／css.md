@@ -312,6 +312,17 @@ background-color:;
 
     /* 为便签增加阴影效果 */
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+.rm-focused.block-bullet-view {
+    /* 调整便签的外观 */
+    background-color: #8BC34A00!important;
+    padding: 15px 20px;
+    position: relative; /* 设置为relative，以便之后的图钉样式可以正确定位 */
+    border-radius: 5px; /* 为便签增加轻微的圆角 */
+
+
+    /* 为便签增加阴影效果 */
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
 }```
 - ```plain text
 /* card-list-mode 卡片之间设置空隙 */
@@ -1192,7 +1203,7 @@ span.rm-page-ref[data-tag="人际"] {
     font-weight: 500;
 }```
 - 数字花园[[hongse]] @评论:暂时暂停使用，因为和roam-tookit里面的功能冲突
-    - ```css
+    - ```html
 
 
 .roam-block-container {
@@ -1300,7 +1311,7 @@ div.sidebar-content div.flex-h-box.window-headers>div:nth-child(2)>span:first-ch
 }
 
 ```
-    - ```css
+    - ```html
 
 div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 800px) / 2);"], div[style*="padding-right: calc((100% - 568px) / 2); padding-left: calc((100% - 1032px) / 2);"] {
     
