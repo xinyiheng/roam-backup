@@ -301,7 +301,7 @@ background-color:;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
 } 
 ```
-- ```css
+- ```html
 .rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
     /* 调整便签的外观 */
     background-color: #8BC34A00!important;
@@ -313,17 +313,7 @@ background-color:;
     /* 为便签增加阴影效果 */
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
 }
-.rm-focused.block-bullet-view {
-    /* 调整便签的外观 */
-    background-color: #8BC34A00!important;
-    padding: 15px 20px;
-    position: relative; /* 设置为relative，以便之后的图钉样式可以正确定位 */
-    border-radius: 5px; /* 为便签增加轻微的圆角 */
-
-
-    /* 为便签增加阴影效果 */
-    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
-}```
+```
 - ```plain text
 /* card-list-mode 卡片之间设置空隙 */
 div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
