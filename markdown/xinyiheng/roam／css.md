@@ -47,7 +47,7 @@ div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.bl
 }
 div
 {
-  color: #C2D3DC;
+  color: #010D14;
 }
 span[data-link-title$="2022"] .rm-page-ref-link-color::before{
     content: "🗓 ";
