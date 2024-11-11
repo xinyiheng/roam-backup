@@ -15,6 +15,7 @@
 }
 
 
+
 /*修改引用的样式*/
 .rm-bq {
   font-family:简宋!important;
@@ -185,6 +186,21 @@ textarea {
   
 }
 ```
+- block 搜索框
+    - ```css
+.rm-autocomplete__results {
+    background-color: #ede9fe !important;
+    border-top: var(--bt-elevation);
+    border-right: var(--br-elevation);
+    border-bottom: var(--bb-elevation);
+    border-left: var(--bl-elevation);
+    border-radius: var(--bd-elevation);
+    box-shadow: var(--sd-elevation);
+    --webkit-box-shadow: var(--sd-elevation);
+    color: var(--co-elevation) !important;
+    font-family: var(--ff-elevation);
+    font-size: var(--fs-elevation);
+}```
 - 修改引用样式
     - ```css
 .rm-mentions .rm-ref-page-view .rm-title-arrow-wrapper {border-style:outset;  
