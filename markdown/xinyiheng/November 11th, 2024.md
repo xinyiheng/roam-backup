@@ -1,3 +1,8 @@
 - #[[育儿]]
     - 今天整理以前的照片，发现和麻豆一起做的定格动画，感觉还挺好玩的。可以考虑做一个植物大战僵尸主题的。
+    - 麻豆学校组织给西部小朋友捐书，麻豆捐了一套读过的演过演义绘本，一共有 20 多本，他平时没有按照顺序摆放。这次为了捐赠就整理起来。我看他查找的样子想起了这其实也是排序算法解决的问题，就找来排序算法的图解和他一起练习起来。我们在便签上写上数字，然后演练各种排序方法，今天练习了冒泡排序、选择排序和插入排序。我的感觉是，孩子学习不能求快，他在实际操作的缓慢的过程中才能学会深入思考。今天麻豆也挺高兴。这几天夸他画画好，他今天也开始在纸上模仿着植物大战僵尸画起来了。
     - 麻豆昨天晚上还是咳嗽。今天晚上带他去急诊看一看。结果回家路上，老婆打来电话，麻豆说他自己今天没咳嗽，我也就去药店买了一些药回来。我分析麻豆精神状态不错，也不发烧，只是咳嗽，可能和我前一段时间的情况类似。我上一次喝的糖浆挺管用。我服用的是美敏伪麻口服溶液/惠菲宁，但这个药在药店不卖。我查询了有效成分，每毫升含主要成份氢溴酸右美沙芬1毫克，盐酸伪麻黄碱3毫克，马来酸氯苯那敏0.2毫克。我自己后来买糖浆就是买了含有氢溴酸右美沙芬的药。我发现有好几款糖浆都含这个，还是otc 药物，看来是治疗咳嗽的常用有效药物。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F9RxLNWdqd5.png?alt=media&token=06a43276-5d32-4113-8952-059a9ffb7817)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F6QnupHY6NB.png?alt=media&token=cf4f2421-f421-4409-87c5-e284748f31af)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FOeFvKR2cQ8.png?alt=media&token=84890e12-73bd-40f4-81d7-9ac196d7dacf)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FUKC7LUDJ9n.png?alt=media&token=7f599b81-1ded-459f-a7c1-fcd888fe850e)
