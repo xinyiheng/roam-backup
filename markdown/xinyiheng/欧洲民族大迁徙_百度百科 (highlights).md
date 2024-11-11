@@ -3,4 +3,4 @@
 - Category:: #articles
 - URL:: https://baike.baidu.com/item/%E6%AC%A7%E6%B4%B2%E6%B0%91%E6%97%8F%E5%A4%A7%E8%BF%81%E5%BE%99/3410083
 - ### Highlights first synced by #Readwise [[February 16th, 2023]]
-    - 欧洲民族大迁徙是一个4到7世纪间，由[匈人](/item/%E5%8C%88%E4%BA%BA/3162109?fromModule=lemma_inlink)（Huns）入侵[欧洲大陆](/item/%E6%AC%A7%E6%B4%B2%E5%A4%A7%E9%99%86/8625295?fromModule=lemma_inlink)所触发的一连串[民族迁徙](/item/%E6%B0%91%E6%97%8F%E8%BF%81%E5%BE%99/7167972?fromModule=lemma_inlink)运动；在西方历史[研究](/item/%E7%A0%94%E7%A9%B6/1883844?fromModule=lemma_inlink)中，这段约四百年的时期，称为“民族大迁徙时期”（The Migration Period）。
+    - 欧洲民族大迁徙是一个4到7世纪间，由匈人（Huns）入侵欧洲大陆所触发的一连串民族迁徙运动；在西方历史研究中，这段约四百年的时期，称为“民族大迁徙时期”（The Migration Period）。
