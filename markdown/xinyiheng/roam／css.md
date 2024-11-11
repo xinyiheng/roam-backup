@@ -767,40 +767,50 @@ span[data-link-title="Permanent Notes"]::after {
         - }
 - 对一个block设置字体颜色和背景颜色
     - ```css
-/* 模拟马克笔效果的样式，颜色更浓 */
+/* 模拟马克笔效果的样式 */
 .roam-block-container[data-page-links*="zise"] > div.rm-block-main {
-  background: linear-gradient(135deg, rgba(211, 92, 232, 0.5), rgba(211, 92, 232, 0.3));
+  background: linear-gradient(135deg, rgba(211, 92, 232, 0.3), rgba(211, 92, 232, 0.15));
   padding: 2px 4px;
   border-radius: 5px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .roam-block-container[data-page-links*="lanse"] > div.rm-block-main {
-  background: linear-gradient(135deg, rgba(102, 176, 245, 0.5), rgba(102, 176, 245, 0.3));
+  background: linear-gradient(135deg, rgba(102, 176, 245, 0.3), rgba(102, 176, 245, 0.15));
   padding: 2px 4px;
   border-radius: 5px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
-
+span[data-link-title="lanse"] { 
+    display: none !important; 
+}
 .roam-block-container[data-page-links*="hongse"] > div.rm-block-main {
-  background: linear-gradient(135deg, rgba(241, 194, 194, 0.5), rgba(241, 194, 194, 0.3));
+  background: linear-gradient(135deg, rgba(234,35,35,0.3), rgba(241,225,225,0.15));
   padding: 2px 4px;
   border-radius: 5px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+span[data-link-title="hongse"] { 
+    display: none !important; 
 }
 
 .roam-block-container[data-page-links*="lvse"] > div.rm-block-main {
-  background: linear-gradient(135deg, rgba(208, 243, 173, 0.5), rgba(208, 243, 173, 0.3));
+  background: linear-gradient(135deg, rgba(208, 243, 173, 0.3), rgba(208, 243, 173, 0.15));
   padding: 2px 4px;
   border-radius: 5px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
-
+span[data-link-title="lvse"] { 
+    display: none !important; 
+}
 .roam-block-container[data-page-links*="huangse"] > div.rm-block-main {
-  background: linear-gradient(135deg, rgba(237, 241, 194, 0.5), rgba(237, 241, 194, 0.3));
+  background: linear-gradient(135deg, rgba(237, 241, 194, 0.3), rgba(237, 241, 194, 0.15));
   padding: 2px 4px;
   border-radius: 5px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+span[data-link-title="hse"] { 
+    display: none !important; 
 }```
     - ```plain text
 
