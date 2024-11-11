@@ -26,8 +26,8 @@
     - [导入 得到APP 的笔记到 Anki，程序仍然由ChatGPT 编写 ｜学习骇客](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzU2NDI1Mzg2NQ==&mid=2247495304&idx=1&sn=b1a109e06ae68a52b037718104530364#wechat_redirect)
 - ### Anki插件
     - 在手机端使用anki来查看记忆资料
-        - 使用图床功能之后，添加截图就方便多了。
-        - 不要更新app版本，使用9.2的版本就可以，进入10以后的版本就不再支持http开头的图床链接地址了。🗒@评论:我设置了新的图床，用的github，可以生成https开头的图床链接。
+        - 使用[[图床]]功能之后，添加截图就方便多了。
+        - 不要更新app版本，使用9.2的版本就可以，进入10以后的版本就不再支持http开头的[[图床]]链接地址了。🗒@评论:我设置了新的[[图床]]，用的github，可以生成https开头的[[图床]]链接。
         - https://ankiweb.net/shared/info/1293255374 看看能否解决anki添加图片的问题@评论:目前我没有研究这个方法，现在直接复制图片进去，还没有体验到同步速度太慢
     - [Add-ons for Anki 2.1 - AnkiWeb](https://ankiweb.net/shared/addons/)
 - 类似软件
