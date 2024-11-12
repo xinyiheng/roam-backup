@@ -44,11 +44,11 @@
 支持PDF和epub格式的文件，不支持mobi、azw3这些亚马逊为kindle开发的格式，但是通过calibre可以很快地转换成为epub格式，所以，电子书的格式不会成为阅读障碍
 6. #[[软件联动]]
     - marginote与roam research  [[hongse]]
-        - MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文Via[MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文_哔哩哔哩_bilibili](https://www.bilibili.com/video/bv1Tf4y1P7WH) [[20210915]] 下午10:50 @评论:吕立青这个插件我无法使用，一直加载不出来。类似的还有slidepad浏览器，我不知道是不是vpn的问题。虽然我一直可以用chrome科学上网。@评论:目前已经解决这个问题了，使用的是 速蛙云。
+        - MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文Via[MarginNote ✖️ Roam Research 阅读笔记插件，直接保存任意笔记到 Roam Research，支持 URL 跳转追溯原文_哔哩哔哩_bilibili](https://www.bilibili.com/video/bv1Tf4y1P7WH) [[20210915]] 下午10:50 @评论:吕立青这个插件我无法使用，一直加载不出来。类似的还有slidepad浏览器，我不知道是不是vpn的问题。虽然我一直可以用chrome科学上网。@评论:目前已经解决这个问题了，使用的是速蛙云。
         - 要想保留在marginote整理好的结构，可以先用其自带的导出功能导出到印象笔记。但缺点是，不是每张卡片都带着链接，以后把卡片移到别的地方的时候就可能找不到出处。我一直喜欢带着出处，虽然可能实际意义不大，但是还是尊重内心的这种需求吧。
         - 还有一个方法可以保留每一张卡片跳转回marginote的链接，但是缺点是无法保留原来整理好的层级。不过，我觉得这种方法对我来说更有价值。因为，我通常还要在roam research整理导入的内容，原来的结构并不那么重要。
             - 具体方法有些复杂。用marginnote自带的导出，导出为word文档。在word文章中选中所有文本，点击列表格式，清除掉原来所有的层级关系。然后再另存为rtf文件。这样，从rtf中复制出来的内容就保留了链接，并且所有的卡片之间是平级的关系。
-    - 我觉得更好的方法是一张一张导入marginnote的内容到roam research，因为批量导入并不代表复习过了所有内容。可以在复习的时候，一张一张导入。我用better touch tool和keyboard 联合设置了快捷方式，单击触摸板的左下角就可以从marginnote导入一张带着跳转链接的卡片。
+    - 我觉得更好的方法是一张一张导入marginnote的内容到roam research，因为批量导入并不代表复习过了所有内容。可以在复习的时候，一张一张导入。我用better touch tool和keyboard 联合设置了快捷方式，单击触摸板的左下角就可以从marginnote导入一张带着跳转链接的卡片。🗒@评论： 看起来效率低，但是，从复习的角度看，必要的提取难度才是有意义的学习。
     - marginnote与[[Mindnode]]
         - 转换最好在阅读完成之后进行，否则，marginnote新添加的内容还需要重新导入。
     - 我认为ipad端比较好用的pdf阅读器除了marginote以外还有[[Goodnotes]]和[[LiquidText]]
