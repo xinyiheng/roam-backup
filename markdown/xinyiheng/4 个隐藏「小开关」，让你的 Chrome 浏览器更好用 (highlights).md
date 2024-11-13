@@ -1,2 +1,1 @@
 - URL:: https://sspai.com/post/81982
-- ![](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
