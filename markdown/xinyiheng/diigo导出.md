@@ -413,7 +413,7 @@
     - [引雷火箭](https://mmbiz.qpic.cn/mmbiz_png/2COtibCRaTYGGjgHaqEeKvpRiayBYUaDBwe7hargStJBRNdjdFmSYfiaDljY5zgc9DGVptz7JIe1Km2frsCHK1bkQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
     - [引雷火箭示意图](https://mmbiz.qpic.cn/mmbiz_png/2COtibCRaTYGP9Vq6WhyJ2prtO7TcXRInr9sFUV9FSFo7kAM7dd71RiaTF2P3v2c6W7BVUnkhPfKYdDRyO8mcaIQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
     - [大家惊呼“渡劫”的这道雷，其实是我们引下来的 | 蒋如斌](https://mp.weixin.qq.com/s?__biz=MzI4ODc0NjIzNQ==&mid=2247550816&idx=1&sn=bf533f971ef0fa0f48140654c4caae06&chksm=ec3bf8f4db4c71e2679967969d2d7a9403c09883513d2de432dbaaa7796c68ccf333ef707ffb&mpshare=1&scene=1&srcid=0712J24J7ypEAxynl1Y7l32w&sharer_sharetime=1657613792842&sharer_shareid=c51b7b13a0b085484bc7a81d87b76e86)
-        - 著名的米勒实验曾经模拟了早期地球的原始大气，把原始大气放到图中右上角的玻璃瓶里进行电击，取得了一些氨基酸和其他有机物小分子。科学家在当时推测，**雷电可能在地球生命的起源过程中扮演了非常重要的角色。**
+        - 著名的米勒实验曾经模拟了早期地球的原始大气，把原始大气放到图中右上角的玻璃瓶里进行电击，取得了一些[[氨基酸]]和其他有机物小分子。科学家在当时推测，**雷电可能在地球生命的起源过程中扮演了非常重要的角色。**
         - 最近的研究探索了雷击地球表面产生的闪电熔岩，发现其中含有大量的活性磷和有机磷酸盐分子。这类物质实际上对生命诞生非常重要，打个比方的话，我们可以把雷电比作为女娲造人提供了最为宝贵的泥团。
         - 再把视角拉回到日常生活当中。我们知道，大气电离层在我们的头顶上方大概60公里，正是它对电波的反射，使得广播通讯的信号能够在很远的距离以外被接收到。
         - 电离层实际上会源源不断地向地球“漏电”。那么大家可能就会担心，这电会不会漏光？如果这样，我们的广播通讯事业岂不会面临着瘫痪的危险？但实际上，**雷电和强对流雷暴云会默默地给电离层“充电”，动态地维持着电离层和地球电路的平衡。**
