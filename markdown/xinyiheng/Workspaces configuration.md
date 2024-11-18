@@ -17,48 +17,12 @@
 - A special use case would be to have multiple daily note pages as part of a workspace: you could have the DNP for today in the main content area and both yesterday and tomorrow's DNP in the right sidebar. For today use the code DNP, yesterday use DNP-1 and tomorrow use DNP+1. The dates will be calculated upon loading the workspace, meaning that they will always be right for the day you're using the workspace.
 - A special use case would be to have multiple daily note pages as part of a workspace: you could have the DNP for today in the main content area and both yesterday and tomorrow's DNP in the right sidebar. For today use the code DNP, yesterday use DNP-1 and tomorrow use DNP+1. The dates will be calculated upon loading the workspace, meaning that they will always be right for the day you're using the workspace.
 - A special use case would be to have multiple daily note pages as part of a workspace: you could have the DNP for today in the main content area and both yesterday and tomorrow's DNP in the right sidebar. For today use the code DNP, yesterday use DNP-1 and tomorrow use DNP+1. The dates will be calculated upon loading the workspace, meaning that they will always be right for the day you're using the workspace.
-- The final option allows you to define a keyboard shortcut to automatically navigate to your workspace. The shortcut will be SHIFT + ALT + a letter of your choice. Type a single lowercase letter in the space provided. Please note that not all letters will work as some are reserved for use by the browser or other functions. It might require some experimentation to find the right key to use! Setting a new keyboard shortcut requires you to either reload the page or the extension.
-- The final option allows you to define a keyboard shortcut to automatically navigate to your workspace. The shortcut will be SHIFT + ALT + a letter of your choice. Type a single lowercase letter in the space provided. Please note that not all letters will work as some are reserved for use by the browser or other functions. It might require some experimentation to find the right key to use! Setting a new keyboard shortcut requires you to either reload the page or the extension.
 - The final option allows you to define custom css to use for your workspace. Simply place custom css in the code block below the Custom CSS heading.
+- The final option allows you to define a keyboard shortcut to automatically navigate to your workspace. The shortcut will be SHIFT + ALT + a letter of your choice. Type a single lowercase letter in the space provided. Please note that not all letters will work as some are reserved for use by the browser or other functions. It might require some experimentation to find the right key to use! Setting a new keyboard shortcut requires you to either reload the page or the extension.
+- The final option allows you to define a keyboard shortcut to automatically navigate to your workspace. The shortcut will be SHIFT + ALT + a letter of your choice. Type a single lowercase letter in the space provided. Please note that not all letters will work as some are reserved for use by the browser or other functions. It might require some experimentation to find the right key to use! Setting a new keyboard shortcut requires you to either reload the page or the extension.
 - ---
 - ---
 - ---
-- Workspace Definitions:
-    - Dummy
-        - Left Sidebar:
-            - __open or closed__
-        - Right Sidebar:
-            - __open or closed__
-        - Main Content:
-            - __add a [[ page link here, or DNP to open that day's daily note page__
-        - Right Sidebar Content:
-            - __add a [[ page link here__
-            - __or a (( blockref here__
-            - __or maybe DNP-1 for yesterday or DNP+1 for tomorrow__
-            - __or go crazy and use DNP-365 to see what you were doing last year!__
-        - Keyboard Shortcut:
-            - __type one letter here__
-        - Custom CSS:
-            - ```css
-place any custom css in this code block```
-- Workspace Definitions:
-    - Dummy
-        - Left Sidebar:
-            - __open or closed__
-        - Right Sidebar:
-            - __open or closed__
-        - Main Content:
-            - __add a [[ page link here, or DNP to open that day's daily note page__
-        - Right Sidebar Content:
-            - __add a [[ page link here__
-            - __or a (( blockref here__
-            - __or maybe DNP-1 for yesterday or DNP+1 for tomorrow__
-            - __or go crazy and use DNP-365 to see what you were doing last year!__
-        - Keyboard Shortcut:
-            - __type one letter here__
-        - Custom CSS:
-            - ```css
-place any custom css in this code block```
 - Workspace Definitions:
     - Dummy
         - Left Sidebar:
@@ -93,6 +57,42 @@ place any custom css in this code block```
                 - {"includes":[],"removes":[]}
             - [[Readwise]],outline,false
                 - {"includes":[],"removes":[]}
+        - Custom CSS:
+            - ```css
+place any custom css in this code block```
+- Workspace Definitions:
+    - Dummy
+        - Left Sidebar:
+            - __open or closed__
+        - Right Sidebar:
+            - __open or closed__
+        - Main Content:
+            - __add a [[ page link here, or DNP to open that day's daily note page__
+        - Right Sidebar Content:
+            - __add a [[ page link here__
+            - __or a (( blockref here__
+            - __or maybe DNP-1 for yesterday or DNP+1 for tomorrow__
+            - __or go crazy and use DNP-365 to see what you were doing last year!__
+        - Keyboard Shortcut:
+            - __type one letter here__
+        - Custom CSS:
+            - ```css
+place any custom css in this code block```
+- Workspace Definitions:
+    - Dummy
+        - Left Sidebar:
+            - __open or closed__
+        - Right Sidebar:
+            - __open or closed__
+        - Main Content:
+            - __add a [[ page link here, or DNP to open that day's daily note page__
+        - Right Sidebar Content:
+            - __add a [[ page link here__
+            - __or a (( blockref here__
+            - __or maybe DNP-1 for yesterday or DNP+1 for tomorrow__
+            - __or go crazy and use DNP-365 to see what you were doing last year!__
+        - Keyboard Shortcut:
+            - __type one letter here__
         - Custom CSS:
             - ```css
 place any custom css in this code block```
