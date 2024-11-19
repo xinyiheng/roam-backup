@@ -10,5 +10,5 @@
 - [[松冈正刚]]
 - 
 - 在由所有者经营的小型家族企业中,家族每一代都会进行一次修剪枝叶。还记得云集众多老牌家族企业的汉诺基协会吗?法师温泉旅馆是其中一员。其他企业成员包括荷兰亨克贸易公司,荷兰醋酒商迪凯堡、意大利糖果商Peligrino 、 意大利音乐公司Mouzini 、 法国调料公司Thiercelin和日本糖果公司Gekkoneno 他们都找到了修剪所有权之树的方法,如每一代仅一名成员可以获得所有权、将不积极家族成员的股权购回,或将家族成员之间的商业活动分开。
-
-[marginnote3app://note/1BFA5549-820D-4F0B-B5BA-1C9661FDB927](marginnote3app://note/1BFA5549-820D-4F0B-B5BA-1C9661FDB927)
+  
+  [marginnote3app://note/1BFA5549-820D-4F0B-B5BA-1C9661FDB927](marginnote3app://note/1BFA5549-820D-4F0B-B5BA-1C9661FDB927)

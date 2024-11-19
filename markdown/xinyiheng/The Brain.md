@@ -52,10 +52,10 @@
 - #[[参考资料]]
     - 官方网站使用说明
         - Categories
-via[TheBrain Blog](https://www.thebrain.com/blog?page=3)
-[[20201226]] 下午5:00
+          via[TheBrain Blog](https://www.thebrain.com/blog?page=3)
+          [[20201226]] 下午5:00
     - 社群：如果你在使用全新Thebrain过程中，遇到任何有趣或困扰都可以加入“Thebrain交流群”（273298874），大家共同探讨思维导图的乐趣！@评论:好像大家发言并不踊跃
-Via[thebrain如何用 - 搜索结果 - 知乎](https://www.zhihu.com/search?q=thebrain%E5%A6%82%E4%BD%95%E7%94%A8&utm_content=search_relatedsearch&type=content) [[20210721]] 下午2:48
+      Via[thebrain如何用 - 搜索结果 - 知乎](https://www.zhihu.com/search?q=thebrain%E5%A6%82%E4%BD%95%E7%94%A8&utm_content=search_relatedsearch&type=content) [[20210721]] 下午2:48
     - TheBrainVia[TheBrain - 知乎](https://www.zhihu.com/topic/19583518/hot) [[20210721]] 下午3:25
 - 使用技巧
     - the brain的编辑器非常难用，我需要一个好用的支持outliner功能的编辑器。最好是能够分享内部url,我觉得workflowy和checkvist都可以胜任。#[[软件联动]] 

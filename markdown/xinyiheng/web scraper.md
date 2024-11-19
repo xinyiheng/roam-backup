@@ -6,8 +6,8 @@
 - [Web Scraper 高级用法——抓取二级网面 | 简易数据分析 13 - 公众号_卤蛋实验室 - 博客园](evernote:///view/13797828/s63/95b74dfd-0e3b-4a61-9e66-6ce49b7e9e43/95b74dfd-0e3b-4a61-9e66-6ce49b7e9e43/)
 - [🦀️ 后羿采集器——最良心的爬虫软件 - 少数派](evernote:///view/13797828/s63/aa9287ad-43b7-4729-bbcb-42f3989bac2b/aa9287ad-43b7-4729-bbcb-42f3989bac2b/)
 - 以上文章都来自卤蛋实验室
-via[Web Scraper 翻页——抓取分页器翻页的网页（Web Scraper 高级用法）| 简易数据分析 12 - 公众号_卤蛋实验室 - 博客园](https://www.cnblogs.com/web-scraper/p/web_scraper_element_click_once.html)
-[[20201226]] 上午9:45
+  via[Web Scraper 翻页——抓取分页器翻页的网页（Web Scraper 高级用法）| 简易数据分析 12 - 公众号_卤蛋实验室 - 博客园](https://www.cnblogs.com/web-scraper/p/web_scraper_element_click_once.html)
+  [[20201226]] 上午9:45
 - Scraping Multiple URL's with Webscraper.ioVia[(177) 2019 - UnTECH # 17 - Scraping Multiple URL's with Webscraper.io - YouTube](https://www.youtube.com/watch?v=ToMPE4wyon8) [[20210728]] 上午11:39
 - {{[[video]]: https://youtu.be/Gz3fbdXnjmw}}
 - 

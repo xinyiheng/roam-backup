@@ -1,16 +1,16 @@
 - #[[参考资料]]
     - Zotero（1）：文献管理软件Zotero基础及进阶示范
-via[Zotero（1）：文献管理软件Zotero基础及进阶示范 - 阳志平的网志](https://www.yangzhiping.com/tech/zotero1.html)
-[[20201212]] 上午11:41
+      via[Zotero（1）：文献管理软件Zotero基础及进阶示范 - 阳志平的网志](https://www.yangzhiping.com/tech/zotero1.html)
+      [[20201212]] 上午11:41
 - 使用 Zotero 在[[markdown]] 中优雅地处理参考文献
-via[使用 Zotero 在 Markdown 中优雅地处理参考文献 - 少数派](https://sspai.com/post/60825)
-[[20201216]] 下午9:10
+  via[使用 Zotero 在 Markdown 中优雅地处理参考文献 - 少数派](https://sspai.com/post/60825)
+  [[20201216]] 下午9:10
 - zotero-shortdoi + Sci-Hub，让99%的文献都能被免费下载！
-via[zotero-shortdoi + Sci-Hub，让99%的文献都能被免费下载！](https://iseex.github.io/2020-03/zotero-shortdoi/)
-[[20201222]] 下午5:01
+  via[zotero-shortdoi + Sci-Hub，让99%的文献都能被免费下载！](https://iseex.github.io/2020-03/zotero-shortdoi/)
+  [[20201222]] 下午5:01
 - ZotFile + Sci-Hub，巧妙玩转PDF下载！
-via[ZotFile + Sci-Hub，巧妙玩转PDF下载！](https://iseex.github.io/2020-10/zotfile-scihub/)
-[[20201222]] 下午5:02
+  via[ZotFile + Sci-Hub，巧妙玩转PDF下载！](https://iseex.github.io/2020-10/zotfile-scihub/)
+  [[20201222]] 下午5:02
 - 基础功能介绍
     - 1在浏览器端利用Zotero Connector，可以实现对各大主流数据库（Web of Science、Pubmed、ScienceDirect 等）或搜索引擎（Google Scholar、百度学术、Research Gate 等）具有文献一键抓取能力，甚至支持豆瓣图书的抓取。抓取内容包括文献元数据、PDF、网页链接等。
     - 2. 跨平台实时同步功能，便于随时随地在多平台访问文献。

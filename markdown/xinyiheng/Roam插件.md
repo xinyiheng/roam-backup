@@ -1,6 +1,6 @@
 - Roam Depot 
     - 如何查看和管理从roam depot安装的插件？在设置中进行
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWIxL8t52A0.png?alt=media&token=66f4f85d-763c-43fc-8e58-2235e3d87a70)
+      ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FWIxL8t52A0.png?alt=media&token=66f4f85d-763c-43fc-8e58-2235e3d87a70)
     - [[WorkBench]] ，🗒@评论:就是原来的roam42，还算是一个最重要的插件，有很多功能。
     - RANDOM BLOCK，会在左侧边栏生成一个图标，点击就会获得一个随机block，很不错的小玩具。
     - Memo 🗒@评论:这是一款[[间隔记忆]]工具，以前使用一款叫做js/sr的插件，但这款官方推出的界面更好看，是卡片的样式
@@ -14,8 +14,8 @@
     - {{[[TODO]]}} [[Twitter]] 🗒@评论:同名插件可以在roam中直接发送twitter信息，也可以把twitter动态导入到roam中。
     - Show Favicon，可以让roam中的网址前面带上一个该网址的小图标，安装之后网址美观了不少。
     - Export Fomatter，导出roam 中的block的时候可以设置格式，去除一些特殊格式，让导出的文件看起来更好看。注意，不能导出整个page，只能用于导出某个节点。用右键中的plugins来选择。
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FD1Dw3Lw-R0.png?alt=media&token=75151243-7600-4992-898e-875942b35fb0)
-有一个类似的Workbench Format Converter，ctr+m换出，可以支持导出整个page。
+      ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FD1Dw3Lw-R0.png?alt=media&token=75151243-7600-4992-898e-875942b35fb0)
+      有一个类似的Workbench Format Converter，ctr+m换出，可以支持导出整个page。
     - Image Generator，也是右键plugins中选择，可以根据一段英语来自动生成一幅[[人工智能画画]]产生的图片
     - Toggle Text Uppercase/Lowercase，也是右键plugins中选择，可以把一行的英语全变成大写或者小写。但是不能只首字母大写。
     - roam/comments，很早就安装了，但没有用过。今天才发现用法是按住cmd键，右侧会出现一个加号，点击加号就可以添加评论了。我以前总是在行内用特殊符号加评论，比如🗒@评论: 我就是这样评论的。

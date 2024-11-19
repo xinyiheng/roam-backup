@@ -4,7 +4,7 @@
 - URL:: https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691524161&idx=1&sn=80b5017d633499558826ecc6425a40a8&chksm=a9ecd99a9e9b508c071113b2a5d38a557fcb22a34e27e77d12dc91ac33605e1791785546e5fc
 - ### Highlights first synced by #Readwise [[February 2nd, 2023]]
     - “Web3没那么重要，元宇宙没革命性，人工智能最重要。”
-当整个科技界对Web3和元宇宙的讨论到最高点的时候，比尔盖茨在美国社交新闻网站Reddit问答帖下的亲自回复，引起了轩然大波。
+      当整个科技界对Web3和元宇宙的讨论到最高点的时候，比尔盖茨在美国社交新闻网站Reddit问答帖下的亲自回复，引起了轩然大波。
     - 正如微软CEO纳德拉在今年达沃斯世界经济论坛上预测的那般，当前AI将引发一场波及全行业的“平台转移”，就像过去15年向移动设备和云计算平台上转移一样。
     - 谷歌率先展开防御动作，在子公司DeepMind发布聊天机器人Sparrow后，又接连推出了AI音乐模型MusicLM；1月30日，百度也发文称，将于3月在中国推出类似ChatGPT的人工智能聊天机器人程序。
     - 全球的搜索引擎市场份额来看，长期以来，必应都活在谷歌的阴影之下。根据2022年的统计数据，谷歌占据着全球80%以上的搜索引擎市场，去年3月的月访问量甚至高达908亿次，而同期必应的访问量仅为13亿次。但ChatGPT的出现，让微软嗅到了反超的可能性。首先，ChatGPT的出现打破了十几年未变的“搜索框”的搜索形式。相比于传统搜索引擎长期被禁锢在狭小的搜索框内，ChatGPT能够将“搜索框式”搜索转变为“对话式”的搜索，用户在与聊天机器人的互动中最终得到满意的答案，对话式搜索的本质在于“场景式”搜索，即便谷歌、百度甚至微信都在探索，但仍然是点选关键词搜索模式，表面有创新，内核未改变。
@@ -25,8 +25,8 @@
 - ### Highlights first synced by #Readwise [[March 10th, 2023]]
     - 但是借助 Readwise，我们可以集阅读、记录、复习、写作、归档于一体。甚至如果你是一个外向型的人，一定还会喜欢它漂亮的分享界面。
     - 甚至，对于 Anki 重度用户来说，Readwise 还非常贴心地提供了**主题复习**`https://readwise.io/themed_reviews`的功能。类似于 Anki 的筛选学习，可以在日常复习之余，通过标签等形式筛选一些内容放到一起进行复习。
-
-目前复习还是通过网页端`https://readwise.io/dailyreview`进行复习，好在手机和电脑都可以方便地打开。
+      
+      目前复习还是通过网页端`https://readwise.io/dailyreview`进行复习，好在手机和电脑都可以方便地打开。
     - 作为一个极重度阅读者，写到这里真的是想哭
     - 注册：https://readwise.io/i/ankiwiki官网：readwise.io官方帮助：readwise.io/bookreview/18623625其他帮助：https://help.readwise.io/控制面板：readwise.io/dashboard每日复习：readwise.io/dailyreview主题复习：readwise.io/themed\_reviews单篇复习：readwise.io/articles学习统计：readwise.io/stats记忆保持与复习间隔：readwise.io/mastery调整频率：readwise.io/configure/tune/books教育优惠：https://help.readwise.io/article/28-does-readwise-offer-an-academic-discount新版 Reader App：https://readwise.io/read  
-微信公众号：学习骇客好久没有这种激动
+      微信公众号：学习骇客好久没有这种激动

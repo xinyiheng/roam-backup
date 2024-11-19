@@ -2,7 +2,7 @@
 - 现在改名为hookmark了
 - #[[软件联动]]
     - 支持配合[[Mindnode]]使用
-
+      
     - "
         - Using Hookmark with MindNode MindNode is compatible with Hookmark. You can also paste a link garnered from Hookmark directly onto a MindNode canvas or on an existing node in MindNode, which will cause the node to be created properly and linked in MindNode. In other words, if you do this: Copy Link in Hookmark. Select a node. Paste. then you get a new linked node in MindNode. If a resource (such as a web page or PDF file) has many hooks, you can: Copy All Links with Hookmark. Paste on a node or canvas in MindNode.
             - 🏁@标签:软件联动 comment by[🔗](https://www.diigo.com/profile/wangxiaohui19880214)

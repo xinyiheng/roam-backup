@@ -10,9 +10,9 @@
 - ### 参考文献
     - airtable有不少我现在还不知道怎么使用的功能。比如这一篇____ — via [用 Airtable 打造自己专属的个人数据库 - 少数派](https://app.yinxiang.com/shard/s63/nl/13797828/f7dd3370-7bc7-4509-9f8e-ccd7964f7f1b)
     - Airtable 直接提供了从这个 base 中取数据的 API 接口，这也就意味着我完全可以开发一个类似 designresourc.es 这样的静态网站，然后从 Airtable 中实时获取数据，把这个 Airtable 作为 CMS。进而直接省掉了一个数据库、后端和一个管理系统！https://www.notion.so/2318bf6f500e4ad88747a98a5cef315cVia[THE VOLTAGE EFFECT ](https://www.notion.so/2318bf6f500e4ad88747a98a5cef315c)[[20210813]] 下午10:36
-
+      
     - 
-Via[用 Airtable 打造自己专属的个人数据库 - 少数派](https://sspai.com/post/63452)[[20210105]] 下午11:04
+      Via[用 Airtable 打造自己专属的个人数据库 - 少数派](https://sspai.com/post/63452)[[20210105]] 下午11:04
     - [ 使用 Airtable 搭建科研学术知识库 - 少数派 ](https://sspai.com/post/65202)
         - Airtable 的高阶用法Airtable 作为 Database 类领先的老大哥，我个人认为其最棒的功能就是 App。因为 Airtable 固有的视图在很多场景下是很难完全满足我们的需求的。例如在某条记录里写大段文本，就很不方便看。而 App 则很好地解决了这个问题，是对 Airtable 视图能力的极大扩充，并且有了这个能力，Airtable 才真正具有无限的应用潜力。
         - Airtable 基础的各类表格能力是对数据表结构设计和记录增删改查的高效操作能力。而 Airtable App 是基于已有数据进行自由组合关联的展示出口。如果说普通 App 是 Airtable 在自定义视图上的一大突破，那么自定义 App 开发可谓是将这种能力发挥到了极致。  我曾在上一篇文章中写过一部分关于 Mindflow 的介绍，也曾经在去年 11 月份将其发给了官方审核，但是比较可惜的，后续一直没有回音，所以 Mindflow 暂时没法给到大家完整使用的体验，等到未来能够上架官方市场，再和大家完整分享 Mindflow 的使用好了。

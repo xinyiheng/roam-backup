@@ -2,8 +2,8 @@
     - [[出版]]行业  https://roamlibrary.com/library 好像运转的并不是很成功
     - [[知识服务]]https://twitter.com/Jimmy_JingLv/status/1338106648586379264?ref_src=twsrc%5Etfw
     - roam用于[[团队合作]]Roam for Teamwork
-via[Roam for teamwork](https://roamforteamwork.com/)
-[[20201230]] 下午11:00
+      via[Roam for teamwork](https://roamforteamwork.com/)
+      [[20201230]] 下午11:00
     - 还有人专门做了网站教怎么使用roam research。https://www.effortlessoutput.com/
     - roam 共同读书活动总结的一些关键词https://twitter.com/liuyingyue/status/1338652103334629378?ref_src=twsrc%5Etfw
 - #[[设计逻辑]]
@@ -21,8 +21,8 @@ via[Roam for teamwork](https://roamforteamwork.com/)
     - [[视图]]丰富
         - diagram的使用方法@评论:这个功能还是挺好用的
             - How to build diagrams in Roam Research
-via[How to build diagrams in Roam Research - Ness Labs](https://nesslabs.com/roam-research-diagrams)
-[[20201223]] 下午10:50
+              via[How to build diagrams in Roam Research - Ness Labs](https://nesslabs.com/roam-research-diagrams)
+              [[20201223]] 下午10:50
             - {{[[diagram]]}}
                 - 可很方便地创建板块
                     - 只能显示一级内容，第二个层级的内容无法显示
@@ -74,44 +74,44 @@ via[How to build diagrams in Roam Research - Ness Labs](https://nesslabs.com/roa
                     - 目录
                 - 好的
                     - 作外接大脑12月新书推荐 | 29本好书，温暖你的冬天
-via[卡片笔记](https://www.notion.so/b6dd6411de1d490fb7409e7f2d9ae32a?v=e8f1888c20594ba8a889f6c1da020bcb&p=811941f9344f4cc5afd435ce7a8f3395)
-[[20201224]] 下午4:19
+                      via[卡片笔记](https://www.notion.so/b6dd6411de1d490fb7409e7f2d9ae32a?v=e8f1888c20594ba8a889f6c1da020bcb&p=811941f9344f4cc5afd435ce7a8f3395)
+                      [[20201224]] 下午4:19
                 - 差的
                     - 不错
         - 线路图
             - {{mermaid}}
                 - graph TD;
-    
+                      
                     - 开始-->途经1
-    
+                          
                     - 途经1-->途经2
                     -  途经1-->途经3
                     - 途经3-->途经4
         - 花式样式
             - {{mermaid}}
                 - journey
-    title working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
-    section Go home
-      Go downstairs: 6: Me
-      Sit down: 8: Me
+                      title working day
+                      section Go to work
+                        Make tea: 5: Me
+                        Go upstairs: 3: Me
+                        Do work: 1: Me, Cat
+                      section Go home
+                        Go downstairs: 6: Me
+                        Sit down: 8: Me
         - 甘特图
             - {{mermaid}}
                 - gantt
-dateFormat  YYYY-MM-DD
-title Adding GANTT diagram to mermaid
-excludes weekdays 2014-01-10
-
-section A section
-Completed task            :done,    des1, 2014-01-06,2014-01-08
-Active task               :active,  des2, 2014-01-09, 3d
-Future task               :         des3, after des2, 5d
-Future task2               :         des4, after des3, 5d 
+                  dateFormat  YYYY-MM-DD
+                  title Adding GANTT diagram to mermaid
+                  excludes weekdays 2014-01-10
+                  
+                  section A section
+                  Completed task            :done,    des1, 2014-01-06,2014-01-08
+                  Active task               :active,  des2, 2014-01-09, 3d
+                  Future task               :         des3, after des2, 5d
+                  Future task2               :         des4, after des3, 5d 
     - [[Roam Research]]到底怎样整理？目前大多数都是标签概念的状态。整理成概念文档是否可以用[[query]]的方式。[[block reference]]之类的设计我算是彻底明白了原理。
-#[[概念区分]]
+      #[[概念区分]]
         - 复制一个block再粘贴到其他位置和[[block reference]]有什么区别？[[block reference]]和embed reference有什么区别？#[[概念区分]]
             - 复制block到一个新位置，如果block里有方括号括起来的概念，概念会和新位置page的标题建立关系，可以体现在#[[graph图]]中，而通过[[block reference]]而来的内容无法和新的page标题建立关系。比如下图中，蓝色字体部分是通过[[block reference]]方式建立的，红色方框框起来的概念没有体现在所在的page标题Inbox组成的图中。
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FQb1OpsYLbq.png?alt=media&token=9cd2330a-8eac-4ce1-ab9d-4e0df8d635d2)
@@ -140,19 +140,19 @@ Future task2               :         des4, after des3, 5d
     - 在[[Roam Research]]中打开开发者模式，ctrl+shift+=
 - #[[参考资料]]
     - Mickey Mellen  roam research的最近更新
--via[(880) Mickey Mellen - YouTube](https://www.youtube.com/c/mickmel/videos)
+      -via[(880) Mickey Mellen - YouTube](https://www.youtube.com/c/mickmel/videos)
     - [官方论坛](https://forum.roamresearch.com/top/monthly)
     - https://roamdigest.com/#web@评论:内容很多
     - Roam Research 中文社区
-via[roam 中文社区 ⛏🚀](https://roamresearchfan.com/)
-[[20201214]] 下午8:22
+      via[roam 中文社区 ⛏🚀](https://roamresearchfan.com/)
+      [[20201214]] 下午8:22
     - Roam Newsletter 漫游研究所周报2020W51
-via[](https://mp.weixin.qq.com/s/gxhCS42F981VzSb2-P9HZA)
-[[20201228]] 下午4:34
+      via[](https://mp.weixin.qq.com/s/gxhCS42F981VzSb2-P9HZA)
+      [[20201228]] 下午4:34
     - [[Twitter]]也是一种网状的组织结构
     - Roam中文站
-via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/599106362?spm_id_from=333.905.b_7570496e666f.3)
-[[20201228]] 下午5:12
+      via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/599106362?spm_id_from=333.905.b_7570496e666f.3)
+      [[20201228]] 下午5:12
 -  类似的软件
     - 可以参考别人列出的条目{{iframe: https://nano.page/page/roam}}
     - [[Remnote]]
@@ -172,17 +172,17 @@ via[Roam中文站的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibi
 - [[Roam插件]]
 - roam research有哪些功能吸引了我？
     - 大网图、小网图（大纲/缩略式脑图）、大小粒度块引用、双向链接，是笔者认为的必备的四个双向链软件经典特征，其它就是附加插件功能，读者也可以从这四个经典元素对各种软件进行考察得出自己心中的排行，其实也就是Roam Research的核心功能。-20201027
-作者：[[威廉]]
-链接：https://zhuanlan.zhihu.com/p/267451435
-via[(15 封私信 / 32 条消息) 威廉 obsidian - [[搜索]]结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
-[[20201230]] 下午11:38
+      作者：[[威廉]]
+      链接：https://zhuanlan.zhihu.com/p/267451435
+      via[(15 封私信 / 32 条消息) 威廉 obsidian - [[搜索]]结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
+      [[20201230]] 下午11:38
     - 因为笔者的时间认知有限有很多笔记只简单使用过如：[[Infranodus]]、[[xanadu]] space、wuli wiki、[[gource]]、notion、Athens Research、葫芦笔记、印象笔记、dynalist、thebrain、tiddlywiki、[[Workflowy]]、雅典、Craft、marginnote、[[MyBase]]、[[swrite]]、trilium、gingko、WikiLinks、[[connected papers]]、tagspaces等。D3.js、neo4j、PowerBI、Charticulator、R语言、Phyone、Nvivo这些专业的大工具更是只有肤浅的了解，都还未进行深度使用所以不好进行排行和对比解读，也就没进行测评排行，更多的双向链笔记软件可能连名字都不知道，所以就未出现在此文。
-
-作者：[[威廉]]
-链接：https://zhuanlan.zhihu.com/p/267451435
-来源：知乎
-via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
-[[20201230]] 下午11:38
+      
+      作者：[[威廉]]
+      链接：https://zhuanlan.zhihu.com/p/267451435
+      来源：知乎
+      via[(15 封私信 / 32 条消息) 威廉 obsidian - 搜索结果 - 知乎](https://www.zhihu.com/search?type=content&q=%E5%A8%81%E5%BB%89%20obsidian)
+      [[20201230]] 下午11:38
 - #[[软件联动]]
     - 如何用roam research模拟使用[[Heptabase]]的体验？
         - 用到两个功能，一个是插件[masonry-vanilla](https://github.com/GitMurf/masonry-vanilla)，另一个是roam自带diagram。在diagram中绘制一些想要关联的内容，用双方括号包裹起来，想要打开的时候就用shift点击，右侧就可以出现一张卡片。这样，既有卡片视图，也有卡片之间的联系。更为重要的是，卡片内部写的每个blcok也都可以被引用，所以，处理信息的颗粒度可以更小。

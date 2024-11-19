@@ -1,14 +1,14 @@
 - #[[参考资料]]
     - [DEVONthink Pro Office，文件管理爱好者的福音（一） - 少数派](https://sspai.com/post/51242) 
     - 从 Evernote 到 DEVONthink
-via[从 Evernote 到 DEVONthink - 少数派](https://sspai.com/post/44648)
-[[20201220]] 上午7:45
+      via[从 Evernote 到 DEVONthink - 少数派](https://sspai.com/post/44648)
+      [[20201220]] 上午7:45
         - 这些小书签只是一些简单的 JavaScript 代码，功能是获取一部分网页的属性，然后使用 URL Schemes 传入 DEVONthink。在 iOS 上有 Workflow，Mac 上有 Keyboard Maestro，小书签这个方法可以说已经完全过时了。
-via[从 Evernote 到 DEVONthink - 少数派](https://sspai.com/post/44648)
-[[20201220]] 上午7:46
+          via[从 Evernote 到 DEVONthink - 少数派](https://sspai.com/post/44648)
+          [[20201220]] 上午7:46
         - DEVONthink 内包含了苹果的 WebKit 引擎，是有能力做一个浏览器的，其显示效果与当前版本的 Safari 保持一致。不同的是，DEVONthink 并不想把自己定位成普通[[浏览器]]，所以在 DEVONthink 中打开的网页是被当做一个个文档处理的，其地址栏无法用于导航，DEVONthink 的浏览功能定位是：获取、渲染、存储数据。DEVONthink 的浏览功能就是我指的「内部方法」，使用「内部方法」能很大程度上解决上述提到的问题。
-via[从 Evernote 到 DEVONthink - 少数派](https://sspai.com/post/44648)
-[[20201220]] 上午7:46
+          via[从 Evernote 到 DEVONthink - 少数派](https://sspai.com/post/44648)
+          [[20201220]] 上午7:46
 - devonthink的使用总算是入门了。
 - [DEVONthink Pro Office，文件管理爱好者的福音（一） - 少数派](https://www.diigo.com/outliner/diigo_items/1060283/12128769/485180111)
     - DEVONthink 的文件都在数据库里，并且只能由 DT 这个软件自身为入口去取用文件。少数情况下，因为没有 DT，即使有同步到坚果云，文件还是不可用。这个是我说的通用性的意思。GM 上面说的其实挺好，DT 的使用最好有个 主题，仅仅看作高级版 Finder 可能不是很适用。

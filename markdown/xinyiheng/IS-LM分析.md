@@ -5,38 +5,38 @@
     - 前两个模型研究的是总需求如何决定国民收入，第三个是研究总需求和总供给如何共同决定国民收入。
 - 模型的来历
     - IS-LM模型又称[[希克斯]]—[[汉森]]模型。它是希克斯首先在他1937年发表的一篇论文中提出的。他并非要建立一个什么模型，只是想用它来说明[[凯恩斯]]的[[就业理论]]并不像凯恩斯自己所说的那样具有普遍意义，只不过是一个“特例”而已。当时希克斯提出的是[[IS-LL分析]]，大概认为这个分析未免草率粗糙，之后就再没提起过。即使到后来这个分析工具名声大振的时候，他反而有放弃之意，因为他发现，IS是一定时期的[[流量分析]]，而LM则为一定时期的[[存量分析]]，两者不可能结合在一起。
-via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
-[[20201224]] 上午11:26
+      via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
+      [[20201224]] 上午11:26
     - 1953年，汉森又在他所著《凯恩斯学说指南》一书中进一步予以宣扬。后来的[[萨缪尔森]]等所谓新古典综合派把这一模型^^广泛用于商品市场与货币市场的一般均衡分析^^，因此而广泛流传开来，成为公认的分析模型。一般认为这主要是希克斯的功劳，但它作为一种分析模型的提出和广泛流传与汉森显然有很大关系。
-via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
-[[20201224]] 上午11:30
+      via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
+      [[20201224]] 上午11:30
 - [[IS曲线]]-描述的是商品市场(实体经济)
     - I代表[[投资]]，它的多少取决于[[利率]]（R）的高低，所以它是利率的函数。S表示[[储蓄]]，它与[[收入]]（Y）有关，收入多，储蓄多，收入少，储蓄少，所以储蓄是收入的函数。
     - IS曲线，是^^投资等于储蓄^^条件下，^^利率和收入（[[产量]]）^^的各种组合所形成的曲线。就是说，投资等于储蓄有各种情况，每一利率下都有一个投资与储蓄的均衡，以及相应于投资的可能收入或产量，把它们连接起来便形成IS曲线。这是一条向右下方倾斜的曲线，因为较低的利率会刺激较多的投资，因而会生产较多的产量或收入。
-via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
-[[20201224]] 上午11:33
+      via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
+      [[20201224]] 上午11:33
 - [[LM曲线]]-描述的是货币市场(虚拟经济)
     - LM是另一条曲线。L代表[[货币的需]]求（最初凯恩斯称之为灵活偏好引起的需求），它是由利率和收入量决定的。M表示[[货币供给]]，由于货币供给在现代是由政府规定的，因而可以看做是一个既定的量。
     - LM曲线，是在^^货币供求均衡^^条件下，[[利率]]与[[收入]]（[[产量]]）的各种组合，就是说，每一利率都相对有一定的收入（由利率决定的投资所带来的产量或收入），把各点连接起来，便形成LM曲线。LM曲线是向右上方延伸的，这是因为产量或收入增加，用于交易的货币的需求增加，而货币量虽说是既定的，但由于利率提高了，人们会把手头的货币用来购买债券或储蓄，从而调节货币较多地用于交易需求，这就增加了市场上的货币供给。所以市场上的货币供给同比例地增加了。但这也有一定的限度，上升的利率把人们手中的货币在可能的限度内都吸向市场后，货币的供给量不管利率怎样上升，都是固定不变的。
-via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
-[[20201224]] 上午11:37
+      via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
+      [[20201224]] 上午11:37
 - 两条曲线的交点-[[均衡]]状态
     - 两条曲线相交，交点以E表示。在这一交点，货币需求与货币供给相等，同时储蓄也等于投资，表示收入（产量）和利率的宏观经济均衡水平。就是说，只有处于E点，货币供给才足以形成一种使储蓄与投资相平衡的利息率。
-via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
-[[20201224]] 上午11:46
+      via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
+      [[20201224]] 上午11:46
 - [[不均衡]]会自动走向均衡吗？
     - 当利率和收入的组合不在E点时，商品市场和货币市场的均衡不能同时实现，那么，经济处于非均衡状态，它会在商品市场的供求压力或货币市场供求压力或两者共同的作用下由非均衡状态向均衡状态运动，最后调节到一般均衡状态。
-via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
-[[20201224]] 上午11:48
+      via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
+      [[20201224]] 上午11:48
     - 要考虑不同的因素如何影响两条曲线的移动
 - 曲线的图解
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FdVnqgG1iBW.png?alt=media&token=97ef7675-0809-4dc7-b27a-906960c7493b)
 - 货币政策和财政政策使曲线怎样移动？
     - 增加财政开支表现为政府采购(购买商品)和直接投资，导致投资增加，
     - 现在要考虑政策变动引起的IS曲线和LM曲线的变动情况。先讨论财政政策可能引起的IS曲线的移动。政府增加还是减少财政支出，会刺激或抑制需求。投资需求增加时，IS曲线向右上方移动，因为这会导致较高的产量收入水平和较高的利率水平（因为投资需求增加倾向提高利率）。
-货币政策给LM曲线带来相同的影响。比如说国家增加货币供给，按原来的利率，货币的供给超过了货币的需求（一定的利率有一定的货币需求量）。为了使人们乐于保持注入经济的这部分增加的货币，就必须提高产量或收入水平，以便引导出较大的货币需求。因而，在每一个利率水平上，货币市场的均衡都要求有一个更高的产量水平，即货币供给的增加将整条LM曲线向右移动到新位置。
-via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
-[[20201224]] 下午1:37
+      货币政策给LM曲线带来相同的影响。比如说国家增加货币供给，按原来的利率，货币的供给超过了货币的需求（一定的利率有一定的货币需求量）。为了使人们乐于保持注入经济的这部分增加的货币，就必须提高产量或收入水平，以便引导出较大的货币需求。因而，在每一个利率水平上，货币市场的均衡都要求有一个更高的产量水平，即货币供给的增加将整条LM曲线向右移动到新位置。
+      via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
+      [[20201224]] 下午1:37
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FXMmVtOTo4b.png?alt=media&token=42f7d521-a1da-4ae5-9205-494a83568b06)
     - 
 - 国民收入(和产量、国民生产总值基本上是一个意思)
@@ -46,8 +46,8 @@ via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa6
 - 物价
 - 它有什么意义？
     - IS-LM模型，是一种收入分析工具，它说明只有在什么情况下，货币的供给才能形成投资等于储蓄的利息率。萨缪尔逊对此评论说：“它说明产量、货币与利息率之间的相互作用，并且突出了当前宏观经济学争论的某些主要之点。”新古典经济学综合派认为，这个模型不仅^^实现了凯恩斯与新古典理论的结合^^，而且也有助于财政政策和货币政策的结合，还将^^货币主义与凯恩斯主义^^的宏观经济学综合起来，发展了凯恩斯主义。
-via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
-[[20201224]] 下午12:10
+      via[经济学300年 - 得到APP](https://www.dedao.cn/reader?id=PZykJDGjQ7AOLNa642rbP8dkEgemKDwdRAWXoVRjpBxl95MJzqvYGynZ18MEl5Bo)
+      [[20201224]] 下午12:10
 - 为什么增加货币供给下降会导致投资增加
     - 霍特里的解释：货币供给增加-->短期利率下降 -->库存市场成本下降-->库存产品价格上升-->终端产品价格上升-->持续一段时间以后，生产商认为是总需求增加 -->生产商增加投资
     - 凯恩斯的解释：货币供给增加-->金融市场长期利率下降-->生产商投资成本下降

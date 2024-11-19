@@ -7,6 +7,6 @@
     - 笔记是无限层级的，既可以当做一个文件夹，也可以当做一段文字
     - 笔记上的条目直接可以拖拽到日历上形成任务
     - 打通对话和邮件之间的壁垒，将邮件也按时间序放在消息流中，将Email+Slack(IM)+Notion(Doc)结合起来。对话内的每一条信息和邮件中的正文，都可以看作同一类，以此打通消息、日程、文档之间的壁垒。
-via[拥抱新浪潮：协同办公工具的四个新范式与无限未来 - 少数派](https://sspai.com/post/63529)
-[[20201216]] 下午5:04
+      via[拥抱新浪潮：协同办公工具的四个新范式与无限未来 - 少数派](https://sspai.com/post/63529)
+      [[20201216]] 下午5:04
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FNEXGjthK2K.png?alt=media&token=a08fa33b-2f0e-45fe-8ad0-f8b030aa1f0a)

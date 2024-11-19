@@ -76,12 +76,12 @@
         - [原文链接](https://baike.baidu.com/item/%E4%BA%A8%E5%88%A9%E4%BA%8C%E4%B8%96/9816015)
     - 路易七世_百度百科
         - Annotations:
-
-* 路易与埃莉诺离婚。埃莉诺转嫁给安茹伯爵亨利，当亨利于1154年成为英格兰国王亨利二世时，阿基坦也一道落入英国王室（金雀花王朝）手中。路易曾两次与亨利作战，未能夺回领地。此后卡佩王朝与金雀花王朝的争斗就从未终止。
-
-
-
-https://baike.baidu.com/item/%E8%B7%AF%E6%98%93%E4%B8%83%E4%B8%96?fromModule=lemma_inlink [Email Body](https://files.todoist.com/T5xUbFurzoIqapuQmrpQaVxnp5w7Lw4RI67pqpxQJnLWG1t4tRlQ_BaNw2lOkxRR/by/21878347/as/file.html)
+          
+          * 路易与埃莉诺离婚。埃莉诺转嫁给安茹伯爵亨利，当亨利于1154年成为英格兰国王亨利二世时，阿基坦也一道落入英国王室（金雀花王朝）手中。路易曾两次与亨利作战，未能夺回领地。此后卡佩王朝与金雀花王朝的争斗就从未终止。
+          
+          
+          
+          https://baike.baidu.com/item/%E8%B7%AF%E6%98%93%E4%B8%83%E4%B8%96?fromModule=lemma_inlink [Email Body](https://files.todoist.com/T5xUbFurzoIqapuQmrpQaVxnp5w7Lw4RI67pqpxQJnLWG1t4tRlQ_BaNw2lOkxRR/by/21878347/as/file.html)
     - 宗主教_百度百科
         - 当天主教和东正教分裂时，罗马的宗主教成为天主教的教皇，而君士坦丁堡的宗主教成为东正教名义上的首脑。在很多古老的东方教会中，宗主教实际上被称为大公牧首。并非全部15个东正教自主教会的领袖的称号都是牧首。实际上使用这一称号的自主教会领袖有9个，其他自主教会领袖的称号是都主教或大主教。
         - [原文链接](https://baike.baidu.com/item/%E5%AE%97%E4%B8%BB%E6%95%99/3852921?fromtitle=%E7%89%A7%E9%A6%96&fromid=4527124)

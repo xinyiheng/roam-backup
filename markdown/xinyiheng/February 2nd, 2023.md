@@ -91,7 +91,7 @@
         - #[[人工智能]] #[[ChatGPT]]#[[人工智能画画]]
         - 在本视频中，“Codex Community”将使用midjourney,生成网站设计，这是一种用于创建图像的AI艺术工具。然后，将跳到ChatGPT中为网站创建书面内容，最后将所有内容放在Editor X中，这是一个用于创建网站的无编码工具Nocode和人工智能辅助艺术必将成为未来！
         - midjourney：[原文链接](https://www.midjourney.com/) 
-Editor X:[原文链接](https://www.editorx.com/editor-x/codex)
+          Editor X:[原文链接](https://www.editorx.com/editor-x/codex)
         - [原文链接](https://www.bilibili.com/video/BV1od4y1p7P2/?spm_id_from=333.1007.tianma.3-2-8.click&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
     - 【2023年个人小众软件分享】免费+多平台+生产力工具
         - * 把bilibili打造成视频学习的助理网站。

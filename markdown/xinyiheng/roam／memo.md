@@ -78,7 +78,7 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 按照行业标准，台积电的晶圆产能为180万片，三星的晶圆产能为250万片，而格芯的晶圆产能只有70万片。
-#[[memo]]
+      #[[memo]]
         - [[September 29th, 2024]] 🟢
             - nextDueDate:: [[January 27th, 2025]]
             - eFactor:: 2.9000000000000004
@@ -331,7 +331,7 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 支持摩尔定律即将结束这一论断的最佳论据是，所有这些针对特定用途，甚至是针对单个公司的活动，正在取代英特尔过去半个世纪不断推出的强大微处理器所带来的“通用”计算。尼尔·汤普森(Neil Thompson)和斯文贾·斯潘努斯(SvenjaSpanuth)甚至认为，我们正在看到“计算机作为通用技术的衰落”。他们认为，未来的计算将分为“使用强大的定制芯片的‘快车道’应用和使用通用芯片的‘慢车道’应用，而通用芯片的进步会趋缓”。
-#[[memo]]
+      #[[memo]]
         - [[September 29th, 2024]] 🟢
             - nextDueDate:: [[January 27th, 2025]]
             - eFactor:: 2.9000000000000004
@@ -368,7 +368,7 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - The scholar's greatest weakness: calling procrastination research — Stephen King Share 
-#[[memo]]
+      #[[memo]]
         - [[April 17th, 2024]] 🔵
             - nextDueDate:: [[June 5th, 2025]]
             - eFactor:: 2.68
@@ -424,7 +424,7 @@
             - repetitions:: 0
             - grade:: 2
     - 有些很棒的工作流程和软件功能设置好之后就以为自己已经也做到很棒了，这真是一种愚蠢的错觉。
-#[[memo]]
+      #[[memo]]
         - [[November 23rd, 2023]] 🔵
             - nextDueDate:: [[December 8th, 2024]]
             - eFactor:: 2.8000000000000003

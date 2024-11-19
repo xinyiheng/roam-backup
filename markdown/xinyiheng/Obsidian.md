@@ -7,7 +7,7 @@
     4. 把微信读书中的标注同步到obsidian。利用obsidian中的weread插件。
     5. {{[[DONE]]}} 把obsidian变得更像notion。🗒@评论：虽然不算完美，但是可以在obsidian中固定一个notion tab，这样可以不用来回切换就可以看到notion中的内容。
     6. {{[[TODO]]}} obsidian和marginnote联动以及标注pdf
-[Obsidian与Marginnote 3互通联动 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/5356/7)
+       [Obsidian与Marginnote 3互通联动 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/5356/7)
     7. {{[[TODO]]}} 更多使用卡片视图
         - 一个新的主题，可以用卡片的形式展示笔记，我还没时间折腾。#[[卡片笔记]]
             - Via[kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) [[20220114]] 下午10:59
@@ -26,7 +26,7 @@
         - obsidian主题设置 - 少数派  https://sspai.com/post/66281 
             - @评论:下载了主题之后，可以在文件夹里找到css文件，然后找到字体字段修改就可以了。我使用的字体是从typora找到的"PT Serif"
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FeWU5Y7lapY.png?alt=media&token=8964683c-5314-4b94-b904-3418ae3cfb7b)
-
+              
     13. 如何修改obsidian 上[[excalidraw]]插件的字体？
         - Obsidian 的 Excalidraw 插件自定义中文字体Via[Obsidian 的 Excalidraw 插件自定义中文字体](https://www.uncoverman.com/excalidraw-plguin-in-obsidian-support-font-custom.html) [[20220413]] 17:11
     14. 建立并发布个人网站。[[Obsidian]]也可以，我看[[指导员吴刚]]就自己建立了一个网站
@@ -44,7 +44,7 @@
     - 幕布最近(2021年02月18日)又更新了一些功能https://mubu.com/doc/explore/40981，新增加了文档引用功能，可以生成类似graph图的视图。但是这一功能还比较初级，只是看起来像obsidian而已。
 - #[[参考资料]]
     - obsidian@评论:官方参考资料，用graph图展示
-via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/Index)
-[[20201231]] 下午12:11
+      via[Index - Obsidian Help - Obsidian Publish](https://publish.obsidian.md/help/Index)
+      [[20201231]] 下午12:11
     - 快速开始 Via[由此开始 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B) [[20220114]] 下午11:43 @评论:这个帮助文档做的太棒了。我的知识管理体系其实很大程度上就是要做成这样。#[[知识管理]] [[hongse]]
     - 少数派上的文章一览https://sspai.com/search/post/obsidian

@@ -1,7 +1,7 @@
 - 我是如何使用keyboard maestro从mac电脑不同的位置向[[Roam Research]]搬运内容并自动生成链接的？@评论:受到[[john15263]]设计的little john的启发。
     - 实现了终极完美的阅读笔记功能，可以在浏览器阅读，把选中的内容直接复制到
-[[Roam Research]]中，然后还带着url链接。主要使用的软件是[[keyboard maestro]]，只使用了一点简单的[[Applescript]]脚本。#[[软件联动]]用[[BetterTouchToo]]设置了在[[触控板]]双指向左滑动就可以启动的#[[快捷方式]]然后还带着url链接。最困难的部分是怎样在roam research当中新建一个条目，最初的想法是用keyboard maestro当中的find image and click 的功能，这样准确率还可以，但是很难提高到100%。我后来想到可以查看roam resaerch当中的快捷键，发现有一个快捷方式可以快速跳转到最新的一个条目，一下豁然开朗。可以用模拟某个软件快捷按键的方式来实现很多功能。
-#[[阅读管理]]
+      [[Roam Research]]中，然后还带着url链接。主要使用的软件是[[keyboard maestro]]，只使用了一点简单的[[Applescript]]脚本。#[[软件联动]]用[[BetterTouchToo]]设置了在[[触控板]]双指向左滑动就可以启动的#[[快捷方式]]然后还带着url链接。最困难的部分是怎样在roam research当中新建一个条目，最初的想法是用keyboard maestro当中的find image and click 的功能，这样准确率还可以，但是很难提高到100%。我后来想到可以查看roam resaerch当中的快捷键，发现有一个快捷方式可以快速跳转到最新的一个条目，一下豁然开朗。可以用模拟某个软件快捷按键的方式来实现很多功能。
+      #[[阅读管理]]
         - 用法示例
             - 在[[得到电子书]]app网页版阅读书籍
                 - 生活中有很多小道理，你如果不满足于一次就事论事，能把这个道理给提炼出来，取个名字，就更容易推而广之，成为一个有力的工具。比如我一说“唇亡齿寒”、“酸葡萄”，你马上就知道是什么意思，这些名词相当于是把思维套路给封装起来，方便使用。#[[常识]]
@@ -52,42 +52,42 @@
     - 用 Keyboard Maestro 做一个文本格式转换工具箱keyboard maestro
     - via[用 Keyboard Maestro 做一个文本格式转换工具箱 - 少数派](https://sspai.com/post/56851)
     - 以 Word 为例，让你更快入门 Keyboard Maestro
--via[以 Word 为例，让你更快入门 Keyboard Maestro - 少数派](https://sspai.com/post/44091)
+      -via[以 Word 为例，让你更快入门 Keyboard Maestro - 少数派](https://sspai.com/post/44091)
     - 用 Keyboard Maestro 实现剪贴板顺序粘贴
--via[用 Keyboard Maestro 实现剪贴板顺序粘贴 - 少数派](https://sspai.com/post/56648)
+      -via[用 Keyboard Maestro 实现剪贴板顺序粘贴 - 少数派](https://sspai.com/post/56648)
         - Keyboard Maestro 中的 Palette（浮窗）就可以作为顺序粘贴模式的开关。我们可以把动作放在一个专门的组（Group）里面，只有先呼出包含这组动作的 Palette，才会激活顺序拷贝和粘贴的动作，不影响日常使用 ⌘Command-C 和 ⌘Command-V。
-具体设置是，两个动作放在同一个组里，组设置为「Shows/hides a palette when: The hot key 你喜欢的快捷键 is pressed」，并且勾选「Display when toggled」，这样每次复制/粘贴后 Palette 不至于自动消失，你可以放心地连续拷贝数据。
-via[用 Keyboard Maestro 实现剪贴板顺序粘贴 - 少数派](https://sspai.com/post/56648)
-[[20201211]] 上午7:07
+          具体设置是，两个动作放在同一个组里，组设置为「Shows/hides a palette when: The hot key 你喜欢的快捷键 is pressed」，并且勾选「Display when toggled」，这样每次复制/粘贴后 Palette 不至于自动消失，你可以放心地连续拷贝数据。
+          via[用 Keyboard Maestro 实现剪贴板顺序粘贴 - 少数派](https://sspai.com/post/56648)
+          [[20201211]] 上午7:07
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FSuWZKXmP8Y.png?alt=media&token=2ee2a7ae-174b-44ac-b7ad-8018246a3323)
         - 在追加文本部分，我们用到了两个 Keyboard Maestro 内置变量，它们是 %SystemClipboard%（系统剪贴板）和 %LineFeed%（换行符号）。自己制作或编辑动作时，在任何支持使用变量的地方（几乎所有文本框）都可以通过「Insert Token」来插入变量。
-via[用 Keyboard Maestro 实现剪贴板顺序粘贴 - 少数派](https://sspai.com/post/56648)
-[[20201211]] 上午7:13
+          via[用 Keyboard Maestro 实现剪贴板顺序粘贴 - 少数派](https://sspai.com/post/56648)
+          [[20201211]] 上午7:13
         - 我已经从github下载了别人设置好的macro，还没有开始使用。
         - 到此为止，剩下的事情就是在变量中尚有内容时，如何解决依次取用和删除用过的内容两大问题。本文动作通过一段 AppleScript 脚本和一条正则表达式分别解决了两个难点：
-用 AppleScript 提取第一行：提取第一行文本并且拷贝到剪贴板。AppleScript 也有删除文本的功能，但是它对于换行符号的处理不佳，会造成 Keyboard Maestro 无法对 AppleScript 处理过的文本正确分行，所以我们用下面的方法完成文本删除。
-用正则表达式删除第一行：删除的要求是只删用过的第一行，这个需求可以通过表达式 ^.*[\n\r] 完成，它表示「从文本开头到第一次换行」，也就是第一行，把这个表达式表示的内容替换成空白即是删除。这正则技巧来自 Keyboard Maestro 论坛上的一则讨论（Remove the top line of a text file or variable）。
-via[用 Keyboard Maestro 实现剪贴板顺序粘贴 - 少数派](https://sspai.com/post/56648)
-[[20201211]] 上午7:23
+          用 AppleScript 提取第一行：提取第一行文本并且拷贝到剪贴板。AppleScript 也有删除文本的功能，但是它对于换行符号的处理不佳，会造成 Keyboard Maestro 无法对 AppleScript 处理过的文本正确分行，所以我们用下面的方法完成文本删除。
+          用正则表达式删除第一行：删除的要求是只删用过的第一行，这个需求可以通过表达式 ^.*[\n\r] 完成，它表示「从文本开头到第一次换行」，也就是第一行，把这个表达式表示的内容替换成空白即是删除。这正则技巧来自 Keyboard Maestro 论坛上的一则讨论（Remove the top line of a text file or variable）。
+          via[用 Keyboard Maestro 实现剪贴板顺序粘贴 - 少数派](https://sspai.com/post/56648)
+          [[20201211]] 上午7:23
     - 在Keyboard Maestro中替换空行
-via[在Keyboard Maestro中替换空行 - 简书](https://www.jianshu.com/p/b25bdde6e5c6)
-[[20201211]] 上午9:03
+      via[在Keyboard Maestro中替换空行 - 简书](https://www.jianshu.com/p/b25bdde6e5c6)
+      [[20201211]] 上午9:03
     - keybaord maestro自带的[[正则表达式]]说明
         - Regular Expressions (RegEx)
-via[Regular Expressions -Keyboard Maestro Wik](https://wiki.keyboardmaestro.com/Regular_Expressions?s[]=regular)
-[[20201211]] 上午9:06
+          via[Regular Expressions -Keyboard Maestro Wik](https://wiki.keyboardmaestro.com/Regular_Expressions?s[]=regular)
+          [[20201211]] 上午9:06
     - 用 Keyboard Maestro 托拽整理文件
--via[用 Keyboard Maestro 托拽整理文件 - 少数派](https://sspai.com/post/44429)
+      -via[用 Keyboard Maestro 托拽整理文件 - 少数派](https://sspai.com/post/44429)
     - 帮我打造 OmniFocus 工作流的得力助手：「模板脚本」的使用分享 | 2016 与我的数字生活
--via[帮我打造 OmniFocus 工作流的得力助手：「模板脚本」的使用分享 | 2016 与我的数字生活 - 少数派](https://sspai.com/post/36927)
+      -via[帮我打造 OmniFocus 工作流的得力助手：「模板脚本」的使用分享 | 2016 与我的数字生活 - 少数派](https://sspai.com/post/36927)
     - 如何更方便地启用 macOS 菜单栏功能
--via[如何更方便地启用 macOS 菜单栏功能 - 少数派](https://sspai.com/post/46169)
+      -via[如何更方便地启用 macOS 菜单栏功能 - 少数派](https://sspai.com/post/46169)
     - 用 Keyboard Maestro 自动开启「生活模式」
--via[用 Keyboard Maestro 自动开启「生活模式」 - 少数派](https://sspai.com/post/42322)
+      -via[用 Keyboard Maestro 自动开启「生活模式」 - 少数派](https://sspai.com/post/42322)
     - 如何用语音控制电脑
--via[如何用语音控制电脑 - 少数派](https://sspai.com/post/45630)
+      -via[如何用语音控制电脑 - 少数派](https://sspai.com/post/45630)
     - Automator 简单介绍及入门玩法 | Matrix 精选
--via[Automator 简单介绍及入门玩法 | Matrix 精选 - 少数派](https://sspai.com/post/36667)
+      -via[Automator 简单介绍及入门玩法 | Matrix 精选 - 少数派](https://sspai.com/post/36667)
     - keyboard maestro
         - 🦩[Latest topics - Keyboard Maestro Discourse](https://forum.keyboardmaestro.com/latest) @评论:官方论坛
         - [Keyboard Maestro 9.2: Work Faster with Macros for macOS](https://www.keyboardmaestro.com/main/#Pricing)

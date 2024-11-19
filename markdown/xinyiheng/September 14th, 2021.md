@@ -9,4 +9,4 @@
 - 中午用识花君扫描院子里的一些花，回来之后在网上搜索可以查看花的网站，觉得一些研究机构的植物数据库不如一些图片网站，首先是界面美观，提供一些平时没有见过的花卉，才能激发进一步了解的兴趣。
 - 阅读《不会切蛋糕的孩子》
 - > The best thing about the future is that it only comes one day at a time.
-[[Abraham Lincoln]]
+  [[Abraham Lincoln]]

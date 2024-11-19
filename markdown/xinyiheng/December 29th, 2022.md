@@ -58,7 +58,7 @@
             - 方法2：在同一清单内，如果采用列表视图，那么就可以通过拖拽来把一个任务放到另一任务下面;如果采用的是看板视图，那么最好把主任务和子任务放到同一个colume，这样就可以直接拖拽，如果不在同一个colume中，那么就要先拖到一个colume再进行二次拖拽，比较麻烦。我主要是希望用滴答清单来跟踪工作中的任务，可以把一些近期频繁添加子任务的主任务放到工作计划的收件箱中，这样新增的子任务就可以和主任务关联起来了。
         - 怎样快速向滴答清单指定清单添加任务
             - ~清单名称+两个空格+任务名称，这样就可以直接在新建任务的时候就放到指定清单中。🗒@评论:已经完善了，我设置了keyboard maestro快捷方式，可以快速地向指定清单内添加任务。
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fa86Ky8lwZp.png?alt=media&token=9cc4a901-c854-46cd-80a7-29e45ee11aba)
+              ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fa86Ky8lwZp.png?alt=media&token=9cc4a901-c854-46cd-80a7-29e45ee11aba)
         - 快速导出当日摘要
         - 快速使用番茄时间
         - 快速搜索滴答清单任务

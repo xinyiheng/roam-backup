@@ -9,7 +9,7 @@
         - 认知网络协议Via[Cognitive Network Protocol | Nodus Labs](https://noduslabs.com/research/cognitive-network-protocol/) [[20210112]] 下午11:16
     - 以上是一个“认知协议”，什么是认知协议？
 - Generate Insight using  [[Infranodus]]
-Text Network Analysis
-via[InfraNodus: Generate Insight Using Text Network Analsysis](https://infranodus.com/#usecases)
-[[20201231]] 下午12:42
+  Text Network Analysis
+  via[InfraNodus: Generate Insight Using Text Network Analsysis](https://infranodus.com/#usecases)
+  [[20201231]] 下午12:42
 - 

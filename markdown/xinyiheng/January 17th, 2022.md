@@ -1,9 +1,9 @@
 - roam/sr/review
     - 目前的实际情况😀😀😀😀1）目前的货币基金和短期理财基金采用的是摊余成本法，所以大家会发现最近类似余额宝之类的产品收益一度下降，但仍然是正收益；😀😀😀😀2）债券型基金采用的是市值法，所以会出现有涨有跌的情况，当然基金公司都会尽量控制回撤；😀😀😀😀3）按照资管新规的要求，货币基金和短期理财基金长期来看也要回归到净值化，到时候可能就会出现买货币基金也是亏的，但目前的情况是存量的货币基金还是摊余成本法，大家不用担心；倒是短期理财基金各个基金公司正在整改，部分会转型成短债基金；😀😀😀😀4）不是说摊余成本法一定不能用，如果投资策略是^^持有至到期^^策略，且^^定开^^发行，且资金端定开的^^封闭期^^与投资端的^^久期^^匹配度符合条件，就还是可以发行的。Via[基金小讲|债券估值：市值法与摊余成本法 - 知乎](https://zhuanlan.zhihu.com/p/75447900)[[20210711]] 下午4:22  #[[r/4]]
     - CRAAP
- #[[r/4]]
+       #[[r/4]]
     - 按照麻豆学习的内容更新软木板上的材料，这样可以展示我们对于麻豆学习内容的了解。
-#[[育儿]] #[[r/4]]
+      #[[育儿]] #[[r/4]]
 - roam/sr/review
 - 一个用 Roam Research 践行卡片笔记「写在写先」的例子Via[一个用 Roam Research 践行卡片笔记「写在写先」的例子_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Cu41127S6?p=1&share_medium=android&share_plat=android&share_session_id=526ce074-204e-4f05-893f-23914d5d9bf1&share_source=GENERIC&share_tag=s_i&timestamp=1642344847&unique_k=WRfadDX) [[20220117]] 上午9:29
     - 有意识的关联和无意识的关联(unlinked)
@@ -47,7 +47,7 @@
     - 技能、阅读、人际 粉色 #[[技能]] #[[阅读]] #[[人际]]
     - 尽量挖掘出每一篇阅读背后的意义。在阅读的时候带着问题去读，这样才更容易输出内容。#[[阅读]]#[[写作]] {{[[∆]]:1+2}}
     - 尽量挖掘出每一篇阅读背后的意义。在阅读的时候带着问题去读，这样才更容易输出内容。
-#[[阅读]]#[[写作]] #[[提问]]
+      #[[阅读]]#[[写作]] #[[提问]]
     - #[[srs/cloze]]我对于不同的行业有很强的好奇心，与其[[阅读]]财经新闻，不如直接阅读{c1:研报}，先对行业有一个整体的认知之后，其他细节可以后续补充，我觉得可以把pinbox和比较好的研报网站的链接地址放到我的知识管理系统中，这样就比较系统化。印象笔记现在看来已经成为了我快速摄入行业信息的瓶颈。
     - 我目前在ipad上有三种感觉不错的[[阅读批注]]的方式#[[阅读]]
     - 先[[搜索]]再[[阅读]] {{[[∆]]:1+2}}
@@ -55,38 +55,38 @@
     - 我把所有的增强插件都集合整理在[[Roam插件]]这个page下了
     - Hymn 30 - [[Isaac Watts]]
         - Prayer for deliverance answered.
-
-Isa. 26:12,20,21. 
-
-In thine own ways, O God of love,
-We wait the visits of thy grace,
-Our soul's desire is to thy name,
-And the remembrance of thy face.
-
-My thoughts are searching, Lord, for thee
-'Mongst the black shades of lonesome night;
-My earnest cries salute the skies
-Before the dawn restore the light.
-
-Look, how rebellious men deride
-The tender patience of my God!
-But they shall see thy lifted hand,
-And feel the scourges of thy rod.
-
-Hark! the Eternal rends the sky,
-A mighty voice before him goes;
-A voice of music to his friends,
-But threat'ning thunder to his foes.
-
-Come, children, to your Father's arms,
-Hide in the chambers of my grace,
-Till the fierce storms be overblown,
-And my revenging fury cease.
-
-My sword shall boast its thousands slain,
-And drink the blood of haughty kings,
-While heav'nly peace around my flock
-Stretches its soft and shady wings.
+          
+          Isa. 26:12,20,21. 
+          
+          In thine own ways, O God of love,
+          We wait the visits of thy grace,
+          Our soul's desire is to thy name,
+          And the remembrance of thy face.
+          
+          My thoughts are searching, Lord, for thee
+          'Mongst the black shades of lonesome night;
+          My earnest cries salute the skies
+          Before the dawn restore the light.
+          
+          Look, how rebellious men deride
+          The tender patience of my God!
+          But they shall see thy lifted hand,
+          And feel the scourges of thy rod.
+          
+          Hark! the Eternal rends the sky,
+          A mighty voice before him goes;
+          A voice of music to his friends,
+          But threat'ning thunder to his foes.
+          
+          Come, children, to your Father's arms,
+          Hide in the chambers of my grace,
+          Till the fierce storms be overblown,
+          And my revenging fury cease.
+          
+          My sword shall boast its thousands slain,
+          And drink the blood of haughty kings,
+          While heav'nly peace around my flock
+          Stretches its soft and shady wings.
     - No. 1 #decision-journal
         - `Time: 12:15 PM`
         - Decision:
@@ -110,7 +110,7 @@ Stretches its soft and shady wings.
     - {{[[DONE]]}} 19年の新エネ車の乗用車の販売台数は前年比4%増の110万台。BYDは3.9%減の22万台に落ち込んだが、国内シェアは20%を維持した。 [nikkei.com](https://www.nikkei.com/article/DGXMZO55846060Z10C20A2XR1000)
     - {{[[DONE]]}} 阅读豆瓣上关于日本的书籍的书评，也是了解读者心理的直观方法，我之前为什么就没有想到这个方法呢？
     - {{[[TODO]]}} 整合经常浏览的各大网站对于我感兴趣的事件的标签
-#问题
+      #问题
     - {{[[TODO]]}} This is a todo
     - {{[[TODO]]}} This is a todo
     - {{[[TODO]]}} This is a todo

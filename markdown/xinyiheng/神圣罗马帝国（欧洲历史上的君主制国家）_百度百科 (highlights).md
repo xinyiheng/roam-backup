@@ -7,11 +7,11 @@
     - 西罗马帝国虽然于476年瓦解，其皇帝被[西哥特人](/item/%E8%A5%BF%E5%93%A5%E7%89%B9%E4%BA%BA/7474116?fromModule=lemma_inlink)废黜。然而[罗马人](/item/%E7%BD%97%E9%A9%AC%E4%BA%BA/8559990?fromModule=lemma_inlink)在[巴黎](/item/%E5%B7%B4%E9%BB%8E/858?fromModule=lemma_inlink)地区的统治一直持续到486年。那一年日耳曼民族的一支[法兰克人](/item/%E6%B3%95%E5%85%B0%E5%85%8B%E4%BA%BA/4581025?fromModule=lemma_inlink)的某部首领克洛维彻底打败了罗马人，建立了法兰克王国[墨洛温王朝](/item/%E5%A2%A8%E6%B4%9B%E6%B8%A9%E7%8E%8B%E6%9C%9D/3153590?fromModule=lemma_inlink)。
     - 800年，查理曼在罗马礼拜时被教皇[利奥三世](/item/%E5%88%A9%E5%A5%A5%E4%B8%89%E4%B8%96/3624645?fromModule=lemma_inlink)加冕为“罗马人的皇帝”，整个法兰克王国也被称为[查理曼帝国](/item/%E6%9F%A5%E7%90%86%E6%9B%BC%E5%B8%9D%E5%9B%BD/3447990?fromModule=lemma_inlink)。西罗马帝国就此以皇位转移至法兰克国王的形式复辟。
     - **三十年战争**
-[![神圣罗马帝国晚期大解体](https://bkimg.cdn.bcebos.com/pic/5ab5c9ea15ce36d3d5390bceb9b82d87e950342a1bb3?x-bce-process=image/resize,m_lfit,w_440,limit_1)](/pic/%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD/677929/0/5ab5c9ea15ce36d3d5390bceb9b82d87e950342a1bb3?fr=lemma&fromModule=lemma_content-image&ct=single "神圣罗马帝国晚期大解体")
-
-神圣罗马帝国晚期大解体
-
-1618年6月26日，当时神圣罗马帝国境内有390个公国、侯国、宗教贵族领地、自由邦、自由城市、骑士领地等。对于哈布斯堡奥地利在帝国内部重振皇权政策的反感，以及因为宗教改革造成的占诸侯大多数的新教诸候对天主教皇帝的敌视，最终引发了[三十年战争](/item/%E4%B8%89%E5%8D%81%E5%B9%B4%E6%88%98%E4%BA%89/1202742?fromModule=lemma_inlink)。三十年战争使得[德意志](/item/%E5%BE%B7%E6%84%8F%E5%BF%97/4432611?fromModule=lemma_inlink)地区的经济倒退了近200年，犹如回到了[农奴制](/item/%E5%86%9C%E5%A5%B4%E5%88%B6/1542619?fromModule=lemma_inlink)的封建时代；又因为《[威斯特伐利亚和约](/item/%E5%A8%81%E6%96%AF%E7%89%B9%E4%BC%90%E5%88%A9%E4%BA%9A%E5%92%8C%E7%BA%A6/1299333?fromModule=lemma_inlink)》，神圣罗马帝国内的诸侯可享有自主权。这使得皇权进一步的被削弱，帝国境内的诸侯各自为政，他们的领地有如一个独立的王国。
+      [![神圣罗马帝国晚期大解体](https://bkimg.cdn.bcebos.com/pic/5ab5c9ea15ce36d3d5390bceb9b82d87e950342a1bb3?x-bce-process=image/resize,m_lfit,w_440,limit_1)](/pic/%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD/677929/0/5ab5c9ea15ce36d3d5390bceb9b82d87e950342a1bb3?fr=lemma&fromModule=lemma_content-image&ct=single "神圣罗马帝国晚期大解体")
+      
+      神圣罗马帝国晚期大解体
+      
+      1618年6月26日，当时神圣罗马帝国境内有390个公国、侯国、宗教贵族领地、自由邦、自由城市、骑士领地等。对于哈布斯堡奥地利在帝国内部重振皇权政策的反感，以及因为宗教改革造成的占诸侯大多数的新教诸候对天主教皇帝的敌视，最终引发了[三十年战争](/item/%E4%B8%89%E5%8D%81%E5%B9%B4%E6%88%98%E4%BA%89/1202742?fromModule=lemma_inlink)。三十年战争使得[德意志](/item/%E5%BE%B7%E6%84%8F%E5%BF%97/4432611?fromModule=lemma_inlink)地区的经济倒退了近200年，犹如回到了[农奴制](/item/%E5%86%9C%E5%A5%B4%E5%88%B6/1542619?fromModule=lemma_inlink)的封建时代；又因为《[威斯特伐利亚和约](/item/%E5%A8%81%E6%96%AF%E7%89%B9%E4%BC%90%E5%88%A9%E4%BA%9A%E5%92%8C%E7%BA%A6/1299333?fromModule=lemma_inlink)》，神圣罗马帝国内的诸侯可享有自主权。这使得皇权进一步的被削弱，帝国境内的诸侯各自为政，他们的领地有如一个独立的王国。
 - ### New highlights added [[April 11th, 2023]] at 11:49 AM
     - 1356年，[查理四世](/item/%E6%9F%A5%E7%90%86%E5%9B%9B%E4%B8%96/9816436?fromModule=lemma_inlink)颁布[金玺诏书](/item/%E9%87%91%E7%8E%BA%E8%AF%8F%E4%B9%A6/5697739?fromModule=lemma_inlink)，确认皇帝须由七大[选帝侯](/item/%E9%80%89%E5%B8%9D%E4%BE%AF/1556347?fromModule=lemma_inlink)推选。在帝国中后期，[奥地利大公国](/item/%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%A4%A7%E5%85%AC%E5%9B%BD/18596588?fromModule=lemma_inlink)的[哈布斯堡王朝](/item/%E5%93%88%E5%B8%83%E6%96%AF%E5%A0%A1%E7%8E%8B%E6%9C%9D/436058?fromModule=lemma_inlink)通过皇室联姻和金钱贿赂，长期垄断神圣罗马帝国皇位长达400年之久，奥地利的首都[维也纳](/item/%E7%BB%B4%E4%B9%9F%E7%BA%B3/6412?fromModule=lemma_inlink)也成为帝国的实际上的首都。
     - 1356年，[查理四世](/item/%E6%9F%A5%E7%90%86%E5%9B%9B%E4%B8%96/9816436?fromModule=lemma_inlink)颁布[金玺诏书](/item/%E9%87%91%E7%8E%BA%E8%AF%8F%E4%B9%A6/5697739?fromModule=lemma_inlink)，确认皇帝须由七大[选帝侯](/item/%E9%80%89%E5%B8%9D%E4%BE%AF/1556347?fromModule=lemma_inlink)推选。在帝国中后期，[奥地利大公国](/item/%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%A4%A7%E5%85%AC%E5%9B%BD/18596588?fromModule=lemma_inlink)的[哈布斯堡王朝](/item/%E5%93%88%E5%B8%83%E6%96%AF%E5%A0%A1%E7%8E%8B%E6%9C%9D/436058?fromModule=lemma_inlink)通过皇室联姻和金钱贿赂，长期垄断神圣罗马帝国皇位长达400年之久，奥地利的首都[维也纳](/item/%E7%BB%B4%E4%B9%9F%E7%BA%B3/6412?fromModule=lemma_inlink)也成为帝国的实际上的首都。
@@ -25,7 +25,7 @@
     - 神圣罗马帝国早期三个王朝时期，由于皇帝基本上都以日耳曼五大部落公爵的身份登基，以及与罗马教廷的合作关系而维持了帝国内部稳定。在腓特烈二世采取重意大利轻德意志政策后，皇帝在德意志的权力威望逐渐衰落，而沦为与一般德意志诸侯无异的小领主。随着腓特烈二世的去世，此前的政策倾斜以及与教廷关系破产造成的潜在危险因为缺乏有能力的皇帝而一次性爆发。经历了大空位时代以后，到了12世纪至13世纪期间，皇帝只能靠家族力量以政治手段和联姻取得王位和帝位，缺乏强大的王室领地作为税收来源和王权扩张的基础，对于皇帝名义上可向帝国内成员收取的只有定额军事征收税，这种松散的政治[邦联](/item/%E9%82%A6%E8%81%94/7176328?fromModule=lemma_inlink)形态在[三十年战争](/item/%E4%B8%89%E5%8D%81%E5%B9%B4%E6%88%98%E4%BA%89/1202742?fromModule=lemma_inlink)中被彻底摧毁。
 - ### New highlights added [[April 13th, 2023]] at 12:21 AM
     - ### 国歌
-
-
-
-《天佑吾皇弗朗茨》（德语：Gott erhalte Franz den Kaiser），又称帝皇颂（Österreichische Kaiserhymne）是神圣罗马帝国（1797～1806年）、[奥地利帝国](/item/%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%B8%9D%E5%9B%BD/9932051?fromModule=lemma_inlink)（1804～1867）及[奥匈帝国](/item/%E5%A5%A5%E5%8C%88%E5%B8%9D%E5%9B%BD/730396?fromModule=lemma_inlink)（1867～1918）的国歌。作曲者[约瑟夫·海顿](/item/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E6%B5%B7%E9%A1%BF/2914442?fromModule=lemma_inlink)，作词者Lorenz Leopold Haschka。首演于1797年2月12日，这一天是神圣罗马帝国末代皇帝[弗朗茨二世](/item/%E5%BC%97%E6%9C%97%E8%8C%A8%E4%BA%8C%E4%B8%96/3753738?fromModule=lemma_inlink)诞辰。这首歌的曲调仍被德国国歌《[德意志之歌](/item/%E5%BE%B7%E6%84%8F%E5%BF%97%E4%B9%8B%E6%AD%8C/7134557?fromModule=lemma_inlink)》沿用。
+      
+      
+      
+      《天佑吾皇弗朗茨》（德语：Gott erhalte Franz den Kaiser），又称帝皇颂（Österreichische Kaiserhymne）是神圣罗马帝国（1797～1806年）、[奥地利帝国](/item/%E5%A5%A5%E5%9C%B0%E5%88%A9%E5%B8%9D%E5%9B%BD/9932051?fromModule=lemma_inlink)（1804～1867）及[奥匈帝国](/item/%E5%A5%A5%E5%8C%88%E5%B8%9D%E5%9B%BD/730396?fromModule=lemma_inlink)（1867～1918）的国歌。作曲者[约瑟夫·海顿](/item/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E6%B5%B7%E9%A1%BF/2914442?fromModule=lemma_inlink)，作词者Lorenz Leopold Haschka。首演于1797年2月12日，这一天是神圣罗马帝国末代皇帝[弗朗茨二世](/item/%E5%BC%97%E6%9C%97%E8%8C%A8%E4%BA%8C%E4%B8%96/3753738?fromModule=lemma_inlink)诞辰。这首歌的曲调仍被德国国歌《[德意志之歌](/item/%E5%BE%B7%E6%84%8F%E5%BF%97%E4%B9%8B%E6%AD%8C/7134557?fromModule=lemma_inlink)》沿用。

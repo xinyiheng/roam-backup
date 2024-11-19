@@ -12,7 +12,7 @@
 - #[[阅读]] 在阅读书籍的环节会添加主题标签，在整理一个主题的时候也会想到把一些相关的参考书籍列为参考，两种方式如何做到不重不漏？我在整理自己知识体系的时候，考虑到自己的使用场景，让呈现方式更方便我理解和思考，这也是[[信息设计]]的体现。
 - 穆里尔·库珀(Muriel Cooper)被称为20世纪最有影响力的设计师之一，她的作品，以及她在麻省理工学院媒体实验室的可视语言工作室极大地帮助了我们构建当代的数字体验。Via[信息设计](marginnote3app://note/37F750A2-414B-4E43-9DFC-23E06B1FD6A2)[[20220221]] 上午10:43
 - 然而，我们现在所熟知的互联网概念是在I989年由提姆·博纳斯一李(Tim Berners- Lee)开发的。他是一名在欧洲原子核研究组织(CERN,the European Organization for Nuclear Research;源自法文Conseil Europeen pour la Recherche Nucleaire)工作的物理学家。博纳斯一李提议将超文本（植入在屏幕文本中让使用者连接到其他的文件或文件夹的链接)连接到互联网上，这样研究者可以更快地交流信息。随后一名CERN的系统工程师罗伯特·卡约(Robert Cailliau)与他合作，两人在一台NeXT电脑上共同创建了第一个网页浏览器、编辑程序、服务器和网页。他们也创造了“万维网”(World Wide Web)这个概念。
-第一个网址是http://info.cern.ch/hypertext/, WWW/TheProject.html,该网页向人们解释了网络科技，教用户如何创建网站，以及如何有效查找信息。他们意识到当时CERN使用Via[信息设计](marginnote3app://note/3E0A174A-6DB0-48BC-94AC-27A144793102)[[20220221]] 上午10:46
+  第一个网址是http://info.cern.ch/hypertext/, WWW/TheProject.html,该网页向人们解释了网络科技，教用户如何创建网站，以及如何有效查找信息。他们意识到当时CERN使用Via[信息设计](marginnote3app://note/3E0A174A-6DB0-48BC-94AC-27A144793102)[[20220221]] 上午10:46
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FD8F1DIezZB.png?alt=media&token=56c7906c-fba9-4172-8e28-714641061dd1)
 - 观看《互联网时代》，文案真是不错。#[[文案]]
 - 你在何处，你都在网上;你孤身一人，你都在世界的中央。#[[文案]]

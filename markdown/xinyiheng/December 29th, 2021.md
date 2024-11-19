@@ -1,23 +1,23 @@
 - 其實，重要的判斷很簡單，一件事情被充分的完成，甚至超乎期待的完成，那件事情就會變成重要的事情。
-
-[marginnote3app://note/6EE08282-3055-4C37-B53B-573A58145B6E](marginnote3app://note/6EE08282-3055-4C37-B53B-573A58145B6E)
+  
+  [marginnote3app://note/6EE08282-3055-4C37-B53B-573A58145B6E](marginnote3app://note/6EE08282-3055-4C37-B53B-573A58145B6E)
 - 首先，面對第一個關鍵錯誤，我已經沒時間了，所以我決定捨棄追新聞、追話題的寫作方式，回歸我自己工作上遇到的效率問題，回歸我自己需要的工具問題，把這些問題變成我的題材，一邊工作解決問題，就可以一邊研究。這就是讓寫作目標，跟我日常的工作、生活目標可以重疊互補。
-
-[marginnote3app://note/6E0AC828-B9EC-4B76-B5E5-BF3F7F4EA2E7](marginnote3app://note/6E0AC828-B9EC-4B76-B5E5-BF3F7F4EA2E7)
+  
+  [marginnote3app://note/6E0AC828-B9EC-4B76-B5E5-BF3F7F4EA2E7](marginnote3app://note/6E0AC828-B9EC-4B76-B5E5-BF3F7F4EA2E7)
 - 第一個關鍵錯誤，因為時間變少的焦慮，反而讓我想要去找到更多有趣、厲害的文章題目，於是常常在早起的時候，午休的空檔，上網東研究、西研究，想要找一個更好的題目，但最後發現，這樣一來，我真正可以用來寫文章，產出真正內容的時間，反而變得更少了！這也引發了一個惡性循環，我開始會利用一些不該利用的時間，占用到其他的目標計畫。
-
-[marginnote3app://note/9FCF6B0D-8E83-4CC3-9F61-933AF3A73AD6](marginnote3app://note/9FCF6B0D-8E83-4CC3-9F61-933AF3A73AD6)
+  
+  [marginnote3app://note/9FCF6B0D-8E83-4CC3-9F61-933AF3A73AD6](marginnote3app://note/9FCF6B0D-8E83-4CC3-9F61-933AF3A73AD6)
 - 第二個關鍵錯誤，因為想要保持原本的寫作計畫，維持一天一篇文章的產量，我開始寫一些比較速成的文章，或是有時寫得還不夠深入就發文，導致許多文章沒有真正充分完成，失去了我原本那種深入研究、完整分析的文章品質。
-
-[marginnote3app://note/9D8AC60A-972C-4D1C-9D2E-ED5714944997](marginnote3app://note/9D8AC60A-972C-4D1C-9D2E-ED5714944997)
+  
+  [marginnote3app://note/9D8AC60A-972C-4D1C-9D2E-ED5714944997](marginnote3app://note/9D8AC60A-972C-4D1C-9D2E-ED5714944997)
 - 一開始，我犯了兩個時間管理的關鍵錯誤。
-
-[marginnote3app://note/68906714-C0A5-44E2-9017-1078DF3F09D2](marginnote3app://note/68906714-C0A5-44E2-9017-1078DF3F09D2)
+  
+  [marginnote3app://note/68906714-C0A5-44E2-9017-1078DF3F09D2](marginnote3app://note/68906714-C0A5-44E2-9017-1078DF3F09D2)
 - 讓我來說說自己之前發生過的
-
+  
 -  たとえすぐには上手に使えなくても、どういうシチュエーションでどういう言葉を選べばいいのかわかっているので、あとは実地で経験を積めばうまく使いこなせるようになるでしょう。そういう状態にまで持っていってあげるのは、子どもが社会に出る前に親がやってあげたい最低限のことだと思います。
-
-[marginnote3app://note/38BE1CE7-7D7E-4BC8-9E91-3E745B7AEB7D](marginnote3app://note/38BE1CE7-7D7E-4BC8-9E91-3E745B7AEB7D)
+  
+  [marginnote3app://note/38BE1CE7-7D7E-4BC8-9E91-3E745B7AEB7D](marginnote3app://note/38BE1CE7-7D7E-4BC8-9E91-3E745B7AEB7D)
 - 昨天骑行超过一小时，30公里左右。功率是降下来了，但是考虑到身体状态，还是非常值得鼓励。
 - 昨天给张旭的书用marginnote做好了思维导图，获得了很多称赞。虽然这件事对我来说不重要，但是完成一件事情的感觉还是很好的。我再次意识到很多人并不在意使用什么阅读工具。
 - 早上醒来就7点40多了，睡得还不错。坚持来公司上班了。

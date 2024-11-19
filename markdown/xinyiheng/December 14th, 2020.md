@@ -1,80 +1,80 @@
 - #[[读书笔记]]
     - [[国企改革]]
         - かつての日本の国鉄のイメージですね。国の方針としては、全国にくまなく鉄道網を敷き、国民に等しくサービスを提供すべきだけど、赤字のローカル線を抱えたままでは企業として利益は出ない。
-via[経済改革に背水の陣の習近平氏、バイデン政権のラブコールは大歓迎：日経ビジネス電子版](https://business.nikkei.com/atcl/seminar/19/00023/121100223/)
-[[20201214]] 上午7:12
+          via[経済改革に背水の陣の習近平氏、バイデン政権のラブコールは大歓迎：日経ビジネス電子版](https://business.nikkei.com/atcl/seminar/19/00023/121100223/)
+          [[20201214]] 上午7:12
         - これを、政府は株主としてカネは出すけれども、経営に口は出さない仕組みに変える。2階層の上の層を取り払い、下の層だけで経営をする方式に変える案です。中国パネル大手の京東方科技集団（BOE）は、事実上この方式を導入して大きな成果を上げています。
-via[経済改革に背水の陣の習近平氏、バイデン政権のラブコールは大歓迎：日経ビジネス電子版](https://business.nikkei.com/atcl/seminar/19/00023/121100223/)
-[[20201214]] 上午7:13
+          via[経済改革に背水の陣の習近平氏、バイデン政権のラブコールは大歓迎：日経ビジネス電子版](https://business.nikkei.com/atcl/seminar/19/00023/121100223/)
+          [[20201214]] 上午7:13
     - 书名：[[民粹主义]]大爆炸
-via[民粹主义大爆炸 - 得到APP](https://www.dedao.cn/reader?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0Rgo9W8XDBK9qZpgkRELd75z4Ma6oDRrqjY)
-[[20201214]] 上午9:02
+      via[民粹主义大爆炸 - 得到APP](https://www.dedao.cn/reader?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0Rgo9W8XDBK9qZpgkRELd75z4Ma6oDRrqjY)
+      [[20201214]] 上午9:02
         - 近年，[[民粹主义]]在全球各地都有抬头之势。“民粹主义”已经成为一个被误用和被使用的频率差不多高的词汇。本书精炼而不失详细地剖析了不同国家民粹主义者的案例，以及民粹主义生发与流行的原因。在德国政治学者扬—维尔纳·米勒看来，《战场之外：租界英文报刊与中国的国际宣传（1928-1941）》
-via[2020新京报年度阅读推荐榜88本入围书单｜社科](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650509167&idx=2&sn=bdde643cfbcbc8c61bba02a627f73979&chksm=bef86327898fea311f204ebcafa545d0f15b1050ba926add7f68e06f7ede9ebf2febbe9ed8f2)
-[[20201214]] 上午9:03
+          via[2020新京报年度阅读推荐榜88本入围书单｜社科](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650509167&idx=2&sn=bdde643cfbcbc8c61bba02a627f73979&chksm=bef86327898fea311f204ebcafa545d0f15b1050ba926add7f68e06f7ede9ebf2febbe9ed8f2)
+          [[20201214]] 上午9:03
         - 2016年特朗普当选为美国总统时所作的演讲，堪称一次“民粹主义”的宣言。“民粹主义”似乎代表着反对精英、批判主流权力。然而，批判性既不是成为一个民粹主义者的充分条件，也非必要条件。民粹主义者真正的特质，是认定只有自身才可定义和代表“人民”，并通过区隔“人民”与“非人民”来巩固自身的统治。
-
-via[2020新京报年度阅读推荐榜88本入围书单｜社科](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650509167&idx=2&sn=bdde643cfbcbc8c61bba02a627f73979&chksm=bef86327898fea311f204ebcafa545d0f15b1050ba926add7f68e06f7ede9ebf2febbe9ed8f2)
-[[20201214]] 上午9:01
+          
+          via[2020新京报年度阅读推荐榜88本入围书单｜社科](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650509167&idx=2&sn=bdde643cfbcbc8c61bba02a627f73979&chksm=bef86327898fea311f204ebcafa545d0f15b1050ba926add7f68e06f7ede9ebf2febbe9ed8f2)
+          [[20201214]] 上午9:01
     - #[[宣传]]#[[传播]]
         - 《战场之外：租界英文报刊与中国的国际宣传（1928-1941）》
-兴起于第一次世界大战时期的“对外宣传”，对于彼时的中国来说相当隔膜。这也直接导致20世纪初期的中国在面临列强欺凌时，缺乏足够的外部支持。中国的对外宣传体系是如何逐步从无到有，逐渐成熟的？这正是《战场之外》试图回答的问题。本书在一定程度上填补了宣传史研究领域中的一个空白。租界报刊的立场并非铁板一块，而是充满着各种话语的斗争。在缺乏对外宣传资源的情况下，它们与西方国家密切的联系，更是意外地成为了中国打开对外宣传通道的突破口。
-via[2020新京报年度阅读推荐榜88本入围书单｜社科](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650509167&idx=2&sn=bdde643cfbcbc8c61bba02a627f73979&chksm=bef86327898fea311f204ebcafa545d0f15b1050ba926add7f68e06f7ede9ebf2febbe9ed8f2)
-[[20201214]] 上午9:04
+          兴起于第一次世界大战时期的“对外宣传”，对于彼时的中国来说相当隔膜。这也直接导致20世纪初期的中国在面临列强欺凌时，缺乏足够的外部支持。中国的对外宣传体系是如何逐步从无到有，逐渐成熟的？这正是《战场之外》试图回答的问题。本书在一定程度上填补了宣传史研究领域中的一个空白。租界报刊的立场并非铁板一块，而是充满着各种话语的斗争。在缺乏对外宣传资源的情况下，它们与西方国家密切的联系，更是意外地成为了中国打开对外宣传通道的突破口。
+          via[2020新京报年度阅读推荐榜88本入围书单｜社科](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650509167&idx=2&sn=bdde643cfbcbc8c61bba02a627f73979&chksm=bef86327898fea311f204ebcafa545d0f15b1050ba926add7f68e06f7ede9ebf2febbe9ed8f2)
+          [[20201214]] 上午9:04
     - #[[语言]]#[[思维]]
         - 语言不通成为了现代全球交流的一个障碍，巴别塔的神话则仿佛象征着一种无碍交流的理想，然而，它的存在又可能是必要的。美国文学评论家乔治·斯坦纳在《巴别塔之后》中研讨了关于语言转译和翻译的问题。世界上的每种语言在表达上都有自己的优势与不足。但是在两种语言表达内涵的差异中，我们有机会去发现另一种可能——一种在母语中不存在的思维方式。意识到这种鸿沟并用更多的理解方式去包容，或许才是让巴别塔更加稳定的方法。
-via[2020新京报年度阅读推荐榜88本入围书单｜社科](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650509167&idx=2&sn=bdde643cfbcbc8c61bba02a627f73979&chksm=bef86327898fea311f204ebcafa545d0f15b1050ba926add7f68e06f7ede9ebf2febbe9ed8f2)
-[[20201214]] 上午9:08
+          via[2020新京报年度阅读推荐榜88本入围书单｜社科](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650509167&idx=2&sn=bdde643cfbcbc8c61bba02a627f73979&chksm=bef86327898fea311f204ebcafa545d0f15b1050ba926add7f68e06f7ede9ebf2febbe9ed8f2)
+          [[20201214]] 上午9:08
     - #[[故事]]
     - 《黑金世界》#[[经济学通俗读物]]
         - 作者通过调查发现，贩毒集团的行事逻辑很接近跨国企业，为了快速扩张，他们甚至会向麦当劳借鉴“特许经营”的商业手段。通常来说，犯罪产业的经营原理和特许经营是相冲突的。历史上的贩毒集团都会严格地采用自上而下的管理模式。在这种管理模式里，一个具有绝对权力的老大的下面一级级都是他忠诚的手下。
-
-然而，最近一些墨西哥的毒品集团开始了彻底地去中心化改革。比如在一个叫做哲塔斯的贩毒集团里，毒贩们并不是把自己的人派到新市场中从零开始做起，而是选择吸纳当地的匪徒，以特许经营的方式让他们加入到哲塔斯中。哲塔斯的侦查人员首先会到新的地区去，然后挑选出当地那些最有潜力的罪犯。通过这种方式，哲塔斯开始以惊人的速度发展壮大，势力从整个东墨西哥延伸到中美洲的加勒比海。
-via[贩毒集团从麦当劳那里学到了什么？](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650508570&idx=2&sn=c46f1d4333fb600b97c19fb5bdb899ef&chksm=bef86152898fe844b8ce197751fe13bdb7564241f5654a066fcad04a000e82f0f06462d2ca32)
-[[20201214]] 上午9:11
+          
+          然而，最近一些墨西哥的毒品集团开始了彻底地去中心化改革。比如在一个叫做哲塔斯的贩毒集团里，毒贩们并不是把自己的人派到新市场中从零开始做起，而是选择吸纳当地的匪徒，以特许经营的方式让他们加入到哲塔斯中。哲塔斯的侦查人员首先会到新的地区去，然后挑选出当地那些最有潜力的罪犯。通过这种方式，哲塔斯开始以惊人的速度发展壮大，势力从整个东墨西哥延伸到中美洲的加勒比海。
+          via[贩毒集团从麦当劳那里学到了什么？](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650508570&idx=2&sn=c46f1d4333fb600b97c19fb5bdb899ef&chksm=bef86152898fe844b8ce197751fe13bdb7564241f5654a066fcad04a000e82f0f06462d2ca32)
+          [[20201214]] 上午9:11
     - 《雍正王朝》成了年轻人迷恋的成长圣经#[[职场]]#[[历史]][[社会热点]]
-via[《雍正王朝》成了年轻人迷恋的成长圣经](https://mp.weixin.qq.com/s?__biz=MzIwNjk1MTI1OA==&mid=2247511188&idx=3&sn=7b947be517ebaa4a1812fb0d17a88aaf&chksm=971b2aa1a06ca3b7cebf691a76c83b260ceb19c565282740757a2bcd59051757640caa4433ba)
-[[20201214]] 上午9:35
+      via[《雍正王朝》成了年轻人迷恋的成长圣经](https://mp.weixin.qq.com/s?__biz=MzIwNjk1MTI1OA==&mid=2247511188&idx=3&sn=7b947be517ebaa4a1812fb0d17a88aaf&chksm=971b2aa1a06ca3b7cebf691a76c83b260ceb19c565282740757a2bcd59051757640caa4433ba)
+      [[20201214]] 上午9:35
         - 全剧围绕“一个中心，两个基本点”：中心是“当家难”，两个基本点则是“九子夺嫡”与“治国”，结构就显得格外清晰。
-
-via[《雍正王朝》成了年轻人迷恋的成长圣经](https://mp.weixin.qq.com/s?__biz=MzIwNjk1MTI1OA==&mid=2247511188&idx=3&sn=7b947be517ebaa4a1812fb0d17a88aaf&chksm=971b2aa1a06ca3b7cebf691a76c83b260ceb19c565282740757a2bcd59051757640caa4433ba)
-[[20201214]] 上午9:36
+          
+          via[《雍正王朝》成了年轻人迷恋的成长圣经](https://mp.weixin.qq.com/s?__biz=MzIwNjk1MTI1OA==&mid=2247511188&idx=3&sn=7b947be517ebaa4a1812fb0d17a88aaf&chksm=971b2aa1a06ca3b7cebf691a76c83b260ceb19c565282740757a2bcd59051757640caa4433ba)
+          [[20201214]] 上午9:36
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F5NXt9IY4sq.png?alt=media&token=4524cb23-f878-47ed-9516-d38b5ef68db3)
         - 视频类博主运用《雍剧》素材的侵权与否没有几个人能说清，但清晰的是，有了这些每段5-10分钟的讲解视频，人们不必再从繁忙生活中挤出33个小时把44集《雍剧》从头到尾的自我吸收、沉淀和消化。
-via[《雍正王朝》成了年轻人迷恋的成长圣经](https://mp.weixin.qq.com/s?__biz=MzIwNjk1MTI1OA==&mid=2247511188&idx=3&sn=7b947be517ebaa4a1812fb0d17a88aaf&chksm=971b2aa1a06ca3b7cebf691a76c83b260ceb19c565282740757a2bcd59051757640caa4433ba)
-[[20201214]] 上午9:37
+          via[《雍正王朝》成了年轻人迷恋的成长圣经](https://mp.weixin.qq.com/s?__biz=MzIwNjk1MTI1OA==&mid=2247511188&idx=3&sn=7b947be517ebaa4a1812fb0d17a88aaf&chksm=971b2aa1a06ca3b7cebf691a76c83b260ceb19c565282740757a2bcd59051757640caa4433ba)
+          [[20201214]] 上午9:37
         - 在他们的作品中，剧中的权力、机会和信号，都被重新放在当代职场的环境中被建构，成为了当代中国式成功学的方法论：简单易懂，方便实操，有利成长。
-via[《雍正王朝》成了年轻人迷恋的成长圣经](https://mp.weixin.qq.com/s?__biz=MzIwNjk1MTI1OA==&mid=2247511188&idx=3&sn=7b947be517ebaa4a1812fb0d17a88aaf&chksm=971b2aa1a06ca3b7cebf691a76c83b260ceb19c565282740757a2bcd59051757640caa4433ba)
-[[20201214]] 上午9:38
+          via[《雍正王朝》成了年轻人迷恋的成长圣经](https://mp.weixin.qq.com/s?__biz=MzIwNjk1MTI1OA==&mid=2247511188&idx=3&sn=7b947be517ebaa4a1812fb0d17a88aaf&chksm=971b2aa1a06ca3b7cebf691a76c83b260ceb19c565282740757a2bcd59051757640caa4433ba)
+          [[20201214]] 上午9:38
         - 雍剧的解读视频成了很多人的必看内容，这无关艺术修养，只是出于现实意义：
-国企员工从这些短视频中获得前辈经验、职场菜鸟学习到了生存之道，甚至就连多子多孙的老人都想从中习得遗产分配的最优解。
-从某种意义上来说，帝王故事与中国民间叙事的深度交融，让它们不但成为大众议题；更是成为民众所痴信的宗教，人们希望从中获取经验、规避风险、设计人生、一步登天。
-via[《雍正王朝》成了年轻人迷恋的成长圣经](https://mp.weixin.qq.com/s?__biz=MzIwNjk1MTI1OA==&mid=2247511188&idx=3&sn=7b947be517ebaa4a1812fb0d17a88aaf&chksm=971b2aa1a06ca3b7cebf691a76c83b260ceb19c565282740757a2bcd59051757640caa4433ba)
-[[20201214]] 上午9:38
+          国企员工从这些短视频中获得前辈经验、职场菜鸟学习到了生存之道，甚至就连多子多孙的老人都想从中习得遗产分配的最优解。
+          从某种意义上来说，帝王故事与中国民间叙事的深度交融，让它们不但成为大众议题；更是成为民众所痴信的宗教，人们希望从中获取经验、规避风险、设计人生、一步登天。
+          via[《雍正王朝》成了年轻人迷恋的成长圣经](https://mp.weixin.qq.com/s?__biz=MzIwNjk1MTI1OA==&mid=2247511188&idx=3&sn=7b947be517ebaa4a1812fb0d17a88aaf&chksm=971b2aa1a06ca3b7cebf691a76c83b260ceb19c565282740757a2bcd59051757640caa4433ba)
+          [[20201214]] 上午9:38
         - 
     - 日本的审美
         - 做事的专注之美——
-
-「我是开豆腐店的，我只做豆腐。」我总是把这句话挂在嘴边。同一个人，可没法拍那么多种类的电影哟。在那种样样都有的饭馆，你绝对吃不到什么可口的饭菜，也是一个道理。——小津安二郎
-
-via[日本是如何做到“全民审美在线”的？](https://mp.weixin.qq.com/s?__biz=MzAwNzYyNDMyMA==&mid=2651151575&idx=1&sn=314f039d247e99abb13f971bdcab4058&chksm=808abf38b7fd362e3fae62cf43856ffc6f9255137fbefa1f234b4747488198dcf12930b4d5d7)
-[[20201214]] 上午11:42
+          
+          「我是开豆腐店的，我只做豆腐。」我总是把这句话挂在嘴边。同一个人，可没法拍那么多种类的电影哟。在那种样样都有的饭馆，你绝对吃不到什么可口的饭菜，也是一个道理。——小津安二郎
+          
+          via[日本是如何做到“全民审美在线”的？](https://mp.weixin.qq.com/s?__biz=MzAwNzYyNDMyMA==&mid=2651151575&idx=1&sn=314f039d247e99abb13f971bdcab4058&chksm=808abf38b7fd362e3fae62cf43856ffc6f9255137fbefa1f234b4747488198dcf12930b4d5d7)
+          [[20201214]] 上午11:42
         - 如果你喜欢日本美学，喜欢闲适有趣的灵魂，那你一定不想错过今天推荐的“人与物”这套小而美的图书
-via[日本是如何做到“全民审美在线”的？](https://mp.weixin.qq.com/s?__biz=MzAwNzYyNDMyMA==&mid=2651151575&idx=1&sn=314f039d247e99abb13f971bdcab4058&chksm=808abf38b7fd362e3fae62cf43856ffc6f9255137fbefa1f234b4747488198dcf12930b4d5d7)
-[[20201214]] 上午11:43
+          via[日本是如何做到“全民审美在线”的？](https://mp.weixin.qq.com/s?__biz=MzAwNzYyNDMyMA==&mid=2651151575&idx=1&sn=314f039d247e99abb13f971bdcab4058&chksm=808abf38b7fd362e3fae62cf43856ffc6f9255137fbefa1f234b4747488198dcf12930b4d5d7)
+          [[20201214]] 上午11:43
         - 选取10位在艺术、设计、诗歌、电影、文学等不同领域洞察生活的日本名家，一册一人，辑录独特观察与思考，反应日本社会文化不同面向。
-via[日本是如何做到“全民审美在线”的？](https://mp.weixin.qq.com/s?__biz=MzAwNzYyNDMyMA==&mid=2651151575&idx=1&sn=314f039d247e99abb13f971bdcab4058&chksm=808abf38b7fd362e3fae62cf43856ffc6f9255137fbefa1f234b4747488198dcf12930b4d5d7)
-[[20201214]] 上午11:43
+          via[日本是如何做到“全民审美在线”的？](https://mp.weixin.qq.com/s?__biz=MzAwNzYyNDMyMA==&mid=2651151575&idx=1&sn=314f039d247e99abb13f971bdcab4058&chksm=808abf38b7fd362e3fae62cf43856ffc6f9255137fbefa1f234b4747488198dcf12930b4d5d7)
+          [[20201214]] 上午11:43
             - 书名：茶与美 [[柳宗悦]]
-via[茶与美 - 得到APP](https://www.dedao.cn/reader?id=2BeEdA94ma8x6VX2zLjQBNq5dKveMw1ebJwJZPAO1lGbpRyYgonDEr97kMoLmlba)
-[[20201214]] 上午11:45
+              via[茶与美 - 得到APP](https://www.dedao.cn/reader?id=2BeEdA94ma8x6VX2zLjQBNq5dKveMw1ebJwJZPAO1lGbpRyYgonDEr97kMoLmlba)
+              [[20201214]] 上午11:45
             - 
 - [[jupyter]]
 - [[图灵奖 ]]
-via[图灵奖 - Wikiwand](https://www.wikiwand.com/zh-hans/%E5%9B%BE%E7%81%B5%E5%A5%96)
-[[20201214]] 下午5:10
+  via[图灵奖 - Wikiwand](https://www.wikiwand.com/zh-hans/%E5%9B%BE%E7%81%B5%E5%A5%96)
+  [[20201214]] 下午5:10
 - 新系统的shell已经更换为zsh，老系统使用的是bash风格，请用此 `chsh -s /bin/zsh` 命令切换。
-via[The default interactive shell is now zsh. - 知乎](https://zhuanlan.zhihu.com/p/86248456)
-[[20201214]] 下午11:12
+  via[The default interactive shell is now zsh. - 知乎](https://zhuanlan.zhihu.com/p/86248456)
+  [[20201214]] 下午11:12
 - #问题
     - {{[[DONE]]}}把想要高亮的词汇用chrom插件标出来@评论:已经解决了，[[highlight this]]这款插件就可以

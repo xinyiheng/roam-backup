@@ -11,34 +11,34 @@
         - https://opinion.caixin.com/2022-11-09/101962392.html [Email Body](https://files.todoist.com/H3iF1oowoFchbOIU1miaYXSfLPiaa7s8BY_oOGlxQAmHaLLkFpn9LcnLZoCk01WL/by/21878347/as/file.html)
     - 什么“是明斯基时刻”？ MBA智库百科介绍：明斯基时刻是指美国经济学家海曼·明斯基(Hyman Minsky)所描述的时刻，即资产价值崩溃时刻。... - 雪球
         - Annotations:
-
-* 从“黑天鹅”——“灰犀牛”——“明斯基时刻”
-
-自然不是表示金融体系词汇量丰富，而是有明显的加码警示的意思。
-
-
-
-https://xueqiu.com/2478797769/94760012 [Email Body](https://files.todoist.com/ltTTJryJST9N1HA0poxAia6OqFG8vP9ZkGCOiy7QA3X9Tk8yiZ5uB6fAUitBrhs6/by/21878347/as/file.html)
+          
+          * 从“黑天鹅”——“灰犀牛”——“明斯基时刻”
+          
+          自然不是表示金融体系词汇量丰富，而是有明显的加码警示的意思。
+          
+          
+          
+          https://xueqiu.com/2478797769/94760012 [Email Body](https://files.todoist.com/ltTTJryJST9N1HA0poxAia6OqFG8vP9ZkGCOiy7QA3X9Tk8yiZ5uB6fAUitBrhs6/by/21878347/as/file.html)
     - 比“灰犀牛”还可怕的“明斯基时刻”究竟是个啥？ 每天刷新闻的微友们一定能真切的感受到现在的新闻用词真是real有趣不再是传统播报式的灌输热点，取而代之的是更有趣、更有代... - 雪球
         - Annotations:
-
-* 这个“吹气球”的过程就是明斯基理论中风险升级的三个阶段：
-
-套期融资（少量负债，还本付息无压力）、
-
-投机融资（继续借债，只能还息）、
-
-庞氏融资（只能靠出售资产或者再借新钱来履行支付承诺）。
-
-* 而历史上的一些金融危机的确可以找到“明斯基时刻”的影子
-
-* 1989年日本泡沫经济崩盘。
-
-* 2008年美国次贷危机爆发
-
-
-
-https://xueqiu.com/4325094191/95174725 [Email Body](https://files.todoist.com/Vod30Jg7E6AeHSu5sybcPipSodH0Oz1Gemeok-yZK_6aCt5LijTGuo1NMVLsc1WE/by/21878347/as/file.html)
+          
+          * 这个“吹气球”的过程就是明斯基理论中风险升级的三个阶段：
+          
+          套期融资（少量负债，还本付息无压力）、
+          
+          投机融资（继续借债，只能还息）、
+          
+          庞氏融资（只能靠出售资产或者再借新钱来履行支付承诺）。
+          
+          * 而历史上的一些金融危机的确可以找到“明斯基时刻”的影子
+          
+          * 1989年日本泡沫经济崩盘。
+          
+          * 2008年美国次贷危机爆发
+          
+          
+          
+          https://xueqiu.com/4325094191/95174725 [Email Body](https://files.todoist.com/Vod30Jg7E6AeHSu5sybcPipSodH0Oz1Gemeok-yZK_6aCt5LijTGuo1NMVLsc1WE/by/21878347/as/file.html)
     - 刘润年度演讲2022：把确定性传递给每一个人-虎嗅网
         - Annotations:
         - 安全感，来自确定性。但是机会，藏在不确定性里。
@@ -56,38 +56,38 @@ https://xueqiu.com/4325094191/95174725 [Email Body](https://files.todoist.com/Vo
         - https://www.huxiu.com/article/699342.html [Email Body](https://files.todoist.com/MZZMa1G6o-uw_JCsStBJK4V9E-GlerFsXhAvDDl6XRsv8z4yW_XPeGEEqifj7gH9/by/21878347/as/file.html)
     - 沃尔克时刻与明斯基时刻 沃尔克时刻用通俗的语言来说，“沃尔克时刻”就是指美联储前主席沃尔克，在1980-1982年期间，用提高利率，也就是加息的... - 雪球
         - Annotations:
-
-* 明斯基时刻
-
-既然加息会加速市场清算，提前引爆经济危机，那么在通胀面前，降息会怎么样？  
-
-* 当所有资产创造的利润和现金流还是不能覆盖掉利息的时候，明斯基时刻就爆发了
-
-
-
-https://xueqiu.com/4578036225/222629913 [Email Body](https://files.todoist.com/g8486lUanZC0zvVprFQfRZTY5MV9xrW92cn7J0r66s42DWozGyulVWyIxtUf-gCE/by/21878347/as/file.html)
+          
+          * 明斯基时刻
+          
+          既然加息会加速市场清算，提前引爆经济危机，那么在通胀面前，降息会怎么样？  
+          
+          * 当所有资产创造的利润和现金流还是不能覆盖掉利息的时候，明斯基时刻就爆发了
+          
+          
+          
+          https://xueqiu.com/4578036225/222629913 [Email Body](https://files.todoist.com/g8486lUanZC0zvVprFQfRZTY5MV9xrW92cn7J0r66s42DWozGyulVWyIxtUf-gCE/by/21878347/as/file.html)
     - [简悦] - 095｜什么是中国经济增长之 “锚”？ - 得到 APP
         - 简 悦 「如杂志般沉浸式」的阅读体验
-
-
-
-全文完
-
-本文由 简悦 SimpRead 转码，用以提升阅读体验，原文地址 [Email Body](https://files.todoist.com/NJxI8T1j8FcGrxL6EcpuRcASjDuPVsG2im-ldYrsqZevHdHVUwiGswH93qMO7thk/by/21878347/as/file.html)
+          
+          
+          
+          全文完
+          
+          本文由 简悦 SimpRead 转码，用以提升阅读体验，原文地址 [Email Body](https://files.todoist.com/NJxI8T1j8FcGrxL6EcpuRcASjDuPVsG2im-ldYrsqZevHdHVUwiGswH93qMO7thk/by/21878347/as/file.html)
     - CES 2023 小记：新科技串起的未来一天 - 少数派
         - Annotations:
-
-* 今年 CES 上佳能带来的 AMLOS 摄像头，就能帮助企业把远程会议和现场会议完美地结合在一起。通过手势操控，AMLOS 能够自动捕捉会议室白板上的内容，经过角度转换，完美展示在屏幕上，从而方便远程与会者阅读。
-
-* 三星也带来了推出的会拍照的智能烤箱。为了解决「不是没熟就是焦了」的最佳烘烤时长难题，这一新款烤箱能够实时拍摄烤箱内的食物，和云端数据库进行相似度比对，如果判断已经到达最佳烘烤效果，就自动结束烘烤。
-
-* 智能枕头 Motion Pillow 为老大难的打呼噜问题提出了一种新解法：当监测到环境中有来自用户的呼噜声时，它就会在相应位置自动充气，从而更柔缓地帮助用户调整睡姿，从仰卧态进入到侧卧态。这样，就能最大程度上地打开呼吸道，有效减少打鼾。
-
-* 博主是硬件产品经理么？感觉这篇文章很引人入胜，读起来很有代入感，有场景、有需求、有用户、有产品，向您学习！
-
-
-
-https://sspai.com/post/77861 [Email Body](https://files.todoist.com/aPR2xePpMUG3tgqbC5SJlS0Mnt30npAzKfPO-K_1w-uo5Qg6DDvfaZUnz9bkxSSb/by/21878347/as/file.html)
+          
+          * 今年 CES 上佳能带来的 AMLOS 摄像头，就能帮助企业把远程会议和现场会议完美地结合在一起。通过手势操控，AMLOS 能够自动捕捉会议室白板上的内容，经过角度转换，完美展示在屏幕上，从而方便远程与会者阅读。
+          
+          * 三星也带来了推出的会拍照的智能烤箱。为了解决「不是没熟就是焦了」的最佳烘烤时长难题，这一新款烤箱能够实时拍摄烤箱内的食物，和云端数据库进行相似度比对，如果判断已经到达最佳烘烤效果，就自动结束烘烤。
+          
+          * 智能枕头 Motion Pillow 为老大难的打呼噜问题提出了一种新解法：当监测到环境中有来自用户的呼噜声时，它就会在相应位置自动充气，从而更柔缓地帮助用户调整睡姿，从仰卧态进入到侧卧态。这样，就能最大程度上地打开呼吸道，有效减少打鼾。
+          
+          * 博主是硬件产品经理么？感觉这篇文章很引人入胜，读起来很有代入感，有场景、有需求、有用户、有产品，向您学习！
+          
+          
+          
+          https://sspai.com/post/77861 [Email Body](https://files.todoist.com/aPR2xePpMUG3tgqbC5SJlS0Mnt30npAzKfPO-K_1w-uo5Qg6DDvfaZUnz9bkxSSb/by/21878347/as/file.html)
     - 2023 数字世界怀旧指南：在互联网的角落中找寻过去 - 少数派
         - Annotations:
         - 卫星地图：穿过半个世纪的烟云
@@ -110,10 +110,10 @@ https://sspai.com/post/77861 [Email Body](https://files.todoist.com/aPR2xePpMUG3
         - http://www.gov.cn/xinwen/tujie/qita.htm [Email Body](https://files.todoist.com/-XUzW5QGXFlZhIZqCf_0H50dYUrRr0lPJ8vsVyH5fKhzq1kE5Y1GZIeqA3x2WR1R/by/21878347/as/file.html)
     - WantQuotes 据意查句
         - Tags: 文案
-
-
-
-https://wantquotes.net/ [Email Body](https://files.todoist.com/TaTKtlOhpHzeBlOryD_oPpP7x0cbr-NfTkFEiRzj92D0ZIuRmlMmrW3HHH-jtZP-/by/21878347/as/file.html)
+          
+          
+          
+          https://wantquotes.net/ [Email Body](https://files.todoist.com/TaTKtlOhpHzeBlOryD_oPpP7x0cbr-NfTkFEiRzj92D0ZIuRmlMmrW3HHH-jtZP-/by/21878347/as/file.html)
 - #[[意识流笔记]]
     - 用简悦的插件阅读得到课程的内容还是不错的，界面也很好，而且标注的内容可以自动复制到剪贴板。
     - 上午尝试进行主题阅读，根据自己的问题来查询阅读资料。这样，阅读材料就终于和自己有关联了。

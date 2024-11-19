@@ -15,16 +15,16 @@
         - Matrix BOBRNBHLR, RITERDTAROFT AR, BRANENZRSBE, 2]AREHIEE Matrix SAEFAIXE, BRSPS AT,
 - Forgotten Self - [[Annie Pink]]# [[blck:red]]
     - Feeling much more than is human,
-My soul, be free from this mortal strains.
-
-Floating because I will fall
-Preparing for reality to swallow me whole.
-
-Drunken on immortal panic,
-New born ecstasy floods my veins.
-
-Longing to feel the universe
-And realizing, I hold it within.
+      My soul, be free from this mortal strains.
+      
+      Floating because I will fall
+      Preparing for reality to swallow me whole.
+      
+      Drunken on immortal panic,
+      New born ecstasy floods my veins.
+      
+      Longing to feel the universe
+      And realizing, I hold it within.
 - 沙漏与流动的沙子 使用 Roam42 日期处理进行时间旅行，对时间管理和项目管理很有用
-via[JimmyLv_吕立青 在 Twitter: "16/ ⏳ 使用 Roam42 日期处理进行时间旅行，对时间管理和项目管理很有用 https://t.co/H1MncUrtOf" / Twitter](https://twitter.com/Jimmy_JingLv/status/1343700082378489856)
-[[20201229]] 下午11:17
+  via[JimmyLv_吕立青 在 Twitter: "16/ ⏳ 使用 Roam42 日期处理进行时间旅行，对时间管理和项目管理很有用 https://t.co/H1MncUrtOf" / Twitter](https://twitter.com/Jimmy_JingLv/status/1343700082378489856)
+  [[20201229]] 下午11:17

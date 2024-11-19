@@ -1,108 +1,108 @@
 - 长销20余年的经典人格心理学教材。本书对人格心理学的相关理论进行了详细阐述与归纳，包括人格的概念、研究方法、人格测评、人格类型、不同视角下的人格分析等，让读者充分了解人格心理学的基本知识及研究领域中的前沿课题。
--via[不可不看 · 每周新书丨2020年第49周](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635865&idx=2&sn=b514ec083b713d3d24aee3aa5046e9b3&chksm=bd30d27a8a475b6c1b2ff71b257377a81d3f583a704ee2ac493dcf0c09f44745cc86d32b0c50)
+  -via[不可不看 · 每周新书丨2020年第49周](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635865&idx=2&sn=b514ec083b713d3d24aee3aa5046e9b3&chksm=bd30d27a8a475b6c1b2ff71b257377a81d3f583a704ee2ac493dcf0c09f44745cc86d32b0c50)
 - 算法能为我们解决所有的问题吗？是否数据越多，我们制定出的战略就越好？本书作者提出，人们的想法、喜好和选择很大程度上受环境与文化的影响。企业家真正需要花时间去做的，是去了解目标客户群体的行为和其所处的世界。
--via[不可不看 · 每周新书丨2020年第49周](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635865&idx=2&sn=b514ec083b713d3d24aee3aa5046e9b3&chksm=bd30d27a8a475b6c1b2ff71b257377a81d3f583a704ee2ac493dcf0c09f44745cc86d32b0c50)
+  -via[不可不看 · 每周新书丨2020年第49周](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635865&idx=2&sn=b514ec083b713d3d24aee3aa5046e9b3&chksm=bd30d27a8a475b6c1b2ff71b257377a81d3f583a704ee2ac493dcf0c09f44745cc86d32b0c50)
 - 读懂后[[资管新规]]时代危与机；掌握银证保信基发展逻辑；洞悉未来十年监管改革方向，明确机构发展战略，抓住财富新机遇。
--via[不可不看 · 每周新书丨2020年第49周](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635865&idx=2&sn=b514ec083b713d3d24aee3aa5046e9b3&chksm=bd30d27a8a475b6c1b2ff71b257377a81d3f583a704ee2ac493dcf0c09f44745cc86d32b0c50)
+  -via[不可不看 · 每周新书丨2020年第49周](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635865&idx=2&sn=b514ec083b713d3d24aee3aa5046e9b3&chksm=bd30d27a8a475b6c1b2ff71b257377a81d3f583a704ee2ac493dcf0c09f44745cc86d32b0c50)
 - 《我在中国当医生》的作者朱知梅教授，是一位行医30多年的资深医生。在中英两国的医院工作多年后，他站在跨文化的视角，从医院管理体系、医疗效率、人才培养等多个维度阐述了自己对中西方医疗理念的认识。
--via[中国人的求医态度，你怎么看？](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635814&idx=2&sn=cb06a4459fde82fb0ee012310ad98276&chksm=bd30d2058a475b13412909f77f7025dfd84aea6439af35f13533d9eee9793397d5d3afa1126c)
+  -via[中国人的求医态度，你怎么看？](https://mp.weixin.qq.com/s?__biz=MjM5NzUzODI1Mg==&mid=2652635814&idx=2&sn=cb06a4459fde82fb0ee012310ad98276&chksm=bd30d2058a475b13412909f77f7025dfd84aea6439af35f13533d9eee9793397d5d3afa1126c)
 - 加拿大知名的音乐人也是心理学家——丹尼尔·列维廷在《为什么伤心的时候听慢歌》中，试图通过分析六类不同的歌曲，来厘清音乐在人身上发挥的作用。
-这六大类歌曲的主题分别是：友谊、喜悦、安慰、知识、信仰和爱。
--via[为什么我们在伤心的时候想听慢歌？](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089619&idx=1&sn=1ccc4c982088c54a40f6c6bc7b60b90f&chksm=883e6dbabf49e4ac1f6317e01e2884a94bbdea97531fef95b2d5537e0df3aabd0df7e1f698c3)
+  这六大类歌曲的主题分别是：友谊、喜悦、安慰、知识、信仰和爱。
+  -via[为什么我们在伤心的时候想听慢歌？](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089619&idx=1&sn=1ccc4c982088c54a40f6c6bc7b60b90f&chksm=883e6dbabf49e4ac1f6317e01e2884a94bbdea97531fef95b2d5537e0df3aabd0df7e1f698c3)
 - 听觉传播有着视觉传播所不具有的优势——声音可以在黑暗中传播，可以绕过障碍物传播，甚至可以抵达那些无法用肉眼直接观察到的地方。音乐这种结构精巧的声音形式，能使无法看见彼此的人同步行动。
--via[为什么我们在伤心的时候想听慢歌？](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089619&idx=1&sn=1ccc4c982088c54a40f6c6bc7b60b90f&chksm=883e6dbabf49e4ac1f6317e01e2884a94bbdea97531fef95b2d5537e0df3aabd0df7e1f698c3)
+  -via[为什么我们在伤心的时候想听慢歌？](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089619&idx=1&sn=1ccc4c982088c54a40f6c6bc7b60b90f&chksm=883e6dbabf49e4ac1f6317e01e2884a94bbdea97531fef95b2d5537e0df3aabd0df7e1f698c3)
 - 还有一种运用音乐的重要方式，就是在逐渐成形的大规模族群中缓解紧张的关系——用音乐凝聚向心力。
--via[为什么我们在伤心的时候想听慢歌？](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089619&idx=1&sn=1ccc4c982088c54a40f6c6bc7b60b90f&chksm=883e6dbabf49e4ac1f6317e01e2884a94bbdea97531fef95b2d5537e0df3aabd0df7e1f698c3)
+  -via[为什么我们在伤心的时候想听慢歌？](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089619&idx=1&sn=1ccc4c982088c54a40f6c6bc7b60b90f&chksm=883e6dbabf49e4ac1f6317e01e2884a94bbdea97531fef95b2d5537e0df3aabd0df7e1f698c3)
 - 根据记忆的运作原则，如果我们在记忆歌词时能掌握某种规律，我们就不需要记住全部的歌词，对人脑来说，这样做也更有效率。
-印刷术发明之后，人类对知识之歌的需求开始减少。在文字出现之前的人类社会里，知识之歌是文化、历史与生活常识的唯一载体。
--via[为什么我们在伤心的时候想听慢歌？](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089619&idx=1&sn=1ccc4c982088c54a40f6c6bc7b60b90f&chksm=883e6dbabf49e4ac1f6317e01e2884a94bbdea97531fef95b2d5537e0df3aabd0df7e1f698c3)
+  印刷术发明之后，人类对知识之歌的需求开始减少。在文字出现之前的人类社会里，知识之歌是文化、历史与生活常识的唯一载体。
+  -via[为什么我们在伤心的时候想听慢歌？](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089619&idx=1&sn=1ccc4c982088c54a40f6c6bc7b60b90f&chksm=883e6dbabf49e4ac1f6317e01e2884a94bbdea97531fef95b2d5537e0df3aabd0df7e1f698c3)
 - 艺术之所以能打动我们，是因为它把我们与某种更高层次的真理联系在了一起，赋予我们某种世界公民的感觉——简而言之，就是让我们不再感到孤单。
--via[为什么我们在伤心的时候想听慢歌？](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089619&idx=1&sn=1ccc4c982088c54a40f6c6bc7b60b90f&chksm=883e6dbabf49e4ac1f6317e01e2884a94bbdea97531fef95b2d5537e0df3aabd0df7e1f698c3)
+  -via[为什么我们在伤心的时候想听慢歌？](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089619&idx=1&sn=1ccc4c982088c54a40f6c6bc7b60b90f&chksm=883e6dbabf49e4ac1f6317e01e2884a94bbdea97531fef95b2d5537e0df3aabd0df7e1f698c3)
 - 《雅舍忆旧》是梁实秋晚年最为重要的作品。其中《槐园梦忆》深情叙述了他与妻子程季淑五十三年相濡以沫的传奇爱恋；《忆冰心》展现了他与冰心老人五十年的相知相惜；《忆老舍》记载了抗战时期老舍等人与他在重庆“雅舍”的交往和友情；更多的则是他在远离故乡的三十八里对故土的怀念……
--via[美书房快闪书店日丨闹市降落，用书籍折射不平凡](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089720&idx=3&sn=08642579565cdf20a4721f15b04a53b9&chksm=883e6dd1bf49e4c7d921e44fb82adbe1f628a2a2262621b49b2150ac025537506fef8dc10ce6)
+  -via[美书房快闪书店日丨闹市降落，用书籍折射不平凡](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089720&idx=3&sn=08642579565cdf20a4721f15b04a53b9&chksm=883e6dd1bf49e4c7d921e44fb82adbe1f628a2a2262621b49b2150ac025537506fef8dc10ce6)
 - 本书以大量真实生动的案例，讲述了统计学如何化腐朽为神奇，干脆利索地解决一系列传统社会科学语焉不详的问题。在抽丝剥茧探究反直觉的真相的过程中，普及了统计学的基本概念和原则。正是因为其反直觉，甚至是反常识，才给人以恍然大悟的感觉，所以冠之以「魔鬼」。
-《魔鬼统计学》与《魔鬼经济学》一脉相承，以别开生面的风格讲述身边的统计学常识，不仅趣味横生，更能改变你的思维方式。
--via[后浪书讯丨2020.11](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089465&idx=3&sn=853b4445a6129a1f10cff8f6a86d2d36&chksm=883e62d0bf49ebc6c367a23cf0cdfc2e4fb7a17f668bf3cf1418e9b86f20d1a7ceaa0b122d83)
+  《魔鬼统计学》与《魔鬼经济学》一脉相承，以别开生面的风格讲述身边的统计学常识，不仅趣味横生，更能改变你的思维方式。
+  -via[后浪书讯丨2020.11](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089465&idx=3&sn=853b4445a6129a1f10cff8f6a86d2d36&chksm=883e62d0bf49ebc6c367a23cf0cdfc2e4fb7a17f668bf3cf1418e9b86f20d1a7ceaa0b122d83)
 - 一个团队持续成功的秘密是什么呢？本书以大量的数据和模型分析，雄辩地说明：高效的领导力并非来自管理层，而是来自执行层！书中提供了提升团队执行层领导力的7种方法，帮助你的团队获取持续成功的力量。
--via[后浪书讯丨2020.11](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089465&idx=3&sn=853b4445a6129a1f10cff8f6a86d2d36&chksm=883e62d0bf49ebc6c367a23cf0cdfc2e4fb7a17f668bf3cf1418e9b86f20d1a7ceaa0b122d83)
+  -via[后浪书讯丨2020.11](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089465&idx=3&sn=853b4445a6129a1f10cff8f6a86d2d36&chksm=883e62d0bf49ebc6c367a23cf0cdfc2e4fb7a17f668bf3cf1418e9b86f20d1a7ceaa0b122d83)
 - 本书每位大学新鲜人应人手一本，亦同样适用于非大学学习场景，由风靡全球的「康奈尔笔记法」发明人沃尔特•鲍克亲自执笔，全面系统地传授一整套大学学习方法体系。全书分成获取信息、处理信息、输出信息三大部分，内容涵盖听讲座、记笔记、查资料、备考、写论文等所有学习模块，手把手帮助学生调整思路，科学高效地进化学习模式。此外，读者还将掌握如何围绕「康奈尔笔记法」处理一切信息，让笔记成为外挂大脑，真正做到知识的随取随用。-via[后浪书讯丨2020.11](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089465&idx=3&sn=853b4445a6129a1f10cff8f6a86d2d36&chksm=883e62d0bf49ebc6c367a23cf0cdfc2e4fb7a17f668bf3cf1418e9b86f20d1a7ceaa0b122d83)
 - [[中国哲学史]]冯友兰曾回忆起当时他在北京大学读哲学的经历：讲哲学的老师讲了半年才刚讲到周公。
- 一天下课，冯友兰问讲哲学的教授，照这样下去，要过多久才能讲完哲学呢？教授回答，无所谓讲完讲不完，可以一句话讲完，也可以永远讲不完。
-在北京大学读书的经历让冯友兰认识到，从前读书人所作的八股文、试帖诗和策论之外并不是真正的学问，如果要进入新的天地，就需要把握好“新”与“旧”两种文化的矛盾。
-东西文化不同，因为其根本思想不同。它们的根本思想，就是它们的"哲学"。
--via[再问李约瑟：今天我们为什么要读《中国哲学史》](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089517&idx=2&sn=8a30b9739cffab43ad951cc06b1cd8a0&chksm=883e6d04bf49e4128e2639beaaf3fc2099751c1ab54a3b6f78be3b44acbd633bd437f14188cc)
+   一天下课，冯友兰问讲哲学的教授，照这样下去，要过多久才能讲完哲学呢？教授回答，无所谓讲完讲不完，可以一句话讲完，也可以永远讲不完。
+  在北京大学读书的经历让冯友兰认识到，从前读书人所作的八股文、试帖诗和策论之外并不是真正的学问，如果要进入新的天地，就需要把握好“新”与“旧”两种文化的矛盾。
+  东西文化不同，因为其根本思想不同。它们的根本思想，就是它们的"哲学"。
+  -via[再问李约瑟：今天我们为什么要读《中国哲学史》](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089517&idx=2&sn=8a30b9739cffab43ad951cc06b1cd8a0&chksm=883e6d04bf49e4128e2639beaaf3fc2099751c1ab54a3b6f78be3b44acbd633bd437f14188cc)
 - 在《偏见的本质》中，作者戈登·奥尔波特将偏见定义为：
-对属于某群体的个体持有一种厌恶或敌对的态度，仅仅因为他属于该群体，就被推定具有人们归于该群体的那些令人反感的特性。
-对偏见的充足定义需要包含两个基本要素：
-表达喜爱或者厌恶的态度；过度泛化的信念。
-我讨厌女司机（态度）
-女司机开车的技术太烂了（信念）
--via[有奖活动丨为什么房间里出现了大象，却无人过问](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089517&idx=1&sn=dde7977b5750af1eac3a361ec316bc67&chksm=883e6d04bf49e412519fbd77b8fe72e5e46d1a7e358b2245bb6b12c962e218a432a4fa170d3c)
+  对属于某群体的个体持有一种厌恶或敌对的态度，仅仅因为他属于该群体，就被推定具有人们归于该群体的那些令人反感的特性。
+  对偏见的充足定义需要包含两个基本要素：
+  表达喜爱或者厌恶的态度；过度泛化的信念。
+  我讨厌女司机（态度）
+  女司机开车的技术太烂了（信念）
+  -via[有奖活动丨为什么房间里出现了大象，却无人过问](https://mp.weixin.qq.com/s?__biz=MzA4NzAxMjQyMg==&mid=2650089517&idx=1&sn=dde7977b5750af1eac3a361ec316bc67&chksm=883e6d04bf49e412519fbd77b8fe72e5e46d1a7e358b2245bb6b12c962e218a432a4fa170d3c)
 - 罗马史(珍藏本）[德] 特奥多尔·蒙森  
-史学经典，研究罗马史的权威之作。
-1902年，蒙森因这部专著获得诺贝尔文学奖，成为迄今为止第一位获得这一殊荣的历史学家。瑞典学院在颁奖词中评价道：“今世最伟大的纂史巨匠，此点于其巨著《罗马史》中表露无疑。”
--via[32本好书推荐，看看过去的双十一大家买了啥？](https://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=2651137503&idx=1&sn=800f152d54d72d8f8bb9e651cdcba329&chksm=bd04a9598a73204f36a2b4ce58c26ec0cba211e14b87e7c47eaac7e632d55d43557ca7267abb)
+  史学经典，研究罗马史的权威之作。
+  1902年，蒙森因这部专著获得诺贝尔文学奖，成为迄今为止第一位获得这一殊荣的历史学家。瑞典学院在颁奖词中评价道：“今世最伟大的纂史巨匠，此点于其巨著《罗马史》中表露无疑。”
+  -via[32本好书推荐，看看过去的双十一大家买了啥？](https://mp.weixin.qq.com/s?__biz=MjM5NTY1OTI0MQ==&mid=2651137503&idx=1&sn=800f152d54d72d8f8bb9e651cdcba329&chksm=bd04a9598a73204f36a2b4ce58c26ec0cba211e14b87e7c47eaac7e632d55d43557ca7267abb)
 - 出版状況クロニクル151（2020年11月1日～11月30日）#[[数据]]
-　20年10月の書籍雑誌推定販売金額は1000億円で、前年比6.6%増。
-　書籍は536億円で、同14.0%増。
-　雑誌は464億円で、同0.8%減。
-　その内訳は月刊誌が382億円で、同0.5%増、週刊誌は82億円で、同6.4%減。
-　返品率は書籍が32.2%、雑誌は41.3%で、月刊誌は40.6%、週刊誌は44.1%。
--via[出版状況クロニクル151（2020年11月1日～11月30日） - 出版・読書メモランダム](https://odamitsuo.hatenablog.com/entry/2020/12/01/000000)
+  　20年10月の書籍雑誌推定販売金額は1000億円で、前年比6.6%増。
+  　書籍は536億円で、同14.0%増。
+  　雑誌は464億円で、同0.8%減。
+  　その内訳は月刊誌が382億円で、同0.5%増、週刊誌は82億円で、同6.4%減。
+  　返品率は書籍が32.2%、雑誌は41.3%で、月刊誌は40.6%、週刊誌は44.1%。
+  -via[出版状況クロニクル151（2020年11月1日～11月30日） - 出版・読書メモランダム](https://odamitsuo.hatenablog.com/entry/2020/12/01/000000)
 - 2021国考，不出意外地上了热搜。
-据国家公务员局公布的数据显示，今年共招录2.57万人，却有157.6万人通过了资格审查，约61个人竞争1个岗位。#[[数据]]
--via[2021国考人数突破157万：最可怕的，是你经不住人生的荒年](https://mp.weixin.qq.com/s?__biz=MzI2NjAzNzA4OQ==&mid=2649902289&idx=1&sn=faf275b3bc8a60dbf782d89fb6838b26&chksm=f292dedfc5e557c921858c0a4a8579d923054dd4040e586d2055d6758be1f8c4feb601b09d44)
+  据国家公务员局公布的数据显示，今年共招录2.57万人，却有157.6万人通过了资格审查，约61个人竞争1个岗位。#[[数据]]
+  -via[2021国考人数突破157万：最可怕的，是你经不住人生的荒年](https://mp.weixin.qq.com/s?__biz=MzI2NjAzNzA4OQ==&mid=2649902289&idx=1&sn=faf275b3bc8a60dbf782d89fb6838b26&chksm=f292dedfc5e557c921858c0a4a8579d923054dd4040e586d2055d6758be1f8c4feb601b09d44)
 - [[语言风格的秘密]]：语言如何透露人们的性格、情感和社交关系
--via[语言风格的秘密 - 得到APP](https://www.dedao.cn/reader?id=pqvNQ1KRJa7EmgG8MPKrzykNVbDpBWZPj6wQA1xO54nlvZq296YodejLXVJE5eAd)#[[读书笔记]]
+  -via[语言风格的秘密 - 得到APP](https://www.dedao.cn/reader?id=pqvNQ1KRJa7EmgG8MPKrzykNVbDpBWZPj6wQA1xO54nlvZq296YodejLXVJE5eAd)#[[读书笔记]]
 - 中国金融出版社公众号推荐的一些书
     - 刘陈杰，望正资本全球宏观对冲基金董事长，高盛中国原首席策略分析师。在加入高盛前，曾经在银华基金工作。中国新供给经济学五十人论坛成员，中国金融四十人论坛青年会员，莫干山研究院副院长，中国人民大学经济学院业界导师，中国人民大学国际货币研究所研究员，中国民生银行智库五十人论坛成员，财政部全国预算与会计研究会理事。中国人民大学学士，财政部中国财政科学研究院博士，中国社会科学院博士后。
--via[【特别推荐】地方政府债务与金融稳定研究](https://mp.weixin.qq.com/s?__biz=MjM5MDAzMTQ1Mg==&mid=2650734980&idx=4&sn=da565f3488d97d7fc8124ef2722d4b8a&chksm=be40aab7893723a1114fce61171190f1df6db9c35c12e36ff4a7ea5331213701555504dd4f04)
+      -via[【特别推荐】地方政府债务与金融稳定研究](https://mp.weixin.qq.com/s?__biz=MjM5MDAzMTQ1Mg==&mid=2650734980&idx=4&sn=da565f3488d97d7fc8124ef2722d4b8a&chksm=be40aab7893723a1114fce61171190f1df6db9c35c12e36ff4a7ea5331213701555504dd4f04)
     - 1950年10月1日，《中国金融》创刊，由中国人民银行办公厅编辑室负责编辑出版工作，主要任务是宣传党和国家金融方针政策，交流金融实际工作经验。这是新中国成立后创办的第一本金融期刊，标志着新中国金融新闻出版事业迈出了第一步。2003年，《中国金融》由“中国人民银行主办”改为“中国人民银行主管”，但其政策性、专业性、实践性的定位没有改变。而今，《中国金融》已经成为金融宣传舆论战线中的重要一员，成为财经领域最具影响力的专业刊物之一。70年来，《中国金融》忠实地记录了新中国金融事业的辉煌历程，坚持不懈地为金融改革开放鼓与呼。为了纪念《中国金融》创刊70周年，“中国金融杂志”微信公众号将从10月1日起推出“《中国金融》70年 • 70人”专栏，由70位多年来关注、支持《中国金融》，与《中国金融》同命运共成长的经济金融界领导、专家、学者，畅谈中国金融业的改革发展故事以及与《中国金融》杂志的深厚情缘。
--via[杨再平｜《中国金融》70年 • 70人特别谈](https://mp.weixin.qq.com/s?__biz=MjM5MDAzMTQ1Mg==&mid=2650735215&idx=5&sn=4345a6e57c6f78184f3605e9794ad5d4&chksm=be40a95c8937204a15a9c77626718968a59138e75b952250f1c3173afa6bd702c696e5dde9aa)
+      -via[杨再平｜《中国金融》70年 • 70人特别谈](https://mp.weixin.qq.com/s?__biz=MjM5MDAzMTQ1Mg==&mid=2650735215&idx=5&sn=4345a6e57c6f78184f3605e9794ad5d4&chksm=be40a95c8937204a15a9c77626718968a59138e75b952250f1c3173afa6bd702c696e5dde9aa)
 - 《城市：重新发现市中心》是威廉.怀特2016年直接地和持续地观察城市公共空间的结晶。怀特使用录像机，记录下城市中心地区的广场、街道、小公园和市场里人的行为，然后再做具体分析，从整体上评估城市中心的健康。本书可谓美国城市思想核心中的一部分，至今仍然是许多国家城市规划协会推荐给会员们必读的经典之一。
--via[人文社科联合书单 | 2020年11月·第62期](https://mp.weixin.qq.com/s?__biz=MjM5MzE4MTE0MQ==&mid=2652864734&idx=2&sn=36316b9d5210ce644ef3b43bf17c4ff2&chksm=bd71dc648a0655722c77a6ba3fb5e8165ef150ea3a323abcf6d5863a7a5bf265973a68e20dad)
+  -via[人文社科联合书单 | 2020年11月·第62期](https://mp.weixin.qq.com/s?__biz=MjM5MzE4MTE0MQ==&mid=2652864734&idx=2&sn=36316b9d5210ce644ef3b43bf17c4ff2&chksm=bd71dc648a0655722c77a6ba3fb5e8165ef150ea3a323abcf6d5863a7a5bf265973a68e20dad)
 - 大明永乐十八年，皇帝颁布诏书，将营建北京告成的喜讯昭告天下，我们把这一天看作是明代北京城与明代北京皇宫建筑的诞辰，按公历算，到２０２０年已整整六百年。为纪念这座六百年伟大古代建筑群，古建筑学家、故宫前副院长晋宏逵先生写成《故宫营建六百年》一书，让读者了解从元明两朝建城开始到宫殿落成的漫长的营建历史。
--via[人文社科联合书单 | 2020年11月·第62期](https://mp.weixin.qq.com/s?__biz=MjM5MzE4MTE0MQ==&mid=2652864734&idx=2&sn=36316b9d5210ce644ef3b43bf17c4ff2&chksm=bd71dc648a0655722c77a6ba3fb5e8165ef150ea3a323abcf6d5863a7a5bf265973a68e20dad)
+  -via[人文社科联合书单 | 2020年11月·第62期](https://mp.weixin.qq.com/s?__biz=MjM5MzE4MTE0MQ==&mid=2652864734&idx=2&sn=36316b9d5210ce644ef3b43bf17c4ff2&chksm=bd71dc648a0655722c77a6ba3fb5e8165ef150ea3a323abcf6d5863a7a5bf265973a68e20dad)
 - 本书深入洞察了人类经验复杂性的核心话题＂偏见与歧视＂，是人格心理学之父戈登.奥尔波特里程碑式的著作。奥尔波特全面而深刻的研究揭示了＂偏见＂这一由来已久的问题的方方面面：它在个人身上的根源是什么，社会心理学层面的根源又在哪里；它的表现形式都有哪些；它对个体和群体又有着哪些影响。#[[社会心理学]]
--via[人文社科联合书单 | 2020年11月·第62期](https://mp.weixin.qq.com/s?__biz=MjM5MzE4MTE0MQ==&mid=2652864734&idx=2&sn=36316b9d5210ce644ef3b43bf17c4ff2&chksm=bd71dc648a0655722c77a6ba3fb5e8165ef150ea3a323abcf6d5863a7a5bf265973a68e20dad)
+  -via[人文社科联合书单 | 2020年11月·第62期](https://mp.weixin.qq.com/s?__biz=MjM5MzE4MTE0MQ==&mid=2652864734&idx=2&sn=36316b9d5210ce644ef3b43bf17c4ff2&chksm=bd71dc648a0655722c77a6ba3fb5e8165ef150ea3a323abcf6d5863a7a5bf265973a68e20dad)
 - 诸子锦言录
--via[直到17世纪，人类才“看见”风景 | 译著联合书单，11月推荐](https://mp.weixin.qq.com/s?__biz=MjM5OTQyMjEwMQ==&mid=2655936318&idx=2&sn=8606f7855e81364f77952972d49c6ef5&chksm=bc814ec48bf6c7d2932d04d05eb51c46192803e980cccde22b2bc88eb54ede1815a4a1cbc6e9)
+  -via[直到17世纪，人类才“看见”风景 | 译著联合书单，11月推荐](https://mp.weixin.qq.com/s?__biz=MjM5OTQyMjEwMQ==&mid=2655936318&idx=2&sn=8606f7855e81364f77952972d49c6ef5&chksm=bc814ec48bf6c7d2932d04d05eb51c46192803e980cccde22b2bc88eb54ede1815a4a1cbc6e9)
 - 《神奈川冲浪》是日本文化的重要象征符号。千年来，伴随着与中国及西方的交往，日本在历史潮流中形成了独特的文化气质与美学特点。20世纪的近代化让“和文化”的影响扩展到亚洲之外，21世纪的“Cool Japan”战略更将其推向全世界。
-本书是一部全景式展现日本文明进程的通识作品，从史前考古发现开始，讲述各个历史时期的文化趋势、宗教发展与艺术成就，梳理精英文化与流行文化从前现代到现代的发展脉络。
-日本文化研究者南希·K. 斯托克（Nancy K. Stalker）教授，在书中探讨了日本人生活中大量引人入胜的细节，除文化领域外，还特别关注日常生活、消费特点与性别差异，以及21世纪日本文化输出对全球的重要影响。本书站在全球视角，从大众熟知的文化艺术作品出发，深入《神奈川冲浪》之外的日本。
--via[直到17世纪，人类才“看见”风景 | 译著联合书单，11月推荐](https://mp.weixin.qq.com/s?__biz=MjM5OTQyMjEwMQ==&mid=2655936318&idx=2&sn=8606f7855e81364f77952972d49c6ef5&chksm=bc814ec48bf6c7d2932d04d05eb51c46192803e980cccde22b2bc88eb54ede1815a4a1cbc6e9)
+  本书是一部全景式展现日本文明进程的通识作品，从史前考古发现开始，讲述各个历史时期的文化趋势、宗教发展与艺术成就，梳理精英文化与流行文化从前现代到现代的发展脉络。
+  日本文化研究者南希·K. 斯托克（Nancy K. Stalker）教授，在书中探讨了日本人生活中大量引人入胜的细节，除文化领域外，还特别关注日常生活、消费特点与性别差异，以及21世纪日本文化输出对全球的重要影响。本书站在全球视角，从大众熟知的文化艺术作品出发，深入《神奈川冲浪》之外的日本。
+  -via[直到17世纪，人类才“看见”风景 | 译著联合书单，11月推荐](https://mp.weixin.qq.com/s?__biz=MjM5OTQyMjEwMQ==&mid=2655936318&idx=2&sn=8606f7855e81364f77952972d49c6ef5&chksm=bc814ec48bf6c7d2932d04d05eb51c46192803e980cccde22b2bc88eb54ede1815a4a1cbc6e9)
 - 世界花纹与图案大典
-[英]伊丽莎白·威尔海德∣著  张心童∣译   
-中国画报出版社
-2020年9月
-《世界花纹与图案大典》收录古今装饰纹样1500例，涵盖东西方历史上的各种装饰风格，分为植物图案、动物图案、几何图案、图画和抽象图案五大类，涉及纺织品（服饰、地毯、桌布等）、印刷品（壁纸、图书、包装纸等）、家居用品（家具、地板、瓷砖、灯饰等）和艺术品（陶器、瓷器、剪纸等）。所有图案标注设计者、年代等基本信息，配以文字介绍。
-书中还用78个图文并茂的专题重点介绍了威廉·莫里斯、胆小野兽等设计师，扎染、镶木等特色艺术，以及中国风、现代主义等艺术风格。本书版式精美，色彩艳丽，堪称视觉盛宴，既是设计师的重要参考书，也是所有爱美之人欣赏装饰艺术的必备珍藏。
--via[直到17世纪，人类才“看见”风景 | 译著联合书单，11月推荐](https://mp.weixin.qq.com/s?__biz=MjM5OTQyMjEwMQ==&mid=2655936318&idx=2&sn=8606f7855e81364f77952972d49c6ef5&chksm=bc814ec48bf6c7d2932d04d05eb51c46192803e980cccde22b2bc88eb54ede1815a4a1cbc6e9)
+  [英]伊丽莎白·威尔海德∣著  张心童∣译   
+  中国画报出版社
+  2020年9月
+  《世界花纹与图案大典》收录古今装饰纹样1500例，涵盖东西方历史上的各种装饰风格，分为植物图案、动物图案、几何图案、图画和抽象图案五大类，涉及纺织品（服饰、地毯、桌布等）、印刷品（壁纸、图书、包装纸等）、家居用品（家具、地板、瓷砖、灯饰等）和艺术品（陶器、瓷器、剪纸等）。所有图案标注设计者、年代等基本信息，配以文字介绍。
+  书中还用78个图文并茂的专题重点介绍了威廉·莫里斯、胆小野兽等设计师，扎染、镶木等特色艺术，以及中国风、现代主义等艺术风格。本书版式精美，色彩艳丽，堪称视觉盛宴，既是设计师的重要参考书，也是所有爱美之人欣赏装饰艺术的必备珍藏。
+  -via[直到17世纪，人类才“看见”风景 | 译著联合书单，11月推荐](https://mp.weixin.qq.com/s?__biz=MjM5OTQyMjEwMQ==&mid=2655936318&idx=2&sn=8606f7855e81364f77952972d49c6ef5&chksm=bc814ec48bf6c7d2932d04d05eb51c46192803e980cccde22b2bc88eb54ede1815a4a1cbc6e9)
 - 失去的三十年——日本经济神话的破灭
-[日]西野智彦∣著  李立丰 宋婷∣译
-东方出版中心
-2020年10月
-昭和末期不断膨胀的泡沫经济，在平成时代揭开帷幕的同时，宣告崩坏。不良债权问题导致大量金融机构进退维谷。1997年至1998年间，北海道拓殖银行、山一证券等机构纷纷破产。日本的金融体系，已经处于毁灭的边缘。此后，混乱局面一直持续，加上2008年“雷曼危机”，日本经济陷入长期停滞。当时的金融当局究竟作何考量？出现了哪些失误？通过调查走访关键当事人，本书对于日本金融政策进退失据的三十年，予以深入检证。
--via[直到17世纪，人类才“看见”风景 | 译著联合书单，11月推荐](https://mp.weixin.qq.com/s?__biz=MjM5OTQyMjEwMQ==&mid=2655936318&idx=2&sn=8606f7855e81364f77952972d49c6ef5&chksm=bc814ec48bf6c7d2932d04d05eb51c46192803e980cccde22b2bc88eb54ede1815a4a1cbc6e9)
+  [日]西野智彦∣著  李立丰 宋婷∣译
+  东方出版中心
+  2020年10月
+  昭和末期不断膨胀的泡沫经济，在平成时代揭开帷幕的同时，宣告崩坏。不良债权问题导致大量金融机构进退维谷。1997年至1998年间，北海道拓殖银行、山一证券等机构纷纷破产。日本的金融体系，已经处于毁灭的边缘。此后，混乱局面一直持续，加上2008年“雷曼危机”，日本经济陷入长期停滞。当时的金融当局究竟作何考量？出现了哪些失误？通过调查走访关键当事人，本书对于日本金融政策进退失据的三十年，予以深入检证。
+  -via[直到17世纪，人类才“看见”风景 | 译著联合书单，11月推荐](https://mp.weixin.qq.com/s?__biz=MjM5OTQyMjEwMQ==&mid=2655936318&idx=2&sn=8606f7855e81364f77952972d49c6ef5&chksm=bc814ec48bf6c7d2932d04d05eb51c46192803e980cccde22b2bc88eb54ede1815a4a1cbc6e9)
 - 日本法官为何隔绝在社会生活之外？3500名精英如何成为没有感情的“知识工人”？
-是遵从法与良心的正义使者，还是官僚层级制的“笼中鸟”？
-本书以内部视角观察日本司法行政体系的运行逻辑，深描法院系统内的官僚化人事安排及其消极后果，揭示了隐藏在日本司法制度背后的暗影。本书书文字洗练，资料翔实，脉络清晰，论点锐利，是一部可作“他山之石”的精品。
--via[给年末一个完美收关 | 译林新书速递·十二月](https://mp.weixin.qq.com/s?__biz=MjM5OTQyMjEwMQ==&mid=2655935939&idx=1&sn=e6f50ecd562f44d92e89b0ecbdbb8867&chksm=bc814c398bf6c52f5cc456ac982ae2a0f9c4c3a1b311c5078ba3ea39dcfcc23e4a75bfc46126)
+  是遵从法与良心的正义使者，还是官僚层级制的“笼中鸟”？
+  本书以内部视角观察日本司法行政体系的运行逻辑，深描法院系统内的官僚化人事安排及其消极后果，揭示了隐藏在日本司法制度背后的暗影。本书书文字洗练，资料翔实，脉络清晰，论点锐利，是一部可作“他山之石”的精品。
+  -via[给年末一个完美收关 | 译林新书速递·十二月](https://mp.weixin.qq.com/s?__biz=MjM5OTQyMjEwMQ==&mid=2655935939&idx=1&sn=e6f50ecd562f44d92e89b0ecbdbb8867&chksm=bc814c398bf6c52f5cc456ac982ae2a0f9c4c3a1b311c5078ba3ea39dcfcc23e4a75bfc46126)
 - 客厅变书房的意义还不止于引导孩子亲近书和阅读，我认为更深远的意义在于，我们开始尝试摆脱以电视为中心的生活方式以及这种生活方式对观念和行为的影响，引导整个家庭从娱乐型家庭变成学习成长型家庭，并由此为孩子建构出对他的人生和学业成就更有积极意义的日常生活。
-这也正是我今天想跟大家分享的第三个观点：改造日常生活就是改造家庭教育。
--via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
+  这也正是我今天想跟大家分享的第三个观点：改造日常生活就是改造家庭教育。
+  -via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
 - 阅读与识字的关系
     - 阅读是阅读，识字是识字
--via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
+      -via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
     - 区分识字场景和阅读场景
         - 孩子拿书来问“妈妈，这个字念什么”，
-是识字场景；走在外面，孩子指着路标问你上面写的是什么，是识字场景；孩子自己拿识字卡片来看，也是识字场景。
--via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
+          是识字场景；走在外面，孩子指着路标问你上面写的是什么，是识字场景；孩子自己拿识字卡片来看，也是识字场景。
+          -via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
     - 我们暂且不讨论《三字经》的内容如何，只指出一个错误：《三字经》其实不是国学经典，而是蒙学经典，是儿童开蒙时学的课本。它和著名蒙学课本——《百家姓》《千字文》，合称“三百千”，都是传统的识字课本。
--via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
+      -via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
     - 给孩子解释部首和造字方法
--via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
+      -via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
     - 识字是为了阅读，阅读不是为了识字
--via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
+      -via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
         - 我曾在飞机上遇到一个三四岁的小女孩，她自己拿着绘本，安安静静、翻来覆去地读了二三十分钟。我观察她看书的方式，发现她的目光不是停留在文字上，而是停留在画面上，很显然她还不太识字，但她看书时的专注程度、专注时间，都让人可以肯定，她是真的“读”进去了。
--via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)
+          -via[阅读手册：成就孩子一生的阅读培养法 - 得到APP](https://www.dedao.cn/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nxek0o6zvGDekj1QgA84VbpqJOPLgxEJlY)

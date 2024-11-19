@@ -11,9 +11,9 @@
         - 2022年10月17日 好久没用，发现上面的失效了。按照这个重新安装成功https://www.jianshu.com/p/e0471aa6672d
     - 很长时间没用之后发现无法连接，提示错误。我按照指示操作发现了原因。原来是手机没有开启开发者模式中的usb调试。开启之后就好了，可能买了小米手机之后我就没用过这个功能。
         - wangxiaohuideMacBook-Pro:~ wangxiaohui$ scrcpy
-2021-08-15 20:13:23.764 scrcpy[27360:553358] INFO: scrcpy 1.16 <https://github.com/Genymobile/scrcpy>
-adb: error: failed to get feature set: no devices/emulators found
-2021-08-15 20:13:23.771 scrcpy[27360:553358] ERROR: "adb push" returned with value 1
+          2021-08-15 20:13:23.764 scrcpy[27360:553358] INFO: scrcpy 1.16 <https://github.com/Genymobile/scrcpy>
+          adb: error: failed to get feature set: no devices/emulators found
+          2021-08-15 20:13:23.771 scrcpy[27360:553358] ERROR: "adb push" returned with value 1
     - Frequently Asked QuestionsVia[scrcpy/FAQ.md at master · Genymobile/scrcpy · GitHub](https://github.com/Genymobile/scrcpy/blob/master/FAQ.md#adb-issues) [[20210815]] 下午8:26
     - 快捷键Via[Scrcpy-Android 设备投屏+控制工具 - 农夫山药 - 博客园](https://www.cnblogs.com/fanfeng/p/13093465.html) [[20210815]] 下午8:29
         - 最常用到的是熄灭手机屏幕cmd+o@评论:资料里的写的都是ctrl，用mac其实应该是cmd

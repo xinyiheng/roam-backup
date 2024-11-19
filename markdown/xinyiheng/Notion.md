@@ -12,17 +12,17 @@
 - Notion组件库｜更新：支持暗黑模式｜组件库获取方法Via[Notion组件库｜更新：支持暗黑模式｜组件库获取方法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fP4y1E7s6) [[20220117]] 上午9:46
 - #[[tricks]]
     - [Notion 优质资源汇总 - 少数派](https://sspai.com/post/71893)
-🗒@评论:这篇文章介绍的非常好
+      🗒@评论:这篇文章介绍的非常好
     - [使用集简云构建Notion的自动化工作流体系](https://www.bilibili.com/video/BV1Ve4y1Z7ob/?spm_id_from=333.788.recommend_more_video.2&vd_source=3d8ccab137cc879b5f9cbc14d68843ab) 
-
-#[[软件联动]] 和[[滴答清单]]联动
+      
+      #[[软件联动]] 和[[滴答清单]]联动
     - [安卓手机使用NOTION助手小程序剪藏文档](https://www.bilibili.com/video/BV1nS4y1w7YC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=3d8ccab137cc879b5f9cbc14d68843ab)
-🗒@评论:我估计不会使用，做个备忘吧
+      🗒@评论:我估计不会使用，做个备忘吧
     - 把notion变成网站
         - {{iframe: https://thenordicweb.com/}}
         - 是通过这个网站实现的From Notion to Website in minutes
-via[Super — From Notion to Website in minutes](https://super.so/)
-[[20201229]] 下午3:35
+          via[Super — From Notion to Website in minutes](https://super.so/)
+          [[20201229]] 下午3:35
         - 这样就可以把notion 嵌入到roam research当中，但是这样做就太复杂了，成本也太高了。每个月使用费12美元。
     - 在notion中插入各种展板的工具[notion metrics](https://notionmetrics.com/)
     - Notion加上[[间隔记忆]]功能

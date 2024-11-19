@@ -7,16 +7,16 @@
 - 还可以写博客
 - #[[自动化]]
     - Coda 的出现让我非常兴奋，其支持与数十种常用工具集成，并将此功能命名为 Coda Packs。Coda Packs 可以同步来自第三方的服务数据，但需要和 Coda 本身的功能模块配合才能发挥最大作用。从我的使用体验来看，与 Packs 服务联系最紧密的功能模块分别是 Table 表格、Formula 动态公式以及 Button 快捷按钮。
-via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少数派](https://sspai.com/post/56508)
-[[20201216]] 下午10:08
+      via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少数派](https://sspai.com/post/56508)
+      [[20201216]] 下午10:08
     - 与表格关联的数据实际上是单向同步的过程，即从第三方服务到表格。如果你想直接通过 Coda 修改第三方服务数据，例如向 Google Calendar 中添加日历事件，或者是发送邮件，就需要用到前面提到的 Formula 动态公式以及 Button 快捷按钮。
-via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少数派](https://sspai.com/post/56508)
-[[20201216]] 下午10:11
+      via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少数派](https://sspai.com/post/56508)
+      [[20201216]] 下午10:11
     - 当 Coda 和 Zapier 结合在一起时，就变成了只有你想不到，没有做不到的事情。再加上 Coda 本身提供了开发者 API 接口，而 Zapier 同时也支持 Webhook 传递数据，Coda 就实现了最大程度的「数据自由」。#[[软件联动]]
-via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少数派](https://sspai.com/post/56508)
-[[20201216]] 下午10:12
+      via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少数派](https://sspai.com/post/56508)
+      [[20201216]] 下午10:12
     - Coda 还有一个 Automations 的选项，意为自动化。该选项实际上是结合文档内的其他模块使用的。例如从第三方导入表格中的数据需要刷新，就可以设定一个以小时自动刷新的自动化规则。via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少数派](https://sspai.com/post/56508)
-[[20201216]] 下午10:13
+      [[20201216]] 下午10:13
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FTwvaiZYWls.png?alt=media&token=a63ee50d-766e-494e-9d32-aec894c116ae)
 - 关联概念
     - [[Airtable]]
@@ -28,9 +28,9 @@ via[集成多种自动化服务，完全免费的在线文档工具：Coda - 少
     - 用 Coda 打造你的个人仪表盘 (2) --习惯跟踪系统Via[用 Coda 打造你的个人仪表盘 (2) --习惯跟踪系统（附养猫指南） - 少数派](https://sspai.com/post/56516)[[20210102]] 下午11:11
     - 用 Coda 打造你的个人仪表盘 (3)--让量化自我不再繁琐Via[用 Coda 打造你的个人仪表盘 (3)--让量化自我不再繁琐 - 少数派](https://sspai.com/post/56565)[[20210102]] 下午11:11#[[编程]]
     - OriDance @评论:这个作者写了很多coda的用法
-via[OriDance 的文章 - 少数派](https://sspai.com/u/origamidance/posts)
-[[20201216]] 下午8:54
+      via[OriDance 的文章 - 少数派](https://sspai.com/u/origamidance/posts)
+      [[20201216]] 下午8:54
     - Welcome to The Coda Community
-via[The Coda Community](https://community.coda.io/)
-[[20201216]] 下午9:47
+      via[The Coda Community](https://community.coda.io/)
+      [[20201216]] 下午9:47
 - [Coda ](brain://api.thebrain.com/g7PXu0IyM0ucARb24SvxiA/7BvR0g-CCEG6EDEqgji8qw/Coda)

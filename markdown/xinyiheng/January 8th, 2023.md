@@ -2,7 +2,7 @@
     - 早上带着麻豆去迎宾公园，找到了一个小足球场，麻豆踢足球很开心。
     - 下午和麻豆一起拼乐高的兰博基尼sian
     - #[[育儿]] 昨天和麻豆复习编程中的坐标问题时，发现他根本就不会找坐标，教了好多次，每次让他在图中找到指定的坐标点的时候他都是乱花一通。我忍了好几次还是没忍住，向他发了大火。今天重新教他，从这种图开始让他理解坐标，花了好长时间，好像明白了。他还是对汽车感兴趣。我发现如果看到一些问题觉得有助于帮助他思考，用滴答清单记录下来找时间和他一起解答是不错的方法。
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F5GkHwI9ohd.png?alt=media&token=a2a9a900-57f8-498a-9a0b-ea7d84a11cad)
+      ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F5GkHwI9ohd.png?alt=media&token=a2a9a900-57f8-498a-9a0b-ea7d84a11cad)
     - #[[工具]] 发现edge浏览器阅读文本的效果真是太好了，但是，我平时主要使用chrome，我设置了一个快捷方式，快速用edge打开当前阅读的网址。
     - #[[育儿]] 最近教麻豆用思维导图把他感兴趣的汽车信息整理到一起。
     - #[[家庭]] 今天和妈视频，他们正在吃饭，没聊多大会儿。

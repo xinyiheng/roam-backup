@@ -24,27 +24,27 @@
 - #[[阅读]]![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FCPifeHGvp2.png?alt=media&token=ebd53889-176f-479a-b2d8-7a980dc3c4ec)
 - [[Inbox]]
     - [[xin]] at 10:32: 今天
-
-今天
-- 网络热传生物鉴定36  (1月12日, 下午06:30)
-- [信毅恒的读书主页](https://book.douban.com/mine)(1月12日, 下午10:00)
-- 鼓励麻豆在相对正式的场景下表达自己的想法是我这段时间需要注意的事情。(1月12日)
-
-已过期
-- [如何成为一个学习忍者 - 得到APP](https://www.dedao.cn/reader?id=JBpM1nLOerPa1XOp27zqQ8KGR56loVWrka3dLygv94jYmnENDxAMZJBkbNzEblgQ&source=douban)(2021年12月16日)
-- 每天读一点(2021年12月20日)
-- 这样的话有一种写法，[同义词]([[指向词]])，后面那个指向词 需要在roam里面有界面。这样写不影响你原文的行文，但也可以跳转 。 alisa的用法(2021年12月31日)
-- [如何正确地练习写作](https://mp.weixin.qq.com/s/IDOurrBQyeD_2SnoAPam0A)(1月3日)
-
-已完成
-- 如何同时搜索多个指定网站？
-- 【4K延时摄影 超级单体雷暴 摄影师 Dustin Farrell-哔哩哔哩】https://b23.tv/EUwXjZ
-- 【Notion × 微信公众号】在你的“第二大脑”中自动记录每一篇值得回顾的公众号文章
-- [MacTalk·人生元编程-池建强-微信读书](https://weread.qq.com/web/reader/f66325405c4f7cf66f11365k45c322601945c48cce2e120)(2021年12月16日)
-- [信毅恒的读书主页](https://book.douban.com/mine)(2021年12月30日, 下午10:00)
-
-来自滴答清单:
-www.dida365.com
+      
+      今天
+      - 网络热传生物鉴定36  (1月12日, 下午06:30)
+      - [信毅恒的读书主页](https://book.douban.com/mine)(1月12日, 下午10:00)
+      - 鼓励麻豆在相对正式的场景下表达自己的想法是我这段时间需要注意的事情。(1月12日)
+      
+      已过期
+      - [如何成为一个学习忍者 - 得到APP](https://www.dedao.cn/reader?id=JBpM1nLOerPa1XOp27zqQ8KGR56loVWrka3dLygv94jYmnENDxAMZJBkbNzEblgQ&source=douban)(2021年12月16日)
+      - 每天读一点(2021年12月20日)
+      - 这样的话有一种写法，[同义词]([[指向词]])，后面那个指向词 需要在roam里面有界面。这样写不影响你原文的行文，但也可以跳转 。 alisa的用法(2021年12月31日)
+      - [如何正确地练习写作](https://mp.weixin.qq.com/s/IDOurrBQyeD_2SnoAPam0A)(1月3日)
+      
+      已完成
+      - 如何同时搜索多个指定网站？
+      - 【4K延时摄影 超级单体雷暴 摄影师 Dustin Farrell-哔哩哔哩】https://b23.tv/EUwXjZ
+      - 【Notion × 微信公众号】在你的“第二大脑”中自动记录每一篇值得回顾的公众号文章
+      - [MacTalk·人生元编程-池建强-微信读书](https://weread.qq.com/web/reader/f66325405c4f7cf66f11365k45c322601945c48cce2e120)(2021年12月16日)
+      - [信毅恒的读书主页](https://book.douban.com/mine)(2021年12月30日, 下午10:00)
+      
+      来自滴答清单:
+      www.dida365.com
     - [[xin]] at 15:08: #Photo caj转pdf #[[文件格式]]
         - ![photo](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F0XRFHBtoa?alt=media&token=208d9ddd-5a3b-4ed8-97f3-fa7598759e8b)
 - "

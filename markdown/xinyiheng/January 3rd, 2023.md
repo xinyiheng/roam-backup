@@ -8,9 +8,9 @@
             - https://mp.weixin.qq.com/s?__biz=MzI0ODEyMTM1OQ==&mid=2649912882&idx=1&sn=bceb54766a4b1b56aa22f118718ea53e&chksm=f1a34752c6d4ce44416d172fbbcd1f5935ad574c2bc1510a024f6692a37e5f86a29b5ff2e335&mpshare=1&scene=1&srcid=0127KuogFh49Uw2Tika3rCHB [Email Body](https://files.todoist.com/lPa6WI_zgjH6d5VBP9P2himnTR-SXdDQXOieup4H1PEknOfse0FRXKzZAFzZpUMA/by/21878347/as/file.html)
     - @信毅恒xinyiheng 的个人主页 - 微博
         - Annotations:
-
-* 本周一，联合国经济和社会事务部发布报告称，2023年印度人口将超过中国。  
-https://weibo.com/u/5750600479 [Email Body](https://files.todoist.com/xhgfwxyVZ-EU9gQ2-0G8KMfjUqmMf9TUhWAcUBXvaoy1YEuybDUR2Ftzlg8oTXTC/by/21878347/as/file.html)
+          
+          * 本周一，联合国经济和社会事务部发布报告称，2023年印度人口将超过中国。  
+          https://weibo.com/u/5750600479 [Email Body](https://files.todoist.com/xhgfwxyVZ-EU9gQ2-0G8KMfjUqmMf9TUhWAcUBXvaoy1YEuybDUR2Ftzlg8oTXTC/by/21878347/as/file.html)
     - 软件：Roam Research 卡片盒笔记流程简述。_哔哩哔哩_bilibili
         - https://www.bilibili.com/video/BV188411x7Fy/?spm_id_from=pageDriver&vd_source=3d8ccab137cc879b5f9cbc14d68843ab [Email Body](https://files.todoist.com/5FqSShbmKkVrNfmhjK7XoKBapQzJFHN1vgjJgfy0GXFo2nsGSsTlk5gplZb6IRMW/by/21878347/as/file.html)
     - 微博
@@ -43,10 +43,10 @@ https://weibo.com/u/5750600479 [Email Body](https://files.todoist.com/xhgfwxyVZ-
             - https://stackoverflow.com/questions/43552968/applescript-toggle-alfred [Email Body](https://files.todoist.com/N4Le_ELlOjmK0CWmUdb9VhqLDmmCUNp2s8h13Jq0-hmIZ7Ch-kxuTyZwe7Fw8hEz/by/21878347/as/file.html)
     - 日本人如何看待日本经济发展？
         - Annotations:
-* 作者船桥洋一，是日本一线大报《朝日新闻》的总编辑。他就认为，无论是政治上还是经济上，日本主动配合美国缩减贸易逆差让日元相对升值，都是合理的选择。
-这本书不仅还原了“广场协议”的来龙去脉，同时也指出了，当年日本在需求侧没有采取最佳的财政和货币政策组合，在供给侧也没有进行有效的经济体制改革，所以才陷入了停滞。
-* 《低欲望社会》这本书我个人认为最大的问题是把结果当成了原因。没有一个民族和社会是不喜欢享乐，奢华，高品质的生活的，况且日本之前就有过这样的时代。现实是因为人们对于社会现状的无力感，个体与社会结构的失衡，经济的低活力，高度老龄化，自然资源的限制等等因素才导致了人们不得不将就地过日子，住在窄小的房间吃着便宜的便当，每件事精打细算日子谨小慎微。但是作者却把这种态度认为是导致日本经济社会低迷的原因，这实在荒谬。
-https://m.igetget.com/share/audioBooksList/id/468 [Email Body](https://files.todoist.com/lFinbhs97XgcMtIi02PWXzVplGvrGSBf4wS3BVjhlgSYyf_IVx32CnOlUYj1srSi/by/21878347/as/file.html)
+          * 作者船桥洋一，是日本一线大报《朝日新闻》的总编辑。他就认为，无论是政治上还是经济上，日本主动配合美国缩减贸易逆差让日元相对升值，都是合理的选择。
+          这本书不仅还原了“广场协议”的来龙去脉，同时也指出了，当年日本在需求侧没有采取最佳的财政和货币政策组合，在供给侧也没有进行有效的经济体制改革，所以才陷入了停滞。
+          * 《低欲望社会》这本书我个人认为最大的问题是把结果当成了原因。没有一个民族和社会是不喜欢享乐，奢华，高品质的生活的，况且日本之前就有过这样的时代。现实是因为人们对于社会现状的无力感，个体与社会结构的失衡，经济的低活力，高度老龄化，自然资源的限制等等因素才导致了人们不得不将就地过日子，住在窄小的房间吃着便宜的便当，每件事精打细算日子谨小慎微。但是作者却把这种态度认为是导致日本经济社会低迷的原因，这实在荒谬。
+          https://m.igetget.com/share/audioBooksList/id/468 [Email Body](https://files.todoist.com/lFinbhs97XgcMtIi02PWXzVplGvrGSBf4wS3BVjhlgSYyf_IVx32CnOlUYj1srSi/by/21878347/as/file.html)
 - #[[意识流笔记]] 
     - 昨天睡眠质量一般，十一点半睡觉，六点半左右醒来。麻豆半夜做梦醒了。
     - 骑车上班，七点四十五之前出发的话可以保证八点半之前到达公司。
@@ -66,7 +66,7 @@ https://m.igetget.com/share/audioBooksList/id/468 [Email Body](https://files.tod
     - 想要买一台二手mac mini，发现现在比一年多之前还贵了。
     - #[[育儿]] 和麻豆一起看了一个介绍兰博基尼车型进化历史的视频，半个多小时，麻豆很喜欢。和麻豆一起对照着北京自然图鉴中的鸟类篇找买的小鸟玩具到底是什么鸟。
     - 到底怎样整理一本书的信息？
-
+      
         - 1.从我接触到这本书的信息开始，肯定是有一些信息渠道，比如，阅读了一篇文章或者另一本书了解到，或者听到别人的介绍。
         - 2.在豆瓣上标注这本书。这时候可以有多种选择，保存到notion，用diigo标注或者到the brain。还有一种做法是加入到滴答清单，这样，可以用看板的方式直观地展示。
         - 3.找到书籍资源。如果是得到电子书或者微信读书，就直接阅读，如果是pdf，就放到marginnote文件夹。得到电子书和微信读书汇合到roam中。marginnote的笔记整合到项目思维导图中，也就是说根据主题汇总了多本书的思维导图。

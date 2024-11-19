@@ -12,22 +12,25 @@
     - Block Related CommandsVia[Command reference | Smartblocks](https://roamjs.com/extensions/smartblocks/command_reference) [[20220117]] 下午12:44
     - 除了这些特殊的命令，还可以当做一个普通模板来使用
 - #SmartBlock Random Poem
-    - <%JAVASCRIPTASYNC:```javascript
-
-return fetch("https://www.poemist.com/api/v1/randompoems")
-.then(r => r.json()).then(data => {
-  document.poemData = data;
-  console.log(data)
-  return document.poemData[0].title + ' - [[' + document.poemData[0].poet.name + ']]'
-}).catch(e => e)
-```%>
+    - <%JAVASCRIPTASYNC:
+      ```javascript
+      
+      return fetch("https://www.poemist.com/api/v1/randompoems")
+      .then(r => r.json()).then(data => {
+        document.poemData = data;
+        console.log(data)
+        return document.poemData[0].title + ' - [[' + document.poemData[0].poet.name + ']]'
+      }).catch(e => e)
+      ```%>
         - <%JAVASCRIPT: return document.poemData[0].content%>
 - https://roamjs.com/extensions/smartblocks
 - #SmartBlock Excalidraw
-    - <%JA: ```javascript
-const room = Array.from(window.crypto.getRandomValues(new Uint8Array(10))).map((byte) => `0${byte.toString(16)}`.slice(-2)).join("");
-const key = (await window.crypto.subtle.exportKey("jwk",await window.crypto.subtle.generateKey({name:"AES-GCM",length:128},true,["encrypt", "decrypt"]))).k;
-return `{{iframe: https://excalidraw.com/#room=${room},${key}}}`;```%>
+    - <%JA: 
+      ```javascript
+      const room = Array.from(window.crypto.getRandomValues(new Uint8Array(10))).map((byte) => `0${byte.toString(16)}`.slice(-2)).join("");
+      const key = (await window.crypto.subtle.exportKey("jwk",await window.crypto.subtle.generateKey({name:"AES-GCM",length:128},true,["encrypt", "decrypt"]))).k;
+      return `{{iframe: https://excalidraw.com/#room=${room},${key}}}`;
+      ```%>
     - <%CURSOR%>
 - #SmartBlock Excalidraw
     - Description
@@ -39,59 +42,61 @@ return `{{iframe: https://excalidraw.com/#room=${room},${key}}}`;```%>
 - #SmartBlock YouTube TimeStamp
     - {{Add Timestamp:42SmartBlock:YouTube TimeStamp:varYTbut=y}}
     - <%IFTRUE:"<%GET:varYTbut%>" == "y"%><%JAVASCRIPT:
-```javascript
-if (window.YT !== undefined) {
-    if (Array.from(document.getElementsByTagName('IFRAME')).filter(iframe => iframe.src.includes('youtube.com'))[0]) {
-        var getClosestParent = function (elem, srcStr) {
-            for (; elem && elem !== document; elem = elem.parentNode) {
-                if (elem.getElementsByTagName('IFRAME').length > 0) {
-                    var foundIframe = elem.getElementsByTagName('IFRAME')[0];
-                    if (foundIframe.src.includes(srcStr)) { return foundIframe };
-                }
-            }
-        };
-        var ytIframe = getClosestParent(document.getElementsByTagName('TEXTAREA')[0], 'youtube.com');
-        if (ytIframe) {
-            var ytIframeId = ytIframe.id;
-            var ytPlayer = YT.get(ytIframeId);
-            var currentTime = ytPlayer.getCurrentTime() - 5;
-            if (currentTime < 1) { currentTime = 1 };
-            return (new Date(currentTime * 1000).toISOString().substr(11, 8)) + ' - ';
-        }
-        else {
-            return "No YouTube Player Open!";
-        }
-    }
-    else {
-        return "No YouTube Player Open!";
-    }
-}
-```
-%><%CURSOR%>
+      ```javascript
+      if (window.YT !== undefined) {
+          if (Array.from(document.getElementsByTagName('IFRAME')).filter(iframe => iframe.src.includes('youtube.com'))[0]) {
+              var getClosestParent = function (elem, srcStr) {
+                  for (; elem && elem !== document; elem = elem.parentNode) {
+                      if (elem.getElementsByTagName('IFRAME').length > 0) {
+                          var foundIframe = elem.getElementsByTagName('IFRAME')[0];
+                          if (foundIframe.src.includes(srcStr)) { return foundIframe };
+                      }
+                  }
+              };
+              var ytIframe = getClosestParent(document.getElementsByTagName('TEXTAREA')[0], 'youtube.com');
+              if (ytIframe) {
+                  var ytIframeId = ytIframe.id;
+                  var ytPlayer = YT.get(ytIframeId);
+                  var currentTime = ytPlayer.getCurrentTime() - 5;
+                  if (currentTime < 1) { currentTime = 1 };
+                  return (new Date(currentTime * 1000).toISOString().substr(11, 8)) + ' - ';
+              }
+              else {
+                  return "No YouTube Player Open!";
+              }
+          }
+          else {
+              return "No YouTube Player Open!";
+          }
+      }
+      ```
+      %><%CURSOR%>
     - <%IFTRUE:"<%GET:varYTbut%>" != "y"%> <%CURSOR%>
     - <%SET:varYTbut,n%><%NOBLOCKOUTPUT%>
 - #[[SmartBlock]]flomo随机内容
-    - <%SET:result,<%JA:```javascript
-roam42.loader.addScriptToPage('turndown', 'https://unpkg.com/turndown/dist/turndown.js');
-var turndownService = new TurndownService();
-
-function getRandomInt(max) {
-  return Math.floor(Math.random() * max);
-}
-
-const flomo_session = 'eyJpdiI6InRwOGJcLzB5OHhMbDR3S3ZINkl2OUNBPT0iLCJ2YWx1ZSI6IjA3cWhLenRyUXBsWG5ZTUQ0T2tIak1qam5sVlJRSzA5NDlHUDR0ZHBDVTVCMllEcGNoYURlQlRRb3czY1Z1R1AiLCJtYWMiOiJlYTgzMTIwNThkMzE1YzMyMWJiY2JiYzg2OGM5MWRmODNkNzA0Mjc0MTE5OWZiZWM0OWE4ZGYzOTRhM2MxOTMyIn0%3D'; // todo: update to your session key
-var text = '';
-var settings = {
-  "url": `https://flomo-api-proxy.vercel.app/api/flomo?flomo_session=${flomo_session}`,
-  "method": "GET",
-  "timeout": 0,
-  "async": false
-};
-
-await $.ajax(settings).then(function (response) {
-  console.log({ response });
-  const random = getRandomInt(response?.memos?.length);
-  const resource = response?.memos[random]?.content;
-  text = turndownService.turndown(resource)
-}).catch(error =>  console.info({ error }));
-return JSON.stringify({text});```%>%><%J:return JSON.parse(result).text%>
+    - <%SET:result,<%JA:
+      ```javascript
+      roam42.loader.addScriptToPage('turndown', 'https://unpkg.com/turndown/dist/turndown.js');
+      var turndownService = new TurndownService();
+      
+      function getRandomInt(max) {
+        return Math.floor(Math.random() * max);
+      }
+      
+      const flomo_session = 'eyJpdiI6InRwOGJcLzB5OHhMbDR3S3ZINkl2OUNBPT0iLCJ2YWx1ZSI6IjA3cWhLenRyUXBsWG5ZTUQ0T2tIak1qam5sVlJRSzA5NDlHUDR0ZHBDVTVCMllEcGNoYURlQlRRb3czY1Z1R1AiLCJtYWMiOiJlYTgzMTIwNThkMzE1YzMyMWJiY2JiYzg2OGM5MWRmODNkNzA0Mjc0MTE5OWZiZWM0OWE4ZGYzOTRhM2MxOTMyIn0%3D'; // todo: update to your session key
+      var text = '';
+      var settings = {
+        "url": `https://flomo-api-proxy.vercel.app/api/flomo?flomo_session=${flomo_session}`,
+        "method": "GET",
+        "timeout": 0,
+        "async": false
+      };
+      
+      await $.ajax(settings).then(function (response) {
+        console.log({ response });
+        const random = getRandomInt(response?.memos?.length);
+        const resource = response?.memos[random]?.content;
+        text = turndownService.turndown(resource)
+      }).catch(error =>  console.info({ error }));
+      return JSON.stringify({text});
+      ```%>%><%J:return JSON.parse(result).text%>

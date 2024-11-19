@@ -59,9 +59,9 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fl4epjI7zGr.png?alt=media&token=ad51dc79-9868-4420-8b14-499a00cb4176)
         - 通过 roam research里的Universal Quick Capture插件来结合todolist同步方案。
             - 有三大功能非常棒：#[[软件联动]]
-首先，可以设置自动定时向roam research中拉取todolist收件箱中的任务。这样，可以通过手机端的[[Todolist]]快速向roam添加笔记。
-其次，从浏览器无缝向roam research添加网页。以前虽然设置了快捷方式，可以快速把网页链接添加到roam中，但必须先弹出roam界面，有时还会出错。但向todolist中添加任务就很快，只需要弹出一个小对话框，和向[[滴答清单]]中添加任务基本一样。这样，终于可以几乎无感地丝滑向roam中添加内容了。
-第三，todolist也支持通过向一个邮箱地址发邮件来添加任务这种方式。这样我就可以结合[[Inoreader]]的自动化规则，只要[[Diigo]]中有新的标注，就可以向todolist中发送一个任务。任务名称是文章的名字，内容则是标注以及原文链接。格式总体来说也比较让人满意。这样，我解决了长期以来一直没有解决的diigo与roam research联动的问题。🗒@评论：readwise 也可以导入diigo的标注，然后自动同步到roam reseaerch中。
+              首先，可以设置自动定时向roam research中拉取todolist收件箱中的任务。这样，可以通过手机端的[[Todolist]]快速向roam添加笔记。
+              其次，从浏览器无缝向roam research添加网页。以前虽然设置了快捷方式，可以快速把网页链接添加到roam中，但必须先弹出roam界面，有时还会出错。但向todolist中添加任务就很快，只需要弹出一个小对话框，和向[[滴答清单]]中添加任务基本一样。这样，终于可以几乎无感地丝滑向roam中添加内容了。
+              第三，todolist也支持通过向一个邮箱地址发邮件来添加任务这种方式。这样我就可以结合[[Inoreader]]的自动化规则，只要[[Diigo]]中有新的标注，就可以向todolist中发送一个任务。任务名称是文章的名字，内容则是标注以及原文链接。格式总体来说也比较让人满意。这样，我解决了长期以来一直没有解决的diigo与roam research联动的问题。🗒@评论：readwise 也可以导入diigo的标注，然后自动同步到roam reseaerch中。
         - 通过readwise同步 🗒@评论：readwise 可以导入 diigo 的标注，这依赖于 readwise 的订阅服务。
     - diigo大纲文件转换为mindnode思维导图的方法#[[软件联动]]
         - 方法1

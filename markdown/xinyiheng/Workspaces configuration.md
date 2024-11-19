@@ -40,7 +40,8 @@
             - __type one letter here__
         - Custom CSS:
             - ```css
-place any custom css in this code block```
+              place any custom css in this code block
+              ```
 - Workspace Definitions:
     - Dummy
         - Left Sidebar:
@@ -56,7 +57,8 @@ place any custom css in this code block```
             - __or go crazy and use DNP-365 to see what you were doing last year!__
         - Custom CSS:
             - ```css
-place any custom css in this code block```
+              place any custom css in this code block
+              ```
     - heptabase-like
         - Left Sidebar:
             - closed
@@ -77,7 +79,8 @@ place any custom css in this code block```
                 - {"includes":[],"removes":[]}
         - Custom CSS:
             - ```css
-place any custom css in this code block```
+              place any custom css in this code block
+              ```
 - Workspace Definitions:
     - Dummy
         - Left Sidebar:
@@ -95,4 +98,5 @@ place any custom css in this code block```
             - __type one letter here__
         - Custom CSS:
             - ```css
-place any custom css in this code block```
+              place any custom css in this code block
+              ```
