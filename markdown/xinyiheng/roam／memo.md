@@ -1,6 +1,6 @@
 - ### cache
     - [[memo]]
-        - lastCompletedDate:: November 10th, 2024
+        - lastCompletedDate:: December 12th, 2024
 - ### cache
     - [[memo]]
         - lastCompletedDate:: August 23rd, 2023
@@ -425,6 +425,13 @@
             - grade:: 2
     - 有些很棒的工作流程和软件功能设置好之后就以为自己已经也做到很棒了，这真是一种愚蠢的错觉。
       #[[memo]]
+        - [[December 12th, 2024]] 🔵
+            - nextDueDate:: [[April 14th, 2027]]
+            - eFactor:: 2.8000000000000003
+            - interval:: 853
+            - repetitions:: 8
+            - grade:: 4
+            - reviewMode:: SPACED_INTERVAL
         - [[November 23rd, 2023]] 🔵
             - nextDueDate:: [[December 8th, 2024]]
             - eFactor:: 2.8000000000000003
