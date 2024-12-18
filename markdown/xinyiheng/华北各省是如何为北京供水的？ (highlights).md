@@ -188,3 +188,8 @@
   约为长江多年平均径流量的4.7%
   
   却几乎是黄河
+- URL:: https://cubox.pro/my/card?id=7254503283648105971
+- ### Highlights first synced by #Readwise [[December 18th, 2024]]
+    - 调水规模达448亿立方米
+      约为长江多年平均径流量的4.7%
+      却几乎是黄河多年平均径流量的80%
