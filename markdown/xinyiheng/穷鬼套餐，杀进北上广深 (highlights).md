@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7269608363992810176
+- ### Highlights first synced by #Readwise [[December 20th, 2024]]
+    - 原本起家于延吉，近年来就靠着平价快餐攻城略地，在不开放加盟的情况下，愣是扩张到全国十多个省市上千家门店，去年打入上海，一线城市已经拦不住这种从三四线杀出的快餐品牌了。
