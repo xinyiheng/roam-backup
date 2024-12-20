@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7269696981906231214
+- ### Highlights first synced by #Readwise [[December 20th, 2024]]
+    - 很多宏大叙事与你我之间隔着千山万水
