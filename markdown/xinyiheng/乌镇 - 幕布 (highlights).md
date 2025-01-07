@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7276223061089585432
+- ### Highlights first synced by #Readwise [[January 7th, 2025]]
+    - ，却有想不出好办法来。“景区缺导游，但我没读过书，口才又不好。当服务员，我年纪又大了些。
