@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7278892128774654275
+- ### Highlights first synced by #Readwise [[January 15th, 2025]]
+    - 读书，也是无用之事，美，也是无用之物，是的我们离不开短视频了，但能够在乌镇坐下抄抄经，读一两本书，从文人墨客的时代经验里看到坚持的勇气，也是巨大的能量补给。
