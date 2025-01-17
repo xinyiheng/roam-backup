@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7279759193177853337
+- ### Highlights first synced by #Readwise [[January 17th, 2025]]
+    - 2018年9月20日，曾经被游客吐槽价格高的乌镇门票出现了下调。东栅景区门票价格从120元/人调整为110元/人；东西栅景区联票价格从200元/人调整为190元/人。
