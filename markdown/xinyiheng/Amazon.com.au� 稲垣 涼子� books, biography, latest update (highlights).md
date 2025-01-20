@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7280911048910046088
+- ### Highlights first synced by #Readwise [[January 20th, 2025]]
+    - 稲垣 涼子
