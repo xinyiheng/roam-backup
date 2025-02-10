@@ -60,7 +60,6 @@
               
               除了文字文档外，还有很多文件类型都能直接在 Terminal 预览，比如音频文件（但需要多走一步安装其他类似 less 的小工具）。
               
-              
               via[写给小白的第一份命令行工具Bash教程](https://sinantang.github.io/a%20developer%20guide%20for%20newbies%20-%20starting%20with%20python/2018/01/27/Bash-for-beginners/)
               [[20201225]] 下午5:08
         - 查看文档内容，合并文档
