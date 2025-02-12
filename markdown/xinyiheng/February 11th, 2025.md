@@ -1,2 +1,3 @@
 - #[[人工智能]]
-    - 用Python
+    - 用Python优化日语竖版 pdf 转换成 txt 文件后的样式。
+    - 用 anythingllm 来作为本地文件的 rag 客户端效果并不好。
