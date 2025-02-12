@@ -2,7 +2,7 @@
     - 索要《财富阶梯》新文稿
 - #[[人工智能]]
     - 我需要的是什么？方便阅读pdf的ai工具。目前的ai总结pdf内容感觉还是不太方便。特别是处理日语竖版文档的能力都不足。
-    - 基于本地内容生成 rag 回答内容。尝试在 obsidian 中使用 copilot 之外的其他插件。因为 copilot 在一台电脑上经常出错，并且实际生成内容的效果也不好。可以实现接近功能的还有
+    - 基于本地内容生成 rag 回答内容。尝试在 obsidian 中使用 copilot 之外的其他插件。因为 copilot 在一台电脑上经常出错，并且实际生成内容的效果也不好。可以实现接近功能的还有谷歌的 notebookllm、anythingllm等，但我觉得实际效果最好的还是 cursor 的 chat with database 功能。
     - 智能搜索，类似 meta 搜索和 open ai 的 deep research，但我更希望有包含更多日本资讯的内容。
     - 类似 dify 和扣子的agent 流程。目前，cursor 支持 cmp，感觉也是接入更多功能，可以实现更好的辅助编程效果。
     - 了解大语言模型的原理。
