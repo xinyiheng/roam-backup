@@ -5,6 +5,8 @@
         - 把更长的内容转换为播客，还可以主动加入聊天。谷歌的 notebookllm，缺点是智能生成英语，速度较慢。
         - 谷歌推出的另一个轻量化的工具[Illuminate | Learn Your Way](https://illuminate.google.com/library?pli=1) 比较适合改写一篇文章，而且也可以主动加入聊天，真的很不错。
         - 豆包 agent，只能是单人，我试了一下，英文播客这个还不错，可以输入一些内容，接着转变为很流畅的英文播客内容。其实实现方式很简单，也就是根据内容和提示词改写内容，然后用语音读出来。但这种互动形式很好，如果能支持两个人甚至更多的人讨论就更好了。
+        - 一个特别棒的开源项目
+            - [souzatharsis/podcastfy: An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI](https://github.com/souzatharsis/podcastfy)
         - notebookllm 实现的一些提示词：
         - 网友的一些内容实践，很有启发性。
             - [X 上的 Bear Liu：“把前几天的AI内容生成试验，汇总成了一个完整的小案例：带动画的播客。流程走完后，就大概知道（技术上的）坑在哪里了。 目前的工具方案：ChatGPT，Flux，11Labs，Hailuo AI，Final Cut Pro，CapCut。 https://t.co/K1ICJ0VaHx” / X] (https://x.com/bearbig/status/1862025770039992825)
