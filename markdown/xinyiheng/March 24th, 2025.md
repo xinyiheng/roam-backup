@@ -9,7 +9,7 @@
         -  提示词生成 svg 图片
         - 提示词生成 mermaid 图片
         - [‌⁠‍​​‌‍﻿​﻿﻿⁠‍​‬﻿​﻿​⁠﻿​​​​​​​​‬​﻿​​​⁠⁠​​﻿﻿﻿​​⁠﻿﻿​​‌教程：用 Figma 和 AI ，解锁文字卡片自由 - Feishu Docs](https://waytoagi.feishu.cn/wiki/Efn7wJiNHi1qYtkUakVcGjI0nZd?useEs6=0) 🗒@评论：汇文明朝这个字体真的很有印刷的感觉。好看。
-            - 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FqQ3-mSxKsO.png?alt=media&token=d9b4d967-1081-44ee-883d-7e9e3c8f5782)
     - 快速建站
         - 昨天看了 minko 的 ai 魔法屋这个博主的直播，启发是要先让人工智能扮演架构师的角色，设计出网站的组件，然后用一些好的前端设计工具生成一个有审美的前端，然后再借助人工智能编程工具优化。
         - bolt.new。还有一个号称快速建立 app 的。[Rork](https://rork.app/)
