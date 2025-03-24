@@ -1,0 +1,29 @@
+- #[[技能]]
+    - 最近用人工智能工具打造了好几个项目，但是并没有好好总结。
+    - 人工智能时代，自己的思考会变得越来有重要，尽量写下自己的想法。
+    - 想用探索快速生成图书宣传的海报，有几个不同的路径要评估优劣。
+        - gamma 的 ppt 模式
+        -  md2card 网站。[MD2Card - Markdown 转知识卡片工具](https://md2card.com/zh/editor)
+        - 浏览器插件：再火。[AI 社媒创作助手 - 再火 by Tweeze - Chrome 应用商店](https://chromewebstore.google.com/detail/ai-%E7%A4%BE%E5%AA%92%E5%88%9B%E4%BD%9C%E5%8A%A9%E6%89%8B-%E5%86%8D%E7%81%AB-by-tweeze/hplnkcllabdnbpmkgipndbdcmjnhbnnc)
+        - napkin
+        -  提示词生成 svg 图片
+        - 提示词生成 mermaid 图片
+        - 
+    - 快速建站
+        - 昨天看了 minko 的 ai 魔法屋这个博主的直播，启发是要先让人工智能扮演架构师的角色，设计出网站的组件，然后用一些好的前端设计工具生成一个有审美的前端，然后再借助人工智能编程工具优化。
+        - bolt.new。还有一个号称快速建立 app 的。[Rork](https://rork.app/)
+        - 购买了一个月的 flowith 会员，感觉自动化程度也有看点，canvas 的方式执行操作体验也不错。试过了新的快速生成网站的功能，结果也不是很理想。[Building a Second Brain | AI Era Knowledge Management](https://flo.host/1kMNrxm/#quiz) 和 flowith 很像的网站还有 refly。[The AI Native Creation Engine · Refly](https://refly.ai/)
+        - 领取了 gamma 的 3 个月 pro 会员，也有建站的功能，但效果很像 ppt，可以考虑优化。[打造第二大脑：突破生物极限，释放无限潜能](https://gamma.app/docs/-5w7c4fspkdt615f?mode=doc)
+        - 归藏提出，由向阳乔木优化的建站提示词。[【教程】必须收藏的 4 段 Prompt 提示词，生成PPT、生成3D动画，生成网站，生成万物...](https://mp.weixin.qq.com/s/mUThidjurJkLauQDU8ceCQ)
+        - [Recents - Dora](https://www.dora.run/recents) 
+        - [Same](https://same.new/chat/princeton-books-overview-f5s2jant2af) 🗒@评论：号称可以快速复刻一模一样的网站，我实验感觉效果一般，并没有真正生成网站。
+        - 号称可以吧 ui 截图变成 code 的网站。[Copy Web Design to Code | CopyWeb](https://copyweb.ai/)
+        - 获取一些好看的组件
+            -  codepen 获取一些模块
+            - [Bento - A link in bio, but rich and beautiful.](https://bento.me/xinyiheng)获取一些设计师的漂亮 ui
+                - [Stripe Press — Scientific Freedom](https://press.stripe.com/scientific-freedom)
+                - 一个我觉得很有趣的设计。[SOOT](https://play.soot.com/sootworld)
+            - [Aceternity UI | 21st.dev - The NPM for Design Engineers | 21st](https://21st.dev/aceternity)
+- #[[育儿]]
+    - 给麻豆买了米吴科普漫画，看他的视频感觉质量还挺好。
+- 
