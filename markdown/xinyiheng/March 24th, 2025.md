@@ -16,16 +16,20 @@
         - 购买了一个月的 flowith 会员，感觉自动化程度也有看点，canvas 的方式执行操作体验也不错。试过了新的快速生成网站的功能，结果也不是很理想。[Building a Second Brain | AI Era Knowledge Management](https://flo.host/1kMNrxm/#quiz) 和 flowith 很像的网站还有 refly。[The AI Native Creation Engine · Refly](https://refly.ai/)
         - 领取了 gamma 的 3 个月 pro 会员，也有建站的功能，但效果很像 ppt，可以考虑优化。[打造第二大脑：突破生物极限，释放无限潜能](https://gamma.app/docs/-5w7c4fspkdt615f?mode=doc)
         - meta 搜索也支持把搜索结果变成网页。
+        - lovable 也支持建站和 app，不过话说回来，对于网页应用，app 和网站并没有多大区别。这是一个国内的团队做的。我想要了解他们的宣传视频是怎样做出来的。[Lovable](https://lovable.dev/)
         - 归藏提出，由向阳乔木优化的建站提示词。[【教程】必须收藏的 4 段 Prompt 提示词，生成PPT、生成3D动画，生成网站，生成万物...](https://mp.weixin.qq.com/s/mUThidjurJkLauQDU8ceCQ)
-        - [Recents - Dora](https://www.dora.run/recents) 
+        - [Recents - Dora](https://www.dora.run/recents)  🗒@评论：以给页面添加 3d 元素为主打功能的网站。不过，很多 3d 模型也是来自 sketchfab 这个网站。前端页面的设计也支持从 figma 导出。我在思考能否通过 canva 替代类似的操作。
         - [Same](https://same.new/chat/princeton-books-overview-f5s2jant2af) 🗒@评论：号称可以快速复刻一模一样的网站，我实验感觉效果一般，并没有真正生成网站。
         - 号称可以吧 ui 截图变成 code 的网站。[Copy Web Design to Code | CopyWeb](https://copyweb.ai/)
+        - wix studio 我感觉很像是集合了 figma 和建站功能的网站。
+        - 还有一些号称专门把图片设计转化为网站的。类似于 figma 和网站生成之间的桥梁。[CopyWeb](https://copyweb.ai/)
         - 获取一些好看的组件
             -  codepen 获取一些模块
+            - 专门生成网页动画的网站。[Rive - Editor](https://editor.rive.app/home)
             - [Bento - A link in bio, but rich and beautiful.](https://bento.me/xinyiheng)获取一些设计师的漂亮 ui
                 - [Stripe Press — Scientific Freedom](https://press.stripe.com/scientific-freedom)
                 - 一个我觉得很有趣的设计。[SOOT](https://play.soot.com/sootworld)
-            - [Aceternity UI | 21st.dev - The NPM for Design Engineers | 21st](https://21st.dev/aceternity)
+            - [21st.dev - The NPM for Design Engineers | 21st](https://21st.dev/aceternity)
 - #[[育儿]]
     - 给麻豆买了米吴科普漫画，看他的视频感觉质量还挺好。
 - 
