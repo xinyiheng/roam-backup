@@ -14,13 +14,15 @@
         - 昨天看了 minko 的 ai 魔法屋这个博主的直播，启发是要先让人工智能扮演架构师的角色，设计出网站的组件，然后用一些好的前端设计工具生成一个有审美的前端，然后再借助人工智能编程工具优化。
         - bolt.new。还有一个号称快速建立 app 的。[Rork](https://rork.app/)
         - 购买了一个月的 flowith 会员，感觉自动化程度也有看点，canvas 的方式执行操作体验也不错。试过了新的快速生成网站的功能，结果也不是很理想。[Building a Second Brain | AI Era Knowledge Management](https://flo.host/1kMNrxm/#quiz) 和 flowith 很像的网站还有 refly。[The AI Native Creation Engine · Refly](https://refly.ai/)
-        - 领取了 gamma 的 3 个月 pro 会员，也有建站的功能，但效果很像 ppt，可以考虑优化。[打造第二大脑：突破生物极限，释放无限潜能](https://gamma.app/docs/-5w7c4fspkdt615f?mode=doc)
+        - 领取了 gamma 的 3 个月 pro 会员，也有建站的功能，但效果很像 ppt，可以考虑优化。[打造第二大脑：突破生物极限，释放无限潜能](https://gamma.app/docs/-5w7c4fspkdt615f?mode=doc) 虽然基本模式还是做 ppt，但认真修改之后，效果还是非常漂亮的。虽然有局限，但非常容易上手。
         - meta 搜索也支持把搜索结果变成网页。
+        - 我目前对[Discover | Wix Studio](https://manage.wix.com/studio/discover?ref=studio_login)这个比较有好感
         - lovable 也支持建站和 app，不过话说回来，对于网页应用，app 和网站并没有多大区别。这是一个国内的团队做的。我想要了解他们的宣传视频是怎样做出来的。[Lovable](https://lovable.dev/)
         - 归藏提出，由向阳乔木优化的建站提示词。[【教程】必须收藏的 4 段 Prompt 提示词，生成PPT、生成3D动画，生成网站，生成万物...](https://mp.weixin.qq.com/s/mUThidjurJkLauQDU8ceCQ)
         - [Recents - Dora](https://www.dora.run/recents)  🗒@评论：以给页面添加 3d 元素为主打功能的网站。不过，很多 3d 模型也是来自 sketchfab 这个网站。前端页面的设计也支持从 figma 导出。我在思考能否通过 canva 替代类似的操作。
         - [Same](https://same.new/chat/princeton-books-overview-f5s2jant2af) 🗒@评论：号称可以快速复刻一模一样的网站，我实验感觉效果一般，并没有真正生成网站。
         - 号称可以吧 ui 截图变成 code 的网站。[Copy Web Design to Code | CopyWeb](https://copyweb.ai/)
+        - [Webflow: Create a custom website | Visual website builder](https://webflow.com/)
         - wix studio 我感觉很像是集合了 figma 和建站功能的网站。
         - 还有一些号称专门把图片设计转化为网站的。类似于 figma 和网站生成之间的桥梁。[CopyWeb](https://copyweb.ai/)
         - 获取一些好看的组件
