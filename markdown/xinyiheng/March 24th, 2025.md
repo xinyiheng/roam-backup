@@ -24,6 +24,7 @@
         - 号称可以吧 ui 截图变成 code 的网站。[Copy Web Design to Code | CopyWeb](https://copyweb.ai/)
         - [Webflow: Create a custom website | Visual website builder](https://webflow.com/)
         - wix studio 我感觉很像是集合了 figma 和建站功能的网站。
+        - 用可画设计当然更自由，但是网站模板感觉和ppt 也差不多。这么说来，最容易上手的反而是 gamma 的网站了。
         - 还有一些号称专门把图片设计转化为网站的。类似于 figma 和网站生成之间的桥梁。[CopyWeb](https://copyweb.ai/)
         - 获取一些好看的组件
             -  codepen 获取一些模块
