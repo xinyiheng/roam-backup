@@ -16,6 +16,11 @@
     - 快速建站
         - 昨天看了 minko 的 ai 魔法屋这个博主的直播，启发是要先让人工智能扮演架构师的角色，设计出网站的组件，然后用一些好的前端设计工具生成一个有审美的前端，然后再借助人工智能编程工具优化。
         - bolt.new。还有一个号称快速建立 app 的。[Rork](https://rork.app/)
+            - 还有一些类似的：[Trickle](https://app.trickle.so/project)
+            - [Private Chat – v0 by Vercel](https://v0.dev/chat)
+            - [Replit – Build apps and sites with AI](https://replit.com/)
+            - lovable 也支持建站和 app，不过话说回来，对于网页应用，app 和网站并没有多大区别。这是一个国内的团队做的。我想要了解他们的宣传视频是怎样做出来的。[Lovable](https://lovable.dev/)
+            - [Private Chat – v0 by Vercel](https://v0.dev/chat)
         - [‌﻿​​​⁠‍‌⁠‍﻿​‬​​​‍⁠‬‬﻿​​‬​​﻿​‬​‌‬​‬‍​‌⁠​​​​​​​‬​⁠​﻿歸藏老师的文本转可视化网页Prompt - Feishu Docs](https://xiangyangqiaomu.feishu.cn/wiki/KMN3wucYPiri0qkNlC4cKBZCnRh?fromScene=spaceOverview) 🗒@评论：这是我知道的最好的建站提示词
             - [“很多朋友问如何将下面的这种全是字的文档，变成上面这种美观、直观的网页。 👇分享一下提示词和逻辑： https://t.co/KgqJAFdeKC” / X](https://x.com/op7418/status/1899028013850787859)🗒@评论： 这是最初的版本。
         - [【教程】必须收藏的 4 段 Prompt 提示词，生成PPT、生成3D动画，生成网站，生成万物...](https://mp.weixin.qq.com/s/mUThidjurJkLauQDU8ceCQ)
@@ -23,7 +28,6 @@
         - 领取了 gamma 的 3 个月 pro 会员，也有建站的功能，但效果很像 ppt，可以考虑优化。[打造第二大脑：突破生物极限，释放无限潜能](https://gamma.app/docs/-5w7c4fspkdt615f?mode=doc) 虽然基本模式还是做 ppt，但认真修改之后，效果还是非常漂亮的。虽然有局限，但非常容易上手。
         - meta 搜索也支持把搜索结果变成网页。
         - 我目前对[Discover | Wix Studio](https://manage.wix.com/studio/discover?ref=studio_login)这个比较有好感
-        - lovable 也支持建站和 app，不过话说回来，对于网页应用，app 和网站并没有多大区别。这是一个国内的团队做的。我想要了解他们的宣传视频是怎样做出来的。[Lovable](https://lovable.dev/)
         - 归藏提出，由向阳乔木优化的建站提示词。[【教程】必须收藏的 4 段 Prompt 提示词，生成PPT、生成3D动画，生成网站，生成万物...](https://mp.weixin.qq.com/s/mUThidjurJkLauQDU8ceCQ)
         - [Recents - Dora](https://www.dora.run/recents)  🗒@评论：以给页面添加 3d 元素为主打功能的网站。不过，很多 3d 模型也是来自 sketchfab 这个网站。前端页面的设计也支持从 figma 导出。我在思考能否通过 canva 替代类似的操作。
         - [Same](https://same.new/chat/princeton-books-overview-f5s2jant2af) 🗒@评论：号称可以快速复刻一模一样的网站，我实验感觉效果一般，并没有真正生成网站。
