@@ -1,0 +1,1 @@
+- [产品经理失业，我每月花10美元雇了Github Copilot帮我生成专业级App原型UI](https://mp.weixin.qq.com/s/y4_fiW7YzO_jyDQvGX3lCg)
