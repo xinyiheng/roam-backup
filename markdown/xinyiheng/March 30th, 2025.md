@@ -1,2 +1,0 @@
-- 
-- [JimmyLv/alfred-quick-capture: Alfred Workflow for @TanaInc & @Roam-Research Quick Capture (with API)](https://github.com/JimmyLv/alfred-quick-capture)
