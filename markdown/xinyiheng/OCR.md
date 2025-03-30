@@ -1,0 +1,1 @@
+- [Mistral OCR | Mistral AI](https://mistral.ai/news/mistral-ocr)
