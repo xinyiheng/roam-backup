@@ -1,4 +1,8 @@
-- [﻿​‬​​⁠​​​​‍⁠⁠‍‌‌​​‌​​​‌​​‍​﻿​​‍⁠﻿​​﻿​⁠​‬‌‍​⁠​​​​​1.6万字Rankify完全指南：三行代码搞定RAG，24种重排序方法任你选 | 全网最详细。 - Feishu Docs](https://waytoagi.feishu.cn/wiki/P9JYwSXQBikd8KkSCJZc7QeOn1b)
-- https://www.tripo3d.ai/app/home
-- https://developer.dida365.com/docs#/openapi
-- https://docs.pingcode.com/baike/3389441
+- #[[技能]]
+    - 设置了用 roam research 的 api 直接从浏览器向 roam research 添加网页，这样可以不用打开 roam 了，很方便。
+    - [﻿​‬​​⁠​​​​‍⁠⁠‍‌‌​​‌​​​‌​​‍​﻿​​‍⁠﻿​​﻿​⁠​‬‌‍​⁠​​​​​1.6万字Rankify完全指南：三行代码搞定RAG，24种重排序方法任你选 | 全网最详细。 - Feishu Docs](https://waytoagi.feishu.cn/wiki/P9JYwSXQBikd8KkSCJZc7QeOn1b)
+    - https://www.tripo3d.ai/app/home
+    - https://developer.dida365.com/docs#/openapi
+    - https://docs.pingcode.com/baike/3389441
+    - 再一次被 open ai 的绘图功能震惊。
+        - https://chatgpt.com/c/67ea0f2d-66a4-8008-901f-f437e9be6ef2
