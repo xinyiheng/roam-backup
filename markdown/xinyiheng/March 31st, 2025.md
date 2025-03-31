@@ -7,3 +7,4 @@
     - 再一次被 open ai 的绘图功能震惊。
         - https://chatgpt.com/c/67ea0f2d-66a4-8008-901f-f437e9be6ef2
         - https://x.com/ginacostag_/status/1906321565719076896
+- 为什么

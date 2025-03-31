@@ -86,7 +86,7 @@
   }
   /*修改笔记主题的字体*/
   div {
-      font-family: 简宋!important;
+      font-family: 汇文明朝!important;
   }
   
   :root {
@@ -180,7 +180,7 @@
   
   
   ```
-- ```css
+- ```jsx
   .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self:hover {
    box-shadow: inset 16px 16px 12px 0 #9E9E9E(17 177 19 / 6%),  -3px -3px 6px 0 #fff;
     
@@ -299,7 +299,7 @@
       padding: 20px 16px 16px 0;
   }
   ```
-- ```plain text
+- ```html
   笔记中包含光标时，卡片的样式*/
   div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
   div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
@@ -311,7 +311,7 @@
   }
   
   ```
-- ```plain text
+- ```swift
   /* 笔记处于行选中状态时，卡片呈现的样式 */
   div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
   background-color:;
@@ -321,7 +321,7 @@
     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   } 
   ```
-- ```html
+- ```css
   .rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
       /* 调整便签的外观 */
       background-color: #8BC34A00!important;
@@ -334,7 +334,7 @@
       box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
   }
   ```
-- ```plain text
+- ```css
   /* card-list-mode 卡片之间设置空隙 */
   div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
       background-color: #F2E9E96D;
@@ -375,10 +375,10 @@
   }
   ```
 - 修改顶部图片
-    - ```plain text
+    - ```css
       /*修改最顶端栏目的背景*/
       .rm-topbar {
-         background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLdvi6J-jSG.png?alt=media&token=072a0a85-a788-4d5b-949e-547cdee0288d);
+        background-image: url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FQZFomLrYlO.jpg?alt=media&token=b9157544-9013-450b-ae80-9810b41fd051);
         background-position:top; /* 将图片的底部对齐到容器的底部 */
         background-repeat: no-repeat; /* 防止背景图片重复 */
           background-size:120%;
@@ -386,13 +386,13 @@
       }
       ```
 - 修改背景图片
-    - ```html
+    - ```css
       /*设置笔记主题的背景色和背景图片*/
       
       
       div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
            background-size:100% 100%;
-         background-image: url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FLdvi6J-jSG.png?alt=media&token=072a0a85-a788-4d5b-949e-547cdee0288d);
+         background-image: url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FQZFomLrYlO.jpg?alt=media&token=b9157544-9013-450b-ae80-9810b41fd051);
       }
       ```
 - 分列效果
@@ -776,7 +776,7 @@
             - text-decoration: none !important;
         - }
 - 对一个block设置字体颜色和背景颜色
-    - ```css
+    - ```jsx
       /* 模拟马克笔效果的样式 */
       .roam-block-container[data-page-links*="zise"] > div.rm-block-main {
         background: linear-gradient(135deg, rgba(211, 92, 232, 0.3), rgba(211, 92, 232, 0.15));
@@ -823,7 +823,7 @@
           display: none !important; 
       }
       ```
-    - ```plain text
+    - ```css
       
       /*To style an entire block, and all its child elements, we use:*/
       /*.roam-block-container[data-page-links*="zise"] {
@@ -1088,7 +1088,7 @@
           }
           ```
 - [[Tag Styles]][[lvse]]
-    - ```python
+    - ```css
       span.rm-page-ref[data-tag="笔记"],
       span[data-link-title^="软件联动"] .rm-page-ref {
         color: #fcb815;
@@ -1273,7 +1273,7 @@
           }
           ```
 - 数字花园[[hongse]] @评论:暂时暂停使用，因为和roam-tookit里面的功能冲突
-    - ```html
+    - ```jsx
       
       
       .roam-block-container {
@@ -1381,7 +1381,7 @@
       }
       
       ```
-    - ```html
+    - ```jsx
       
       div[style*="padding-right: calc((100% - 800px) / 2); padding-left: calc((100% - 800px) / 2);"], div[style*="padding-right: calc((100% - 568px) / 2); padding-left: calc((100% - 1032px) / 2);"] {
           
