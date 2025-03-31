@@ -23,6 +23,7 @@
             - [Private Chat – v0 by Vercel](https://v0.dev/chat)
         - [‌﻿​​​⁠‍‌⁠‍﻿​‬​​​‍⁠‬‬﻿​​‬​​﻿​‬​‌‬​‬‍​‌⁠​​​​​​​‬​⁠​﻿歸藏老师的文本转可视化网页Prompt - Feishu Docs](https://xiangyangqiaomu.feishu.cn/wiki/KMN3wucYPiri0qkNlC4cKBZCnRh?fromScene=spaceOverview) 🗒@评论：这是我知道的最好的建站提示词
             - [“很多朋友问如何将下面的这种全是字的文档，变成上面这种美观、直观的网页。 👇分享一下提示词和逻辑： https://t.co/KgqJAFdeKC” / X](https://x.com/op7418/status/1899028013850787859)🗒@评论： 这是最初的版本。
+            - [还在用 PPT？教你用Claude生成惊艳同事的文档可视化网页](https://mp.weixin.qq.com/s/Z-u_DHF2dXGAPUvdav2Pvw)
         - [【教程】必须收藏的 4 段 Prompt 提示词，生成PPT、生成3D动画，生成网站，生成万物...](https://mp.weixin.qq.com/s/mUThidjurJkLauQDU8ceCQ)
         - 购买了一个月的 flowith 会员，感觉自动化程度也有看点，canvas 的方式执行操作体验也不错。试过了新的快速生成网站的功能，结果也不是很理想。[Building a Second Brain | AI Era Knowledge Management](https://flo.host/1kMNrxm/#quiz) 和 flowith 很像的网站还有 refly。[The AI Native Creation Engine · Refly](https://refly.ai/)
         - 领取了 gamma 的 3 个月 pro 会员，也有建站的功能，但效果很像 ppt，可以考虑优化。[打造第二大脑：突破生物极限，释放无限潜能](https://gamma.app/docs/-5w7c4fspkdt615f?mode=doc) 虽然基本模式还是做 ppt，但认真修改之后，效果还是非常漂亮的。虽然有局限，但非常容易上手。

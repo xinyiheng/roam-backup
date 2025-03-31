@@ -1,2 +1,3 @@
-- 
+- [Hedra](https://www.hedra.com/app/video)
+    - [Hedra (@hedra_labs) / X](https://x.com/messages/compose)
 - [Wan_AI](https://wan.video/)   🗒@评论：这是阿里推出的视频工具，似乎视频也可以加 lora
