@@ -45,6 +45,8 @@
                 - [Stripe Press — Scientific Freedom](https://press.stripe.com/scientific-freedom)
                 - 一个我觉得很有趣的设计。[SOOT](https://play.soot.com/sootworld)
             - [21st.dev - The NPM for Design Engineers | 21st](https://21st.dev/aceternity)
+            - [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/)
+            - [animata](https://animata.design/)  🗒@评论：很多动态效果
         - 一些原型设计工具
             - AxureRP 是一款专业的原型设计工具，主要用于创建交互式线框图、原型和文档。它广泛应用于用户体验（UX）设计、用户界面（UI）设计以及产品开发的早期阶段，帮助设计师、产品经理和开发人员快速将想法转化为可视化的交互模型。
             - 以下是 AxureRP 的主要功能和特点：
@@ -118,6 +120,8 @@
                 - 如果你对 AxureRP 的具体使用方法或某个功能有疑问，欢迎进一步提问！
         - 一些喜欢的效果
             - 轮播效果。好像最新的 chrome 支持仅用 css 就实现轮播效果了。[使用 CSS 创建轮播界面 Chrome for Developers](https://developer.chrome.com/blog/carousels-with-css?hl=zh-cn)
+            -  https://tympanus.net/codrops/
+            -  https://www.reweb.so/dashboard/projects
 - #[[育儿]]
     - 给麻豆买了米吴科普漫画，看他的视频感觉质量还挺好。
 - 
