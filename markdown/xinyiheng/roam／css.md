@@ -320,6 +320,25 @@
     padding: 10px 0 10px 0;
     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   } 
+  /* --- Keep your Highlighted Style (unchanged unless you want it for --others too) --- */
+  div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
+      background-color:;
+    border-radius: 10px;
+   margin: 10px 20px 10px 20px;
+    padding: 10px 0 10px 0;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  }
+  
+  /* --- Revised Focused/Editing Style for YOUR blocks --- */
+  /* Apply when YOUR block container itself is focused OR when anything inside YOUR block has focus */
+  div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
+  div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.block-bullet-view:focus-within {
+      background-color:;
+    border-radius: 10px;
+   margin: 10px 20px 10px 20px;
+    padding: 10px 0 10px 0;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  }
   ```
 - ```css
   .rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:not(.block-highlight-blue) {
