@@ -212,7 +212,7 @@
       ```
 - ```css
   :root {
-      --main-font: "Kaiti SC", "楷体", KaiTi, "楷体_GB2312", serif !important;
+      --main-font: "汇文明朝体", "楷体", KaiTi, "楷体_GB2312", serif !important;
   }
   
   /* 主要内容区域 */
@@ -299,7 +299,7 @@
       padding: 20px 16px 16px 0;
   }
   ```
-- ```html
+- ```css
   笔记中包含光标时，卡片的样式*/
   div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-focused.block-bullet-view,
   div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view:focus-within {
@@ -311,7 +311,7 @@
   }
   
   ```
-- ```swift
+- ```css
   /* 笔记处于行选中状态时，卡片呈现的样式 */
   div.rm-level-0 > .roam-block-container.rm-block.rm-block--mine.rm-not-focused.block-bullet-view.block-highlight-blue {
   background-color:;
@@ -356,7 +356,7 @@
   }
   /*修改笔记主题的字体*/
   div {
-      font-family: !important;
+      font-family: 汇文明朝体!important;
   }
   
   .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
