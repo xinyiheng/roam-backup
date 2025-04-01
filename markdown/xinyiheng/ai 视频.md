@@ -2,3 +2,4 @@
     - [Hedra (@hedra_labs) / X](https://x.com/messages/compose)
 - https://hailuoai.com/video
 - [Wan_AI](https://wan.video/)   🗒@评论：这是阿里推出的视频工具，似乎视频也可以加 lora
+- [Runway Research | Introducing Runway Gen-4](https://runwayml.com/research/introducing-runway-gen-4)
