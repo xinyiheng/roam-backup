@@ -1,0 +1,4 @@
+- #[[技能]]
+    - 对于收藏夹的管理一直不是很满意。在 toby 这个插件收费之后，果断放弃了。我之前很喜欢 [[Qlearly]] 这款 board 方式管理收藏夹的插件，但是它却下线了。我下载了历史版本，无法在不同浏览器之间同步。我用 cursor 修改插件，利用 firebase 新建一款应用，利用它的authentication 功能和 realtime database 功能完成了注册账户和存储数据。我还给插件换了一个好看的背景图。真是太棒了，比之前收费的版本还要好。我把这个项目上传到 github 了。人工智能真是太棒了。
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fgb7QrZku7x.png?alt=media&token=0d86ff13-4d27-46d5-b659-c70d9dc817fe)
+    - 
