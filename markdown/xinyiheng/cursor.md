@@ -1,2 +1,3 @@
 - cursor rules：设置一个提示词可以让 cursor 写代码效果更好。
     - 一些现成的Rules🦩[Cursor不用Rules会让你的项目失控！一文告诉你怎么使用 - AI全书](https://aibook.ren/archives/use-cursor-with-rules) 
+    - [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/) 🗒@评论：这里边也有很多 rules，其实就是提示词
