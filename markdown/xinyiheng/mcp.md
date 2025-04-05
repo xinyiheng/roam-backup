@@ -1,2 +1,3 @@
-- [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
--  https://mcp.so/
+-  https://mcp.so/ 🗒@评论：查找 mcp 的网站。
+- [Smithery - Model Context Protocol Registry](https://smithery.ai/) 🗒@评论：查找 mcp 的网站。
+- [6000字+6个案例：写给普通人的MCP入门指南](https://mp.weixin.qq.com/s/BjsoBsUxCzeqXZq46_nrog)
