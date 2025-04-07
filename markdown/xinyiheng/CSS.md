@@ -8,3 +8,4 @@
     - [93 Beautiful CSS box-shadow examples - CSS Scan](https://getcssscan.com/css-box-shadow-examples?ref=producthunt) @评论:这是个不错的拿来就用的网站
 - 一个重要的概念
     - [CSS 选择器 (CSS Selector) | HTML&CSS 朴实教程](https://pushi.simon1987.com/css-selector.html#%E7%B1%BB%E5%9E%8B%E9%80%89%E6%8B%A9%E5%99%A8-type-selector)
+    - [【良心推荐】自从用了这15个CSS网站，写前端样式再也不怕没灵感了_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DL4y1L7iG?spm_id_from=333.788.recommend_more_video.5&vd_source=3d8ccab137cc879b5f9cbc14d68843ab) 🗒@评论：很不错的参考资料
