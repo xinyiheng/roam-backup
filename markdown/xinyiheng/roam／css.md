@@ -180,7 +180,7 @@
   
   
   ```
-- ```jsx
+- ```css
   .flow-mode .roam-article>div:first-child .rm-block-main.rm-block__self:hover {
    box-shadow: inset 16px 16px 12px 0 #9E9E9E(17 177 19 / 6%),  -3px -3px 6px 0 #fff;
     
