@@ -1,3 +1,4 @@
 - 使用[[JavaScript]]，[[HTML]] 和[[CSS]] 构建跨平台的桌面应用程序Via[Electron | 使用 JavaScript，HTML 和 CSS 构建跨平台的桌面应用程序。](https://www.electronjs.org/)[[20210102]] 下午5:46
 - 这种模拟点击的操作，不适用于那些不是通过 macOS 的 UI 编写的工具。比如说很多 Web 套壳工具的 macOS 客户端是用 Electron 框架编写的，我们无法对其中的 UI 控件进行操作。Via[AppleScript 入门：探索 macOS 自动化 - 少数派](https://sspai.com/post/46912)[[20210102]] 下午5:49@评论:无法用[[Applescript]]来控制UI
-- 
+- [[RN]]
+- [[flutter]]
