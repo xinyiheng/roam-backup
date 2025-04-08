@@ -1,0 +1,3 @@
+- URL:: https://chatgpt.com/c/67f54666-7de8-8008-b12a-e0961d85f23f
+- ### Highlights first synced by #Readwise [[April 9th, 2025]]
+    - 在 Wix Studio 和 Webflow 中：Wix StudioWebflow平台SEO 功能CMS 功能自动生成 SEO 元素，支持手动优化可自建数据库集合，适合展示型网站内容高度自定义（Meta、结构化数据等）强大灵活，适合复杂数据结构和模板应用
