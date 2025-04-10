@@ -33,7 +33,7 @@
         - [Recents - Dora](https://www.dora.run/recents)  🗒@评论：以给页面添加 3d 元素为主打功能的网站。不过，很多 3d 模型也是来自 sketchfab 这个网站。前端页面的设计也支持从 figma 导出。我在思考能否通过 canva 替代类似的操作。
         - [Same](https://same.new/chat/princeton-books-overview-f5s2jant2af) 🗒@评论：号称可以快速复刻一模一样的网站，我实验感觉效果一般，并没有真正生成网站。
         - 号称可以吧 ui 截图变成 code 的网站。[Copy Web Design to Code | CopyWeb](https://copyweb.ai/)
-        - [Webflow: Create a custom website | Visual website builder](https://webflow.com/)
+        - [Webflow: Create a custom website | Visual website builder](https://webflow.com/) 🗒@评论：学习了一天如何使用 webflow 建站，感觉要实现好的效果还是需要很多的调整。
         - wix studio 我感觉很像是集合了 figma 和建站功能的网站。
         - 用可画设计当然更自由，但是网站模板感觉和ppt 也差不多。这么说来，最容易上手的反而是 gamma 的网站了。
         - 还有一些号称专门把图片设计转化为网站的。类似于 figma 和网站生成之间的桥梁。[CopyWeb](https://copyweb.ai/)
@@ -48,6 +48,7 @@
             - [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/)
             - [animata](https://animata.design/)  🗒@评论：很多动态效果
         - 一些原型设计工具
+            - 最广泛使用的还是 [[figma]]。我购买了 figma 一年的会员。
             - AxureRP 是一款专业的原型设计工具，主要用于创建交互式线框图、原型和文档。它广泛应用于用户体验（UX）设计、用户界面（UI）设计以及产品开发的早期阶段，帮助设计师、产品经理和开发人员快速将想法转化为可视化的交互模型。
             - 以下是 AxureRP 的主要功能和特点：
             - ---
@@ -122,6 +123,11 @@
             - 轮播效果。好像最新的 chrome 支持仅用 css 就实现轮播效果了。[使用 CSS 创建轮播界面 Chrome for Developers](https://developer.chrome.com/blog/carousels-with-css?hl=zh-cn)
             -  https://tympanus.net/codrops/
             -  https://www.reweb.so/dashboard/projects
+            - 滚动视差
+            -  动画效果
+            -  3d
+            - 等待加载内容的页面
+        - 一些现成的建站工具都会带有 CMS 功能。
 - #[[育儿]]
     - 给麻豆买了米吴科普漫画，看他的视频感觉质量还挺好。
 - 

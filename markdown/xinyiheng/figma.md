@@ -2,3 +2,4 @@
 - [[sketch]]
 - Make design accessible to everyone。Via[Figma 社区游玩指南 - 少数派](https://sspai.com/post/64214)[[20210104]] 下午10:54
 - 我的figma社区账号  https://www.figma.com/community
+- 我也买了可画的会员，一般的设计可以使用可画，figma 主要来设计网站。

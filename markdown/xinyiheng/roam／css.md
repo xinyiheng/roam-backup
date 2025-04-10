@@ -408,7 +408,6 @@
     - ```css
       /*设置笔记主题的背景色和背景图片*/
       
-      
       div.roam-app>div.flex-h-box>div.roam-main>div.roam-body-main {
         background-size:100% 100%;
          background-image:url(https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FQZFomLrYlO.jpg?alt=media&token=b9157544-9013-450b-ae80-9810b41fd051);
