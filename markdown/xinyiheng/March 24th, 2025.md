@@ -126,6 +126,7 @@
             - 滚动视差 parallax
             -  动画效果
             -  3d
+            - slideshow
             -  滚动文字 text marquee
             - 等待加载内容的页面
         - 一些现成的建站工具都会带有 CMS 功能。
