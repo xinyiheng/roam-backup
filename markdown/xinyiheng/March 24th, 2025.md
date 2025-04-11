@@ -119,13 +119,14 @@
             - ### **6. 总结**
                 - AxureRP 是一款功能全面且专业的原型设计工具，特别适合需要复杂交互和动态效果的项目。尽管近年来一些轻量级工具（如 Figma 和 Adobe XD）逐渐流行，但 AxureRP 在企业级应用和深度交互设计领域仍然具有不可替代的地位。如果你正在寻找一款能高效完成从线框图到高保真原型设计的工具，AxureRP 是一个值得尝试的选择。
                 - 如果你对 AxureRP 的具体使用方法或某个功能有疑问，欢迎进一步提问！
-        - 一些喜欢的效果
+        - 一些喜欢的效果 #[[UI]]
             - 轮播效果。好像最新的 chrome 支持仅用 css 就实现轮播效果了。[使用 CSS 创建轮播界面 Chrome for Developers](https://developer.chrome.com/blog/carousels-with-css?hl=zh-cn)
             -  https://tympanus.net/codrops/
             -  https://www.reweb.so/dashboard/projects
-            - 滚动视差
+            - 滚动视差 parallax
             -  动画效果
             -  3d
+            -  滚动文字 text marquee
             - 等待加载内容的页面
         - 一些现成的建站工具都会带有 CMS 功能。
 - #[[育儿]]
