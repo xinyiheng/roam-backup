@@ -1,0 +1,3 @@
+- navigation
+    - 在不改变对象位置的情况下查看不同的角度，称为 rotation：option+drag
+    -  在不改变对象位置的情况下移动对象在视窗中的位置 pan：blank+drag
