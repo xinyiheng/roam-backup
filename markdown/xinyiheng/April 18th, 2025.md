@@ -1,0 +1,2 @@
+- 
+- https://x.com/op7418/status/1913165376315330872 🦩[X 上的 歸藏(guizang.ai)：“chatwise 安装命令：npx -y @magicuidesign/mcp@latest” / X](https://x.com/op7418/status/1913165376315330872) 
