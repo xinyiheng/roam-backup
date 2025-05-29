@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7327654504592051629
+- ### Highlights first synced by #Readwise [[May 29th, 2025]]
+    - protagonist art promp
