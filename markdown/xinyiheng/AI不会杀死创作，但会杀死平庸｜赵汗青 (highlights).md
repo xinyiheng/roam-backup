@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7330670195477843742
+- ### Highlights first synced by #Readwise [[June 6th, 2025]]
+    - AI不会杀死创作，但会杀死平庸
