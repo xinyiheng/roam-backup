@@ -439,6 +439,13 @@
             - reviewMode:: SPACED_INTERVAL
     - The scholar's greatest weakness: calling procrastination research — Stephen King Share 
       #[[memo]]
+        - [[June 6th, 2025]] 🔵
+            - nextDueDate:: [[November 11th, 2027]]
+            - eFactor:: 2.68
+            - interval:: 888
+            - repetitions:: 8
+            - grade:: 4
+            - reviewMode:: SPACED_INTERVAL
         - [[April 17th, 2024]] 🔵
             - nextDueDate:: [[June 5th, 2025]]
             - eFactor:: 2.68
