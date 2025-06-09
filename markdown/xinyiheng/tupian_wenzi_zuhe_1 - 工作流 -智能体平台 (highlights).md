@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7331632592938076555
+- ### Highlights first synced by #Readwise [[June 9th, 2025]]
+    - https://ts.fyshark.com/#/cozeToJianyin?drafId=https://video-snot-12220.oss-cn-shanghai.aliyuncs.com/2025-06-09/draft/330fac4a-afa6-4554-9832-05e6b18aa187.json
