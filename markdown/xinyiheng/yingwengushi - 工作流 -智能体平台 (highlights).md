@@ -1,3 +1,5 @@
 - URL:: https://cubox.pro/my/card?id=7327654504592051629
 - ### Highlights first synced by #Readwise [[May 29th, 2025]]
     - protagonist art promp
+- ### New highlights added [[June 11th, 2025]] at 10:12 AM
+    - https://ts.fyshark.com/#/cozeToJianyin?drafId=https://video-snot-12220.oss-cn-shanghai.aliyuncs.com/draft/bc943268-5de8-4d63-9b0c-c1355a6912a0.json
