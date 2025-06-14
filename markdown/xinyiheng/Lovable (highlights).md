@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7333544394487760266
+- ### Highlights first synced by #Readwise [[June 14th, 2025]]
+    - vs
