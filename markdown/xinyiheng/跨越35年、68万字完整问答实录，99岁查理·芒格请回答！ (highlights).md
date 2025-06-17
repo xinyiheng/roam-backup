@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7334661308953922425
+- ### Highlights first synced by #Readwise [[June 17th, 2025]]
+    - 我们能成功，不是因为我们善于解决难题，而是因为我们善于远离难题。我们只是找简单的事做而已。
