@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7340346105923634060
+- ### Highlights first synced by #Readwise [[July 3rd, 2025]]
+    - 哇，好啊！最近正好想放松一下。你有特别想看的片子吗？或者我们可以一起挑挑。
