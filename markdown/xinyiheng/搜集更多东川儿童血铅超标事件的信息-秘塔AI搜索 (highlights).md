@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7342921162688564339
+- ### Highlights first synced by #Readwise [[July 10th, 2025]]
+    - 浙江省通过铅污染治理措施，学龄前儿童铅中毒率从1997年的23.84%下降至2003年的13.61%，显示出治理效果
