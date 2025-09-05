@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7363520429933202680
+- ### Highlights first synced by #Readwise [[September 5th, 2025]]
+    - 厄本的那句话：“我原以为我们是正常的，而他是天才，在我研究之后才发现，他是正常的，而我们被遮蔽了，遮蔽我们的恰恰像那些哲人所说的，是我们的思维方式本身啊！”
