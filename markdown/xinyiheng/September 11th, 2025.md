@@ -1,0 +1,1 @@
+- https://www.wikiart.org/en/artists-by-genre #[[艺术]] #[[wiki]]
