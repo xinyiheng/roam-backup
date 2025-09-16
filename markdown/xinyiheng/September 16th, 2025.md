@@ -1,4 +1,4 @@
 - #[[技能]]
     - 通过扣子把快速提取多个 amazon 网页的功能实现了。以前希望通过编程实现，但发现 amazon 的反爬机制非常严格，通过编程很难爬取内容。但是扣子的 linkreaderplugin 可以很快提取网页的内容，虽然不是很完善，但是一些基本的图书信息还是可以提取出来的。再结合大语言模型做结构化的整理，看起来还是很清晰的。
     - 想到用好豆包 ai 播客可以在路上听一些内容。我固定了一个会话窗口，只在这个窗口里创建 ai 播客，就可以很轻松地找到 ai 播客并选择内容收听了。
-    - 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2Fc2jCs_w2pt.png?alt=media&token=a2bf26ad-c035-4df0-81cd-f61cc914d3a4)
