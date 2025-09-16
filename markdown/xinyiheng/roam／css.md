@@ -86,7 +86,7 @@
   }
   /*修改笔记主题的字体*/
   div {
-      font-family: 汇文明朝!important;
+      font-family: 简宋!important;
   }
   
   :root {
@@ -212,7 +212,7 @@
       ```
 - ```css
   :root {
-      --main-font: "汇文明朝体", "楷体", KaiTi, "楷体_GB2312", serif !important;
+      --main-font:  "楷体", KaiTi, "楷体_GB2312", serif !important;
   }
   
   /* 主要内容区域 */
@@ -375,7 +375,7 @@
   }
   /*修改笔记主题的字体*/
   div {
-      font-family: 汇文明朝体!important;
+      font-family: 楷体!important;
   }
   
   .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
