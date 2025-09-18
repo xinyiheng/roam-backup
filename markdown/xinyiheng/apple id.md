@@ -1,1 +1,1 @@
--  手机
+-  ipad 上的苹果账号，账号名 手机号，pw：Wangyicheng2016!
