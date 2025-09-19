@@ -1,0 +1,2 @@
+- 人工智能在出版行业的一些应用
+    - [出版商务周刊专栏](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxNzAxNDcxMg==&action=getalbum&album_id=3570671189502640132&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUYUjM0qeBk57AxsYRnA3WA&nolastread=1#wechat_redirect)
