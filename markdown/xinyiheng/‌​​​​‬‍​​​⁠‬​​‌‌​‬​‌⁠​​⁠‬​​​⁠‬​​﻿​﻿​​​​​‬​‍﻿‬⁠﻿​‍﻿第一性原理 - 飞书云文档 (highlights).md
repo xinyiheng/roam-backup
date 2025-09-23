@@ -1,3 +1,5 @@
 - URL:: https://cubox.pro/my/card?id=7365297251582739595
 - ### Highlights first synced by #Readwise [[September 10th, 2025]]
     - ​
+- ### New highlights added [[September 23rd, 2025]] at 2:45 PM
+    - 可连续作业的隧道掘进机。​
