@@ -1,0 +1,2 @@
+- ### Highlights first synced by #Readwise [[September 23rd, 2025]]
+    - Listening to Beauty: Rhetorics of Science in Sea and Sound
