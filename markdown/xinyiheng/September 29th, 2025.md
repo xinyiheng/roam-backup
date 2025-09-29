@@ -14,4 +14,5 @@
             3. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FZJMh07CpyK.png?alt=media&token=d265fbb0-0e47-40f0-9e5d-6d91fff2a364)
         - ## 三、用quicktime来录制音频，新建录音
             - 我设置了一个 keyboard maestro 快捷方式，用 ly 来快速创建
-    - 获得桌面端 ai 播客效果的可能另一个途径就是把在豆包 aib
+    - 获得桌面端 ai 播客效果的可能另一个途径有时有效的做法是，先把财新文章用飞书剪藏，去除一些财新内嵌进去的提示词，然后打印成 pdf，在豆包 ai 播客界面上传 pdf 也可以，但不一定是完整版的。
+    - 为了获得更好的效果，我开始整理提示词，我用 keyboard maestro 新建了一个名为提示词的宏组，快捷键都设置为 tsc，这样，就可以一下子展示所有提示词，然后挑选备用。
