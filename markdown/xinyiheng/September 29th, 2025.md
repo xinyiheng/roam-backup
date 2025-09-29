@@ -14,3 +14,4 @@
             3. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FZJMh07CpyK.png?alt=media&token=d265fbb0-0e47-40f0-9e5d-6d91fff2a364)
         - ## 三、用quicktime来录制音频，新建录音
             - 我设置了一个 keyboard maestro 快捷方式，用 ly 来快速创建
+    - 获得桌面端 ai 播客效果的可能另一个途径就是把在豆包 aib
