@@ -7,6 +7,8 @@
     - 订阅微信上的公众号我使用的是瓦斯阅读，大部分我关注的公众号都可以找到。
         - 还可以用这种方法：[WeRss - 微信公众号RSS订阅](https://werss.app/) [[20211230]] 下午3:16
         - 或者这种方式RSS订阅管理Via[Rss订阅管理 - 今天看啥](http://www.jintiankansha.me/subscribe/rss/subscribed) [[20220104]] 下午3:53
+        - [cooderl/wewe-rss: 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）](https://github.com/cooderl/wewe-rss)  🗒@评论： 目前也基本上属于半失效状态，过去通过 zeabur 部署非常方便，一键操作，但现在账号每天都失效，都要重新登录微信，并且也有一些文章无法抓取。
+        - [rachelos/we-mp-rss:](https://github.com/rachelos/we-mp-rss)  🗒@评论：目前最靠谱的方案了，但是也经常会失效。
 - ### 如何生成一个网站的rss？
     - 对于我自己希望阅读但是没有提供rss源的网站我是用的是[[feed43]]这个网站来为自己希望定制的网站生成rss。
     - RSSHub😀😀PublicVia[DIYgod/RSSHub: 🍰 Everything is RSSible](https://github.com/DIYgod/RSSHub#/) [[20220120]] 下午12:37 @评论:好像门槛有点高
