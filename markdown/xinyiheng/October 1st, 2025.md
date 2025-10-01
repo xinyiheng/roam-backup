@@ -3,3 +3,7 @@
     - 中午去老婆想去的日出拉面望京店，我感觉味道一般。
     - 下午趁麻豆游泳的时候，我去洗了车，然后去果蔬好买了回家带的东西。回来又收拾了后备箱，把这些要做的事情做完心里轻松了很多。
     - 信用卡寄到了住新家园，我开车去取，正好带麻豆去长楹天街。吃了左庭右院，感觉还不错。蔬菜自助新鲜便宜，整体价格适中。
+- #[[技能]]
+    - open ai推出了生视频工具 sora2，好像很强
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FdWzTm1hKAi.png?alt=media&token=fb573acd-408c-47bf-91ac-28708f3da6d7)
+    - 
