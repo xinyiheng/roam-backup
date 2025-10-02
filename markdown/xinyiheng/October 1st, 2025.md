@@ -6,4 +6,3 @@
 - #[[技能]]
     - open ai推出了生视频工具 sora2，好像很强
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2FdWzTm1hKAi.png?alt=media&token=fb573acd-408c-47bf-91ac-28708f3da6d7)
-    - 
