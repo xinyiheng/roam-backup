@@ -4,3 +4,9 @@
     - 今天起床相对较早，陪着麻豆读了 reading a-z，感觉孩子学习还是要有陪伴，很难完全不管。
 - #[[工作]]
     - 我最近尝试使用豆包来回答标点符号使用的问题，感觉不错，但我心里没底，并不知道它是否有准确的依据。我想要上传标点符号使用解释这本书来作为知识库，建立新的智能体来检测一下。
+    - 研究市面上有的人工智能辅助编校系统
+        - 江西出版集团的“版慎通” https://mp.weixin.qq.com/s/UYUjM0qeBk57AxsYRnA3WA
+        - 知道了一个行业会议，好像基本上都是关于新型出版模式的。中国国际数字出版博览会。https://mp.weixin.qq.com/s/DUP4VjvN_E6ZF6byHnN_nw
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F8dACL1DpBZ.png?alt=media&token=fcd80723-cfd7-4260-ab0c-80c4569f0e0d)
+          [数字出版智能编校应用效果评价研究](https://mp.weixin.qq.com/s/RV3GOfXGh1RWCbi_DlQBwg)
+        - 爱校对 
