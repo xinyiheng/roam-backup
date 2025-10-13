@@ -9,4 +9,9 @@
         - 知道了一个行业会议，好像基本上都是关于新型出版模式的。中国国际数字出版博览会。https://mp.weixin.qq.com/s/DUP4VjvN_E6ZF6byHnN_nw
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxinyiheng%2F8dACL1DpBZ.png?alt=media&token=fcd80723-cfd7-4260-ab0c-80c4569f0e0d)
           [数字出版智能编校应用效果评价研究](https://mp.weixin.qq.com/s/RV3GOfXGh1RWCbi_DlQBwg)
-        - 爱校对 
+        - 蜜度，只针对企业用户，不对个人开放
+        - 黑马校对，只有Windows 版本的插件，我试用了web 端，感觉效果非常一般。
+        - i校对 [爱校对官网-错别字检查_文字校对_文本纠错_校对软件](https://www.ijiaodui.com/workbench/upgrade)
+        - 数传集团 [AI编辑工作室](https://aistudio.5rs.me/login)
+        - 果麦 ai 校对王 [AI校对王](https://aipr.guomai.cn/document?display=grid&status=) 🗒@评论：很快就可以试用，我感觉效果还不错。
+        - 中信出版平行实验室  https://mp.weixin.qq.com/s/vyrN5q-UpU3TBN1hvkulSA
