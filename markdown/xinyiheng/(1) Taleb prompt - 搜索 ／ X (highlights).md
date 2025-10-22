@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7380490751722914427
+- ### Highlights first synced by #Readwise [[October 22nd, 2025]]
+    - 数学家从问题入手，然后提出解决方案；而顾问则从提供‘解决方案’入手，然后制造问题。”——纳西姆·尼古拉斯· 塔勒布， 《普罗克拉斯提斯之床》
