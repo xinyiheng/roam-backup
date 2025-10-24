@@ -3,3 +3,5 @@
     - ​
 - ### New highlights added [[September 23rd, 2025]] at 2:45 PM
     - 可连续作业的隧道掘进机。​
+- ### New highlights added [[October 25th, 2025]] at 12:23 AM
+    - 斯克积极参与了人工智能行业，但他的出发点，不仅是背后的经济价值，更重要的是对于自己“信念”的维护。
