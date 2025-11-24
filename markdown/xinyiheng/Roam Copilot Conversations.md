@@ -1,3 +1,87 @@
+- Conversation: K5Ek6k49w 我提炼出哪些使用工具的原则
+  ```json
+  {
+    "id": "conv_1763947317442_goosn9mzb",
+    "title": "K5Ek6k49w 我提炼出哪些使用工具的原则",
+    "lastUpdated": "2025-11-24T01:21:59.528Z",
+    "messageCount": 2,
+    "createdAt": "2025-11-24T01:21:57.482Z",
+    "preservedContext": {
+      "timestamp": "2025-11-24T01:21:57.482Z",
+      "currentPageUid": "cb_yFa1BF",
+      "visibleBlockUids": [
+        "1eN4cpeMW",
+        "rQ9ay_2ZO",
+        "K5Ek6k49w",
+        "Hkga6H4kU",
+        "dVZ4VMFYE",
+        "7yo6F4634",
+        "WcXyiCWdN",
+        "5c_7f3H0_",
+        "cdLv7tqe0",
+        "Nf2n8DbVW",
+        "z5DKWeb1K",
+        "FsBn7HGFN",
+        "2fwjcaQjs"
+      ],
+      "linkedReferenceUids": [
+        "Pz4MCZG5Z",
+        "2Y35sZCro",
+        "4zpJrERuK",
+        "C5Vbw-w7m",
+        "hrPhtzs3C",
+        "ModNav9hh",
+        "5qOMgPoT5",
+        "GkDu2u_lI",
+        "tER57989o",
+        "Jm1RWgCrP",
+        "J0uen2arL",
+        "5pnGJj4VK",
+        "cMDUErEg6"
+      ],
+      "sidebarNoteUids": [],
+      "visibleDailyNoteUids": [],
+      "contextItems": [
+        {
+          "uid": "cb_yFa1BF",
+          "type": "page",
+          "title": "高效工具",
+          "timestamp": "2025-11-24T01:21:57.482Z"
+        }
+      ]
+    }
+  }
+  ```
+  [[Roam Copilot Data/conv_1763947317442_goosn9mzb]]
+- Conversation: 坝上草原在哪
+  ```json
+  {
+    "id": "conv_1763947229232_tdnaxn4zq",
+    "title": "坝上草原在哪",
+    "lastUpdated": "2025-11-24T01:21:27.566Z",
+    "messageCount": 4,
+    "createdAt": "2025-11-24T01:20:29.338Z",
+    "preservedContext": {
+      "timestamp": "2025-11-24T01:20:29.338Z",
+      "currentPageUid": "JRjZk2JKg",
+      "visibleBlockUids": [
+        "RbJxiWQlj"
+      ],
+      "linkedReferenceUids": [],
+      "sidebarNoteUids": [],
+      "visibleDailyNoteUids": [],
+      "contextItems": [
+        {
+          "uid": "JRjZk2JKg",
+          "type": "page",
+          "title": "草原",
+          "timestamp": "2025-11-24T01:20:29.338Z"
+        }
+      ]
+    }
+  }
+  ```
+  [[Roam Copilot Data/conv_1763947229232_tdnaxn4zq]]
 - Conversation: 塔拉是什么意思
   ```json
   {

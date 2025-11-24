@@ -36,6 +36,25 @@
             - __or a (( blockref here__
             - __or maybe DNP-1 for yesterday or DNP+1 for tomorrow__
             - __or go crazy and use DNP-365 to see what you were doing last year!__
+        - Keyboard Shortcut:
+            - __type one letter here__
+        - Custom CSS:
+            - ```css
+              place any custom css in this code block
+              ```
+- Workspace Definitions:
+    - Dummy
+        - Left Sidebar:
+            - __open or closed__
+        - Right Sidebar:
+            - __open or closed__
+        - Main Content:
+            - __add a [[ page link here, or DNP to open that day's daily note page__
+        - Right Sidebar Content:
+            - __add a [[ page link here__
+            - __or a (( blockref here__
+            - __or maybe DNP-1 for yesterday or DNP+1 for tomorrow__
+            - __or go crazy and use DNP-365 to see what you were doing last year!__
         - Custom CSS:
             - ```css
               place any custom css in this code block
@@ -62,25 +81,20 @@
             - ```css
               place any custom css in this code block
               ```
-- Workspace Definitions:
-    - Dummy
+    - * Autosave
         - Left Sidebar:
-            - __open or closed__
+            - closed
         - Right Sidebar:
-            - __open or closed__
+            - closed
         - Main Content:
-            - __add a [[ page link here, or DNP to open that day's daily note page__
+            - [[高效工具]]
+                - {"includes":[],"removes":[]}
+                - Ref filters: {"includes":[],"removes":[]}
         - Right Sidebar Content:
-            - __add a [[ page link here__
-            - __or a (( blockref here__
-            - __or maybe DNP-1 for yesterday or DNP+1 for tomorrow__
-            - __or go crazy and use DNP-365 to see what you were doing last year!__
-        - Keyboard Shortcut:
-            - __type one letter here__
-        - Custom CSS:
-            - ```css
-              place any custom css in this code block
-              ```
+        - Zen Mode:
+            - off
+        - Extended Focus Mode:
+            - off
 - Workspace Definitions:
     - Dummy
         - Left Sidebar:
