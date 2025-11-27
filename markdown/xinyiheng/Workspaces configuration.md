@@ -64,7 +64,7 @@
               ```
     - * Autosave
         - Left Sidebar:
-            - open
+            - closed
         - Right Sidebar:
             - closed
         - Main Content:
