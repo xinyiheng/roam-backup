@@ -136,6 +136,13 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 从第一天起，台积电就不是真正的私人企业，而是台湾当局的项目。#[[memo]]
+        - [[November 27th, 2025]] 🔵
+            - nextDueDate:: [[September 3rd, 2027]]
+            - eFactor:: 2.9000000000000004
+            - interval:: 645
+            - repetitions:: 7
+            - grade:: 4
+            - reviewMode:: SPACED_INTERVAL
         - [[February 7th, 2025]] 🔵
             - nextDueDate:: [[November 12th, 2025]]
             - eFactor:: 2.9000000000000004
@@ -179,6 +186,13 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 2023年销售额排名前25的半导体公司概况与上一年保持不变。前25家公司2023年的总收入为5168亿美元，同比下降11%。2022年排名第一的三星，由于存储衰退和低迷，年减达到37%，这让台积电夺得第一。#[[memo]]
+        - [[November 27th, 2025]] 🔵
+            - nextDueDate:: [[September 3rd, 2027]]
+            - eFactor:: 2.9000000000000004
+            - interval:: 645
+            - repetitions:: 7
+            - grade:: 4
+            - reviewMode:: SPACED_INTERVAL
         - [[February 7th, 2025]] 🔵
             - nextDueDate:: [[November 12th, 2025]]
             - eFactor:: 2.9000000000000004
@@ -222,6 +236,13 @@
             - grade:: 4
             - reviewMode:: SPACED_INTERVAL
     - 华为一个实验室的墙上写着“牺牲是军人最大的付出，胜利是军人最大的奉献”。但在芯片行业的背景下，任正非的战斗精神并不是那么独特。安迪·格鲁夫写了一本关于偏执好处的畅销书。与此同时，张忠谋表示，他仔细研究过斯大林格勒战役（第二次世界大战中最血腥的一场战役），以获得商业方面的教训。#[[memo]]
+        - [[November 27th, 2025]] 🔵
+            - nextDueDate:: [[September 3rd, 2027]]
+            - eFactor:: 2.9000000000000004
+            - interval:: 645
+            - repetitions:: 7
+            - grade:: 4
+            - reviewMode:: SPACED_INTERVAL
         - [[February 7th, 2025]] 🔵
             - nextDueDate:: [[November 12th, 2025]]
             - eFactor:: 2.9000000000000004
