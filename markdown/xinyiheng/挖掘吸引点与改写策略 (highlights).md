@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7388465093517772989
+- ### Highlights first synced by #Readwise [[November 28th, 2025]]
+    - 大多数技术传记写死，就是因为主线写成了“科研成果”，而不是“人的命运”。
