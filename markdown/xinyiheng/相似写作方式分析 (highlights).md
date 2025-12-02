@@ -1,0 +1,4 @@
+- URL:: https://cubox.pro/my/card?id=7395341771913300699
+- ### Highlights first synced by #Readwise [[December 2nd, 2025]]
+    - “微物记忆”作为入口
+    - 这就是你在追求的那种：“记忆如何酿成哲学重量”的结构。
