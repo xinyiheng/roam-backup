@@ -1,0 +1,3 @@
+- URL:: https://cubox.pro/my/card?id=7396082028963170818
+- ### Highlights first synced by #Readwise [[December 4th, 2025]]
+    - “理性永远不能独自激发行动。”
