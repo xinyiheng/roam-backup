@@ -1,0 +1,2 @@
+- [bioGraphic | Revealing Nature // Inspiring Solutions](https://www.biographic.com/) #[[博物]]  🗒@评论： 有很好看的自然调查文章。
+- [Hakai Magazine](https://hakaimagazine.com/)  🗒@评论： 已经停刊，并入了 biographic。 #[[博物]]
