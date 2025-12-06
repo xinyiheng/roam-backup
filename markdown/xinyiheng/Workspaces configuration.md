@@ -68,7 +68,7 @@
         - Right Sidebar:
             - closed
         - Main Content:
-            - [[豆包]]
+            - [[儿童呼吸道感染家庭用药指导专家共识 - 中华实用儿科临床杂志 (highlights)]]
                 - {"includes":[],"removes":[]}
                 - Ref filters: {"includes":[],"removes":[]}
         - Right Sidebar Content:
