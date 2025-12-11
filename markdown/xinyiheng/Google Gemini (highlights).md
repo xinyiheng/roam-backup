@@ -114,3 +114,6 @@
       就像这则广告，表面卖的是酒，实则卖的是**“日本经济腾飞期，人们对美国旧时光和田园牧歌的极度渴望”**。
       
       这正是《光荣与梦想》式的叙事核心：用物质消费品来解释国民心理。
+- URL:: https://cubox.pro/my/card?id=7398551621128422874
+- ### Highlights first synced by #Readwise [[December 11th, 2025]]
+    - o
