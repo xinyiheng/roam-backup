@@ -117,3 +117,7 @@
 - URL:: https://cubox.pro/my/card?id=7398551621128422874
 - ### Highlights first synced by #Readwise [[December 11th, 2025]]
     - o
+- URL:: https://cubox.pro/my/card?id=7399169321735292885
+- ### Highlights first synced by #Readwise [[December 13th, 2025]]
+    - 大多数人在用它当“打印机”，而不是“望远镜”。他们的目标是填满版面、保持日更，这直接导致了你看到的“爆款文”泛滥。
+    - 数据证明，现在的互联网并不缺“能读的东西”，缺的是**“值得读的东西”。泛滥的AI水文实际上降低了**深度内容的竞争噪音——因为在垃圾堆里，一颗真正的钻石会比以前更加耀眼。
