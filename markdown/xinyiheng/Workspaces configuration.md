@@ -106,7 +106,7 @@
         - Right Sidebar:
             - closed
         - Main Content:
-            - [[儿童呼吸道感染家庭用药指导专家共识 - 中华实用儿科临床杂志 (highlights)]]
+            - [[Pinbox]]
                 - {"includes":[],"removes":[]}
                 - Ref filters: {"includes":[],"removes":[]}
         - Right Sidebar Content:
