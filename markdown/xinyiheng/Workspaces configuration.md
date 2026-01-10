@@ -106,7 +106,7 @@
         - Right Sidebar:
             - closed
         - Main Content:
-            - [[Pinbox]]
+            - [[备忘]]
                 - {"includes":[],"removes":[]}
                 - Ref filters: {"includes":[],"removes":[]}
         - Right Sidebar Content:
