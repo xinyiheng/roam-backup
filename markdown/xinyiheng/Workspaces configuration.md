@@ -106,7 +106,7 @@
         - Right Sidebar:
             - closed
         - Main Content:
-            - [[备忘]]
+            - [[icloud]]
                 - {"includes":[],"removes":[]}
                 - Ref filters: {"includes":[],"removes":[]}
         - Right Sidebar Content:
