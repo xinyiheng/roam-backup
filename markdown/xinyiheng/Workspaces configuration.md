@@ -106,7 +106,7 @@
         - Right Sidebar:
             - closed
         - Main Content:
-            - [[icloud]]
+            - [[Pinbox]]
                 - {"includes":[],"removes":[]}
                 - Ref filters: {"includes":[],"removes":[]}
         - Right Sidebar Content:
