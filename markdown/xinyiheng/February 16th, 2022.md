@@ -21,7 +21,7 @@
     - #知识管理
         - 知识管理的核心作用是帮做做出正确的决策。
         - 知识是用来指导生产的信息。
-    - >link：index.pmthinking.com
+    - > ink：index.pmthinking.com
       
       title：什么是数字花园（Digital Garden）
       #知识管理 个人知识库是你的，你可以根据自己的需要进行塑造。

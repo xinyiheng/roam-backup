@@ -105,13 +105,13 @@
     - python编程快速上手
         - 多重赋值技巧 
         - 多重赋值技巧是一种快捷方式,让你在一行代码中,用列表中的值为多个变量赋值。所以不必像这样:  
-        - >>> cat = ['fat', 'black', 'loud'] 
-        - >>> size = cat[0] 
-        - >>> color = cat[1] 
-        - >>> disposition = cat[2]  
+        - > > cat = ['fat', 'black', 'loud'] 
+        - > > size = cat[0] 
+        - > > color = cat[1] 
+        - > > disposition = cat[2]  
         - 而是输入下面的代码:  
-        - >>> cat = ['fat', 'black', 'loud'] 
-        - >>> size, color, disposition = cat  
+        - > > cat = ['fat', 'black', 'loud'] 
+        - > > size, color, disposition = cat  
         - 变量的数目和列表的长度必须严格相等,否则 Python 将给出 ValueError:  >>> cat = ['fat', 'black', 'loud'] >>> size, color, disposition, name = cat Traceback (most recent call last):   File "<pyshell84>", line 1, in <module>     size, color, disposition, name = cat ValueError: need more than 3 values to unpack 
     - 所有男人都是消耗品
       via[所有男人都是消耗品（村上龙作品集）-村上龙-微信读书](https://weread.qq.com/web/reader/56f323507213d42356feed5kc81322c012c81e728d9d180)
