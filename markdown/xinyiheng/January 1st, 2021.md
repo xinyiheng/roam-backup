@@ -2,7 +2,7 @@
 - {{[[DONE]]}}我有一个构想，当roam research的page变化的时候，obsidian可以同步显示graph，并且可以很方便地绘制概念图，devonthink的标签最好也能同步起来，电子书可以方便地搜索到想要的关键词，the brian可以组织管理文件#问题@评论:太复杂了，效果肯定也不好。放弃这条思路。
     - 第一步先把obsidian和roam试一试联动起来。
 - > 在我家，捕蜘蛛器这东西相当有用，因为家里的蜘蛛体型硕大而且移动迅速。 [*](https://q24.io/api/v1/idea/link/48)
-    [[Keith Blount
+  >   [[Keith Blount
 - ![](https://images.unsplash.com/photo-1602673791219-a16a2a876cab?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=600&fit=crop)
   Image by [[Birger Strahl]] at [Unsplash](https://unsplash.com/@bist31)
 -   
