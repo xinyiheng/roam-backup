@@ -87,7 +87,7 @@
         - Right Sidebar:
             - closed
         - Main Content:
-            - [[Pinbox]]
+            - [[编辑]]
                 - {"includes":[],"removes":[]}
                 - Ref filters: {"includes":[],"removes":[]}
         - Right Sidebar Content:
